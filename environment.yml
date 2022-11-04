@@ -5,4 +5,7 @@ dependencies:
   - python=3.10
   - pypdf2
   - ipykernel
+  - matplotlib
+  - requests
+  - python-dotenv
 prefix: /Users/dglandorf/opt/miniconda3/envs/LD-inference

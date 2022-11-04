@@ -1,0 +1,8 @@
+name: LD-inference
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pypdf2
+  - ipykernel
+prefix: /Users/dglandorf/opt/miniconda3/envs/LD-inference

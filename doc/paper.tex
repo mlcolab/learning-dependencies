@@ -1,0 +1,136 @@
+\documentclass{article}
+
+% if you need to pass options to natbib, use, e.g.:
+%     \PassOptionsToPackage{numbers, compress}{natbib}
+% before loading neurips_2021
+
+% ready for submission
+\usepackage[preprint]{neurips_2021}
+
+% to compile a preprint version, e.g., for submission to arXiv, add add the
+% [preprint] option:
+%     \usepackage[preprint]{neurips_2021}
+
+% to compile a camera-ready version, add the [final] option, e.g.:
+%     \usepackage[final]{neurips_2021}
+
+% to avoid loading the natbib package, add option nonatbib:
+% \usepackage[nonatbib]{neurips_2021}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage[colorlinks = true, 
+		    linkcolor = blue,
+		    urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = blue]{hyperref}       
+% hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{xcolor}         % colors
+\usepackage{natbib}
+\usepackage[pdftex]{graphicx}
+\usepackage{siunitx} % Required for alignment
+\sisetup{
+  round-mode          = places, % Rounds numbers
+  round-precision     = 2, % to 2 places
+}
+	
+\bibliographystyle{unsrtnat}
+
+
+\title{Can language models be used to predict dependencies between knowledge components?}
+
+% The \author macro works with any number of authors. There are two commands
+% used to separate the names and addresses of multiple authors: \And and \AND.
+%
+% Using \And between authors leaves it to LaTeX to determine where to break the
+% lines. Using \AND forces a line break at that point. So, if LaTeX puts 3 of 4
+% authors names on the first line, and the last on the second line, try using
+% \AND instead of \And before the third author name.
+
+\author{%
+  Dominik Glandorf\\
+  Matrikelnummer 6007407\\
+  \texttt{dominik.glandorf@student.uni-tuebingen.de} \\
+  \And
+  Anastasiia Alekseeva\\
+  Matrikelnummer 6001480\\
+  \texttt{anastasiia.alekseeva@student.uni-tuebingen.de} \\
+  \\
+  GitHub repository: \url{https://github.com/dominikglandorf/learning-dependencies}
+}
+
+\begin{document}
+\vspace*{-5mm}
+\maketitle
+\vspace*{-5mm}
+
+\begin{abstract}
+% What did we do?
+
+% Why did we to it? What did we expect?
+
+% How did we do it?
+
+% What did we find out?
+
+% What now?
+
+\end{abstract}
+
+\section{Introduction}
+%% Why are we interested in learning dependencies?
+% Problem of instructional sequencing: 
+% Definition KCs
+% Possible solution inference from user behavior (SOURCE) but has the disadvantage of disengaging users with mastered KCs or KCs that require further prerequisites (SOURCE about ZPD)
+% Assumption: information about dependencies between KCs makes instructional sequencing more effective in terms of learning
+% Definition: KC dependency (SOURCE)
+
+% What can we contribute?
+% 1. Extract KC dependencies from textbooks
+% 2. Bypass textbook mining by querying a pre-trained language model to disclose relationships between KCs
+
+% What is our research question?
+% How well can langauge models predict dependencies between Knowledge Components compared to textbooks?
+
+% Related work
+% Field: Dependencies between Knowledge Components
+% of interest: How are dependencies conceptualized?
+% Field: Textbook Knowledge Extraction
+% of interest: How are relationships betweens KCs extracted?
+% Field: Prompt Engineering
+% of interest: How can we get internal representations out of a language model?
+
+\section{Method}
+
+\subsection{Information sources}
+% Where did we get the data from?
+% textbooks
+% language models
+
+\subsection{Structured information extraction}
+% Data quality
+
+% Visualizations
+
+% Statistics
+
+\section{Results}
+
+
+
+\section{Discussion}
+% What is our main result?
+
+% What could be potential flaws?
+
+% Q: Outlook and Future research ideas:% 
+
+
+\bibliography{references.bib}
+
+\end{document}

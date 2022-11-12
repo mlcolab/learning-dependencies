@@ -84,11 +84,15 @@
 
 \section{Introduction}
 %% Why are we interested in learning dependencies?
-% Problem of instructional sequencing: 
+% Problem of sequencing in Instructional Design:
+Effective and efficient instruction does not only incorporate \textit{what} to teach but also \textit{how} to teach. Models of instructional design especially emphasize the importance of order of instruction. More precisely, prerequisites of educational content should be taught first (Morrison et al, 2019).
 % Definition KCs
-% Possible solution inference from user behavior (SOURCE) but has the disadvantage of disengaging users with mastered KCs or KCs that require further prerequisites (SOURCE about ZPD)
-% Assumption: information about dependencies between KCs makes instructional sequencing more effective in terms of learning
-% Definition: KC dependency (SOURCE)
+However, a definition of what has to be sequenced is necessary before. Merill (1983) differentiated learning objectives such as facts, concepts, principles, rules, procedures, interpersonal skills and attitudes as well as their sole recall from their application. In this work we will focus on concepts and their relations.
+% Learning dependency
+% Assumption: information about dependencies between concepts makes instructional sequencing more effective in terms of learning
+If one concept is a prerequisite of another, we call this relation a learning dependency. For example, to understand the concept of a derivative the concept of a function is a prerequisite that will facilitate or even enable learning. When the dependencies are thought of as directed edges between nodes that represent concepts, a learning dependency graph emerges which is a special type of a knowledge graph (Wang et al 2016). This graph is also called \textit{concept map} in the field of Learning Sciences.
+% Mining of learning dependencies
+Theoretically, prerequisites can be inferred from learner behavior by testing their performance after being presented different instructional sequences. However, this has the disadvantage of disengaging users with too difficult concepts before teaching easier or necessary ones. Experts usually dispose of the required knowledge about concepts to create concept maps. The high cost of expert knowledge motivates the automatic mining of learning dependencies from appropriate sources which is the core problem of this work.
 
 % What can we contribute?
 % 1. Extract KC dependencies from textbooks
@@ -98,7 +102,7 @@
 % How well can langauge models predict dependencies between Knowledge Components compared to textbooks?
 
 % Related work
-% Field: Dependencies between Knowledge Components
+% Field: Dependencies between concepts
 % of interest: How are dependencies conceptualized?
 % Field: Textbook Knowledge Extraction
 % of interest: How are relationships betweens KCs extracted?

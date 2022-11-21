@@ -42,7 +42,7 @@
 \bibliographystyle{unsrtnat}
 
 
-\title{Can language models be used to predict dependencies between knowledge components?}
+\title{Can language models be used to predict educational concept dependencies?}
 
 % The \author macro works with any number of authors. There are two commands
 % used to separate the names and addresses of multiple authors: \And and \AND.
@@ -87,25 +87,28 @@
 % Problem of sequencing in Instructional Design:
 Effective and efficient instruction does not only incorporate \textit{what} to teach but also \textit{how} to teach. Models of instructional design especially emphasize the importance of order of instruction. More precisely, prerequisites of educational content should be taught first (Morrison et al, 2019).
 % Definition KCs
-However, a definition of what has to be sequenced is necessary before. Merill (1983) differentiated learning objectives such as facts, concepts, principles, rules, procedures, interpersonal skills and attitudes as well as their sole recall from their application. In this work we will focus on concepts and their relations.
+As potential contents, Merill (1983) differentiated learning objectives such as facts, concepts, principles, rules, procedures, interpersonal skills and attitudes as well as their sole recall from their application. In this work we will focus on concepts and their relations. 
 % Learning dependency
 % Assumption: information about dependencies between concepts makes instructional sequencing more effective in terms of learning
-If one concept is a prerequisite of another, we call this relation a learning dependency. For example, to understand the concept of a derivative the concept of a function is a prerequisite that will facilitate or even enable learning. When the dependencies are thought of as directed edges between nodes that represent concepts, a learning dependency graph emerges which is a special type of a knowledge graph (Wang et al 2016). This graph is also called \textit{concept map} in the field of Learning Sciences.
+If one concept is a prerequisite of another, we call this relation a learning dependency. For example, to understand the concept of a derivative knowledge about the concept of a function before will facilitate or even enable learning. When the dependencies are thought of as directed edges between nodes that represent concepts, a learning dependency graph emerges which is a special type of a knowledge graph (Wang et al 2016). This graph is also called \textit{concept map} in the field of Learning Sciences.
 % Mining of learning dependencies
-Theoretically, prerequisites can be inferred from learner behavior by testing their performance after being presented different instructional sequences. However, this has the disadvantage of disengaging users with too difficult concepts before teaching easier or necessary ones. Experts usually dispose of the required knowledge about concepts to create concept maps. The high cost of expert knowledge motivates the automatic mining of learning dependencies from appropriate sources which is the core problem of this work.
+Prerequisites can be inferred from learner behavior by testing their performance after being presented different instructional sequences (Pavlik et al., 2008, Vuong et al., 2011). However, this has the disadvantage of disengaging users with too difficult concepts before teaching easier or necessary ones. Experts usually dispose of the required knowledge about concepts to create concept maps. The high cost of expert knowledge motivates the automatic mining of learning dependencies from appropriate sources which is the core problem of this work.
+
+% Advantage: Curriculum planning (Yang, 2015), Automated Assessment (Wang 2015)
 
 % What can we contribute?
 % 1. Extract KC dependencies from textbooks
-% 2. Bypass textbook mining by querying a pre-trained language model to disclose relationships between KCs
+% 2. Bypass textbook mining by querying a pre-trained language model to disclose relationships between concepts
 
 % What is our research question?
 % How well can langauge models predict dependencies between Knowledge Components compared to textbooks?
 
-% Related work
+\subsection{Related work}
 % Field: Dependencies between concepts
 % of interest: How are dependencies conceptualized?
+Talukdar and Cohen (2012) defined the prerequisite relation in terms of the consumption of information about concepts. Vuong (2011) if a better graduation rate given prerequisite knowledge is fulfilled. Concepts are often equated with Wikipedia articles (Talukdar and Cohen, 2015; Wang, 2015).
 % Field: Textbook Knowledge Extraction
-% of interest: How are relationships betweens KCs extracted?
+% of interest: How are relationships betweens concepts extracted?
 % Field: Prompt Engineering
 % of interest: How can we get internal representations out of a language model?
 

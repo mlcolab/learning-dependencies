@@ -1,0 +1,478 @@
+﻿,concept,pages
+0,absolute maximum,272
+1,absolute minimum,272
+2,absolute value,"252, 339"
+3,absolute value equation,"184, 185"
+4,absolute value function,249
+5,absolute value functions,"339, 342"
+6,absolute value inequality,"195, 195"
+7,addition method,"807, 809, 813"
+8,Addition Principle,1111
+9,Addition Principle,1109
+10,circle,"846, 847, 949"
+11,co-vertex,953
+12,co-vertices,954
+13,coefficient,"60, 60, 487, 489, 551"
+14,coefficient matrix,"889, 891, 912, 916"
+15,column,873
+16,column matrix,873
+17,combinations,"1116, 1124"
+18,combining functions,281
+19,common base,727
+20,common difference,"1065, 1069, 1096"
+21,common logarithm,674
+22,common ratio,"1080, 1083, 1099"
+23,commutative,282
+24,commutative property of addition,17
+25,commutative property of multiplication,17
+26,complement of an event,1137
+27,decomposition,860
+28,decreasing function,"268, 383"
+29,decreasing linear function,383
+30,degenerate conic sections,1013
+31,degree,"60, 60, 486, 495, 547"
+32,degree of the polynomial equation,547
+33,dependent system,"804, 813, 831"
+34,dependent variable,"213, 628"
+35,Descartes’ Rule of Signs,557
+36,determinant,"902, 924, 926, 927"
+37,difference of squares,65
+38,direct variation,"609, 610"
+39,directrix,"837, 989, 995, 998, 999, 1000, 1003, 1028, 1029, 1034, 1035, 1036"
+40,discriminant,"173, 173"
+41,Disjoint events,1109
+42,distance formula,"108, 968, 974, 996"
+43,distributive property,18
+44,diverges,1101
+45,dividend,537
+46,Division Algorithm,"538, 549"
+47,divisor,537
+48,domain,"209, 214, 223, 237, 240, 242, 243, 244, 679"
+49,domain and range,"241, 241"
+50,domain of a composite function,287
+51,doubling time,748
+52,addition property,192
+53,algebraic expression,20
+54,angle of rotation,1017
+55,annual interest,1104
+56,annual percentage rate (APR),641
+57,annuity,1104
+58,apoapsis,1028
+59,area,142
+60,area of a circle,489
+61,arithmetic sequence,"1065, 1069, 1070, 1072, 1072, 1096"
+62,arithmetic series,1096
+63,arrow notation,566
+64,associative property of addition,17
+65,associative property of multiplication,17
+67,asymptotes,973
+68,augmented matrix,"889, 893, 894, 911"
+69,augmented matrix form,885
+70,average rate of change,"259, 262"
+71,axes of symmetry,973
+72,axis of symmetry,"466, 468, 1003, 1005"
+73,base,15
+74,best fit,764
+75,binomial,"60, 486, 538"
+76,binomial coefficient,1124
+77,binomial expansion,"1125, 1128"
+78,Binomial Squares Pattern,948
+79,Binomial Theorem,1127
+80,branch,969
+81,break-even point,814
+82,completing the square,"170, 171, 948"
+83,complex conjugate,157
+84,Complex Conjugate Theorem,556
+85,complex number,152
+86,complex plane,153
+87,composite,"279, 346"
+88,composite function,282
+89,composition of functions,281
+90,compound inequality,194
+91,compound interest,641
+92,compression,"395, 658, 693"
+93,conditional equation,120
+94,conic,"952, 972, 1035"
+95,conic section,1015
+96,conjugate axis,"969, 973"
+97,consistent system,803
+98,constant,20
+99,constant function,249
+100,constant of variation,"609, 610"
+101,continuous,512
+102,continuous function,501
+103,coordinate plane,996
+104,Cornell Method,69
+105,correlation coefficient,441
+106,cost function,"280, 814"
+107,Cramer’s Rule,"921, 924, 925, 927, 931"
+108,cube root,490
+109,cubic functions,597
+110,cues,69
+111,decompose a composite function,289
+112,earthquake intensity,741
+113,eccentricity,"1029, 1029"
+114,electrostatic force,265
+115,element,870
+116,elimination,847
+117,ellipse,"847, 952, 953, 954, 956, 960, 995, 1030, 1034"
+118,ellipsis,1050
+119,end behavior,"491, 577"
+120,endpoint,265
+121,entry,"870, 873"
+122,equation,"22, 221"
+123,equation in quadratic form,186
+124,equation in two variables,104
+125,even function,317
+126,event,"1109, 1133"
+127,experiment,1133
+128,explicit formula,"1051, 1052, 1053, 1073, 1087"
+129,exponent,15
+130,Exponential decay,"631, 639, 653, 740, 743, 746, 749, 766"
+131,exponential equation,726
+132,exponential equations,722
+133,carrying capacity,750
+134,Cartesian coordinate system,102
+135,Celsius,349
+136,center,"949, 969"
+137,center of a hyperbola,973
+138,center of an ellipse,953
+139,central rectangle,973
+140,change-of-base formula,"718, 719"
+141,knowledge space,45
+142,exponential expression,485
+143,exponential function,632
+144,exponential growth,"632, 635, 654, 740, 743, 748, 750"
+145,exponential notation,15
+146,extraneous solution,730
+147,extraneous solutions,182
+148,extrapolation,439
+149,horizontal compression,323
+150,horizontal line,"129, 401, 402"
+151,horizontal line test,"228, 348"
+152,horizontal reflection,312
+153,horizontal shift,"306, 651, 656, 689"
+154,horizontal stretch,323
+155,hyperbola,"969, 973, 976, 977, 978, 980, 981, 983, 985, 995, 1030, 1032"
+156,factor by grouping,74
+157,Factor Theorem,550
+158,factorial,1059
+159,factoring,164
+160,Fahrenheit,349
+161,feasible region,850
+162,finite arithmetic sequence,1074
+163,finite sequence,1052
+164,fixed mindset,57
+165,foci,"952, 953, 954, 974"
+166,focus,"837, 952, 969, 989, 995, 998, 999, 1000, 1003, 1028, 1034, 1035, 1036"
+167,FOIL,62
+168,formula,"22, 221"
+169,function,"210, 214, 237, 253, 278, 348, 377, 1048"
+170,function notation,216
+171,Fundamental Counting Principle,1113
+172,Fundamental Theorem of Algebra,"554, 555"
+173,latus rectum,"996, 998, 999, 1003"
+174,leading coefficient,"60, 60, 495, 547"
+175,leading term,"60, 60, 495"
+176,learning sciences,45
+177,least common denominator,"86, 122"
+178,least squares regression,440
+179,left column,69
+180,linchpin topics,"46, 46"
+181,linear,434
+182,linear equation,120
+183,linear equation with three variables,821
+184,Linear Factorization Theorem,"556, 556"
+185,linear function,"381, 382"
+186,Linear functions,377
+187,linear growth,632
+188,linear model,"421, 436"
+189,Linear Regression Model,764
+190,linear relationship,436
+191,local extrema,267
+192,local maximum,"267, 526"
+193,local minimum,"267, 526"
+194,logarithm,671
+195,logarithmic equation,731
+196,Logarithmic Function,741
+197,logarithmic model,769
+198,logistic growth model,750
+199,long division,536
+200,lower limit of summation,1095
+201,Gauss,"826, 889"
+202,Gaussian elimination,"826, 891, 893"
+203,general form,"462, 467"
+204,general form of a quadratic function,469
+205,general form of the equation of a circle,950
+206,general term,1048
+207,geometric sequence,"1079, 1083, 1098"
+208,geometric series,1099
+209,global maximum,"526, 526"
+210,global minimum,"526, 526"
+211,graph in two variables,104
+212,graphing,237
+213,greatest common factor,"72, 72, 164"
+214,growth mindset,57
+215,icons,69
+216,identity equation,120
+217,identity matrix,"906, 906, 911"
+218,identity property of addition,18
+219,identity property of multiplication,18
+220,illustrations,69
+221,imaginary number,152
+222,Imaginary numbers,150
+223,inconsistent equation,120
+224,inconsistent system,"803, 811, 830"
+225,increasing function,"268, 383"
+226,increasing linear function,383
+227,independent system,803
+228,independent variable,"213, 628"
+229,index,"53, 53"
+230,index of summation,1095
+231,inequality,849
+232,infinite geometric sequence,1101
+233,infinite sequence,"1048, 1052"
+234,infinite series,1101
+235,input,214
+236,integers,"11, 14"
+237,intercepts,106
+238,Intermediate Value Theorem,"523, 523"
+239,interpolation,439
+240,intersection,1135
+241,interval,191
+242,interval notation,"191, 237, 241, 268"
+243,inverse function,"351, 597"
+244,inverse matrix,"911, 912"
+245,inverse of a radical function,600
+246,inverse of a rational function,602
+247,inverse property of addition,19
+248,inverse property of multiplication,19
+249,inverse variation,611
+250,inverse variations,612
+251,inversely proportional,612
+252,inverses,346
+253,invertible functions,595
+254,invertible matrix,"906, 924"
+255,irrational numbers,"12, 14"
+256,joint variation,613
+257,half-life,"734, 743"
+258,heading,69
+259,Heaviside method,862
+260,horizontal asymptote,"569, 575, 577"
+261,magnitude,"252, 305"
+262,main diagonal,891
+263,major and minor axes,954
+264,major axis,"952, 956"
+265,matrix,"870, 873, 873, 889"
+266,matrix multiplication,"879, 907, 912"
+267,matrix operations,873
+268,maximum value,466
+269,midpoint formula,111
+270,mind map,69
+271,minimum value,466
+272,minor axis,952
+273,minor of an entry,903
+274,model breakdown,438
+275,modulus,252
+276,monomial,"60, 486"
+277,Multiplication Principle,"1110, 1113"
+278,multiplication property,192
+279,multiplicative inverse,"908, 909"
+280,multiplicative inverse of a matrix,"906, 906"
+281,multiplicity,"516, 517"
+282,mutually exclusive,1109
+283,mutually exclusive events,1136
+284,n factorial,1060
+285,natural exponential function,631
+286,natural logarithm,"676, 729"
+287,natural numbers,"11, 14, 213"
+288,negative association,434
+289,Newton’s Law of Cooling,749
+290,nominal rate,641
+291,nondegenerate conic sections,1013
+292,nonlinear inequality,849
+293,notes during class,69
+294,Notice,970
+295,nth partial sum,1094
+296,nth term of the sequence,"1048, 1051, 1052"
+297,polar equation,1029
+298,polar form of a conic,1036
+299,polynomial,"60, 60, 486, 551"
+300,polynomial equation,"180, 547"
+301,polynomial function,"494, 511, 518, 524"
+302,positive association,434
+303,power function,"487, 489"
+304,Power Property,707
+305,power rule for logarithms,"714, 718"
+306,principal nth root,"52, 53"
+307,principal square root,"47, 47"
+308,probability,1133
+309,probability model,"1131, 1133"
+310,probability of an event,1131
+311,product of two matrices,878
+312,Product Property,707
+313,product rule for logarithms,"712, 714"
+314,profit function,814
+315,properties of determinants,930
+316,Proxima Centauri,744
+317,Pythagorean Theorem,"108, 174"
+318,recursive formula,"1057, 1071, 1072, 1085"
+319,Reflect,69
+320,reflection,"660, 696"
+321,regression analysis,"765, 769, 772"
+322,regression line,440
+323,relation,"209, 213, 237"
+324,remainder,537
+325,Remainder Theorem,549
+326,removable discontinuity,"573, 574"
+327,Restricting the domain,358
+328,revenue function,814
+329,Richter Scale,670
+330,right section,69
+331,roots,466
+332,roster notation,1131
+333,row,873
+334,row matrix,873
+335,row operations,"891, 893, 895, 908, 910, 910, 911"
+336,row-echelon form,"886, 891, 893, 894"
+337,row-equivalent,891
+338,odd function,317
+339,one-to-one,"654, 670, 711, 718"
+340,one-to-one function,"226, 348, 351"
+341,order of magnitude,744
+342,order of operations,15
+343,ordered pair,"102, 213, 242"
+344,ordered triple,"822, 826"
+345,origin,"102, 339"
+346,outcome,1109
+347,outcomes,1133
+348,output,214
+349,quadrant,102
+350,quadratic,"864, 866"
+351,quadratic equation,"164, 164, 170, 171"
+352,quadratic formula,"171, 172, 173"
+353,quadratic function,"462, 462, 469, 472"
+354,quotient,537
+355,Quotient Property,707
+356,quotient rule for logarithms,713
+357,sample space,1133
+358,sample space S,1131
+359,scalar,876
+360,scalar multiple,"871, 876"
+361,scalar multiplication,876
+362,scatter plot,"436, 762"
+363,scatterplot,434
+364,scientific notation,"39, 39, 40"
+365,sequence,"1048, 1050, 1052, 1069"
+366,series,"1092, 1094"
+367,set-builder notation,"191, 244"
+368,sigma,1095
+369,slope,"125, 259, 382"
+370,slope-intercept,378
+371,slope-intercept form,"381, 382, 386"
+372,smooth curve,501
+373,solution set,"120, 826"
+374,Solutions,822
+375,solving systems of linear equations,807
+376,square matrix,"873, 902, 924"
+377,square root property,"169, 948"
+378,square trinomial,948
+379,standard form,128
+380,standard form of a quadratic function,469
+381,standard or graphing form,949
+382,stretch,658
+383,subsets,45
+384,substitution method,806
+385,summarizing the important concepts,69
+386,summary,69
+387,radical,"47, 47"
+388,radical equation,182
+389,radical expression,"47, 47"
+390,Radical expressions,53
+391,radical functions,595
+392,radicand,"47, 47, 182"
+393,radiocarbon dating,747
+394,radius,949
+395,range,"210, 214, 237, 679"
+396,rate of change,"262, 421"
+397,rational equation,123
+398,rational expression,"84, 121, 860, 861, 866"
+399,rational function,"571, 579, 583"
+400,rational number,121
+401,rational numbers,"11, 14"
+402,Rational Zero Theorem,"551, 552"
+403,real number line,13
+404,real numbers,13
+405,reciprocal,"130, 350, 490"
+406,reciprocal function,565
+407,parabola,"462, 466, 473, 837, 843, 989, 995, 999, 999, 1000, 1004, 1028, 1030, 1031"
+408,parallel,129
+409,parallel lines,"403, 405"
+410,parent function,689
+411,partial fraction,860
+412,partial fraction decomposition,"860, 861"
+413,Pascal's Triangle,1126
+414,Pascal’s Triangle,1122
+415,perfect square trinomial,64
+416,periapsis,1028
+417,perimeter,142
+418,permutation,1113
+419,perpendicular,130
+420,perpendicular lines,"404, 405"
+421,pH,710
+422,piecewise function,252
+423,piecewise functions,1054
+424,plane,821
+425,point-slope form,386
+426,point-slope formula,"131, 978"
+427,turning point,"499, 520"
+428,volume of a sphere,489
+429,whole numbers,"11, 14"
+430,union of two events,1135
+431,upper limit of summation,1095
+432,upper triangular form,826
+433,x-axis,102
+434,x-coordinate,102
+435,x-intercept,"106, 399"
+436,xx-intercept,564
+437,summation notation,"1092, 1095"
+438,surface area,595
+439,symmetric,462
+440,synthetic division,"540, 553"
+441,system of equations,"889, 890, 893, 894, 913"
+442,system of linear equations,"426, 803, 805, 806"
+443,system of nonlinear equations,843
+444,system of nonlinear inequalities,850
+445,system of three equations in three variables,927
+446,y-axis,102
+447,y-coordinate,102
+448,y-intercept,"106, 382"
+449,yy-intercept,564
+450,Zero Product Property,509
+451,zero-product property,164
+452,zeros,"466, 512, 517, 553"
+453,Zeros of the Function,548
+454,term,"486, 1048, 1050, 1069"
+455,term of a polynomial,"60, 60"
+456,term of a polynomial function,494
+457,test questions,69
+458,The loudness level D,741
+459,transformation,"303, 395"
+460,transformations,300
+461,translation,956
+462,transverse axis,"969, 973"
+463,trinomial,"60, 486"
+464,variable,20
+465,varies directly,"609, 610"
+466,varies inversely,612
+467,vertex,"462, 466, 953, 953, 969, 996, 1003"
+468,vertex form of a quadratic function,468
+469,vertical asymptote,"568, 571, 577"
+470,vertical compression,319
+471,vertical line,"128, 401, 402"
+472,vertical line test,"227, 348"
+473,vertical reflection,312
+474,vertical shift,"303, 395, 651, 656, 691, 749"
+475,vertical stretch,"319, 395, 693"
+476,vertices,"953, 954"
+477,volume,142

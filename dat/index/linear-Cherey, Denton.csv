@@ -1,0 +1,177 @@
+﻿,concept,pages
+0,additive closure,101
+1,multiplicative closure,102
+2,Action,389
+3,Angle between vectors,90
+4,Skew-symmetric matrix,149
+5,Anti-symmetric matrix,149
+6,Target,"34,289"
+7,Codomain,"34,289"
+8,Cofactor,190
+9,Column Space,23138
+10,Back substitution,160
+11,Base ﬁeld,107
+12,Basis,"117,118,213,195,209"
+13,Column space,295
+14,Column vector,134
+15,of a vector,126
+16,basis,
+17,Bit matrices,154
+18,Bit Matrix,155
+19,Block matrix,142
+20,Components of a vector,127
+21,Composition of functions,26
+22,Conic sections,347
+23,Conjugation,247
+24,Cramer’s rule,192
+25,Cross product,31
+26,Calculus Superhero,305
+27,Canonical basis,408
+28,Standard basis,408
+29,Determinant,172
+30,Diagonal matrix,138
+31,Diagonalizable,242
+32,Diagonalization,"230,241"
+33,Captain Conundrum,"97,305"
+34,Cauchy–Schwarz inequality,92
+35,Change of basis,242
+36,Change of basis matrix,243
+37,Characteristic polynomial,"185,232,234"
+38,Closure,197
+39,Dimension,"213,117,195"
+40,homogeneous equation,67
+41,Homomorphism,111
+42,Hyperplane,"65,86"
+43,Identity matrix,139
+44,Dimension formula,295
+45,Direct sum,268
+46,Domain,"34,289"
+47,Dot product,89
+48,Dual vector space,359
+49,Dyad,255
+50,Eigenspace,237
+51,Eigenvalue,"230,233"
+52,multiplicity of eigenvalue,234
+53,Inner product,"91,254"
+54,Invariant direction,229
+55,Inverse Matrix,55
+56,Invertible,150
+57,invertiblech3,55
+58,Involution,"134,272"
+59,Eigenvector,"230,233"
+60,Elementary matrix,174
+61,Jordan cell,"250,411"
+62,swapping rows,175
+63,Kernel,292
+64,Kindergarten,90
+65,Kirchoﬀ’s laws,342
+66,Kronecker delta,254
+67,Equivalence relation,250
+68,EROs,42
+69,Euclidean length,88
+70,Even permutation,171
+71,Expansion by minors,186
+72,Law of Cosines,88
+73,Least squares,303
+74,solutions,304
+75,Left singular vectors,311
+76,Norm,90
+77,Length of a vector,90
+78,Linear combination,"20,205,237"
+79,Linear dependence theorem,205
+80,Linear independence,
+81,concept of,195
+82,Fibonacci numbers,364
+83,Field,317
+84,Forward substitution,160
+85,free variables,46
+86,Fundamental theorem of algebra,234
+87,Fundamental Theorem of Linear Algebra,299
+88,Linear Map,111
+89,Linear Operator,111
+90,linear programming,71
+91,Linear System,21
+92,Linear Transformation,"111,23"
+93,Galois,108
+94,Gaussian elimination,39
+95,Golden ratio,349
+96,Gooﬁng up,153
+97,Gram–Schmidt orthogonalization procedure,264
+98,concept of,23
+99,Graph theory,135
+100,Linearly dependent,204
+101,Linearly independent,204
+102,lower triangular,58
+103,Lower triangular matrix,159
+104,Lower unit triangular matrix,162
+105,LU decomposition,159
+106,Permutation,170
+107,Permutation matrices,249
+108,“Perp”,270
+109,Pivot variables,46
+110,Pre-image,288
+111,Projection,239
+112,QR decomposition,265
+113,Queen Quandary,348
+114,Matrix,133
+115,diagonal of matrix,138
+116,entries of matrix,134
+117,Random,301
+118,Rank,295
+119,column rank,297
+120,row rank,297
+121,Matrix equation,25
+122,Matrix exponential,144
+123,Matrix multiplication,"25,33"
+124,Matrix of a linear transformation,218
+125,Minimal spanning set,209
+126,Minor,186
+127,Multiplicative function,186
+128,Recursion relation,349
+129,Reduced row echelon form,43
+130,Right singular vector,310
+131,Row echelon form,50
+132,Row Space,138
+133,Row vector,134
+134,Scalar multiplication,84
+135,Newton’s Principle,346
+136,Non-invertible,150
+137,Non-pivot variables,46
+138,Nonsingular,150
+139,Nullity,295
+140,Sign function,171
+141,Similar matrices,247
+142,singular,150
+143,Singular values,284
+144,Solution set,"65,66"
+145,Odd permutation,171
+146,Orthogonal,"90,254"
+147,Orthogonal basis,255
+148,Orthogonal complement,269
+149,Orthogonal decomposition,262
+150,Orthogonal matrix,260
+151,Orthonormal basis,255
+152,Outer product,254
+153,Span,198
+154,Square matrices,143
+155,Square matrix,138
+156,Standard basis,"217,220"
+157,Standard basis for R2,122
+158,Subspace,195
+159,Parallelepiped,192
+160,Particular solution,67
+161,subspace,195
+162,Subspace theorem,196
+163,Pauli Matrices,126
+164,Sum of vectors spaces,267
+165,Symmetric matrix,"139,277"
+166,Trace,145
+167,Transpose,139
+168,of a column vector,134
+169,Triangle inequality,93
+170,Upper triangular matrix,"58,159"
+171,Vandermonde determinant,344
+172,Vector addition,84
+173,Vector space,101
+174,ﬁnite dimensional,213
+175,Wave equation,226

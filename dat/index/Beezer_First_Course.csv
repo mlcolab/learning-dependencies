@@ -26,65 +26,90 @@
 24,Vector Space of Column Vectors ,74
 25,Column Vector Equality ,75
 26,Column Vector Addition ,76
-27,Unitary Matrices ,211
-28,Column Space of a Matrix ,217
-29,Row Space of a Matrix ,225
-30,Left Null Space ,236
-31,Extended Echelon Form,241
-32,Vector Space,257
-33,Subspace ,272
-34,Trivial Subspaces ,277
-35,Linear Combination ,279
-36,Span of a Set,279
-37,Relation of Linear Dependence,288
-38,Linear Independence ,288
-39,Spanning Set of a Vector Space ,294
-40,Basis ,303
-41,Dimension ,318
-42,Nullity Of a Matrix ,325
-43,Rank Of a Matrix ,325
-44,Elementary Matrices ,340
-45,SubMatrix ,346
-46,Determinant of a Matrix ,346
-47,Eigenvalues and Eigenvectors of a Matrix,367
-48,Characteristic Polynomial ,375
-49,Eigenspace of a Matrix ,377
-50,Algebraic Multiplicity of an Eigenvalue ,379
-51,Geometric Multiplicity of an Eigenvalue,380
-52,Similar Matrices ,403
-53,Diagonal Matrix ,407
-54,Diagonalizable Matrix,407
-55,Linear Transformation ,420
-56,Pre-Image ,436
-57,Linear Transformation Addition ,438
-58,Linear Transformation Scalar Multiplication ,439
-59,Linear Transformation Composition ,441
-60,Injective Linear Transformation ,446
-61,Kernel of a Linear Transformation,451
-62,Surjective Linear Transformation ,462
-63,Range of a Linear Transformation ,468
-64,Identity Linear Transformation,480
-65,Invertible Linear Transformations ,480
-66,Isomorphic Vector Spaces,490
-67,Rank Of a Linear Transformation ,492
-68,Nullity Of a Linear Transformation ,492
-69,Vector Representation,501
-70,Matrix Representation ,514
-71,Eigenvalue and Eigenvector of a Linear Transformation ,542
-72,Change-of-Basis Matrix,543
-73,Upper Triangular Matrix ,568
-74,Lower Triangular Matrix ,568
-75,Normal Matrix,575
-76,Complex Number Equality ,582
-77,Complex Number Addition,582
-78,Complex Number Multiplication,582
-79,Conjugate of a Complex Number ,584
-80,Modulus of a Complex Number ,585
-81,Set ,587
-82,Subset ,587
-83,Empty Set ,587
-84,Set Equality ,588
-85,Cardinality,589
-86,Set Union ,589
-87,Set Intersection ,589
-88,Set Complement,590
+27,Column Vector Scalar Multiplication ,77
+28,Linear Combination of Column Vectors ,83
+29,Span of a Set of Column Vectors,107
+30,Relation of Linear Dependence for Column Vectors ,122
+31,Linear Independence of Column Vectors,122
+32,Complex Conjugate of a Column Vector ,148
+33,Inner Product ,149
+34,Norm of a Vector ,152
+35,Orthogonal Vectors ,154
+36,Orthogonal Set of Vectors ,155
+37,Standard Unit Vectors ,155
+38,OrthoNormal Set ,159
+39,Vector Space of m × n Matrices ,162
+40,Matrix Equality ,162
+41,Matrix Addition ,163
+42,Matrix Scalar Multiplication ,163
+43,Zero Matrix ,165
+44,Transpose of a Matrix,166
+45,Symmetric Matrix,166
+46,Complex Conjugate of a Matrix ,168
+47,Adjoint ,170
+48,Matrix-Vector Product ,175
+49,Matrix Multiplication ,179
+50,Hermitian Matrix ,188
+51,Matrix Inverse ,194
+52,Unitary Matrices ,211
+53,Column Space of a Matrix ,217
+54,Row Space of a Matrix ,225
+55,Left Null Space ,236
+56,Extended Echelon Form,241
+57,Vector Space,257
+58,Subspace ,272
+59,Trivial Subspaces ,277
+60,Linear Combination ,279
+61,Span of a Set,279
+62,Relation of Linear Dependence,288
+63,Linear Independence ,288
+64,Spanning Set of a Vector Space ,294
+65,Basis ,303
+66,Dimension ,318
+67,Nullity Of a Matrix ,325
+68,Rank Of a Matrix ,325
+69,Elementary Matrices ,340
+70,SubMatrix ,346
+71,Determinant of a Matrix ,346
+72,Eigenvalues and Eigenvectors of a Matrix,367
+73,Characteristic Polynomial ,375
+74,Eigenspace of a Matrix ,377
+75,Algebraic Multiplicity of an Eigenvalue ,379
+76,Geometric Multiplicity of an Eigenvalue,380
+77,Similar Matrices ,403
+78,Diagonal Matrix ,407
+79,Diagonalizable Matrix,407
+80,Linear Transformation ,420
+81,Pre-Image ,436
+82,Linear Transformation Addition ,438
+83,Linear Transformation Scalar Multiplication ,439
+84,Linear Transformation Composition ,441
+85,Injective Linear Transformation ,446
+86,Kernel of a Linear Transformation,451
+87,Surjective Linear Transformation ,462
+88,Range of a Linear Transformation ,468
+89,Identity Linear Transformation,480
+90,Invertible Linear Transformations ,480
+91,Isomorphic Vector Spaces,490
+92,Rank Of a Linear Transformation ,492
+93,Nullity Of a Linear Transformation ,492
+94,Vector Representation,501
+95,Matrix Representation ,514
+96,Eigenvalue and Eigenvector of a Linear Transformation ,542
+97,Change-of-Basis Matrix,543
+98,Upper Triangular Matrix ,568
+99,Lower Triangular Matrix ,568
+100,Normal Matrix,575
+101,Complex Number Equality ,582
+102,Complex Number Addition,582
+103,Complex Number Multiplication,582
+104,Conjugate of a Complex Number ,584
+105,Modulus of a Complex Number ,585
+106,Set ,587
+107,Subset ,587
+108,Empty Set ,587
+109,Set Equality ,588
+110,Cardinality,589
+111,Set Union ,589
+112,Set Intersection ,589
+113,Set Complement,590

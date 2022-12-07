@@ -1,0 +1,471 @@
+﻿,concept,pages
+0,Best-ﬁt problem,393
+1,best-ﬁt line,393
+2,Block Diagonalization Theorem,320
+3,B-coordinates,103
+4,change of basis matrix,264
+5,computing row reduction,108
+6,computing with respect to an orthogonal basis,380
+7,labeling points,103
+8,nonstandard grid,105
+9,Characteristic polynomial,252
+10,Characteristic polynomial and eigenvalues,253
+11,factoring by hand,258
+12,Characteristic polynomial of similar matrices,274
+13,Algebraic multiplicity and diagonalizability,294
+14,Algebraic multiplicity and geometric multiplicity,294
+15,Algebraic multiplicity,293
+16,Algebraic multiplicity of similar matrices,297
+17,Color space,4
+18,orthogonal complement of Column Space,350
+19,Column space and invertibility,251
+20,Column space,88
+21,Column space is a subspace,88
+22,column space is row space of transpose,354
+23,column space of an orthogonal projection,371
+24,orthogonal complement of column space,355
+25,range of a transformation,124
+26,Basis,93
+27,basis and orthogonal projection,367
+28,basis theorem,100
+29,Basis of Rn,"94,95"
+30,Basis of a column space,96
+31,Basis of a null space,99
+32,Basis of a span,97
+33,span of an orthogonal set,376
+34,uniqueness with respect to basis,102
+35,complex eigenvalue and rotation-scaling matrices,310
+36,transpose property,200
+37,Diagonal matrix,192
+38,different rotation-scaling matrices,316
+39,Diagonalizability algebraic-geometric multiplicity criterion,294
+40,dynamics of complex eigenvalue,"316,318,319"
+41,geometry of complex eigenvalue,309
+42,conjugate pairs,304
+43,existence of complex eigenvalue,301
+44,absolute value,410
+45,arithmetic of complex numbers,410
+46,conjugation,410
+47,complex numbers,409
+48,real and imaginary parts of complex numbers,410
+49,Cramer’s rule,219
+50,Cramer's rule and computing inverses,218
+51,criterion diagonalizability,280
+52,criterion for similarity,299
+53,diagonalizability,278
+54,diagonal matrices,278
+55,distinct eigenvalues,280
+56,geometry of diagnalizability,289
+57,diagonalizability is unrelated to invertibility,288
+58,diagonalizability of a projection matrix,371
+59,order of eigenvalues,281
+60,powers of diagonalizability,279
+61,projection,286
+62,recipe,285
+63,shear,285
+64,similar matrices,278
+65,Determinant,
+66,alternative deﬁning properties of determinant,205
+67,Difference equation,323
+68,Dilation,126
+69,Dimension,93
+70,dimension of a column space,110
+71,dimension of a null space,110
+72,dimension of a solution set,"58,64"
+73,dimension of an orthogonal complement,353
+74,determinant and column operations,202
+75,determinant and computing inverses,218
+76,determinant and powers of matrices,198
+77,determinant and row operations,188
+78,determinant and volumes,224
+79,cofactor expansion,207
+80,row reduction,190
+81,Dot product and angles,347
+82,Dot product and distance,343
+83,Dot product and length,342
+84,Dot product,341
+85,properties of Dot product,342
+86,deﬁning properties of dot product,188
+87,existence and uniqueness of determinant,194
+88,identity matrix,188
+89,invertibility property,"195,251"
+90,methods of computation of determinant,217
+91,multilinearity property,203
+92,multiplicativity property,196
+93,volumes,235
+94,determinant,170
+95,determinant of similar matrices,274
+96,properties of determinant,206
+97,Eigenspace and the null space,251
+98,computation of eigenspace,251
+99,Eigenspace,248
+100,Eigenspace is a solution set,247
+101,Eigenspace is a subspace,248
+102,Eigenspace of a projection matrix,371
+103,Eigenspace of similar matrices,275
+104,Geometric multiplicity and diagonalizability,294
+105,Geometric multiplicity,293
+106,Geometric multiplicity of similar matrices,297
+107,Google PageRank,
+108,Google Matrix,335
+109,eigenvector of Google PageRank,336
+110,importance matrix,333
+111,eigenvector of Google PageRank,334
+112,importance rule,332
+113,Gram–Schmidt Process,382
+114,detecting linear dependence,385
+115,Identity matrix and matrix multiplication,167
+116,Identity matrix and standard coordinate vectors,148
+117,eigenvalue and diagonalizability,280
+118,eigenvalueand invertibility,251
+119,eigenvalue and stochastic matrices,326
+120,eigenvalue,238
+121,eigenvector for eigenvalue,238
+122,maximum number of eigenvalues,246
+123,eigenvalue of a projection matrix,371
+124,eigenvalue of a triangular matrix,257
+125,eigenvalue of similar matrices,274
+126,zero eigenvalue,251
+127,identity matrix as a matrix transformation,126
+128,identity matrix,148
+129,determinant of identity matrix,188
+130,similarity,262
+131,eigenvector and collinearity,240
+132,eigenvector and diagonalizability,280
+133,eigenvector and stochastic matrices,327
+134,Identity transformation and composition,156
+135,identity transformation,122
+136,eigenvector,238
+137,eigenvalue for eigenvector,238
+138,linear independence of eigenvectors,246
+139,eigenvector of a projection matrix,371
+140,eigenvector of similar matrices,275
+141,Elimination method,12
+142,Free variable,25
+143,Fundamental theorem of algebra,411
+144,Implicit equation,"10,26"
+145,Invertible matrix and invertible transformation,180
+146,Geometric multiplicity and algebraic multiplicity,294
+147,basic facts of invertible matrix,169
+148,equation of linear dependence,66
+149,invertible matrix,169
+150,determinant of invertible matrix,"195,251"
+151,inverse of invertible matrix,169
+152,solving linear systems with invertible matrix,174
+153,increasing span criterion,71
+154,linear dependence relation,66
+155,wide matrices,69
+156,Invertible matrix theorem,"182,251"
+157,Invertible transformation and invertible matrices,"180,251"
+158,Invertible transformation,176
+159,Invertible transformation one-to-one and onto,179
+160,Linear independence and determinants,195
+161,Linear independence and invertibility,251
+162,Linear independence,66
+163,of an orthogonal set,376
+164,Least-squares,387
+165,complicated matrix formula,391
+166,Projection Formula,393
+167,row reduction,"388,389"
+168,least-squares,387
+169,uniqueness of least-squares,391
+170,Linear transformation and matrix transformations,149
+171,linearity of linear transformations,161
+172,dimension-1 solution set,"58,64"
+173,geometric deﬁnition of line,6
+174,number line,3
+175,orthogonal projection onto,"361,377"
+176,parametric form of line,10
+177,linear transformation,142
+178,dictionary,149
+179,standard matrix of linear transfromation,148
+180,standard matrix of orthogonal projection,369
+181,linear transformation when deﬁned by a formula,145
+182,collinear vectors picture of,36
+183,linear combination,35
+184,addition of matrix,166
+185,Matrix transformation,114
+186,augmented matrix,13
+187,cofactor of matrix,207
+188,matrix and determinants,207
+189,sign ofmarix,207
+190,matrix,13
+191,linear equation,2
+192,linear independence basic facts,69
+193,diagonal entries of matrix,192
+194,lower-triangular matrix,192
+195,determinant of matrix,193
+196,eigenvalues of matrix,257
+197,associativity of matrix multiplication,167
+198,matrix multiplication,158
+199,determinant of matrix multiplication,196
+200,inverse of matrix multiplication,169
+201,noncommutativity of matrix multiplication,160
+202,order of operations,161
+203,powers,158
+204,minor of matrix,207
+205,powers and diagonalizability,279
+206,powers and similarity,263
+207,parallelepiped determined by matrix,224
+208,properties of matrix multiplication,167
+209,row-column rule,159
+210,size of matrices,158
+211,scalar multiplication of matrix,166
+212,size of matrix,44
+213,trace of matrix,256
+214,similar matrices,274
+215,transpose of matrix,199
+216,upper-triangular matrix,192
+217,determinant of upper-triangular matrix,193
+218,eigenvalues of matrix,257
+219,always consistent matrix equation,51
+220,Matrix equation and invertibility,251
+221,matrix transformation and volumes,232
+222,codomain of matrix transformation,124
+223,matrix transformation,123
+224,domain of matrix transformation,124
+225,linearity of matrix transformation,142
+226,matrix transformation of R2,126
+227,one-to-one criteria,131
+228,onto criteria,136
+229,range of matrix transformation,124
+230,tall matrices,138
+231,wide matrices,134
+232,matrix-vector product,45
+233,spans and consistency,48
+234,Matrix-vector product and matrix multiplication,158
+235,Matrix-vector product,44
+236,row-column rule,47
+237,with standard coordinate vectors,148
+238,Matrix multiplication and composition of transformations,161
+239,,
+240,Orthogonal complement,348
+241,dimension of orthogonal complement,353
+242,Orthogonal complement of a column space,"350,355"
+243,Orthogonal complement of a null space,355
+244,Orthogonal complement of a row space,355
+245,Orthogonal complement of a span,"350,355"
+246,system of linear equations,351
+247,Null space and invertibility,251
+248,null space,88
+249,null space is a solution set,90
+250,null space is a subspace,88
+251,null space is the 0-eigenspace,251
+252,null space of an orthogonal projection,371
+253,orthogonal complement of null space,355
+254,Nullity,110
+255,rank theorem,110
+256,Orthogonal projection and B-coordinates,380
+257,orthogonal projection as a transformation,368
+258,composed with itself,368
+259,One-to-one and invertibility,251
+260,One-to-one criteria for matrix,
+261,One-to-one transformations,131
+262,Projection Formula,377
+263,row reduction,"360,363"
+264,One-to-one,129
+265,functions of one variable,130
+266,negation of one-to-one,130
+267,square matrices,141
+268,One-to-one versus onto,139
+269,wide matrices,134
+270,orthogonal projection,358
+271,distance from orthogonal projection,358
+272,existence of orthogonal projection,357
+273,orthogonal projection is the closest vector,358
+274,linearity of orthogonal projection,368
+275,orthogonal projection of a vector in W,359
+276,orthogonal projection of a vector in W ⊥,359
+277,orthogonal projection onto a column space,387
+278,orthogonal projection onto a line,"361,377"
+279,properties of orthogonal projection,368
+280,range of orthogonal projection,368
+281,standard matrix of orthogonal projection,369
+282,onto and invertibility,251
+283,onto criteria for matrix transformations,136
+284,standard matrix of orthogonal projection,371
+285,onto,135
+286,functions of one variable,136
+287,negation of onto,135
+288,square matrices,141
+289,tall matrices,138
+290,distance between points,343
+291,Orthogonal set and B-coordinates,380
+292,Orthogonal set and least squares,393
+293,Orthogonal set,374
+294,linear independence of orthogonal set,376
+295,making orthonormal,375
+296,necessity of orthogonal set,381
+297,orthonormality of orthogonal set,374
+298,orthonormality of standard coordinate vectors,374
+299,complex roots of polynomial,411
+300,conjugate roots of polynomial,411
+301,cubic polynomial,411
+302,factoring by hand polynomial,258
+303,quadratic polynomial,411
+304,rational roots of polynomial,258
+305,producing orthogonal set from a basis,382
+306,Orthogonality and the Pythagorean theorem,345
+307,diagonalizability of projection,286
+308,Orthogonality,345
+309,zero vector,345
+310,Projection Formula,377
+311,QR codes,5
+312,Quadratic formula,411
+313,Parallelepiped,223
+314,ﬂat parallelepiped,224
+315,parallelogram,223
+316,Rank,110
+317,area of parallelogram,227
+318,volume of parallelepiped,224
+319,rank theorem,110
+320,row and column rank,356
+321,Rational Root Theorem,258
+322,Real n-space,3
+323,real n-space as a subspace of itself,82
+324,point of real n-space,3
+325,Parameterized equation,26
+326,Parametric form,"10,25"
+327,Parametric vector form of a homogeneous equation,54
+328,,55
+329,Parametric vector form of an inhomogeneous equation,62
+330,Real numbers R,3
+331,Red Box,"323,326,330"
+332,Reduced row echelon form,16
+333,particular solution,62
+334,reduced row echelon form and invertibility,251
+335,eigenvectors of reflection,241
+336,reflection in general,373
+337,reflection over the y-axis,126
+338,composition of rotation,162
+339,counterclockwise rotation by 90◦,126
+340,non-diagonalizability of rotation,287
+341,Perron–Frobenius theorem,327
+342,Pivot,16
+343,Pivot position,21
+344,x y-plane,3
+345,dimension-2 solution set,"58,64"
+346,geometric deﬁnition of plane,7
+347,parametric form of plane,11
+348,Point,30
+349,Rotation-scaling matrix and complex eigenvalues,310
+350,Rotation-scaling matrix,306
+351,structure of rotation-scaling matrix,306
+352,similarity of matrices,319
+353,similarity of diagonal matrices,300
+354,similarity of diagonalizable matrices,299
+355,Rotation-Scaling Theorem,310
+356,Row echelon form,16
+357,Row equivalence,15
+358,Row operations,13
+359,row operations and determinants,188
+360,row replacement,13
+361,row scaling,13
+362,row swap,13
+363,Solution set,2
+364,solution set of a homogeneous system is a null space,90
+365,solution set of a homogeneous system is a span,55
+366,row reduction algorithm,19
+367,row reduction computing determinants,190
+368,size of solution set,27
+369,solution set translate of a span,62
+370,solution set versus the column space,64
+371,Row space,354
+372,row space is column space of transpose,355
+373,R3 space,4
+374,color space,4
+375,dimension-3 solution set,"58,64"
+376,orthogonal complement of row space,355
+377,span,40
+378,span is a subspace,87
+379,orthogonal complement of span,"350,355"
+380,Set builder notation,41
+381,Shear in the x-direction,126
+382,Shear multiplicities,293
+383,non-diagonalizability of shear,285
+384,Standard coordinate vectors and matrix columns,148
+385,Standard coordinate vectors are unit vectors,344
+386,columns of the identity matrix,148
+387,Standard coordinate vectors,147
+388,Standard coordinate vectors,374
+389,similarity action on a vector,265
+390,similarity and eigenspaces,275
+391,similarity and eigenvalues,274
+392,similarity and eigenvectors,275
+393,similarity and multiplicities,297
+394,similarity and powers,263
+395,similarity and the characteristic polynomial,274
+396,stochastic matrix,325
+397,eigenvalues of stochastic matrix,326
+398,long-term behavior of stochastic matrix,327
+399,similarity and the determinant,274
+400,similarity and the trace,274
+401,similarity,261
+402,equivalence relation,262
+403,geometry of similarity,264
+404,identity matrix,262
+405,trivial solution of system of linear equations,53
+406,steady state of stochastic matrix,327
+407,trivial solution of system of linear equations and invertibility,251
+408,sum of entries of vector,326
+409,subset,81
+410,set builder notation,41
+411,versus subspace,84
+412,addition of transformation,165
+413,transformation as a machine,120
+414,codomain of transformation,120
+415,composition of transformation,154
+416,noncommutativity of transformation,156
+417,order of operations,161
+418,subspace and spans,87
+419,subspace,82
+420,subspace is a span,87
+421,real n-space,82
+422,subspace versus subset,84
+423,zero subspace,82
+424,Superposition principle,143
+425,consistent system of linear equations,2
+426,span criterion,"41,48"
+427,system of linear equations,2
+428,homogeneous system of linear equations,53
+429,trivial solution of homogeneous system of linear equations,53
+430,transformation,120
+431,domain of transformation,120
+432,transformation of one variable,121
+433,transformation of several variables,122
+434,range of transformation,120
+435,scalar multiplication of transformation,165
+436,inconsistent system of linear equations,2
+437,RREF criterion,22
+438,inhomogeneous system of linear equations,53
+439,nontrivial solution of system of linear equations,53
+440,nontrivial solution and free variables,53
+441,nontrivial solution and invertibility,251
+442, nontrivial solution of system of linear equations,57
+443,Unit cube,223
+444,unit vector and orthonormality,374
+445,unit vector,344
+446,unit vector in the direction of a vector,344
+447,standard coordinate vectors,344
+448,vector addition,32
+449,parallelogram law,33
+450,number of solutions of system of linear equations,27
+451,solution of system of linear equations,2
+452,solving with the inverse matrix,174
+453,angle between vectors,347
+454,vector equation,38
+455,equivalence with matrix equation,46
+456,equivalence with system of equations,38
+457,distance between vectors,343
+458,length of vector,342
+459,real and imaginary parts of,311
+460,row vector,47
+461,solving vector equation,40
+462,product of row vector with column vector,47
+463,scalar multiplication with vector,32
+464,subtraction of vectors,
+465,volume and length,227
+466,volume of a parallelepiped,224
+467,volumeof a region,232
+468,signed volume,230
+469,unit vector in the direction of vector,344

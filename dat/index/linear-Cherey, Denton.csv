@@ -12,10 +12,8 @@
 10,Back substitution,160
 11,Base ﬁeld,107
 12,Basis,"117,118,213,195,209"
-13,Column space,295
-14,Column vector,134
-15,of a vector,126
-16,basis,
+13,Column space,"23,138,295"
+14,Column vector,"126,134"
 17,Bit matrices,154
 18,Bit Matrix,155
 19,Block matrix,142
@@ -79,8 +77,7 @@
 77,Length of a vector,90
 78,Linear combination,"20,205,237"
 79,Linear dependence theorem,205
-80,Linear independence,
-81,concept of,195
+80,Linear independence,195
 82,Fibonacci numbers,364
 83,Field,317
 84,Forward substitution,160

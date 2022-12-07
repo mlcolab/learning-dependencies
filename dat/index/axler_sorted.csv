@@ -1,0 +1,228 @@
+,concept,pages
+1,absolute value,118
+9,addition in quotient space,96
+10,addition of complex numbers,2
+11,addition of functions,14
+12,addition of linear maps,55
+13,addition of matrices,72
+14,addition of subspaces,20
+15,addition of vectors,12
+16,addition of vectors in Fn,7
+19,additive inverse in C,"3,4"
+20,additive inverse in Fn,9
+21,additive inverse in vector space,"12,15"
+27,additivity,52
+28,adjoint of a linear map,204
+29,afﬁne subset,94
+30,algebraic multiplicity,255
+31,annihilator of a subspace,104
+32,Apollonius’s Identity,179
+33,associativity,"3,12,56"
+34,backward shift,"53,59,81,86,140"
+35,basis,39
+36,basis of eigenvectors,"157,218,221,224,268"
+41,basis of generalized eigenvectors,253
+45,block diagonal matrix,255
+0,box in Rn,323
+2,Cauchy Augustin-Louis,"171,317"
+3,Cauchy–Schwarz Inequality,172
+4,Cayley Arthur,262
+5,Cayley–Hamilton Theorem on complex vector space,261
+6,Cayley–Hamilton Theorem on real vector space,284
+7,change of basis,298
+8,change of variables in integral,328
+17,characteristic polynomial on complex vector space,261
+18,characteristic polynomial on real vector space,283
+22,characteristic value,134
+23,closed under addition,18
+24,closed under scalar multiplication,17
+25,column rank of a matrix,111
+26,commutativity,"3,7,12,25,56,75,79,144,212"
+37,complex conjugate,118
+38,complex number,2
+39,Complex Spectral Theorem,218
+40,complex vector space,13
+42,complexiﬁcation of a vector space,276
+43,complexiﬁcation of an operator,277
+44,conjugate symmetry,166
+46,conjugate transpose of a matrix,207
+48,coordinate,6
+49,cube root of an operator,224
+50,cubic formula,124
+58,degree of a polynomial,31
+59,derivative,327
+60,Descartes René,1
+62,determinant of a matrix,314
+63,determinant of an operator,307
+64,diagonal matrix,155
+65,diagonal of a square matrix,147
+66,diagonalizable,156
+67,differentiable,327
+68,differentiation linear map,"53,56,59,61,62,69,72,78,144,190,248,294"
+69,dimension,44
+76,dimension of a sum of subspaces,47
+77,direct sum,"21,42,93"
+78,direct sum of a subspace and its orthogonal complement,194
+79,direct sum of null T n and range T n,243
+80,distributive property,"3,12,16,56,79"
+85,Division Algorithm for Polynomials,121
+87,division of complex numbers,4
+88,dot product,164
+89,double dual space,116
+95,dual of a basis,102
+96,dual of a linear map,103
+97,dual of a vector space,101
+101,eigenspace,155
+102,eigenvalue of an operator,134
+103,eigenvector,134
+47,Euclidean inner product,166
+51,factor of a polynomial,122
+52,Fibonacci,131
+53,Fibonacci sequence,161
+56,Flatland,6
+57,Fundamental Theorem of Algebra,124
+61,Fundamental Theorem of Linear Maps,63
+70,generalized eigenspace,245
+71,generalized eigenvector,245
+72,geometric multiplicity,255
+73,Gram Jørgen,182
+74,Gram–Schmidt Procedure,182
+75,graph of a linear map,98
+81,harmonic function,179
+82,Hermitian,209
+83,homogeneity,52
+84,homogeneous system of linear equations,"65,90"
+86,Hypatia,241
+90,identity map,"52,56"
+91,identity matrix,296
+92,image,62
+93,imaginary part,118
+98,inhomogeneous system of linear equations,"66,89"
+99,injective,60
+100,inner product,166
+107,inner product space,167
+108,integral,327
+109,invariant subspace,132
+110,inverse of a linear map,80
+111,inverse of a matrix,296
+116,invertible linear map,80
+117,invertible matrix,296
+94,inﬁnite-dimensional vector space,31
+118,isometry,"228,292,321"
+119,isomorphic vector spaces,82
+120,isomorphism,82
+121,Jordan basis,273
+122,Jordan Form,273
+128,kernel,59
+142,Laplacian,179
+143,length of list,5
+144,linear combination,28
+145,Linear Dependence Lemma,34
+146,linear functional,"101,187"
+147,linear map,52
+148,linear span,29
+149,linear subspace,18
+150,linear transformation,52
+151,linearly dependent,33
+152,linearly independent,32
+153,list,5
+154,list of vectors,28
+155,matrix,70
+156,matrix multiplication,75
+157,matrix of linear map,70
+158,matrix of nilpotent operator,249
+159,matrix of operator,146
+160,matrix of product of linear maps,75
+104,matrix of T',110
+105,matrix of T*,208
+106,matrix of vector,84
+112,minimal polynomial,"263,279"
+113,minimizing distance,198
+114,monic polynomial,262
+115,multiplicity of an eigenvalue,254
+123,nilpotent operator,"248,271"
+124,nonsingular matrix,296
+125,norm,"164,168"
+126,normal operator,"212,287"
+127,null space,59
+129,null space of powers of an operator,242
+130,null space of T',106
+131,null space of T*,207
+132,one-to-one,60
+133,onto,62
+134,operator,86
+135,orthogonal complement,193
+136,orthogonal operator,229
+137,orthogonal projection,195
+138,orthogonal vectors,169
+139,orthonormal,
+140,orthonormal basis,181
+141,orthonormal list,180
+161,parallel afﬁne subsets,94
+162,Parallelogram Equality,174
+163,permutation,311
+164,photo credits,333
+165,point,13
+166,polar coordinates,329
+167,Polar Decomposition,233
+168,polynomial,30
+169,positive operator,225
+170,positive semideﬁnite operator,227
+176,product of complex numbers,2
+177,product of linear maps,55
+178,product of matrices,75
+179,product of polynomials,144
+180,product of scalar and linear map,55
+181,product of scalar and vector,12
+182,product of scalar and vector in Fn,10
+183,product of vector spaces,91
+184,Pythagorean Theorem,170
+191,quotient map,97
+192,quotient operator,137
+193,quotient space,95
+194,range,61
+199,range of powers of an operator,251
+200,range of T',107
+201,range of T*,207
+207,rank of a matrix,112
+208,real part,118
+209,Real Spectral Theorem,221
+210,real vector space,13
+211,restriction operator,137
+215,Riesz Frigyes,187
+212,Riesz Representation Theorem,187
+216,row rank of a matrix,111
+220,scalar,4
+221,scalar multiplication,"10,12"
+223,scalar multiplication in quotient space,96
+224,scalar multiplication of linear maps,55
+225,scalar multiplication of matrices,73
+226,Schur’s Theorem,186
+171,self-adjoint operator,209
+172,sign of a permutation,312
+173,signum,313
+174,singular matrix,296
+175,Singular Value Decomposition,237
+185,singular values,236
+186,span,29
+187,spans,30
+188,Spectral Theorem,"218,221"
+189,spherical coordinates,330
+190,square root of an operator,"223,225,233,259"
+195,standard basis,39
+196,subspace,18
+197,subtraction of complex numbers,4
+198,surjective,62
+202,trace of a matrix,300
+203,trace of an operator,299
+204,transpose of a matrix,"109,207"
+205,Triangle Inequality,173
+206,tuple,5
+213,unitary operator,188
+214,upper-triangular matrix,"147,256"
+217,vector,"8,13"
+218,vector space,12
+219,volume,324
+222,zero of a polynomial,122
+54,ﬁeld,10
+55,ﬁnite-dimensional vector space,30

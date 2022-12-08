@@ -1,0 +1,303 @@
+,concept,pages,level
+0,∈,2,1
+1,/∈,2,1
+2,nth Roots of Unity,49,1
+3,"nth root, of a complex number","44, 45",2
+4,x-axis,12,1
+5,x-coordinate,12,1
+6,y-axis,12,1
+7,y-coordinate,12,1
+8,abscissa,12,1
+9,absolute value,14,1
+10,adjugate,337,1
+11,antisymmetric,305,1
+12,"argument, of a complex number, definition of",35,3
+13,"argument, of a complex number, properties of",38,3
+14,augmented matrix,129,1
+15,back substitution,138,1
+16,basic solution,177,1
+17,basic variable,150,1
+18,basis,282,1
+19,"basis, of a null space",291,2
+20,Cartesian coordinate plane,12,1
+21,Cartesian coordinates,12,1
+22,characteristic polynomial,"346, 369",1
+23,cis(θ),39,1
+24,cofactor,314,1
+25,"cofactor, expansion","316, 322",2
+26,"cofactor, matrix",337,2
+27,"column, pivot",288,2
+28,column space,287,1
+29,column vector,191,1
+30,Complex Factorization Theorem,26,1
+31,"complex number, nth root","44, 45",2
+32,"complex number, nth Roots of Unity",49,2
+33,"complex number, argument, definition of",35,3
+34,"complex number, argument, properties of",38,3
+35,"complex number, complex conjugate, definition of",21,3
+36,"complex number, conjugate, properties of",22,3
+37,"complex number, definition of","19, 35",2
+38,"complex number, imaginary part",35,2
+39,"complex number, imaginary unit, i",19,2
+40,"complex number, modulus, definition of",35,3
+41,"complex number, modulus, properties of",37,3
+42,"complex number, polar form, cis-notation",39,3
+43,"complex number, principal argument",35,2
+44,"complex number, real part",35,2
+45,"complex number, rectangular form",35,2
+46,complex numbers,19,1
+47,"complex numbers, addition",20,2
+48,"complex numbers, equality",20,2
+49,"complex numbers, multiplication",20,2
+50,complex plane,35,1
+51,"conjugate, complex conjugate, definition of",21,3
+52,"conjugate of a complex number, properties of",22,2
+53,consistent,"147, 180, 181",1
+54,"coordinates, Cartesian",12,2
+55,"coordinates, polar",29,2
+56,"coordinates, rectangular",29,2
+57,Cramer’s Rule,334,1
+58,"cross product, applications",82,2
+59,"cross product, applications, area of parallelogram",83,3
+60,"cross product, applications, torque",85,3
+61,"cross product, applications, volume of parallelepiped",84,3
+62,"cross product, definition",77,2
+63,"cross product, properties","80, 81",2
+64,DeMoivre’s Theorem,40,1
+65,"dependent, linear",117,2
+66,"determinant, and elementary row operations",326,2
+67,"determinant, definition",317,2
+68,"determinant, of 2 × 2 matrices",313,2
+69,"determinant, of triangular matrices",325,2
+70,"determinant, properties",331,2
+71,diagonal,235,1
+72,"diagonal, definition",300,2
+73,diagonalizable matrix,374,1
+74,diagonalization,372,1
+75,"diagonalization, orthogonal",377,2
+76,"diagram, Venn Diagram",3,2
+77,dimension,282,1
+78,"distance, between points in space",52,2
+79,"distance, definition",14,2
+80,"distance, distance formula",14,2
+81,"dot product, definition",67,2
+82,"dot product, properties",68,2
+83,eigenspace,371,1
+84,"eigenvalue, definition",342,2
+85,"eigenvalue, finding",346,2
+86,"eigenvalue, properties",364,2
+87,elementary matrix,238,1
+88,elementary operation,130,1
+89,elementary row operation,130,1
+90,elementary row operations,135,1
+91,"elementary row operations, and determinants",326,2
+92,empty set,3,1
+93,equivalence relation,368,1
+94,"factorization, over the complex numbers",26,2
+95,free variable,"148, 150",1
+96,Fundamental Theorem of Algebra,26,1
+97,Gaussian elimination,"137, 140",1
+98,"Gaussian elimination, backward steps",139,2
+99,"Gaussian elimination, forward steps",139,2
+100,Head To Tail Rule,58,1
+101,homogeneous,"176, 180, 181",1
+102,identity matrix,207,1
+103,imaginary axis,35,1
+104,imaginary part of a complex number,35,1
+105,"imaginary unit, i",19,1
+106,inconsistent,147,1
+107,"independent, linear",117,2
+108,initial point,55,1
+109,intersection of two sets,2,1
+110,"inverse, computing",224,2
+111,"inverse, definition",220,2
+112,"inverse, Invertible Matrix Theorem",230,2
+113,"inverse, properties","230, 235",2
+114,"inverse, uniqueness",222,2
+115,Invertible Matrix Theorem,"230, 331, 365",1
+116,Jordan Canonical Form,377,1
+117,leading one,"136, 150, 151",1
+118,linear combination,"113, 194",1
+119,linear equation,125,1
+120,"linear transformation, and ⃗�",268,2
+121,"linear transformation, conditions on",272,2
+122,"linear transformation, definition",263,2
+123,"linear transformation, standard matrix of","267, 269",2
+124,linearly dependent,117,1
+125,linearly independent,117,1
+126,lines,89,1
+127,"lines, equations for",90,2
+128,"lines, intersecting",91,2
+129,"lines, parallel",91,2
+130,"lines, skew",91,2
+131,magnitude of vector,55,1
+132,"matrix, addition",192,2
+133,"matrix, adjugate",337,2
+134,"matrix, arithmetic properties",196,2
+135,"matrix, augmented",129,2
+136,"matrix, cofactor","314, 337",2
+137,"matrix, definition",190,2
+138,"matrix, determinant","313, 317",2
+139,"matrix, diagonal",300,2
+140,"matrix, diagonalizable",374,2
+141,"matrix, equality",191,2
+142,"matrix, identity matrix",207,2
+143,"matrix, inverse","220, 224",2
+144,"matrix, minor",314,2
+145,"matrix, multiplication",201,2
+146,"matrix, multiplication, properties",208,3
+147,"matrix, scalar multiplication",193,2
+148,"matrix, similar",367,2
+149,"matrix, the zero matrix",196,2
+150,"matrix, transpose",299,2
+151,"matrix, triangular",300,2
+152,"matrix, elementary",238,2
+153,"matrix, of coefficients",129,2
+154,matrix transformation,245,1
+155,"midpoint, definition of",15,2
+156,"midpoint, midpoint formula",16,2
+157,minor,314,1
+158,"modulus of a complex number, definition of",35,2
+159,"modulus of a complex number, properties of",37,2
+160,"multiplicity, algebraic",369,2
+161,"multiplicity, and diagonalization",377,2
+162,"multiplicity, geometric",371,2
+163,"multiplicity, of an eigenvalue",369,2
+164,norm,55,1
+165,normal vector,101,1
+166,null space,290,1
+167,"numbers, complex",19,2
+168,ordered pair,12,1
+169,ordinate,12,1
+170,origin,12,1
+171,orthogonal,70,1
+172,"orthogonal, decomposition",73,2
+173,orthogonal decomposition of vectors,73,1
+174,orthogonal projection,72,1
+175,parallel vectors,"59, 61",1
+176,Parallelogram Law,58,1
+177,parameter,148,1
+178,particular solution,152,1
+179,pivot column,288,1
+180,"planes, coordinate plane",52,2
+181,"planes, equations of",102,2
+182,"planes, introduction",52,2
+183,"planes, normal vector",101,2
+184,"polar coordinates, conversion into rectangular",32,2
+185,"polar coordinates, definition of",29,2
+186,"polar coordinates, polar axis",29,2
+187,"polar coordinates, pole",29,2
+188,polar form of a complex number,39,1
+189,"power rule, for complex numbers",40,2
+190,"power rule, for the modulus of a complex number",37,2
+191,principal argument of a complex number,35,1
+192,problem solving,159,1
+193,"product rule, for complex numbers",40,2
+194,"product rule, for the modulus of a complex number",37,2
+195,pseudoinverse,306,1
+196,quadrants,14,1
+197,"quotient rule, for complex numbers",40,2
+198,"quotient rule, for the modulus of a complex number",37,2
+199,R,55,1
+200,"range, of a linear transformation",286,2
+201,"rank, in terms of column space",293,2
+202,"rank, in terms of leading 1s",182,2
+203,real axis,35,1
+204,real part of a complex number,35,1
+205,"rectangular coordinates, also known as Cartesian coordinates",29,2
+206,"rectangular coordinates, conversion into polar",32,2
+207,rectangular form of a complex number,35,1
+208,reduced echelon form,136,1
+209,reduced row echelon form,136,1
+210,relatively prime,7,1
+211,"right hand rule, of Cartesian coordinates",51,2
+212,Roots of Unity,49,1
+213,row echelon form,136,1
+214,row vector,191,1
+215,scalar,193,1
+216,"set, definition of",1,2
+217,"set, empty",3,2
+218,"set, exclusion",2,2
+219,"set, inclusion",2,2
+220,"set, intersection",2,2
+221,"set, roster method",1,2
+222,"set, set-builder notation",1,2
+223,"set, union",2,2
+224,"set, verbal description",1,2
+225,set-builder notation,1,1
+226,similar matrices,367,1
+227,"similar matrices, properties of",368,2
+228,skew symmetric,305,1
+229,"skew symmetric, definition",305,2
+230,"skew symmetric, theorem",306,2
+231,solution,125,1
+232,"solution, basic",177,2
+233,"solution, general",149,2
+234,"solution, infinite",147,2
+235,"solution, infinitely many","150, 181",2
+236,"solution, none",147,2
+237,"solution, particular","149, 152",2
+238,"solution, types",147,2
+239,"solution, unique","147, 181, 226",2
+240,span,115,1
+241,standard unit vector,268,1
+242,"subset, definition of",2,2
+243,subspace,275,1
+244,"subspace, span",280,2
+245,"subspace, trivial",281,2
+246,symmetric,305,1
+247,"symmetric, definition",305,2
+248,"symmetric, theorem",306,2
+249,"system of linear equations, consistent","147, 150, 180, 181",2
+250,"system of linear equations, definition",125,2
+251,"system of linear equations, homogeneous",176,2
+252,"system of linear equations, inconsistent","147, 151",2
+253,"system of linear equations, solution",125,2
+254,terminal point,55,1
+255,"theorem, Fundamental Theorem of Algebra",26,2
+256,"trace, definition",309,2
+257,"trace, properties",311,2
+258,"transformation, matrix",245,2
+259,transpose,299,1
+260,"transpose, definition",299,2
+261,"transpose, properties",304,2
+262,"transpose, skew-symmetric",305,2
+263,"transpose, symmetric",305,2
+264,"triangular matrix, definition",300,2
+265,"triangular matrix, determinant",325,2
+266,union of two sets,2,1
+267,unit vector,60,1
+268,"unit vector, properties",62,2
+269,"unit vector, standard unit vector",63,2
+270,"variable, basic",150,2
+271,"variable, dependent",150,2
+272,"variable, free","148, 150",2
+273,"variable, independent",150,2
+274,"variable, leading",148,2
+275,"vector, column","111, 191",2
+276,"vector, row",191,2
+277,vector space,111,1
+278,"vector space, of column vectors",112,2
+279,vectors,55,1
+280,"vectors, algebra of",57,2
+281,"vectors, algebraic properties",60,2
+282,"vectors, component form",56,2
+283,"vectors, cross product","77, 80, 81",2
+284,"vectors, definition",55,2
+285,"vectors, dot product","67, 68",2
+286,"vectors, Head To Tail Rule",58,2
+287,"vectors, magnitude",55,2
+288,"vectors, norm",55,2
+289,"vectors, normal vector",101,2
+290,"vectors, orthogonal",70,2
+291,"vectors, orthogonal decomposition",73,2
+292,"vectors, orthogonal projection",72,2
+293,"vectors, parallel","59, 61",2
+294,"vectors, Parallelogram Law",58,2
+295,"vectors, resultant",58,2
+296,"vectors, standard unit vector",63,2
+297,"vectors, unit vector","60, 62",2
+298,"vectors, zero vector",58,2
+299,Venn Diagram,3,1
+300,work,75,1
+301,zero matrix,196,1

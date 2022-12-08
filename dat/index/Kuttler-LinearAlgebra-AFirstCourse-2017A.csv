@@ -1,0 +1,303 @@
+,concept,pages,level
+0,∩,537,1
+1,∪,537,1
+2,\,537,1
+3,row-echelon form,16,1
+4,reduced row-echelon form,16,1
+5,"reduced row-echelon form, algorithm",19,2
+6,adjugate,130,1
+7,back substitution,13,1
+8,base case,540,1
+9,basic solution,29,1
+10,basis,"203, 204, 234, 487",1
+11,"basis, any two same size",489,2
+12,box product,188,1
+13,cardioid,443,1
+14,Cauchy Schwarz inequality,168,1
+15,characteristic equation,349,1
+16,"chemical reactions, balancing",33,2
+17,"Cholesky factorization, positive deﬁnite",420,2
+18,classical adjoint,130,1
+19,Cofactor Expansion,110,1
+20,cofactor matrix,130,1
+21,column space,211,1
+22,complex eigenvalues,369,1
+23,"complex numbers, absolute value",334,2
+24,"complex numbers, addition",329,2
+25,"complex numbers, argument",336,2
+26,"complex numbers, conjugate",331,2
+27,"complex numbers, conjugate of a product",336,2
+28,"complex numbers, modulus","334, 336",2
+29,"complex numbers, multiplication",330,2
+30,"complex numbers, polar form",336,2
+31,"complex numbers, roots",339,2
+32,"complex numbers, standard form",329,2
+33,"complex numbers, triangle inequality",334,2
+34,component form,162,1
+35,component of a force,"265, 267",1
+36,consistent system,8,1
+37,coordinate isomorphism,524,1
+38,coordinate vector,"316, 524",1
+39,Cramer’s rule,135,1
+40,cross product,"183, 184",1
+41,"cross product, area of parallelogram",186,2
+42,"cross product, coordinate description",184,2
+43,"cross product, geometric description","183, 184",2
+44,cylindrical coordinates,449,1
+45,De Moivre’s theorem,339,1
+46,determinant,107,1
+47,"determinant, cofactor",109,2
+48,"determinant, expanding along row or column",110,2
+49,"determinant, matrix inverse formula",131,2
+50,"determinant, minor",108,2
+51,"determinant, product","116, 121",2
+52,"determinant, row operations",114,2
+53,diagonalizable,"363, 364, 407",1
+54,dimension,205,1
+55,dimension of vector space,490,1
+56,direction vector,162,1
+57,distance formula,156,1
+58,"distance formula, properties",157,2
+59,dot product,167,1
+60,"dot product, properties",167,2
+61,eigenvalue,349,1
+62,"eigenvalues, calculating",350,2
+63,eigenvector,349,1
+64,"eigenvectors, calculating",350,2
+65,elementary matrix,79,1
+66,"elementary matrix, inverse",82,2
+67,elementary operations,9,1
+68,elementary row operations,15,1
+69,empty set,537,1
+70,equivalence relation,362,1
+71,exchange theorem,"204, 487",1
+72,extending a basis,209,1
+73,ﬁeld axioms,330,1
+74,ﬁnite dimensional,490,1
+75,force,261,1
+76,Fundamental Theorem of Algebra,329,1
+77,Gauss-Jordan Elimination,24,1
+78,Gaussian Elimination,24,1
+79,general solution,324,1
+80,"general solution, solution space",323,2
+81,hyper-planes,6,1
+82,idempotent,93,1
+83,identity transformation,"271, 500",1
+84,improper subspace,486,1
+85,included angle,170,1
+86,inconsistent system,8,1
+87,induction hypothesis,540,1
+88,injection,293,1
+89,inner product,167,1
+90,intersection,537,1
+91,"intervals, notation",538,2
+92,"invertible matrices, isomorphism",512,2
+93,isomorphic,"298, 509",1
+94,"isomorphic, equivalence relation",301,2
+95,isomorphism,"298, 509",1
+96,"isomorphism, bases",301,2
+97,"isomorphism, composition",300,2
+98,"isomorphism, equivalence","302, 513",2
+99,"isomorphism, inverse",300,2
+100,"isomorphism, invertible matrices",512,2
+101,kernel,"215, 322",1
+102,Kirchhoff’s law,38,1
+103,Kronecker symbol,"71, 239",1
+104,Laplace expansion,110,1
+105,leading entry,16,1
+106,least square approximation,251,1
+107,linear combination,"30, 151",1
+108,linear dependence,194,1
+109,linear independence,195,1
+110,"linear independence, enlarging to form a basis",492,2
+111,linear independent,233,1
+112,linear map,298,1
+113,"linear map, deﬁning on a basis",304,2
+114,"linear map, image",310,2
+115,"linear map, kernel",310,2
+116,"linear map, linear transformation","270, 298, 500",2
+117,"linear transformation, composite",283,2
+118,"linear transformation, image",292,2
+119,"linear transformation, matrix",273,2
+120,"linear transformation, range",292,2
+121,linearly dependent,475,1
+122,linearly independent,475,1
+123,"lines, parametric equation",164,2
+124,"lines, symmetric form",164,2
+125,"lines, vector equation",162,2
+126,"LU decomposition, non existence",99,2
+127,LU factorization,99,1
+128,"LU factorization, by inspection",100,2
+129,"LU factorization, justiﬁcation",102,2
+130,"LU factorization, solving systems",101,2
+131,main diagonal,112,1
+132,Markov matrices,378,1
+133,mathematical induction,540,1
+134,matrix,"14, 53",1
+135,"matrix, addition",55,2
+136,"matrix, augmented matrix","14, 15",2
+137,"matrix, coefﬁcient matrix",14,2
+138,"matrix, column space",211,2
+139,"matrix, commutative",67,2
+140,"matrix, components of a matrix",54,2
+141,"matrix, conformable",62,2
+142,"matrix, diagonal matrix",363,2
+143,"matrix, dimension",14,2
+144,"matrix, entries of a matrix",54,2
+145,"matrix, equality",54,2
+146,"matrix, equivalent",27,2
+147,"matrix, ﬁnding the inverse",74,2
+148,"matrix, identity",71,2
+149,"matrix, improper",240,2
+150,"matrix, inverse",71,2
+151,"matrix, invertible",71,2
+152,"matrix, kernel",215,2
+153,"matrix, lower triangular",112,2
+154,"matrix, main diagonal",363,2
+155,"matrix, null space",215,2
+156,"matrix, orthogonal","128, 238",2
+157,"matrix, orthogonally diagonalizable",375,2
+158,"matrix, proper",240,2
+159,"matrix, properties of addition",56,2
+160,"matrix, properties of scalar multiplication",58,2
+161,"matrix, properties of transpose",69,2
+162,"matrix, raising to a power",373,2
+163,"matrix, rank",31,2
+164,"matrix, row space",211,2
+165,"matrix, scalar multiplication",57,2
+166,"matrix, skew symmetric",70,2
+167,"matrix, square",54,2
+168,"matrix, symmetric",70,2
+169,"matrix, transpose",69,2
+170,"matrix, upper triangular",112,2
+171,matrix exponential,392,1
+172,matrix form AX=B,61,1
+173,matrix multiplication,62,1
+174,"matrix multiplication, ijth entry",65,2
+175,"matrix multiplication, properties",68,2
+176,"matrix multiplication, vectors",60,2
+177,migration matrix,378,1
+178,multiplicity,350,1
+179,multipliers,104,1
+180,Newton,261,1
+181,nilpotent,128,1
+182,non defective,407,1
+183,nontrivial solution,28,1
+184,null space,"215, 322",1
+185,nullity,"219, 312",1
+186,one to one,292,1
+187,"one to one, linear independence",301,2
+188,onto,292,1
+189,orthogonal,235,1
+190,orthogonal complement,246,1
+191,orthogonality and minimization,251,1
+192,orthogonally diagonalizable,407,1
+193,orthonormal,235,1
+194,parallelepiped,188,1
+195,"parallelepiped, volume",188,2
+196,parameter,23,1
+197,particular solution,322,1
+198,permutation matrices,79,1
+199,pivot column,18,1
+200,pivot position,18,1
+201,"plane, normal vector",179,2
+202,"plane, scalar equation",180,2
+203,"plane, vector equation",179,2
+204,polar coordinates,439,1
+205,"polynomials, factoring",341,2
+206,position vector,146,1
+207,positive deﬁnite,417,1
+208,"positive deﬁnite, Cholesky factorization",420,2
+209,"positive deﬁnite, invertible",417,2
+210,"positive deﬁnite, principal submatrices",419,2
+211,principal axes,"404, 429",1
+212,"principal axis, quadratic forms",427,2
+213,principal submatrices,418,1
+214,"principal submatrices, positive deﬁnite",419,2
+215,proper subspace,"201, 486",1
+216,QR factorization,422,1
+217,quadratic form,427,1
+218,quadratic formula,343,1
+219,random walk,380,1
+220,range of matrix transformation,292,1
+221,rank,312,1
+222,rank added to nullity,312,1
+223,"reﬂection, across a given vector",291,2
+224,regression line,254,1
+225,resultant,262,1
+226,right handed system,183,1
+227,row operations,"15, 114",1
+228,row space,211,1
+229,scalar,8,1
+230,scalar product,167,1
+231,scalar transformation,500,1
+232,scalars,150,1
+233,scaling factor,425,1
+234,set notation,537,1
+235,similar matrices,362,1
+236,similar matrix,356,1
+237,singular values,409,1
+238,skew lines,6,1
+239,solution space,322,1
+240,span,"192, 233, 472",1
+241,spanning set,472,1
+242,"spanning set, basis",208,2
+243,"spanning set, spectrum",349,2
+244,"spanning set, speed",263,2
+245,"spanning set, spherical coordinates",450,2
+246,"spanning set, standard basis",204,2
+247,"spanning set, state vector",378,2
+248,"spanning set, subset","192, 471",2
+249,"spanning set, subspace","202, 484",2
+250,"subspace, basis","204, 234",2
+251,"subspace, dimension",205,2
+252,"subspace, has a basis",491,2
+253,"subspace, span",203,2
+254,summation notation,539,1
+255,surjection,293,1
+256,symmetric matrix,401,1
+257,system of equations,8,1
+258,"system of equations, homogeneous",8,2
+259,"system of equations, matrix form",61,2
+260,"system of equations, solution set",8,2
+261,"system of equations, vector form",59,2
+262,trace of a matrix,363,1
+263,triangle inequality,169,1
+264,"trigonometry, sum of two angles",289,2
+265,trivial solution,28,1
+266,union,537,1
+267,unit vector,158,1
+268,"variable, basic",25,2
+269,"variable, free",25,2
+270,vector,147,1
+271,"vector, addition",148,2
+272,"vector, addition, geometric meaning",147,2
+273,"vector, components",147,2
+274,"vector, coordinate vector",316,2
+275,"vector, corresponding unit vector",158,2
+276,"vector, length",158,2
+277,"vector, orthogonal",172,2
+278,"vector, perpendicular","172, 173",2
+279,"vector, points and vectors",146,2
+280,"vector, projection",174,2
+281,"vector, scalar multiplication",150,2
+282,"vector, subtraction",149,2
+283,vector space,455,1
+284,"vector space, dimension",490,2
+285,"vector space, vector space axioms",455,2
+286,"vector space, vectors",58,2
+287,"vectors, basis","204, 234",2
+288,"vectors, column",58,2
+289,"vectors, linear dependent",194,2
+290,"vectors, linear independent","195, 233",2
+291,"vectors, orthogonal",235,2
+292,"vectors, orthonormal",235,2
+293,"vectors, row vector",58,2
+294,"vectors, span","192, 233",2
+295,velocity,263,1
+296,well ordered,540,1
+297,work,265,1
+298,zero matrix,54,1
+299,zero subspace,201,1
+300,zero transformation,"271, 500",1
+301,zero vector,149,1

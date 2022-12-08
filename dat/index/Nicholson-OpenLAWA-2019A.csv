@@ -1,0 +1,1669 @@
+,concept,pages,level
+0,"(i, j)-entry",35,1
+1,,"3, 58",1
+2,A-invariance,176,1
+3,B-matrix,513,1
+4,T-invariant,523,1
+5,"m× n matrix, canonical forms",591,2
+6,"m× n matrix, deﬁned",35,2
+7,"m× n matrix, difference",38,2
+8,"m× n matrix, elementary row operation",96,2
+9,"m× n matrix, main diagonal",43,2
+10,"m× n matrix, matrix transformation",503,2
+11,"m× n matrix, negative",38,2
+12,"m× n matrix, subspaces",265,2
+13,"m× n matrix, transpose",42,2
+14,"m× n matrix, zero matrix",38,2
+15,n-parity-check code,479,1
+16,n-tuples,"263, 290, 330",1
+17,n-vectors,47,1
+18,n-words,477,1
+19,nth roots of unity,605,1
+20,r-ball,478,1
+21,x-axis,209,1
+22,x-compression,61,1
+23,x-expansion,61,1
+24,x-shear,61,1
+25,y-axis,209,1
+26,y-compression,61,1
+27,y-expansion,61,1
+28,z-axis,209,1
+29,Disquisitiones Arithmeticae (Gauss),11,1
+30,How to Read and Do Proofs (Solow),611,1
+31,Introduction to Abstract Algebra (Nicholson),475,1
+32,Introduction to Abstract Mathematics (Lucas),611,1
+33,Introduction to the Theory of Error-Correcting Codes (Pless),484,1
+34,Mécanique Analytique (Lagrange),245,1
+35,Calcolo Geometrico (Peano),329,1
+36,Elements (Euclid),612,1
+37,Interpolation and Approximation (Davis),553,1
+38,Introduction to Matrix Computations (Stewart),444,1
+39,Raum-Zeit-Materie (“SpaceTime-Matter”)(Weyl),329,1
+40,The Algebraic Eigenvalue Problem (Wilkinson),444,1
+41,“Linear Programming and Extensions” (Wu and Coppins),500,1
+42,“if and only if”,36,1
+43,“mixed” cancellation,85,1
+44,,"3, 209",1
+45,absolute value complex number,"598, 599",1
+46,notation,110,1
+47,real number,210,1
+48,symmetric matrices,307,1
+49,triangle inequality,543,1
+50,abstract vector space,329,1
+51,same action,"59, 333, 378",1
+52,transformations,"59, 503, 505",1
+53,closed under,330,1
+54,closed under addition,"47, 263",1
+55,complex number,597,1
+56,matrix addition,37,1
+57,pointwise addition,332,1
+58,preserving addition,104,1
+59,vector addition,"330, 601",1
+60,adjacency matrix,75,1
+61,adjugate,"81, 160",1
+62,adjugate formula,162,1
+63,adult survival rate,171,1
+64,aerodynamics,499,1
+65,algebraic method,"4, 9",1
+66,algebraic multiplicity,304,1
+67,algebraic sum,30,1
+68,altitude,262,1
+69,analytic geometry,47,1
+70,"angles, angle between two vectors","228, 546",2
+71,"angles, radian measure","60, 111, 601",2
+72,"angles, standard position","110, 601",2
+73,"angles, unit circle","110, 601",2
+74,approximation theorem,"552, 578",1
+75,Archimedes,11,1
+76,linear transformations of area,255,2
+77,"area, equal to zero",246,2
+78,argument,601,1
+79,arrows,209,1
+80,associated homogeneous system,53,1
+81,associative law,"38, 71",1
+82,attractor,187,1
+83,augmented matrix,"3, 4, 14",1
+84,auxiliary theorem,96,1
+85,axiomatic method,615,1
+86,axioms,611,1
+87,axis,"209, 572",1
+88,back substitution,"14, 118",1
+89,balanced reaction,32,1
+90,ball,478,1
+91,"Banach, Stephan",329,1
+92,bases,276,1
+93,basic eigenvectors,175,1
+94,basic solutions,"24, 454",1
+95,choice of basis,"503, 508",2
+96,dual basis,512,2
+97,"basis, enlarging subset to",278,2
+98,"basis, geometric problem of ﬁnding","516, 517, 583",2
+99,"basis, independent set",415,2
+100,"basis, isomorphisms",393,2
+101,and choice of basis,518,2
+102,"basis, matrix of T corresponding to the ordered bases B and D",505,2
+103,of subspace,276,1
+104,ordered basis,"503, 505",1
+105,orthogonal basis,"287, 416, 549",1
+106,orthonormal basis,"550, 559",1
+107,standard basis,"106, 272, 277, 278, 349, 461",1
+108,vector spaces,349,1
+109,Bessel’s inequality,556,1
+110,best approximation,310,1
+111,best approximation theorem,311,1
+112,bilinear form,497,1
+113,binary codes,477,1
+114,Binet formula,196,1
+115,binomial coefﬁcients,367,1
+116,binomial theorem,367,1
+117,block matrix,154,1
+118,block multiplication,74,1
+119,block triangular form,583,1
+120,block triangular matrix,524,1
+121,block triangulation theorem,584,1
+122,blocks,73,1
+123,boundary condition,"199, 369",1
+124,cancellation,"333, 334",1
+125,cancellation laws,85,1
+126,canonical forms m× n matrix,591,1
+127,"canonical forms m× n matrix, block triangular form",583,2
+128,"canonical forms m× n matrix, Jordan canonical form",591,2
+129,Cartesian coordinates,209,1
+130,cartesian geometry,209,1
+131,category,397,1
+132,Cauchy inequality,"284, 325",1
+133,"Cauchy, Augustin Louis","158, 307",1
+134,Cauchy-Schwarz inequality,243,1
+135,"Cayley, Arthur","35, 145",1
+136,Cayley-Hamilton theorem,588,1
+137,centred,322,1
+138,centroid,225,1
+139,change matrix,513,1
+140,,"666, 477",1
+141,characteristic polynomial block triangular matrix,525,1
+142,"characteristic polynomial block triangular matrix, complex matrix",465,2
+143,"characteristic polynomial block triangular matrix, diagonalizable matrix",300,2
+144,"characteristic polynomial block triangular matrix, eigenvalues",174,2
+145,root of characteristic polynomial block triangular matrix,"174, 368, 369",2
+146,"characteristic polynomial block triangular matrix, similarity invariant","518, 519",2
+147,"characteristic polynomial block triangular matrix, square matrix","173, 469",2
+148,chemical reaction,32,1
+149,choice of basis,"503, 508",1
+150,Cholesky factorization,435,1
+151,"Cholesky, Andre-Louis",435,1
+152,circuit rule,30,1
+153,classical adjoint,161,1
+154,closed economy,130,1
+155,closed under addition,"47, 263, 330",1
+156,closed under scalar multiplication,"47, 263, 330",1
+157,"(n, k)-code",479,2
+158,n-code,477,2
+159,binary codes,477,2
+160,"code, decoding",483,2
+161,"code, deﬁned",477,2
+162,error-correcting codes,"472, 477",2
+163,"Hamming (7,4)-code",485,2
+164,linear codes,479,2
+165,"code, matrix generators",481,2
+166,"code, minimum distance",478,2
+167,"code, nearest neighbour decoding",478,2
+168,orthogonal codes,484,2
+169,parity-check code,479,2
+170,"code, parity-check matrices",482,2
+171,"code, perfect",479,2
+172,"code, syndrome decoding",483,2
+173,use of code,472,2
+174,code words,"477, 478, 481, 485",1
+175,coding theory,477,1
+176,coefﬁcient matrix,"4, 166",1
+177,binomial coefﬁcients,367,2
+178,"coefﬁcients, constant coefﬁcient",623,2
+179,Fourier coefﬁcients,"288, 548, 578, 579",2
+180,"coefﬁcients, in linear equation",1,2
+181,"coefﬁcients, leading coefﬁcient","166, 332, 623",2
+182,linear combination,"266, 271, 341",1
+183,of the polynomial,"319, 332, 623",1
+184,of vectors,341,1
+185,sample correlation coefﬁcient,324,1
+186,cofactor,146,1
+187,cofactor expansion,"147, 204",1
+188,cofactor expansion theorem,"148, 204",1
+189,cofactor matrix,160,1
+190,column matrix,"35, 47",1
+191,column space,"290, 445",1
+192,column vectors,172,1
+193,"(i, j)-entry",35,1
+194,as notations for ordered ntuples,275,1
+195,convention,36,1
+196,elementary column operations,149,1
+197,equal,21,1
+198,leading column,120,1
+199,shape of matrix,35,1
+200,Smith normal form,99,1
+201,transpose,42,1
+202,commutative law,38,1
+203,commute,"69, 72",1
+204,companion matrix,157,1
+205,compatibility rule,68,1
+206,blocks,74,1
+207,for multiplication,68,1
+208,complement,528,1
+209,completely diagonalized,494,1
+210,complex conjugation,307,1
+211,complex distance formula,600,1
+212,complex eigenvalues,"306, 444",1
+213,complex matrix Cayley-Hamilton theorem,469,1
+214,characteristic polynomial,465,1
+215,conjugate,461,1
+216,conjugate transpose,463,1
+217,deﬁned,461,1
+218,eigenvalues,465,1
+219,eigenvector,465,1
+220,hermitian matrix,464,1
+221,normal,469,1
+222,Schur’s theorem,"467, 468",1
+223,skew-hermitian,471,1
+224,spectral theorem,468,1
+225,standard inner product,462,1
+226,unitarily diagonalizable,467,1
+227,unitary diagonalization,467,1
+228,unitary matrix,466,1
+229,upper triangular matrix,467,1
+230,"complex number, absolute value","403, 598, 599",2
+231,"complex number, addition",597,2
+232,"complex number, advantage of working with",465,2
+233,"complex number, conjugate",599,2
+234,"complex number, equal",597,2
+235,"complex number, extension of concepts to",461,2
+236,"complex number, form",597,2
+237,"complex number, fundamental theorem of algebra",597,2
+238,"complex number, imaginary axis",600,2
+239,"complex number, imaginary part",597,2
+240,"complex number, imaginary unit",597,2
+241,"complex number, in complex plane",600,2
+242,"complex number, inverse",598,2
+243,"complex number, modulus",599,2
+244,"complex number, multiplication",597,2
+245,"complex number, parallelogram law",601,2
+246,"complex number, polar form",601,2
+247,"complex number, product",600,2
+248,"complex number, pure imaginary numbers",597,2
+249,"complex number, real axis",600,2
+250,"complex number, real part",597,2
+251,"complex number, regular representation",600,2
+252,"complex number, root of the quadratic",609,2
+253,"complex number, roots of unity",604,2
+254,"complex number, scalars",474,2
+255,"complex number, subtraction",597,2
+256,"complex number, sum",601,2
+257,"complex number, triangle inequality",599,2
+258,complex plane,600,1
+259,complex subspace,470,1
+260,composite,"65, 108, 396",1
+261,composition,"65, 396, 507",1
+262,computer graphics,258,1
+263,conclusion,611,1
+264,congruence,493,1
+265,congruent matrices,493,1
+266,conic graph,"21, 491",1
+267,conjugate,"461, 599",1
+268,conjugate matrix,307,1
+269,conjugate transpose,463,1
+270,consistent system,"1, 17",1
+271,constant,"353, 623",1
+272,constant matrix,4,1
+273,constant sequences,406,1
+274,constant term,1,1
+275,constrained optimization,497,1
+276,continuous functions,538,1
+277,contraction,63,1
+278,"contradiction, proof by",613,1
+279,convergence,443,1
+280,converges,139,1
+281,converse,614,1
+282,coordinate isomorphism,395,1
+283,coordinate transformation,504,1
+284,coordinate vectors,"215, 236, 256, 268, 504",1
+285,coordinates,"209, 503",1
+286,correlation,322,1
+287,"correlation coefﬁcient computation, with dot product",324,2
+288,"correlation coefﬁcient computation, Pearson correlation coefﬁcient",324,2
+289,"correlation coefﬁcient computation, sample correlation coefﬁcient",324,2
+290,correlation formula,326,1
+291,coset,483,1
+292,cosine,"111, 227, 556, 601",1
+293,counterexample,"9, 614",1
+294,covariance,501,1
+295,covariance matrix,501,1
+296,Cramer’s Rule,158,1
+297,"Cramer, Gabriel",164,1
+298,"cross product, and dot product","236, 245",2
+299,"cross product, coordinate vectors",236,2
+300,"cross product, coordinate-free description",247,2
+301,"cross product, deﬁned","236, 244",2
+302,"cross product, determinant form","236, 244",2
+303,"cross product, Lagrange Identity",245,2
+304,properties of cross product,245,2
+305,"cross product, right-hand rule",248,2
+306,"cross product, shortest distance between nonparallel lines",238,2
+307,cryptography,472,1
+308,data scaling,326,1
+309,"Davis, Philip J.",553,1
+310,De Moivre’s Theorem,604,1
+311,"De Moivre, Abraham",604,1
+312,decoding,483,1
+313,deﬁned,68,1
+314,deﬁning transformation,59,1
+315,degree of the polynomial,"332, 623",1
+316,demand matrix,131,1
+317,dependent,"273, 345, 358",1
+318,dependent lemma,358,1
+319,derivative,403,1
+320,"Descartes, René",209,1
+321,"determinants, ","3, 146",2
+322,"determinants, n × n",147,2
+323,"determinants, adjugate","81, 160",2
+324,"determinants, and eigenvalues",145,2
+325,"determinants, and inverses","81, 145",2
+326,"determinants, block matrix",154,2
+327,"determinants, coefﬁcient matrix",166,2
+328,"determinants, cofactor expansion","146, 147, 204",2
+329,"determinants, Cramer’s Rule",158,2
+330,"determinants, cross product","236, 244",2
+331,"determinants, deﬁned","81, 145, 152, 204, 518",2
+332,"determinants, inductive method of determination",146,2
+333,initial development of determinants,256,2
+334,"determinants, notation",145,2
+335,"determinants, polynomial interpolation",165,2
+336,"determinants, product of matrices (product theorem)","158, 168",2
+337,"determinants, similarity invariant",518,2
+338,"determinants, square matrices","145, 159",2
+339,theory of determinants,35,2
+340,"determinants, triangular matrix",154,2
+341,"determinants, Vandermonde determinant",167,2
+342,"determinants, Vandermonde matrix",153,2
+343,deviation,322,1
+344,diagonal matrices,"45, 79, 172, 178, 300, 516",1
+345,diagonalizable linear operator,557,1
+346,diagonalizable matrix,"178, 300, 516",1
+347,"diagonalization, completely diagonalized",494,2
+348,"diagonalization, described","178, 300",2
+349,"diagonalization, eigenvalues","145, 173, 300",2
+350,example,171,1
+351,general differential systems,199,1
+352,linear dynamical systems,182,1
+353,matrix,173,1
+354,multivariate analysis,501,1
+355,orthogonal diagonalization,"424, 557",1
+356,quadratic form,487,1
+357,test,302,1
+358,unitary diagonalization,467,1
+359,diagonalization algorithm,181,1
+360,diagonalization theorem,489,1
+361,diagonalizing matrix,178,1
+362,m× n matrices,38,1
+363,of two vectors,"213, 334",1
+364,differentiable function,"198, 340, 368, 402, 403",1
+365,differential equation of order n,"368, 403",1
+366,differential equations,"198, 368, 402",1
+367,differential system,199,1
+368,deﬁned,198,1
+369,exponential function,198,1
+370,general differential systems,199,1
+371,general solution,200,1
+372,simplest differential system,198,1
+373,differentiation,377,1
+374,digits,477,1
+375,dilation,63,1
+376,dimension,"276, 349, 403",1
+377,dimension theorem,"375, 386, 395",1
+378,direct proof,611,1
+379,direct sum,"360, 528, 536",1
+380,directed graphs,75,1
+381,direction,211,1
+382,direction cosines,"243, 556",1
+383,direction vector,218,1
+384,discriminant,"491, 606",1
+385,distance,"285, 541",1
+386,distance function,397,1
+387,distance preserving,"251, 564",1
+388,distance preserving isometries,564,1
+389,distribution,500,1
+390,distributive laws,"41, 71",1
+391,division algorithm,"473, 625",1
+392,dominant eigenvalue,"185, 441",1
+393,dominant eigenvector,441,1
+394,"dot product, and cross product","236, 245",2
+395,"dot product, and matrix multiplication",67,2
+396,"dot product, as inner product",537,2
+397,"dot product, basic properties",226,2
+398,correlation coefﬁcients computation of dot product,324,2
+399,"dot product, deﬁned",226,2
+400,dot product rule,"55, 67",2
+401,"dot product, in set of all ordered ntuples (Rn)","282, 462",2
+402,"dot product, inner product space",540,2
+403,"dot product, length",541,2
+404,"dot product, of two ordered n-tuples",54,2
+405,"dot product, of two vectors",226,2
+406,computation of dot product,326,2
+407,doubly stochastic matrix,142,1
+408,dual,512,1
+409,dual basis,512,1
+410,economic models input-output,128,1
+411,economic system,128,1
+412,edges,75,1
+413,eigenspace,"265, 303, 526, 584",1
+414,"eigenvalues, and determinants",145,2
+415,"eigenvalues, and diagonalizable matrices",179,2
+416,"eigenvalues, and eigenspace","265, 303",2
+417,"eigenvalues, and Google PageRank",189,2
+418,complex eigenvalues,"177, 306, 444",2
+419,"eigenvalues, complex matrix",465,2
+420,computation of eigenvalues,441,2
+421,"eigenvalues, deﬁned","173, 300",2
+422,"eigenvalues, dominant eigenvalue","185, 441",2
+423,"eigenvalues, iterative methods",441,2
+424,"eigenvalues, linear operator",526,2
+425,multiple eigenvalues,302,2
+426,"eigenvalues, multiplicity","180, 304",2
+427,"eigenvalues, power method",441,2
+428,real eigenvalues,307,2
+429,root of the characteristic polynomial,174,1
+430,solving for,174,1
+431,spectrum of the matrix,426,1
+432,symmetric linear operator on ﬁnite dimensional inner product space,560,1
+433,basic eigenvectors,175,2
+434,"eigenvector, complex matrix",465,2
+435,"eigenvector, deﬁned","173, 300",2
+436,dominant eigenvector,441,2
+437,"eigenvector, fractions",175,2
+438,"eigenvector, linear combination",442,2
+439,"eigenvector, linear operator",526,2
+440,"eigenvector, nonzero linear combination",175,2
+441,"eigenvector, nonzero multiple",175,2
+442,"eigenvector, nonzero vectors","265, 303",2
+443,"eigenvector, orthogonal basis",424,2
+444,orthogonal eigenvectors,"427, 465",2
+445,"eigenvector, orthonormal basis",561,2
+446,"eigenvector, principal axes",429,2
+447,electrical networks,29,1
+448,elementary matrix and inverses,96,1
+449,"elementary matrix and inverses, deﬁned",95,2
+450,"elementary matrix and inverses, LU-factorization",119,2
+451,"elementary matrix and inverses, operating corresponding to",95,2
+452,"elementary matrix and inverses, permutation matrix",123,2
+453,"elementary matrix and inverses, self-inverse",97,2
+454,"elementary matrix and inverses, Smith normal form",99,2
+455,"elementary matrix and inverses, uniqueness of reduced row-echelon form",100,2
+456,elementary operations,5,1
+457,elementary row operations corresponding,95,1
+458,"elementary row operations corresponding, inverses","7, 96",2
+459,"elementary row operations corresponding, matrices",5,2
+460,"elementary row operations corresponding, reversed",7,2
+461,"elementary row operations corresponding, scalar product",21,2
+462,"elementary row operations corresponding, sum",21,2
+463,elements of the set,263,1
+464,ellipse,491,1
+465,entries of the matrix,35,1
+466,"equal, columns",21,2
+467,"equal, complex number",597,2
+468,"equal, fractions",212,2
+469,"equal, functions",333,2
+470,"equal, linear transformations",668,2
+471,matrices,36,1
+472,polynomials,"332, 623",1
+473,sequences,406,1
+474,sets,263,1
+475,transformation,"59, 378",1
+476,equal modulo,474,1
+477,equilibrium,130,1
+478,equilibrium condition,130,1
+479,equilibrium price structures,130,1
+480,equivalence relation,298,1
+481,"equivalent, matrices",103,2
+482,"equivalent, statements",87,2
+483,"equivalent, systems of linear equations",4,2
+484,error,"314, 483",1
+485,error-correcting codes,472,1
+486,Euclid,"612, 615",1
+487,euclidean n-space,537,1
+488,euclidean algorithm,475,1
+489,euclidean geometry,282,1
+490,euclidean inner product,537,1
+491,Euler’s formula,602,1
+492,"Euler, Leonhard",602,1
+493,evaluation,"182, 309, 340, 376, 381, 410",1
+494,even function,579,1
+495,even parity,479,1
+496,even polynomial,354,1
+497,exact formula,184,1
+498,expansion theorem,"287, 548, 558",1
+499,expectation,500,1
+500,exponential function,"198, 404",1
+501,factor,"304, 625",1
+502,factor theorem,"363, 625",1
+503,feasible region,497,1
+504,Fibonacci sequence,195,1
+505,ﬁeld,"330, 474",1
+506,ﬁeld of integers modulo,475,1
+507,ﬁnite dimensional spaces,355,1
+508,ﬁnite ﬁelds,474,1
+509,ﬁnite sets,474,1
+510,ﬁxed axis,575,1
+511,ﬁxed hyperplane,575,1
+512,ﬁxed line,569,1
+513,ﬁxed plane,572,1
+514,ﬁxed vectors,576,1
+515,formal proofs,612,1
+516,forward substitution,119,1
+517,Fourier approximation,579,1
+518,Fourier coefﬁcients,"288, 548, 578, 579",1
+519,Fourier expansion,288,1
+520,Fourier series,580,1
+521,"Fourier, J.B.J.",548,1
+522,eigenvectors,175,1
+523,equal fractions,212,1
+524,ﬁeld,474,1
+525,probabilities,134,1
+526,free variables,14,1
+527,composition,396,1
+528,continuous functions,538,1
+529,deﬁned,332,1
+530,derivative,403,1
+531,differentiable function,"198, 340, 368, 402, 403",1
+532,equal,333,1
+533,even function,579,1
+534,exponential function,"198, 404",1
+535,objective function,"497, 499",1
+536,odd function,579,1
+537,of a complex variable,284,1
+538,pointwise addition,333,1
+539,real-valued,332,1
+540,scalar multiplication,333,1
+541,fundamental identities,"90, 398",1
+542,fundamental subspaces,452,1
+543,fundamental theorem,"276, 348",1
+544,fundamental theorem of algebra,"177, 306, 597",1
+545,Galois ﬁeld,476,1
+546,"Galton, Francis",324,1
+547,"Gauss, Carl Friedrich","11, 177",1
+548,gaussian algorithm,"11, 303, 474",1
+549,gaussian elimination deﬁned,14,1
+550,example,14,1
+551,LU-factorization,118,1
+552,normal equations,311,1
+553,scalar multiple,39,1
+554,systems of linear equations and,9,1
+555,general differential systems,199,1
+556,general solution,"2, 14, 200",1
+557,general theory of relativity,329,1
+558,generalized eigenspace,584,1
+559,generalized inverse,"312, 322",1
+560,generator,482,1
+561,geometric vectors deﬁned,212,1
+562,"geometric vectors deﬁned, described",212,2
+563,"geometric vectors deﬁned, difference",214,2
+564,"geometric vectors deﬁned, intrinsic descriptions",212,2
+565,"geometric vectors deﬁned, midpoint",216,2
+566,"geometric vectors deﬁned, parallelogram law",213,2
+567,"geometric vectors deﬁned, Pythagoras’ theorem",221,2
+568,"geometric vectors deﬁned, scalar multiple law","215, 217",2
+569,"geometric vectors deﬁned, scalar multiplication",215,2
+570,"geometric vectors deﬁned, scalar product",215,2
+571,"geometric vectors deﬁned, sum",213,2
+572,"geometric vectors deﬁned, tip-to-tail rule",213,2
+573,"geometric vectors deﬁned, unit vector",215,2
+574,"geometric vectors deﬁned, vector subtraction",214,2
+575,geometry,35,1
+576,Google PageRank,189,1
+577,Gram matrix,446,1
+578,"Gram, Jörgen Pederson",417,1
+579,Gram-Schmidt orthogonalization algorithm,"288, 417, 426, 428, 438, 520, 549",1
+580,"graphs, attractor",187,2
+581,"graphs, conic",21,2
+582,directed graphs,75,2
+583,"graphs, ellipse",491,2
+584,"graphs, hyperbola",491,2
+585,"graphs, linear dynamical system",187,2
+586,"graphs, saddle point",188,2
+587,"graphs, trajectory",187,2
+588,"Grassmann, Hermann",329,1
+589,group theory,35,1
+590,groups,566,1
+591,"Hamming (7,4)-code",485,1
+592,Hamming bound,479,1
+593,Hamming distance,477,1
+594,Hamming weight,477,1
+595,"Hamming, Richard",477,1
+596,heat conduction in solids,577,1
+597,"Hermite, Charles",464,1
+598,hermitian matrix,464,1
+599,higher-dimensional geometry,35,1
+600,Hilbert spaces,417,1
+601,"Hilbert, David",417,1
+602,hit,384,1
+603,homogeneous coordinates,260,1
+604,homogeneous equations associated homogeneous system,53,1
+605,"homogeneous equations associated homogeneous system, basic solutions",24,2
+606,"homogeneous equations associated homogeneous system, deﬁned",20,2
+607,"homogeneous equations associated homogeneous system, general solution",22,2
+608,"homogeneous equations associated homogeneous system, linear combinations",21,2
+609,"homogeneous equations associated homogeneous system, nontrivial solution","20, 173",2
+610,"homogeneous equations associated homogeneous system, trivial solution",20,2
+611,homogeneous system,24,1
+612,Hooke’s law,371,1
+613,Householder matrices,444,1
+614,hyperbola,491,1
+615,hyperplanes,"3, 575",1
+616,hypotenuse,612,1
+617,hypothesis,611,1
+618,idempotents,"79, 534",1
+619,identity matrix,"52, 56, 123",1
+620,identity operator,376,1
+621,identity transformation,"60, 116",1
+622,"image, of linear transformations","59, 381, 382",2
+623,"image, of the parallelogram",255,2
+624,image space,"264, 445",1
+625,imaginary axis,600,1
+626,imaginary parts,"403, 597",1
+627,imaginary unit,597,1
+628,implication,611,1
+629,implies,87,1
+630,inconsistent system,1,1
+631,independence,"271, 345",1
+632,independence test,272,1
+633,independent,"271, 345, 354",1
+634,independent lemma,354,1
+635,indeterminate,"332, 623",1
+636,index,494,1
+637,"induction, cofactor expansion theorem",205,2
+638,determination of induction,146,2
+639,mathematical induction,"105, 618",2
+640,"induction, on path of length r",76,2
+641,induction hypothesis,618,1
+642,inﬁnite dimensional,355,1
+643,initial condition,199,1
+644,initial state vector,137,1
+645,"inner product, and norms",541,2
+646,coordinate isomorphism,395,1
+647,deﬁned,537,1
+648,euclidean inner product,537,1
+649,positive deﬁnite n × n matrix,539,1
+650,properties of,539,1
+651,inner product space deﬁned,537,1
+652,"inner product space deﬁned, distance",541,2
+653,use of inner product space deﬁned,540,2
+654,"inner product space deﬁned, Fourier approximation",577,2
+655,"inner product space deﬁned, isometries",564,2
+656,"inner product space deﬁned, norms",541,2
+657,"inner product space deﬁned, orthogonal diagonalization",557,2
+658,"inner product space deﬁned, orthogonal sets of vectors",547,2
+659,"inner product space deﬁned, unit vector",541,2
+660,input-output economic models,128,1
+661,input-output matrix,130,1
+662,integers,"473, 611",1
+663,integers modulo,473,1
+664,integration,377,1
+665,interpolating polynomial,166,1
+666,intersection,"270, 360",1
+667,interval,332,1
+668,intrinsic descriptions,211,1
+669,invariance theorem,276,1
+670,invariant subspaces,522,1
+671,invariants,176,1
+672,inverse theorem,87,1
+673,"inverses, adjugate",160,2
+674,"inverses, and elementary matrices",96,2
+675,"inverses, and linear systems",82,2
+676,"inverses, and zero matrices",81,2
+677,"inverses, cancellation laws",85,2
+678,"inverses, complex number",598,2
+679,"inverses, Cramer’s Rule","158, 164",2
+680,"inverses, deﬁned",80,2
+681,"inverses, determinants","145, 158",2
+682,"inverses, elementary row operations","7, 96",2
+683,"inverses, ﬁnite ﬁelds",474,2
+684,"inverses, generalized inverse","312, 322",2
+685,"inverses, inverse theorem",87,2
+686,"inverses, inversion algorithm",83,2
+687,linear transformation,"90, 398",1
+688,matrix transformations,90,1
+689,Moore-Penrose inverse,322,1
+690,nonzero matrix,81,1
+691,properties of inverses,85,1
+692,application to,"83, 158",1
+693,inversion algorithm,83,1
+694,invertibility condition,158,1
+695,invertible matrix “mixed” cancellation,85,1
+696,deﬁned,80,1
+697,determinants,145,1
+698,left cancelled,85,1
+699,LU-factorization,125,1
+700,orthogonal matrices,439,1
+701,product of elementary matrix,97,1
+702,right cancelled,85,1
+703,involutions,531,1
+704,irreducible,606,1
+705,isometries,"251, 564, 565",1
+706,isomorphic,392,1
+707,isomorphism,"392, 508, 566",1
+708,Jacobi identity,249,1
+709,Jordan blocks,592,1
+710,Jordan canonical form,591,1
+711,Jordan canonical matrices,583,1
+712,"Jordan, Camille",594,1
+713,junction rule,"27, 30",1
+714,juvenile survival rate,171,1
+715,kernel,382,1
+716,kernel lemma,404,1
+717,Kirchhoff’s Laws,30,1
+718,Lagrange identity,245,1
+719,Lagrange interpolation expansion,"366, 549",1
+720,Lagrange polynomials,"365, 548",1
+721,"Lagrange, Joseph Louis",245,1
+722,"Lancaster, P.",130,1
+723,"Laplace, Pierre Simon de",148,1
+724,law of cosines,"227, 546",1
+725,law of exponents,602,1
+726,law of sines,250,1
+727,leading 1,10,1
+728,leading coefﬁcient,"332, 623",1
+729,leading column,120,1
+730,leading variables,14,1
+731,least squares approximating line,314,1
+732,least squares approximating polynomial,317,1
+733,least squares approximation,313,1
+734,least squares best approximation,319,1
+735,left cancelled invertible matrix,85,1
+736,Legendre polynomials,550,1
+737,"Legendre, A.M.",550,1
+738,Leibnitz,145,1
+739,lemma,96,1
+740,"length, geometric vector",212,2
+741,"length, linear recurrence",406,2
+742,"length, linear recurrence relation",193,2
+743,"length, norm, where dot product is used",463,2
+744,"length, norm, where dot product used",541,2
+745,path of length,75,2
+746,"length, recurrence",406,2
+747,"length, vector","210, 282, 463",2
+748,"Leontief, Wassily",128,1
+749,ﬁxed line,569,2
+750,"line, in space",218,2
+751,least squares approximating line,314,2
+752,parametric equations of a line,219,2
+753,perpendicular lines,226,2
+754,"line, point-slope formula",221,2
+755,shortest distance between nonparallel lines,238,2
+756,"straight, pair of line",491,2
+757,"line, through the origin",264,2
+758,vector equation of a line,218,2
+759,linear codes,479,1
+760,"linear combinations, and linear transformations",104,2
+761,"linear combinations, deﬁned","21, 104",2
+762,"linear combinations, eigenvectors",442,2
+763,"linear combinations, homogeneous equations","21, 63",2
+764,"linear combinations, of columns of coefﬁcient matrix",49,2
+765,"linear combinations, of orthogonal basis",288,2
+766,neous system,24,1
+767,spanning sets,"266, 341",1
+768,trivial,"271, 345",1
+769,unique,271,1
+770,vanishes,271,1
+771,vectors,341,1
+772,linear discrete dynamical system,172,1
+773,linear dynamical system,"172, 182",1
+774,"linear equation, conic graph",21,2
+775,"linear equation, constant term",1,2
+776,"linear equation, Cramer’s Rule",163,2
+777,"linear equation, deﬁned",1,2
+778,"linear equation, vs. linear inequalities",17,2
+779,"linear independence, dependent","273, 345, 358",2
+780,"linear independence, geometric description",274,2
+781,"linear independence, independent","271, 345, 354",2
+782,"linear independence, orthogonal sets","287, 548",2
+783,"linear independence, properties",347,2
+784,"linear independence, set of vectors","271, 345",2
+785,"linear independence, vector spaces",345,2
+786,linear inequalities,17,1
+787,"linear operator, B-matrix",513,2
+788,"linear operator, change matrix",513,2
+789,"linear operator, choice of basis",518,2
+790,"linear operator, deﬁned","250, 375, 512",2
+791,"linear operator, diagonalizable",557,2
+792,"linear operator, distance preserving",251,2
+793,"linear operator, distance preserving isometries",564,2
+794,"linear operator, eigenvalues",526,2
+795,"linear operator, eigenvector",526,2
+796,"linear operator, idempotents",534,2
+797,"linear operator, involutions",531,2
+798,"linear operator, isometries","251, 565",2
+799,"linear operator, on ﬁnite dimensional inner product space",557,2
+800,"linear operator, projection","251, 421, 564",2
+801,"linear operator, properties of matrices",516,2
+802,"linear operator, reducible",531,2
+803,"linear operator, reﬂections",251,2
+804,"linear operator, restriction",524,2
+805,"linear operator, rotations",254,2
+806,"linear operator, standard matrix",513,2
+807,"linear operator, symmetric",559,2
+808,"linear operator, transformations of areas and volumes",255,2
+809,linear programming,500,1
+810,,"670, 193, 406",1
+811,"linear recurrences, diagonalization",194,2
+812,"linear recurrences, length","193, 406",2
+813,"linear recurrences, linear transformations",405,2
+814,"linear recurrences, polynomials associated with the linear recurrence",408,2
+815,"linear recurrences, shift operator",410,2
+816,"linear recurrences, vector spaces",405,2
+817,linear system of differential equations,199,1
+818,"linear transformations, m× n matrix",503,2
+819,"linear transformations, action of a transformation",503,2
+820,"linear transformations, as category",397,2
+821,"linear transformations, as matrix transformation",503,2
+822,"linear transformations, association with matrix",503,2
+823,"linear transformations, composite","65, 108, 396",2
+824,"linear transformations, composition","396, 507",2
+825,"linear transformations, coordinate transformation",504,2
+826,"linear transformations, deﬁned","59, 104, 375, 379",2
+827,"linear transformations, described","35, 104",2
+828,"linear transformations, differentiation",377,2
+829,"linear transformations, dimension theorem",386,2
+830,"linear transformations, distance preserving",251,2
+831,"linear transformations, equal","59, 378",2
+832,"linear transformations, evaluation","376, 410",2
+833,"linear transformations, examples",375,2
+834,"linear transformations, fundamental identities",398,2
+835,"linear transformations, hit",384,2
+836,"linear transformations, identity operator",376,2
+837,"linear transformations, image","59, 382",2
+838,"linear transformations, in computer graphics",258,2
+839,"linear transformations, integration",377,2
+840,"linear transformations, inverses","90, 398",2
+841,"linear transformations, isomorphism",392,2
+842,"linear transformations, kernel",382,2
+843,"linear transformations, linear recurrences",405,2
+844,B and D,505,1
+845,matrix of a linear transformation,"376, 503",1
+846,matrix transformation induced,"59, 250",1
+847,another perspective on,104,1
+848,nullity,383,1
+849,nullspace,382,1
+850,of areas,255,1
+851,of volume,255,1
+852,one-to-one transformations,384,1
+853,onto transformations,384,1
+854,projections,"114, 251",1
+855,properties,377,1
+856,range,382,1
+857,rank,383,1
+858,reﬂections,"113, 251",1
+859,rotations,"111, 254",1
+860,scalar multiple law,110,1
+861,scalar operator,376,1
+862,zero transformation,"60, 376",1
+863,linearly dependent,"273, 345, 358",1
+864,linearly independent,"271, 345, 354",1
+865,logically equivalent,615,1
+866,lower reduced,119,1
+867,lower triangular matrix,"118, 154",1
+868,LU-algorithm,"121, 125",1
+869,LU-factorization,120,1
+870,magnitude,211,1
+871,main diagonal,"43, 118",1
+872,Markov chains,134,1
+873,"Markov, Andrei Andreyevich",134,1
+874,mathematical induction,"105, 618",1
+875,mathematical statistics,322,1
+876,matrices,35,1
+877,matrix,35,1
+878,"(i, j)-entry",35,1
+879,adjacency matrix,75,1
+880,augmented matrix,"3, 4, 14",1
+881,block matrix,73,1
+882,change matrix,513,1
+883,coefﬁcient matrix,"4, 163",1
+884,column matrix,35,1
+885,companion matrix,157,1
+886,congruent matrices,493,1
+887,conjugate matrix,307,1
+888,constant matrix,4,1
+889,covariance matrix,501,1
+890,deﬁned,"3, 35",1
+891,demand matrix,131,1
+892,diagonal matrices,"45, 79, 172, 178, 516",1
+893,diagonalizable matrix,178,1
+894,diagonalizing matrix,178,1
+895,doubly stochastic matrix,142,1
+896,elementary matrix,95,1
+897,elementary row operations,5,1
+898,entries of the matrix,"35, 36",1
+899,equal matrices,36,1
+900,equivalent matrices,103,1
+901,Gram,446,1
+902,hermitian matrix,464,1
+903,Householder matrices,444,1
+904,identity matrix,"52, 56",1
+905,input-output matrix,130,1
+906,invertible matrix,80,1
+907,association with,503,1
+908,lower triangular matrix,"118, 154",1
+909,migration,184,1
+910,Moore-Penrose inverse,457,1
+911,nilpotent matrix,190,1
+912,orthogonal matrix,"160, 424",1
+913,orthonormal matrix,424,1
+914,over ﬁnite ﬁeld,482,1
+915,parity-check matrices,482,1
+916,partitioned into blocks,73,1
+917,permutation matrix,"123, 432, 521",1
+918,polar decomposition,455,1
+919,positive,455,1
+920,positive semi-deﬁnite,455,1
+921,projection matrix,"63, 432",1
+922,pseudoinverse,457,1
+923,rank,"16, 291",1
+924,reduced row-echelon matrix,"10, 100",1
+925,regular stochastic matrix,139,1
+926,row matrix,35,1
+927,row-echelon matrix,"10, 290",1
+928,row-equivalent,103,1
+929,shapes,35,1
+930,similar matrices,298,1
+931,singular matrix,448,1
+932,spectrum,426,1
+933,standard generator,482,1
+934,standard matrix,513,1
+935,stochastic matrices,"130, 136",1
+936,submatrix,298,1
+937,subtracting,38,1
+938,systemic generator,482,1
+939,transition matrix,135,1
+940,transpose,42,1
+941,triangular matrices,"118, 154",1
+942,unitary matrix,466,1
+943,upper triangular matrix,"118, 154, 467",1
+944,Vandermonde matrix,153,1
+945,zero matrix,38,1
+946,"zeros, creating in matrix",149,1
+947,matrix addition,37,1
+948,"matrix algebra, dot product",54,2
+949,"matrix algebra, elementary matrix",95,2
+950,"matrix algebra, application to",128,2
+951,"matrix algebra, inverses",80,2
+952,"matrix algebra, LU-factorization",121,2
+953,"matrix algebra, Markov chains application to",134,2
+954,"matrix algebra, matrices as entities",39,2
+955,"matrix algebra, matrix addition",37,2
+956,"matrix algebra, matrix multiplication",64,2
+957,"matrix algebra, matrix subtraction",38,2
+958,"matrix algebra, matrix-vector multiplication","49, 64",2
+959,"matrix algebra, numerical division",80,2
+960,"matrix algebra, scalar multiplication",39,2
+961,"matrix algebra, size of matrices",35,2
+962,"matrix algebra, transformations",58,2
+963,"matrix algebra, transpose of a matrix",42,2
+964,usefulness of matrix algebra,35,2
+965,"matrix form, deﬁned",50,2
+966,"matrix form, reduced row-echelon form","10, 11, 100",2
+967,"matrix form, row-echelon form","10, 11",2
+968,"matrix form, upper Hessenberg form",444,2
+969,matrix generators,481,1
+970,matrix inversion algorithm,"83, 98",1
+971,"matrix multiplication, and composition of transformations",65,2
+972,"matrix multiplication, associative law",71,2
+973,"matrix multiplication, block",73,2
+974,commute,"69, 72",1
+975,compatibility rule,68,1
+976,deﬁnition,66,1
+977,directed graphs,75,1
+978,distributive laws,71,1
+979,dot product rule,67,1
+980,left-multiplication,87,1
+981,matrix of composite of two linear transformations,108,1
+982,matrix products,66,1
+983,non-commutative,87,1
+984,order of the factors,71,1
+985,results of,67,1
+986,right-multiplication,87,1
+987,matrix of T corresponding to the ordered bases B and D,505,1
+988,matrix of a linear transformation,503,1
+989,matrix recurrence,172,1
+990,matrix theory,35,1
+991,matrix transformation induced,"59, 104, 250",1
+992,matrix transformations,90,1
+993,matrix-vector products,49,1
+994,"mean, ”average” of the sample values",322,2
+995,"mean, calculation",500,2
+996,sample mean,322,2
+997,"median, tetrahedron",225,2
+998,"median, triangle",225,2
+999,messages,481,1
+1000,metric,397,1
+1001,midpoint,216,1
+1002,migration matrix,184,1
+1003,minimum distance,478,1
+1004,modular arithmetic,473,1
+1005,modulo,473,1
+1006,modulus,"473, 599",1
+1007,Moore-Penrose inverse,"322, 457",1
+1008,morphisms,397,1
+1009,block multiplication,73,2
+1010,"multiplication, compatible","68, 74",2
+1011,matrix multiplication,64,2
+1012,matrix-vector multiplication,48,2
+1013,"multiplication, matrix-vector products",49,2
+1014,scalar multiplication,"39, 330, 332",2
+1015,multiplication rule,603,1
+1016,multiplicity,"180, 304, 410, 625",1
+1017,multivariate analysis,501,1
+1018,nearest neighbour decoding,478,1
+1019,correlation,324,1
+1020,of m× n matrix,38,1
+1021,vector,"47, 330",1
+1022,negative x,47,1
+1023,negative x-shear,61,1
+1024,network ﬂow,27,1
+1025,"Newton, Sir Isaac",11,1
+1026,"Nicholson, W. Keith",475,1
+1027,nilpotent,"190, 592",1
+1028,noise,472,1
+1029,nonleading variable,20,1
+1030,nonlinear recurrences,196,1
+1031,nontrivial solution,"20, 173",1
+1032,nonzero scalar multiple of a basic solution,24,1
+1033,nonzero vectors,"217, 284",1
+1034,norm,"463, 541",1
+1035,normal,"233, 469",1
+1036,normal equations,311,1
+1037,normalizing the orthogonal set,"286, 547",1
+1038,null space,264,1
+1039,nullity,383,1
+1040,nullspace,382,1
+1041,objective function,"497, 499",1
+1042,objects,397,1
+1043,odd function,579,1
+1044,odd polynomial,354,1
+1045,Ohm’s Law,30,1
+1046,one-to-one transformations,384,1
+1047,onto transformations,384,1
+1048,open model of the economy,131,1
+1049,open sector,131,1
+1050,ordered n-tuple,"47, 275",1
+1051,ordered basis,"503, 505",1
+1052,origin,209,1
+1053,orthocentre,262,1
+1054,orthogonal basis,"416, 549",1
+1055,orthogonal codes,484,1
+1056,orthogonal complement,"418, 484, 551",1
+1057,orthogonal diagonalization,"424, 557",1
+1058,orthogonal hermitian matrix,465,1
+1059,orthogonal lemma,"415, 549",1
+1060,orthogonal matrix,"160, 424",1
+1061,orthogonal projection,"420, 552",1
+1062,orthogonal set of vectors,"466, 547",1
+1063,orthogonal sets,"285, 415",1
+1064,orthogonal vectors,"229, 285, 466, 547",1
+1065,"orthogonality, complex matrices",461,2
+1066,"orthogonality, constrained optimization",497,2
+1067,"orthogonality, dot product",282,2
+1068,"eigenvalues, computation of orthogonality",441,2
+1069,"orthogonality, expansion theorem",548,2
+1070,"orthogonality, ﬁnite ﬁelds",474,2
+1071,"orthogonality, Fourier expansion",288,2
+1072,"orthogonality, Gram-Schmidt orthogonalization algorithm","417, 426, 428, 438, 520, 549",2
+1073,"orthogonality, normalizing the orthogonal set",286,2
+1074,"orthogonality, orthogonal codes",484,2
+1075,"orthogonality, orthogonal complement","418, 484",2
+1076,"orthogonality, orthogonal diagonalization",424,2
+1077,"orthogonality, orthogonal projection",420,2
+1078,"orthogonality, orthogonal sets","285, 415",2
+1079,"orthogonality, orthogonally similar",431,2
+1080,"orthogonality, positive deﬁnite matrix",433,2
+1081,"orthogonality, principal axes theorem",425,2
+1082,"orthogonality, projection theorem",311,2
+1083,"orthogonality, Pythagoras’ theorem",286,2
+1084,"orthogonality, QR-algorithm",443,2
+1085,"orthogonality, QR-factorization",437,2
+1086,"orthogonality, quadratic forms","429, 487",2
+1087,"orthogonality, real spectral theorem",426,2
+1088,"orthogonality, statistical principal component analysis",500,2
+1089,"orthogonality, triangulation theorem",430,2
+1090,orthogonally diagonalizable,425,1
+1091,orthogonally similar,431,1
+1092,orthonormal basis,"550, 559",1
+1093,orthonormal matrix,424,1
+1094,orthonormal set,"466, 547",1
+1095,orthonormal vector,285,1
+1096,PageRank,189,1
+1097,paired samples,324,1
+1098,parabola,491,1
+1099,parallel,217,1
+1100,parallelepiped,"247, 255",1
+1101,"parallelogram, area equal to zero",246,2
+1102,"parallelogram, deﬁned","110, 212",2
+1103,"parallelogram, determined by geometric vectors",212,2
+1104,"parallelogram, image",255,2
+1105,"parallelogram, law","110, 212, 601",2
+1106,"parallelogram, rhombus",230,2
+1107,parameters,"2, 14",1
+1108,parametric equations of a line,219,1
+1109,parametric form,2,1
+1110,parity digits,482,1
+1111,parity-check code,479,1
+1112,parity-check matrices,482,1
+1113,Parseval’s formula,556,1
+1114,particle physics,499,1
+1115,partitioned into blocks,73,1
+1116,path of length,75,1
+1117,"Peano, Guiseppe",329,1
+1118,Pearson correlation coefﬁcient,324,1
+1119,perfect code,479,1
+1120,period,371,1
+1121,permutation matrix,"123, 432, 521",1
+1122,perpendicular lines,226,1
+1123,physical dynamics,469,1
+1124,pigeonhole principle,614,1
+1125,"Pisano, Leonardo",195,1
+1126,planes,"233, 264",1
+1127,"Pless, V.",484,1
+1128,PLU-factorization,124,1
+1129,point-slope formula,221,1
+1130,pointwise addition,"332, 333",1
+1131,polar decomposition,455,1
+1132,polar form,601,1
+1133,"polynomials, as matrix entries and determinants",152,2
+1134,"polynomials, associated with the linear recurrence",408,2
+1135,"polynomials, coefﬁcients","319, 332, 623",2
+1136,"polynomials, companion matrix",157,2
+1137,"polynomials, complex roots","177, 465, 626",2
+1138,"polynomials, constant",623,2
+1139,"polynomials, deﬁned","331, 623",2
+1140,"polynomials, degree of the polynomial","332, 623",2
+1141,"polynomials, distinct degrees",347,2
+1142,", division algorithm",625,1
+1143,", equal","332, 623",1
+1144,", evaluation","182, 340",1
+1145,", even",354,1
+1146,", factor theorem",625,1
+1147,", form",623,1
+1148,", indeterminate",623,1
+1149,", interpolating the polynomial",165,1
+1150,", Lagrange polynomials","365, 548",1
+1151,", leading coefﬁcient","332, 623",1
+1152,", least squares approximating polynomial",317,1
+1153,", Legendre polynomials",550,1
+1154,", nonconstant polynomial with complex coefﬁcients",306,1
+1155,", odd",354,1
+1156,", remainder theorem",624,1
+1157,", root","174, 441, 597",1
+1158,", root of characteristic polynomial","174, 368",1
+1159,", Taylor’s theorem",364,1
+1160,", vector spaces","331, 363",1
+1161,", with no root","625, 626",1
+1162,", zero polynomial",623,1
+1163,position vector,213,1
+1164,positive x-shear,61,1
+1165,positive correlation,323,1
+1166,positive deﬁnite,"433, 497",1
+1167,positive deﬁnite matrix,"433, 539",1
+1168,positive matrix,455,1
+1169,positive semi-deﬁnite matrix,455,1
+1170,positive semideﬁnite,501,1
+1171,power method,"441, 442",1
+1172,power sequences,406,1
+1173,practical problems,1,1
+1174,preimage,381,1
+1175,prime,"474, 614",1
+1176,principal argument,601,1
+1177,principal axes,"426, 489",1
+1178,principal axes theorem,"425, 465, 468, 498, 561",1
+1179,principal components,501,1
+1180,principal submatrices,434,1
+1181,probabilities,134,1
+1182,probability law,500,1
+1183,probability theory,501,1
+1184,"product, complex number",600,2
+1185,determinant of product of matrices,158,1
+1186,dot product,226,1
+1187,matrix products,66,1
+1188,matrix-vector products,49,1
+1189,scalar product,226,1
+1190,standard inner product,462,1
+1191,theorem,"158, 168",1
+1192,product rule,404,1
+1193,linear operator,564,1
+1194,linear operators,251,1
+1195,orthogonal projection,"420, 552",1
+1196,projection matrix,"63, 423, 432",1
+1197,"U, with kernel W",551,2
+1198,projection theorem,"311, 420, 552",1
+1199,projections,"114, 230, 418",1
+1200,by contradiction,613,1
+1201,deﬁned,611,1
+1202,direct proof,611,1
+1203,formal proofs,612,1
+1204,reduction to cases,613,1
+1205,proper subspace,"263, 279",1
+1206,pseudoinverse,457,1
+1207,pure imaginary numbers,597,1
+1208,Pythagoras,"221, 612",1
+1209,Pythagoras’ theorem,"221, 228, 286, 547, 612",1
+1210,QR-algorithm,443,1
+1211,QR-factorization,438,1
+1212,quadratic equation,497,1
+1213,quadratic form,"429, 487, 541",1
+1214,quadratic formula,606,1
+1215,quotient,473,1
+1216,radian measure,"111, 601",1
+1217,random variable,500,1
+1218,range,382,1
+1219,linear transformation,"383, 508",1
+1220,matrix,"16, 291, 383",1
+1221,quadratic form,494,1
+1222,similarity invariant,518,1
+1223,symmetric matrix,494,1
+1224,theorem,291,1
+1225,rational numbers,330,1
+1226,Rayleigh quotients,442,1
+1227,real axis,600,1
+1228,real Jordan canonical form,593,1
+1229,real numbers,"1, 47, 330, 332, 461, 465, 474",1
+1230,real parts,"403, 597",1
+1231,real quadratic,606,1
+1232,real spectral theorem,426,1
+1233,recurrence,193,1
+1234,recursive algorithm,11,1
+1235,recursive sequence,193,1
+1236,reduced row-echelon form,"10, 11, 100",1
+1237,reduced row-echelon matrix,"10, 11",1
+1238,reducible,531,1
+1239,reduction to cases,613,1
+1240,"reﬂections, about a line through the origin",160,2
+1241,"reﬂections, ﬁxed hyperplane",575,2
+1242,"reﬂections, ﬁxed line",569,2
+1243,"reﬂections, ﬁxed plane",572,2
+1244,"reﬂections, isometries",568,2
+1245,"reﬂections, linear operators",251,2
+1246,"reﬂections, linear transformations",113,2
+1247,regular representation,522,1
+1248,regular stochastic matrix,139,1
+1249,remainder,473,1
+1250,remainder theorem,"363, 624",1
+1251,repellor,187,1
+1252,reproduction rate,171,1
+1253,restriction,524,1
+1254,reversed,7,1
+1255,rhombus,230,1
+1256,right cancelled invertible matrix,85,1
+1257,right-hand coordinate systems,247,1
+1258,right-hand rule,248,1
+1259,"root, of characteristic polynomial","174, 368, 369",2
+1260,"root, of polynomials","340, 441, 597",2
+1261,"root, of the quadratic",606,2
+1262,roots of unity,604,1
+1263,rotation,575,1
+1264,"rotations, about a line through the origin",519,2
+1265,and orthogonal matrices,160,1
+1266,axis,572,1
+1267,describing rotations,111,1
+1268,ﬁxed axis,575,1
+1269,isometries,568,1
+1270,linear operators,254,1
+1271,linear transformations,111,1
+1272,round-off error,175,1
+1273,row matrix,35,1
+1274,row space,290,1
+1275,row-echelon form,"10, 11",1
+1276,row-echelon matrix,"10, 11",1
+1277,row-equivalent matrices,103,1
+1278,"rows, (i, j)-entry",35,2
+1279,"rows, as notations for ordered ntuples",275,2
+1280,"rows, convention",36,2
+1281,"rows, elementary row operations",5,2
+1282,"rows, leading 1",10,2
+1283,"rows, shape of matrix",35,2
+1284,"rows, Smith normal form",99,2
+1285,zero rows,10,2
+1286,saddle point,188,1
+1287,same action,"59, 333, 378",1
+1288,analysis of sample,322,2
+1289,comparison of two samples,323,2
+1290,"sample, deﬁned",322,2
+1291,paired samples,324,2
+1292,sample correlation coefﬁcient,324,1
+1293,sample mean,322,1
+1294,sample standard deviation,323,1
+1295,sample variance,323,1
+1296,sample vector,322,1
+1297,satisfy the relation,406,1
+1298,scalar,"39, 330, 474",1
+1299,scalar equation of a plane,233,1
+1300,scalar matrix,143,1
+1301,scalar multiple law,"110, 215, 217",1
+1302,scalar multiples,"21, 39, 110",1
+1303,"scalar multiplication, axioms",330,2
+1304,"scalar multiplication, basic properties",334,2
+1305,"scalar multiplication, closed under","47, 330",2
+1306,closed under scalar multiplication,263,2
+1307,described,39,1
+1308,distributive laws,41,1
+1309,geometric vectors,215,1
+1310,geometrical description,110,1
+1311,of functions,333,1
+1312,preserving scalar multiplication,104,1
+1313,vectors,330,1
+1314,scalar operator,376,1
+1315,"scalar product, deﬁned",226,2
+1316,"scalar product, elementary row operations",21,2
+1317,"scalar product, geometric vectors",215,2
+1318,scatter diagram,323,1
+1319,"Schmidt, Erhardt",417,1
+1320,Schur’s theorem,467,1
+1321,"Schur, Issai",467,1
+1322,second-order differential equation,"368, 402",1
+1323,"Seneta, E.",130,1
+1324,"sequence, Fibonacci",195,2
+1325,constant sequences,406,2
+1326,"sequences, equal",406,2
+1327,"sequences, Fibonacci",195,2
+1328,"sequences, linear recurrences",192,2
+1329,"sequences, notation",406,2
+1330,"sequences, of column vectors",172,2
+1331,"sequences, ordered sequence of real numbers",47,2
+1332,power sequences,406,2
+1333,"sequences, recursive sequence",193,2
+1334,"sequences, satisfy the relation",406,2
+1335,set,263,1
+1336,set notation,264,1
+1337,"set of all ordered n-tuples (Rn), n-tuples",290,2
+1338,"set of all ordered n-tuples (Rn), as inner product space",537,2
+1339,"set of all ordered n-tuples (Rn), closed under addition and scalar multiplication",47,2
+1340,"set of all ordered n-tuples (Rn), complex eigenvalues",306,2
+1341,"set of all ordered n-tuples (Rn), dimension",276,2
+1342,"set of all ordered n-tuples (Rn), dot product","282, 462",2
+1343,"set of all ordered n-tuples (Rn), expansion theorem",287,2
+1344,"set of all ordered n-tuples (Rn), linear independence",271,2
+1345,"set of all ordered n-tuples (Rn), linear operators",250,2
+1346,"set of all ordered n-tuples (Rn), notation",47,2
+1347,"set of all ordered n-tuples (Rn), orthogonal sets",285,2
+1348,projection on,421,1
+1349,rank of a matrix,291,1
+1350,rules of matrix arithmetic,330,1
+1351,similar matrices,298,1
+1352,spanning sets,266,1
+1353,special types of matrices,330,1
+1354,standard basis,106,1
+1355,subspaces,"263, 331",1
+1356,symmetric matrix,307,1
+1357,"Shannon, Claude",477,1
+1358,shift operator,410,1
+1359,shifting,444,1
+1360,sign,146,1
+1361,similar matrices,298,1
+1362,similarity invariant,518,1
+1363,simple harmonic motions,371,1
+1364,simplex algorithm,"17, 500",1
+1365,sine,"111, 601",1
+1366,single vector equation,48,1
+1367,singular matrix,448,1
+1368,singular value decomposition,"445, 451",1
+1369,singular values,447,1
+1370,size m× n matrix,35,1
+1371,skew-hermitian,471,1
+1372,skew-symmetric,"46, 528, 563",1
+1373,Smith normal form,99,1
+1374,algebraic method,"4, 9",1
+1375,basic solutions,"24, 454",1
+1376,best approximation to,310,1
+1377,consistent system,"1, 16",1
+1378,general solution,"2, 14",1
+1379,geometric description,3,1
+1380,in parametric form,2,1
+1381,inconsistent system,1,1
+1382,nontrivial solution,"20, 173",1
+1383,solution to a system,"1, 14",1
+1384,to linear equation,1,1
+1385,trivial solution,20,1
+1386,solution to a system,1,1
+1387,span,"266, 341",1
+1388,spanning sets,"266, 341",1
+1389,spectral theorem,468,1
+1390,spectrum,426,1
+1391,sphere,499,1
+1392,spring constant,371,1
+1393,square matrix (n × n matrix) characteristic polynomial,"173, 469",1
+1394,cofactor matrix,160,1
+1395,deﬁned,35,1
+1396,determinants,"81, 145, 159",1
+1397,diagonal matrices,"79, 172",1
+1398,diagonalizable matrix,"178, 516",1
+1399,diagonalizing matrix,178,1
+1400,elementary matrix,95,1
+1401,hermitian matrix,464,1
+1402,idempotent,79,1
+1403,identity matrix,"52, 56",1
+1404,invariants,176,1
+1405,lower triangular matrix,154,1
+1406,matrix of an operator,516,1
+1407,nilpotent matrix,190,1
+1408,orthogonal matrix,160,1
+1409,positive deﬁnite matrix,"433, 539",1
+1410,regular representation of complex numbers,522,1
+1411,scalar matrix,143,1
+1412,similarity invariant,518,1
+1413,skew-symmetric,46,1
+1414,square,79,1
+1415,trace,299,1
+1416,triangular matrix,154,1
+1417,unitary matrix,466,1
+1418,upper triangular matrix,154,1
+1419,staircase form,10,1
+1420,standard basis,"106, 268, 272, 277, 278, 349, 461",1
+1421,standard deviation,501,1
+1422,standard generator,482,1
+1423,standard inner product,462,1
+1424,standard matrix,513,1
+1425,standard position,"110, 601",1
+1426,state vectors,137,1
+1427,statistical principal component analysis,500,1
+1428,steady-state vector,140,1
+1429,stochastic matrices,"130, 136",1
+1430,structure theorem,570,1
+1431,submatrix,298,1
+1432,subset,263,1
+1433,subspace test,339,1
+1434,matrix,264,1
+1435,basis,276,1
+1436,closed under addition,263,1
+1437,closed under scalar multiplication,263,1
+1438,column space,445,1
+1439,complex subspace,470,1
+1440,deﬁned,"263, 338",1
+1441,dimension,276,1
+1442,eigenspace,303,1
+1443,fundamental,452,1
+1444,fundamental theorem,276,1
+1445,image,"381, 382, 445",1
+1446,intersection,"270, 360",1
+1447,invariance theorem,276,1
+1448,invariant subspaces,523,1
+1449,kernel,382,1
+1450,planes and lines through the origin,264,1
+1451,projection,420,1
+1452,proper subspace,263,1
+1453,spanning sets,266,1
+1454,subspace test,339,1
+1455,sum,"270, 360",1
+1456,vector spaces,338,1
+1457,zero subspace,"263, 339",1
+1458,"subtraction, complex number",597,2
+1459,"subtraction, matrix",38,2
+1460,"subtraction, vector",214,2
+1461,algebraic sum,30,2
+1462,"sum, complex number",601,2
+1463,direct sum,"360, 528",2
+1464,"sum, elementary row operations",21,2
+1465,"sum, geometric vectors",213,2
+1466,"sum, geometrical description",110,2
+1467,"sum, matrices of the same size",37,2
+1468,"sum, matrix addition",37,2
+1469,"sum, of product of matrix entries",152,2
+1470,"sum, of scalar multiples",21,2
+1471,"sum, of two vectors",330,2
+1472,"sum, of vectors in two subspaces",528,2
+1473,"sum, subspaces","270, 360",2
+1474,"sum, subspaces of a vector space",360,2
+1475,"sum, variances of set of random variables",502,2
+1476,summation notation,205,1
+1477,Sylvester’s Law of Inertia,494,1
+1478,symmetric bilinear form,497,1
+1479,symmetric form,"225, 487",1
+1480,symmetric linear operator,559,1
+1481,,"674, 307",1
+1482,", congruence",493,1
+1483,", deﬁned",43,1
+1484,", index",494,1
+1485,", orthogonal eigenvectors",425,1
+1486,", positive deﬁnite",433,1
+1487,", rank and index",494,1
+1488,", real eigenvalues",307,1
+1489,syndrome,483,1
+1490,syndrome decoding,483,1
+1491,system of linear equations algebraic method,4,1
+1492,"system of linear equations algebraic method, associated homogeneous system",53,2
+1493,"system of linear equations algebraic method, augmented matrix",3,2
+1494,"system of linear equations algebraic method, chemical reactions application to",32,2
+1495,"system of linear equations algebraic method, coefﬁcient matrix",4,2
+1496,"system of linear equations algebraic method, consistent system","1, 16",2
+1497,"system of linear equations algebraic method, constant matrix",4,2
+1498,"system of linear equations algebraic method, deﬁned",1,2
+1499,"system of linear equations algebraic method, electrical networks application to",29,2
+1500,"system of linear equations algebraic method, elementary operations",5,2
+1501,"system of linear equations algebraic method, equivalent systems",4,2
+1502,"system of linear equations algebraic method, gaussian elimination","9, 14",2
+1503,"system of linear equations algebraic method, general solution",2,2
+1504,"system of linear equations algebraic method, homogeneous equations",20,2
+1505,"system of linear equations algebraic method, inconsistent system",1,2
+1506,"system of linear equations algebraic method, inﬁnitely many solutions",3,2
+1507,"system of linear equations algebraic method, inverses and",82,2
+1508,"system of linear equations algebraic method, matrix multiplication",70,2
+1509,"system of linear equations algebraic method, network ﬂow application",27,2
+1510,"system of linear equations algebraic method, no solution",3,2
+1511,"system of linear equations algebraic method, nontrivial solution",20,2
+1512,"system of linear equations algebraic method, normal equations",311,2
+1513,"system of linear equations algebraic method, positive integers",32,2
+1514,"system of linear equations algebraic method, rank of a matrix",16,2
+1515,"system of linear equations algebraic method, solutions",1,2
+1516,"system of linear equations algebraic method, trivial solution",20,2
+1517,"system of linear equations algebraic method, unique solution",3,2
+1518,"system of linear equations algebraic method, with m×n coefﬁcient matrix",49,2
+1519,systematic generator,482,1
+1520,tail,212,1
+1521,Taylor’s theorem,"364, 515",1
+1522,tetrahedron,225,1
+1523,theorems,615,1
+1524,theory of Hilbert spaces,417,1
+1525,third-order differential equation,"368, 402",1
+1526,"time, functions of",172,1
+1527,tip,212,1
+1528,tip-to-tail rule,213,1
+1529,total variance,502,1
+1530,trace,"79, 299, 376, 518",1
+1531,trajectory,187,1
+1532,action,"59, 503",1
+1533,composite,65,1
+1534,deﬁning,59,1
+1535,described,59,1
+1536,equal,59,1
+1537,identity transformation,60,1
+1538,matrix transformation,59,1
+1539,zero transformation,60,1
+1540,transition matrix,"135, 136",1
+1541,transition probabilities,"134, 136",1
+1542,translation,"61, 380, 564",1
+1543,transpose of a matrix,42,1
+1544,transposition,"42, 376",1
+1545,altitude,262,1
+1546,centroid,225,1
+1547,hypotenuse,612,1
+1548,inequality,"244, 284, 599",1
+1549,median,225,1
+1550,orthocentre,262,1
+1551,triangle inequality,"244, 543, 599",1
+1552,triangular matrices,"118, 154",1
+1553,triangulation algorithm,586,1
+1554,triangulation theorem,430,1
+1555,trigonometric functions,111,1
+1556,trivial linear combinations,"271, 345",1
+1557,trivial solution,20,1
+1558,uncorrelated,501,1
+1559,unit ball,"499, 541",1
+1560,unit circle,"110, 542, 601",1
+1561,unit cube,256,1
+1562,unit square,256,1
+1563,unit triangular,128,1
+1564,unit vector,"215, 282, 463, 541",1
+1565,unitarily diagonalizable,467,1
+1566,unitary diagonalization,467,1
+1567,unitary matrix,466,1
+1568,upper Hessenberg form,444,1
+1569,upper triangular matrix,"118, 154, 467",1
+1570,Vandermonde determinant,167,1
+1571,Vandermonde matrix,153,1
+1572,variance,"322, 501",1
+1573,variance formula,326,1
+1574,vector addition,"330, 601",1
+1575,vector equation of a line,218,1
+1576,vector equation of a plane,234,1
+1577,"vector geometry, angle between two vectors",228,2
+1578,"vector geometry, computer graphics",258,2
+1579,"vector geometry, cross product",236,2
+1580,"vector geometry, deﬁned",209,2
+1581,"vector geometry, direction vector",218,2
+1582,"vector geometry, line perpendicular to plane",226,2
+1583,"vector geometry, linear operators",250,2
+1584,"vector geometry, lines in space",218,2
+1585,"vector geometry, planes",233,2
+1586,"vector geometry, projections",231,2
+1587,"vector geometry, symmetric form",225,2
+1588,"vector geometry, vector equation of a line",218,2
+1589,vector product,236,1
+1590,vector quantities,211,1
+1591,"vector spaces, ","3, 209",2
+1592,"vector spaces, abstract",329,2
+1593,"vector spaces, as category",397,2
+1594,"vector spaces, axioms","330, 333, 335",2
+1595,"vector spaces, basic properties",329,2
+1596,"vector spaces, basis",349,2
+1597,"vector spaces, cancellation",333,2
+1598,"vector spaces, continuous functions",538,2
+1599,"vector spaces, deﬁned",330,2
+1600,"vector spaces, differential equations",368,2
+1601,"vector spaces, dimension",349,2
+1602,"vector spaces, direct sum",528,2
+1603,"vector spaces, examples",329,2
+1604,"vector spaces, ﬁnite dimensional spaces",354,2
+1605,"vector spaces, inﬁnite dimensional",355,2
+1606,"vector spaces, introduction of concept",329,2
+1607,"vector spaces, isomorphic",392,2
+1608,"vector spaces, linear independence",345,2
+1609,"vector spaces, linear recurrences",405,2
+1610,"vector spaces, linear transformations",375,2
+1611,"vector spaces, polynomials","331, 363",2
+1612,basic properties of vector spaces,334,2
+1613,"vector spaces, spanning sets",341,2
+1614,subspaces,"338, 360",1
+1615,theory of vector spaces,333,1
+1616,zero vector space,336,1
+1617,"vectors, addition",330,2
+1618,"vectors, arrow representation",58,2
+1619,column vectors,172,2
+1620,"vectors, complex matrices",461,2
+1621,coordinate vectors,"215, 236, 256, 268, 504",2
+1622,"vectors, deﬁned","47, 330, 461",2
+1623,difference of vectors,334,2
+1624,direction of vectors,211,2
+1625,"vectors, direction vector",218,2
+1626,ﬁxed vectors,576,2
+1627,"vectors, initial state vector",137,2
+1628,"vectors, intrinsic descriptions",211,2
+1629,"vectors, length","212, 282, 463, 541",2
+1630,"vectors, matrix recurrence",172,2
+1631,"vectors, matrix-vector multiplication",48,2
+1632,"vectors, matrix-vector products",49,2
+1633,"vectors, negative",47,2
+1634,"vectors, nonzero",217,2
+1635,orthogonal vectors,"229, 285, 466, 547",2
+1636,"vectors, orthonormal vector","285, 466",2
+1637,"vectors, position vector",213,2
+1638,"vectors, sample vector",322,2
+1639,"vectors, scalar multiplication",330,2
+1640,"vectors, single vector equation",48,2
+1641,"vectors, state vector",135,2
+1642,"vectors, steady-state vector",140,2
+1643,"vectors, subtracted",334,2
+1644,sum of two vectors,330,2
+1645,"vectors, unit vector","215, 282, 463",2
+1646,"vectors, zero n-vector",47,2
+1647,"vectors, zero vector","263, 330",2
+1648,velocity,211,1
+1649,vertices,75,1
+1650,vibrations,499,1
+1651,linear transformations of volume,255,2
+1652,"volume, of parallelepiped","247, 255",2
+1653,"Weyl, Hermann",329,1
+1654,whole number,611,1
+1655,"Wilf, Herbert S.",189,1
+1656,words,477,1
+1657,wronskian,373,1
+1658,zero n-vector,47,1
+1659,"zero matrix, described",38,2
+1660,"zero matrix, no inverse",81,2
+1661,scalar multiplication,40,1
+1662,zero polynomial,332,1
+1663,zero rows,10,1
+1664,zero subspace,"263, 339",1
+1665,zero transformation,"60, 117, 376",1
+1666,zero vector,"263, 330",1
+1667,zero vector space,336,1

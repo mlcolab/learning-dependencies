@@ -1,0 +1,481 @@
+,concept,pages
+0,Adjoint classical,"148, 159"
+1,Adjoint of transformation,295
+2,Admissible subspace,232
+3,Algebra,117
+4,Algebra of formal power serie�,119
+5,self-adjoint Algebra,345
+6,Algebraically closed field,138
+7,Alternating n-linear function,"144, 169"
+8,Annihilator of subset,101
+9,Annihilator of sum and intersection,106
+10,Annihilator of vector ( T-annihilator),"201, 202, 228"
+11,Approximation,283
+12,Associativity,1
+13,Associativity of matrix multiplication,"19, 90"
+14,Associativity of vector addition,28
+15,Augmented matrix,14
+16,Axiom o f  choice,400
+17,Basis,41
+18,change of Basis,92
+19,dual Basis,"99, 165"
+20,for module Basis,164
+21,ordered Basis,50
+22,orthonormal Basis,281
+23,standard b!4�is of l!'n Basis,41
+24,Bessel's inequality,287
+25,Bilinear form,"166, 320, 359"
+26,diagonalization of Bilinear form,370
+27,group preserving Bilinear form,379
+28,matrix of Bilinear form,362
+29,non-degenerate ( non-singular) Bilinear form,365
+30,positive definite Bilinear form,368
+31,rank of Bilinear form,865
+32,signature of Bilinear form,872
+33,skew-symmetric Bilinear form,375
+34,symmetric Bilinear form,367
+35,Cauchy-Schwarz inequality,278
+36,Cayley-Hamilton theorem,"194, 237"
+37,Cayley transform,309
+38,Characteristic of a field,3
+39,Characteristic polynomial,183
+40,Characteristic space,182
+41,Characteristic value,"182, 183"
+42,Characteristic vector,182
+43,Classical adjoint,"148, 159"
+44,Coefficients of polynomial,120
+45,Cofactor,158
+46,equivalence,256
+47,operations,"26, 256"
+48,rank,"72, 114"
+49,Commutative algebra,117
+50,Commutative group,83
+51,Commutative ring,140
+52,Companion matrix,230
+53,Complementary Bubspace,231
+54,orthogonal Complementary Bubspace,286
+55,Composition,390
+56,Conductor,"201, 202, 232"
+57,Congruence,"139, 393, 396"
+58,Conjugate,271
+59,transpose Conjugate,272
+60,Conjugation,276
+61,Coordinates,50
+62,coordinate matrix Coordinates,51
+63,Coset,"177, 396"
+64,Cramer's rule,161
+65,Cyclie decomposition theorem,233
+66,Cyclie subspace,227
+67,Cyclie vector,227
+68,Degree of multilinear form,166
+69,Degree of polynomial,119
+70,"Dependence, linear","40, 47"
+71,Derivative of polynomial,"129, 266"
+72,Determinant function,144
+73,existence of Determinant function,147
+74,for linear transformations Determinant function,172
+75,uniqueness of Determinant function,152
+76,Determinant rank,163
+77,Diagonalizable operator,185
+78,Diagonalizable part of linear operator,222
+79,Diagonalizable simultaneously,207
+80,Diagonalization,"204, 207, 216"
+81,Diagonalization of Hermitian form,323
+82,Diagonalization of self-adjoint matrix (operator),314
+83,Diagonalization of symmetric bilinear form,370
+84,unitary Diagonalization,317
+85,Differential equations,223
+86,Dimension,44
+87,formula Dimension,46
+88,Direct sum,210
+89,invariant Direct sum,214
+90,Direct sum of matrices,214
+91,Direct sum of operators,214
+92,Distance,289
+93,Division with remainder,128
+94,Dual basi�,"99, 165"
+95,Dual modllle,165
+96,Dual space,98
+97,Elementary column operation,"26, 256"
+98,Elementary Jordan matrix,245
+99,Elementary matrix,"20, 253"
+100,Elementary row operation,"6, 252"
+101,Empty set,388
+102,"Entrie,; of a matrix",6
+103,Equiv2Jence relation,393
+104,Equivalent systems of equations,4
+105,Euelidean space,277
+106,Exterior (wedge) product,"175, 177"
+107,Fm x n,"29, 29"
+108,Factorization of polynomial,136
+109,"Factor:"" invariant","2, 261"
+110,algebraically closed Field,138
+111,subfield Field,2
+112,Finite-dimensional,41
+113,Finitely generated module,165
+114,Form alternating,169
+115,Form bilinear,"166, 320, 359"
+116,Form Hermitian,323
+117,matrix of Form,322
+118,Form mnhilinear,166
+119,Form non-degenerate,324
+120,Form non-negative,32
+121,Form normal,"257, 261"
+122,Form quadratic,"273, 368"
+123,Form r-linear,166
+124,Form rational,238
+125,Form sesq �i-linear,320
+126,Formal power series,119
+127,Free module,164
+128,Function,389
+129,determinant Function,144
+130,identity Function,390
+131,inverse of Function,391
+132,invertible Function,390
+133,linear Function,"67, 97, 291"
+134,multilinear Function,166
+135,n-linear Function,142
+136,polynomial function Function,30
+137,range of Function,389
+138,restriction of Function,391
+139,Fundamental theorem of algebra,138
+140,Gram-Schmidt process,"280, 287"
+141,"Gra,�sman ring",180
+142,Greatest common divisor,13
+143,Group,82
+144,commutative Group,83
+145,general linear Group,307
+146,Lorentz Group,382
+147,orthogonal Group,380
+148,pseudo-orthogonal Group,381
+149,symmetric Group,15
+150,Hermitian form,323
+151,Homogeneous system of linear equations,4
+152,Hyperspace,"101, 109"
+153,Ideal,131
+154,principal ideal Ideal,131
+155,Identity element,"117, 140"
+156,Identity function,390
+157,Identity matrix,9
+158,resolution of Identity,"337, 344"
+159,"Independence, linear","40, 47"
+160,Independent linearly,"40, 47"
+161,Independent ,"8, 209"
+162,Inner product,271
+163,matrix of Inner product,274
+164,quadratic form of Inner product,"273, 277"
+165,Inner product standard,"271, 272"
+166,Integers,2
+167,positive Integers,2
+168,Interpolation,"124, 388"
+169,Interpolation of subs paces,36
+170,I nvariant direct sum,214
+171,I nvariant factors of a matrix,"239, 261"
+172,I nvariant subset,392
+173,I nvariant subspace,"199, 206, 314"
+174,Inverse of function,3
+175,Inverse left,22
+176,Inverse of matrix,"22, 160"
+177,Inverse right,22
+178,Inverse two-sided,22
+179,Invertible function,390
+180,Invertible linear tral15formation,79
+181,Invertible matrix,"22, 160"
+182,Irreducible polynomial,135
+183,Isomorphism of inner product spaces,299
+184,Isomorphism of vector spaces,84
+185,Jordan form of matrix,247
+186,Kronecker delta,9
+187,Lagrange interpolation formula,124
+188,Laplace expansions,179
+189,Left i nverse,22
+190,Linear algebra,117
+191,Linear combination of equations,4
+192,Linear combination of vectors,31
+193,Linear functional,97
+194,Linearly dependent (independent),"40, 47"
+195,Linear transformation (operator),"67, 76"
+196,adjoint of Linear transformation (operator),295
+197,cyclic decomposition of Linear transformation (operator),233
+198,determinant of Linear transformation (operator),172
+199,diagonalizable Linear transformation (operator),185
+200,diagollalizable part of Linear transformation (operator),222
+201,invertible Linear transformation (operator),79
+202,matrix in orthonormal basis Linear transformation (operator),293
+203,matrix of Linear transformation (operator),"87, 88"
+204,minimal polynomial of Linear transformation (operator),191
+205,nilpotent Linear transformation (operator),222
+206,non-negative Linear transformation (operator),"329, 341"
+207,nOll-singular Linear transformation (operator),79
+208,normal Linear transformation (operator),312
+209,Ilullity of Linear transformation (operator),71
+210,orthogonal Linear transformation (operator),303
+211,polar decompo�ition of Linear transformation (operator),343
+212,positive Linear transformation (operator),329
+213,product of Linear transformation (operator),76
+214,quotient Linear transformation (operator),397
+215,range of Linear transformation (operator),71
+216,rank of Linear transformation (operator),71
+217,self-adjoint Linear transformation (operator),"298, 314"
+218,semi-simple Linear transformation (operator),263
+219,trace of Linear transformation (operator),106
+220,transpose of Linear transformation (operator),112
+221,triangulable Linear transformation (operator),202
+222,unitary Linear transformation (operator),302
+223,Lorentz group,382
+224,"Lorentz transformation, :31 l (Ex. 15)",382
+225,M atrix,6
+226,augmented M atrix,14
+227,M atrix of bilinear form,362
+228,classical adjoint of M atrix,"148, 159"
+229,coefficient M atrix,6
+230,cofactors M atrix,158
+231,companion M atrix,230
+232,conjugate transpose M atrix,272
+233,coordinate M atrix,51
+234,elementary M atrix,"20, 253"
+235,"elementary, Jordan M atrix",245
+236,M atrix of form,322
+237,identity M atrix,9
+238,M atrix of inner product,274
+239,invariant factors of M atrix,"239, 261"
+240,i nverse of M atrix,"22, 160"
+241,invertible M atrix,"22, 160"
+242,Jordan form of M atrix,247
+243,Matrix of linear transformation,"87, 88"
+244,minimal polynomial of Matrix,191
+245,Matrix tlilpotent,244
+246,Matrix tlormal,315
+247,Matrix orthogonal,"162, 380"
+248,Matrix positive,329
+249,principal minors of Matrix,326
+250,Matrix product,"17, 90"
+251,rank of Matrix,114
+252,rational form of Matrix,238
+253,row rank of Matrix,"56, 72, 114"
+254,Matrix row-reduced,9
+255,Matrix row-reduced echelon,"11, 56"
+256,Matrix self-adjoint ( Hermitian),"35, 314"
+257,similarity of Matrix,94
+258,Matrix skew-symmetric,"162, 210"
+259,Matrix symmetric,"35, 210"
+260,trace of Matrix,98
+261,transpose of Matrix,114
+262,Matrix triangular,155
+263,Matrix unitary,"163, 303"
+264,Matrix upper-triangular,27
+265,Matrix Vandermonde,125
+266,Matrix zero,12
+267,Minimal polynomial,191
+268,Module,164
+269,basis for Module,164
+270,dual Module,165
+271,finitely generated Module,165
+272,free Module,164
+273,rank of Module,165
+274,Monic polynomial,120
+275,M ultilinear function (form),166
+276,degree of M ultilinear function (form),166
+277,Multiplicity,130
+278,n-linear function,142
+279,alternating n-linear function,"144, 169"
+280,n-tuple,29
+281,Nilpotent matrix,244
+282,Nilpotent operator,222
+283,Non-degenerate bilinear form,365
+284,Non-degenerate form,324
+285,Non-negative form,325
+286,Non-negative operator,"329, 341"
+287,Non-singular linear transformation,79
+288,Norm,273
+289,Normal form,"257, 261"
+290,Normal matrix,315
+291,Normal operator,312
+292,Nullity of linear transformation,71
+293,Null space,71
+294,Numbers complex,2
+295,Numbers rational,3
+296,Numbers real,2
+297,Onto,389
+298,"Operator, linear",76
+299,Ordered basis,50
+300,Orthogonal complement,285
+301,Orthogonal equivalence of matrices,308
+302,Orthogonal group,380
+303,Orthogonal linear transformation,304
+304,Orthogonal matrix,"162, 380"
+305,Orthogonal projection,285
+306,Orthogonal set,278
+307,Orthogonal vectors,"278, 368"
+308,Orthogonalization,280
+309,Orthonormal basis,281
+310,Orthonormal set,278
+311,Parallelogram law,276
+312,Permutation,151
+313,"even, odd Permutation",152
+314,product of Permutation,15
+315,sign of Permutation,152
+316,Polar decomposition,34
+317,Polarization identities,"274, 368"
+318,Polynomial,119
+319,characteristic Polynomial,183
+320,coefficients of Polynomial,120
+321,degree of Polynomial,119
+322,derivative of Polynomial,"129, 266"
+323,function Polynomial,30
+324,irreducible (prime) Polynomial,135
+325,minimal Polynomial,191
+326,Polynomial monic,120
+327,primary decomposition of,137
+328,prime (irreducible),135
+329,prime factorization of,136
+330,reducible,135
+331,root of,129
+332,scalar,120
+333,zero of,129
+334,Positive form,"325, 328"
+335,Positive integers,2
+336,Positive matrix,329
+337,Positive operator,329
+338,Positive definite,368
+339,Power series,119
+340,Primary components,351
+341,Primary decomposition of polynomial,137
+342,Primary decomposition theorem,220
+343,Prime factorization of polynomial,136
+344,Prime polynomial,135
+345,Principal access theorem,323
+346,Principal ideal,131
+347,Principal minors,326
+348,"Product: 
+exterior (wedge)","175, 177"
+349,"Product 
+exterior (wedge) of linear transformations",76
+350,"Product 
+exterior (wedge) of matrices, .14",90
+351,"Product 
+exterior (wedge) of permutations",153
+352,"Product 
+exterior (wedge) tensor",168
+353,Projection,211
+354,Proper subset,"388, 381"
+355,Quadratic form,"273, 368"
+356,Quotient space,397
+357,Quotient transformation,397
+358,Range,71
+359,Rank; of bilinear form,365
+360,column Rank;,"72, 114"
+361,determinant Rank;,163
+362,Rank of linear transformation,71
+363,Rank of matrix,114
+364,Rank of module,165
+365,Rank row,"56, 72, 114"
+366,Rational form o f  matrix,238
+367,Reducible polynomial,135
+368,Relation,393
+369,equivalence Relation,393
+370,Relatively prime,133
+371,Resolution of the identity,"337, 344"
+372,Resolution lSpectral,"336, 344"
+373,Restriction of function,391
+374,Restriction operator,199
+375,Right inverse,22
+376,Rigid motion,310
+377,Ring,140
+378,Grassman Ring,180
+379,Root of family of operators,343
+380,Root of polynomial,129
+381,Rotation,"54, 309"
+382,Row operatiollH,"6, 252"
+383,Row rank,"56, 72, 114"
+384,Row space,39
+385,Row vectors,38
+386,Row-equivalence,"7, 58, 253"
+387,summary of Row-equivalence,55
+388,Row-reduced matrix,9
+389,row-reduced echelon matrix Row-reduced matrix,"11, 56"
+390,Scalar,2
+391,polynomial Scalar,120
+392,"Self-adjoint matrix, :35",314
+393,Self-adjoint operator,"298, 314"
+394,Semi-simple operator,263
+395,Separating vector,243
+396,Sequence of vectors,47
+397,Sesqui-linear form,320
+398,Set,388
+399,element of (member of) Set,388
+400,empty Set,388
+401,Shuffle,171
+402,Signature,372
+403,Sign of permutation,152
+404,Si milar matrices,94
+405,Simultaneous diagonalization,207
+406,Simultaneous triangulation,207
+407,Skew-symmetric bilinear form,375
+408,Skew-symmetric matrix,"162, 210"
+409,Solution space,36
+410,Spectral resolution,"336, 344"
+411,Spectral theorem,3
+412,Spectrum,336
+413,Square root,341
+414,Standard basis of pn,41
+415,Stuffer (das einstopfende Ideal),201
+416,Subfield,2
+417,Submatrix,163
+418,Subset,388
+419,invariant Subset,392
+420,proper Subset,388
+421,Subspace,34
+422,annihilator of Subspace,101
+423,complementary Subspace,231
+424,cyclic Subspace,227
+425,independent subs paces Subspace,209
+426,invariant Subspace,"199, 206, 314"
+427,orthogonal complement of Subspace,285
+428,quotient by Subspace,397
+429,spanned by Subspace,36
+430,sum of subs paces Subspace,37
+431,T-admissible Subspace,232
+432,zero Subspace,35
+433,Sum direct,210
+434,Symmetric bilinear form,367
+435,Symmetric group,153
+436,Symmetric matrix,"3, 210"
+437,System of linear equations,3
+438,homogeneous System of linear equations,4
+439,T-admissible subspace,232
+440,T-annihilator,"201, 202, 228"
+441,T-eonductor,"201, 202, 232"
+442,Taylor's formula,"129, 266"
+443,Tec\sor,166
+444,product Tec\sor,168
+445,Trace of linear transformation,106
+446,Trace of matrix,98
+447,Transformation differentiation,67
+448,Transformation linear,"67, 76"
+449,Transformation zero,67
+450,Transpose conjugate,272
+451,Transpose of linear transformation,112
+452,Transpose of matrix,114
+453,Triangulable linear transformation,202
+454,Triangular matrix,155
+455,Triangulation,"203, 207, 334"
+456,Union,388
+457,Unitary diagonalization,317
+458,matrix,"16, 3"
+459,operator,302
+460,space,277
+461,transformation,3
+462,Upper-triangular matrix,27
+463,Vandermonde matrix,125
+464,Vector space,28
+465,basis of Vector space,41
+466,dimension of Vector space,44
+467,finite dimensional Vector space,41
+468,isomorphism of Vector space,84
+469,Vector space of n-tuples,29
+470,quotient of Vector space,397
+471,of solutions to linear equations,36
+472,Wedge (exterior) product,"175, 177"
+473,Zero matrix,12
+474,Zero of polynomial,129

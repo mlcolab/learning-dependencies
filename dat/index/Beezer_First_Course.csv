@@ -1,115 +1,115 @@
-﻿,concept,pages
-0,System of Linear Equations ,9
-1,Solution of a System of Linear Equations ,9
-2,Solution Set of a System of Linear Equations,9
-3,Equivalent Systems ,11
-4,Equation Operations ,12
-5,Matrix ,22
-6,Column Vector,23
-7,Zero Column Vector,23
-8,Coeﬃcient Matrix ,23
-9,Vector of Constants ,24
-10,Solution Vector ,24
-11,Matrix Representation of a Linear System ,24
-12,Augmented Matrix ,25
-13,Row Operations ,26
-14,Row-Equivalent Matrices ,26
-15,Reduced Row-Echelon Form ,28
-16,Consistent System,45
-17,Independent and Dependent Variables,48
-18,Homogeneous System ,58
-19,Trivial Solution to Homogeneous Systems of Equations ,59
-20,Null Space of a Matrix ,61
-21,Square Matrix ,66
-22,Nonsingular Matrix ,66
-23,Identity Matrix ,67
-24,Vector Space of Column Vectors ,74
-25,Column Vector Equality ,75
-26,Column Vector Addition ,76
-27,Column Vector Scalar Multiplication ,77
-28,Linear Combination of Column Vectors ,83
-29,Span of a Set of Column Vectors,107
-30,Relation of Linear Dependence for Column Vectors ,122
-31,Linear Independence of Column Vectors,122
-32,Complex Conjugate of a Column Vector ,148
-33,Inner Product ,149
-34,Norm of a Vector ,152
-35,Orthogonal Vectors ,154
-36,Orthogonal Set of Vectors ,155
-37,Standard Unit Vectors ,155
-38,OrthoNormal Set ,159
-39,Vector Space of m × n Matrices ,162
-40,Matrix Equality ,162
-41,Matrix Addition ,163
-42,Matrix Scalar Multiplication ,163
-43,Zero Matrix ,165
-44,Transpose of a Matrix,166
-45,Symmetric Matrix,166
-46,Complex Conjugate of a Matrix ,168
-47,Adjoint ,170
-48,Matrix-Vector Product ,175
-49,Matrix Multiplication ,179
-50,Hermitian Matrix ,188
-51,Matrix Inverse ,194
-52,Unitary Matrices ,211
-53,Column Space of a Matrix ,217
-54,Row Space of a Matrix ,225
-55,Left Null Space ,236
-56,Extended Echelon Form,241
-57,Vector Space,257
-58,Subspace ,272
-59,Trivial Subspaces ,277
-60,Linear Combination ,279
-61,Span of a Set,279
-62,Relation of Linear Dependence,288
-63,Linear Independence ,288
-64,Spanning Set of a Vector Space ,294
-65,Basis ,303
-66,Dimension ,318
-67,Nullity Of a Matrix ,325
-68,Rank Of a Matrix ,325
-69,Elementary Matrices ,340
-70,SubMatrix ,346
-71,Determinant of a Matrix ,346
-72,Eigenvalues and Eigenvectors of a Matrix,367
-73,Characteristic Polynomial ,375
-74,Eigenspace of a Matrix ,377
-75,Algebraic Multiplicity of an Eigenvalue ,379
-76,Geometric Multiplicity of an Eigenvalue,380
-77,Similar Matrices ,403
-78,Diagonal Matrix ,407
-79,Diagonalizable Matrix,407
-80,Linear Transformation ,420
-81,Pre-Image ,436
-82,Linear Transformation Addition ,438
-83,Linear Transformation Scalar Multiplication ,439
-84,Linear Transformation Composition ,441
-85,Injective Linear Transformation ,446
-86,Kernel of a Linear Transformation,451
-87,Surjective Linear Transformation ,462
-88,Range of a Linear Transformation ,468
-89,Identity Linear Transformation,480
-90,Invertible Linear Transformations ,480
-91,Isomorphic Vector Spaces,490
-92,Rank Of a Linear Transformation ,492
-93,Nullity Of a Linear Transformation ,492
-94,Vector Representation,501
-95,Matrix Representation ,514
-96,Eigenvalue and Eigenvector of a Linear Transformation ,542
-97,Change-of-Basis Matrix,543
-98,Upper Triangular Matrix ,568
-99,Lower Triangular Matrix ,568
-100,Normal Matrix,575
-101,Complex Number Equality ,582
-102,Complex Number Addition,582
-103,Complex Number Multiplication,582
-104,Conjugate of a Complex Number ,584
-105,Modulus of a Complex Number ,585
-106,Set ,587
-107,Subset ,587
-108,Empty Set ,587
-109,Set Equality ,588
-110,Cardinality,589
-111,Set Union ,589
-112,Set Intersection ,589
-113,Set Complement,590
+﻿,concept,pages,level
+0,System of Linear Equations ,9,1
+1,Solution of a System of Linear Equations ,9,1
+2,Solution Set of a System of Linear Equations,9,1
+3,Equivalent Systems ,11,1
+4,Equation Operations ,12,1
+5,Matrix ,22,1
+6,Column Vector,23,1
+7,Zero Column Vector,23,1
+8,Coeﬃcient Matrix ,23,1
+9,Vector of Constants ,24,1
+10,Solution Vector ,24,1
+11,Matrix Representation of a Linear System ,24,1
+12,Augmented Matrix ,25,1
+13,Row Operations ,26,1
+14,Row-Equivalent Matrices ,26,1
+15,Reduced Row-Echelon Form ,28,1
+16,Consistent System,45,1
+17,Independent and Dependent Variables,48,1
+18,Homogeneous System ,58,1
+19,Trivial Solution to Homogeneous Systems of Equations ,59,1
+20,Null Space of a Matrix ,61,1
+21,Square Matrix ,66,1
+22,Nonsingular Matrix ,66,1
+23,Identity Matrix ,67,1
+24,Vector Space of Column Vectors ,74,1
+25,Column Vector Equality ,75,1
+26,Column Vector Addition ,76,1
+27,Column Vector Scalar Multiplication ,77,1
+28,Linear Combination of Column Vectors ,83,1
+29,Span of a Set of Column Vectors,107,1
+30,Relation of Linear Dependence for Column Vectors ,122,1
+31,Linear Independence of Column Vectors,122,1
+32,Complex Conjugate of a Column Vector ,148,1
+33,Inner Product ,149,1
+34,Norm of a Vector ,152,1
+35,Orthogonal Vectors ,154,1
+36,Orthogonal Set of Vectors ,155,1
+37,Standard Unit Vectors ,155,1
+38,OrthoNormal Set ,159,1
+39,Vector Space of m × n Matrices ,162,1
+40,Matrix Equality ,162,1
+41,Matrix Addition ,163,1
+42,Matrix Scalar Multiplication ,163,1
+43,Zero Matrix ,165,1
+44,Transpose of a Matrix,166,1
+45,Symmetric Matrix,166,1
+46,Complex Conjugate of a Matrix ,168,1
+47,Adjoint ,170,1
+48,Matrix-Vector Product ,175,1
+49,Matrix Multiplication ,179,1
+50,Hermitian Matrix ,188,1
+51,Matrix Inverse ,194,1
+52,Unitary Matrices ,211,1
+53,Column Space of a Matrix ,217,1
+54,Row Space of a Matrix ,225,1
+55,Left Null Space ,236,1
+56,Extended Echelon Form,241,1
+57,Vector Space,257,1
+58,Subspace ,272,1
+59,Trivial Subspaces ,277,1
+60,Linear Combination ,279,1
+61,Span of a Set,279,1
+62,Relation of Linear Dependence,288,1
+63,Linear Independence ,288,1
+64,Spanning Set of a Vector Space ,294,1
+65,Basis ,303,1
+66,Dimension ,318,1
+67,Nullity Of a Matrix ,325,1
+68,Rank Of a Matrix ,325,1
+69,Elementary Matrices ,340,1
+70,SubMatrix ,346,1
+71,Determinant of a Matrix ,346,1
+72,Eigenvalues and Eigenvectors of a Matrix,367,1
+73,Characteristic Polynomial ,375,1
+74,Eigenspace of a Matrix ,377,1
+75,Algebraic Multiplicity of an Eigenvalue ,379,1
+76,Geometric Multiplicity of an Eigenvalue,380,1
+77,Similar Matrices ,403,1
+78,Diagonal Matrix ,407,1
+79,Diagonalizable Matrix,407,1
+80,Linear Transformation ,420,1
+81,Pre-Image ,436,1
+82,Linear Transformation Addition ,438,1
+83,Linear Transformation Scalar Multiplication ,439,1
+84,Linear Transformation Composition ,441,1
+85,Injective Linear Transformation ,446,1
+86,Kernel of a Linear Transformation,451,1
+87,Surjective Linear Transformation ,462,1
+88,Range of a Linear Transformation ,468,1
+89,Identity Linear Transformation,480,1
+90,Invertible Linear Transformations ,480,1
+91,Isomorphic Vector Spaces,490,1
+92,Rank Of a Linear Transformation ,492,1
+93,Nullity Of a Linear Transformation ,492,1
+94,Vector Representation,501,1
+95,Matrix Representation ,514,1
+96,Eigenvalue and Eigenvector of a Linear Transformation ,542,1
+97,Change-of-Basis Matrix,543,1
+98,Upper Triangular Matrix ,568,1
+99,Lower Triangular Matrix ,568,1
+100,Normal Matrix,575,1
+101,Complex Number Equality ,582,1
+102,Complex Number Addition,582,1
+103,Complex Number Multiplication,582,1
+104,Conjugate of a Complex Number ,584,1
+105,Modulus of a Complex Number ,585,1
+106,Set ,587,1
+107,Subset ,587,1
+108,Empty Set ,587,1
+109,Set Equality ,588,1
+110,Cardinality,589,1
+111,Set Union ,589,1
+112,Set Intersection ,589,1
+113,Set Complement,590,1

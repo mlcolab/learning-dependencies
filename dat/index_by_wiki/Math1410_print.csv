@@ -1,0 +1,156 @@
+wiki_concept,pages
+Abscissa and ordinate,12
+Absolute value,"14, 19, 35, 37"
+Additive inverse,220
+Adjugate matrix,337
+Antisymmetric relation,305
+Argument (complex analysis),"35, 38"
+Augmented matrix,129
+Basic feasible solution,"150, 177"
+Basis,282
+Blank (solution),147
+Cartesian coordinate system,"12, 29"
+Characteristic polynomial,"346, 369"
+Coefficient,148
+Coefficient matrix,129
+Cofactor,314
+Complex conjugate,22
+Complex number,"19, 20, 35"
+Complex plane,35
+Computational complexity of matrix multiplication,196
+Conjugate transpose,21
+Consistency,"147, 180, 181"
+Consistent and inconsistent equations,"147, 150, 180, 181"
+Coprime integers,7
+Cramer's rule,334
+Cross product,"77, 80, 81, 82, 83, 84, 85"
+Cylindrical coordinate system,29
+De Moivre's formula,40
+Dependent and independent variables,150
+Determinant,"313, 317, 325, 331"
+Diagonal,235
+Diagonal matrix,300
+Diagonalizable matrix,374
+Diagonalization,372
+Diagonally dominant matrix,300
+Dimension,282
+Dot product,"40, 55, 67, 68"
+Eigendecomposition of a matrix,369
+Eigenvalue algorithm,346
+Eigenvalues and eigenvectors,"342, 364, 371, 377, 59, 61"
+Element (mathematics),2
+Elementary matrix,"130, 135, 238, 326"
+Elementary operations,130
+Empty set,3
+Equivalence relation,368
+Euclidean distance,14
+Euclidean plane isometry,58
+Euclidean vector,"55, 56, 58"
+Euler's formula,37
+Exterior algebra,57
+Factorization,26
+Fundamental theorem of algebra,26
+Gaussian elimination,"137, 139, 140"
+Great-circle distance,52
+Homogeneous coordinates,"176, 180, 181"
+Identity matrix,207
+Imaginary number,35
+Imaginary unit,19
+Inclusion–exclusion principle,2
+Intersection (set theory),2
+Invariant subspace problem,281
+Inverse function,222
+Invertible matrix,"220, 224, 230, 331, 365"
+Jacobian matrix and determinant,"313, 317"
+Jordan normal form,377
+Kernel (linear algebra),"290, 291"
+LU decomposition,139
+Laplace expansion,"316, 322"
+Linear combination,"113, 194"
+Linear equation,125
+Linear independence,117
+Linear map,"263, 268, 272, 286"
+Linear span,280
+Linear system,125
+Line–line intersection,91
+List of trigonometric identities,39
+Mahalanobis distance,14
+Matrix (mathematics),300
+Matrix addition,192
+Matrix multiplication,"201, 208"
+Matrix norm,191
+Matrix similarity,"367, 368"
+Midpoint,"15, 16"
+Minor (linear algebra),"314, 337"
+Moore–Penrose inverse,306
+Multiplicative inverse,224
+Multiplicity (mathematics),369
+Norm,55
+Normal (geometry),101
+Normed vector space,55
+Nth root,"44, 45"
+Number line,35
+Orbital plane,52
+Ordered pair,12
+Ordinary differential equation,"149, 152"
+Origin (mathematics),12
+Orthogonal diagonalization,377
+Orthogonal matrix,70
+Orthogonality,70
+Parallel (geometry),91
+Parallel transport,"59, 61"
+Parallelogram law,58
+Parameter,148
+Pivot element,288
+Plane (geometry),102
+Polar coordinate system,"29, 32, 39"
+Power rule,40
+Power series solution of differential equations,149
+Projection (linear algebra),72
+Projective plane,52
+Proof by infinite descent,147
+QR decomposition,73
+Quadrant,14
+Quasigroup,"230, 235"
+Quotient ring,40
+Rank (linear algebra),293
+Real number,55
+Resultant force,58
+Right-hand rule,51
+Root of unity,"44, 45, 49"
+Rotation matrix,196
+Row and column spaces,287
+Row and column vectors,"111, 112, 191"
+Row echelon form,136
+Scalar,193
+Scalar multiplication,193
+Set (mathematics),1
+Set-builder notation,1
+Singular solution,"147, 181, 226"
+Singular value decomposition,73
+Skew lines,91
+Skew-symmetric matrix,"305, 306"
+Solution,125
+Span,115
+Subset,2
+Subspace,275
+Symmetric matrix,"305, 306"
+Symmetric relation,305
+System of linear equations,"125, 147, 151, 176, 90"
+Tensor rank decomposition,182
+Trace (linear algebra),"309, 311"
+Transformation matrix,"245, 267, 269"
+Transpose,"190, 299, 304, 305"
+Triangular matrix,"138, 300"
+Triviality (mathematics),147
+Underdetermined system,"150, 181"
+Union (set theory),2
+Unit vector,"268, 60, 62, 63"
+Variable,"148, 150"
+Vector (mathematics and physics),60
+Vector field,58
+Vector projection,"62, 72"
+Vector space,111
+Venn diagram,3
+Verbal arithmetic,1
+Zero matrix,196

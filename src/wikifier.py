@@ -22,5 +22,6 @@ def get_annotations(text, offset=0):
 
         return response['annotations']
     except Exception:
-        print(Exception)
+        import traceback
+        print(traceback.format_exc())
         return []

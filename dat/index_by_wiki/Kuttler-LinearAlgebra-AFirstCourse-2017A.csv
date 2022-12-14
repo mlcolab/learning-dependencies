@@ -1,0 +1,172 @@
+wiki_concept,pages
+A Random Walk Down Wall Street,380
+Absolute value,334
+Adjugate matrix,130
+Affine transformation,"283, 292"
+Aircraft principal axes,"404, 429"
+Algebra over a field,67
+Axiom of empty set,537
+Basic feasible solution,"29, 323"
+Basis,"203, 204, 234, 487"
+Basis (linear algebra),"204, 208, 234, 304"
+Box product,188
+Cardioid,443
+Cartesian coordinate system,183
+Cauchy–Schwarz inequality,168
+Change of basis,209
+Characteristic equation,349
+Cholesky decomposition,420
+Coefficient,16
+Complex conjugate,"331, 336"
+Complex number,"329, 330, 336, 339"
+Complex plane,"334, 336"
+Conformable matrix,62
+Consistent and inconsistent equations,8
+Coordinate vector,"316, 524"
+Cramer's rule,135
+Cross product,"172, 173, 183, 184, 186"
+Cuboid,188
+Cylindrical coordinate system,449
+De Moivre's formula,339
+Definite matrix,"417, 419"
+Definite quadratic form,427
+Degenerate bilinear form,164
+Dependent and independent variables,25
+Determinant,"107, 110, 114, 116, 121, 492"
+Diagonal matrix,"363, 500"
+Diagonalizable matrix,"363, 364, 375, 407"
+Dimension,205
+Dimension (vector space),"455, 490"
+Direct-quadrature-zero transformation,"271, 500"
+Distance from a point to a line,254
+Dot product,167
+Eigenface,350
+Eigenvalue algorithm,350
+Eigenvalues and eigenvectors,"349, 369"
+Elementary matrix,"114, 15, 79"
+Elementary operations,9
+Equation,164
+Equivalence relation,362
+Euclidean distance,"156, 157"
+Euclidean vector,"147, 148, 149, 158"
+Factorization of polynomials,341
+Feasible region,322
+Field (mathematics),330
+Flag (linear algebra),"201, 486"
+Free variables and bound variables,25
+Fundamental theorem of algebra,329
+Gaussian elimination,24
+General linear group,512
+Graph isomorphism,"301, 302, 513"
+Gröbner basis,489
+Half-reaction,33
+Homogeneous differential equation,8
+Hyperplane,6
+Hölder's inequality,334
+Idempotence,93
+Identity function,"271, 500"
+Identity matrix,71
+Improper rotation,240
+Included angle,170
+Injection,293
+Inner product space,167
+Intersection,537
+Intersection (set theory),537
+Interval (mathematics),538
+Invertible matrix,"131, 14, 15, 71, 74, 82"
+Isomorphism,"298, 300, 509, 524"
+Joint Force Air Component Commander,"265, 267"
+Kernel,"215, 322"
+Kernel (linear algebra),"215, 310, 322"
+Kirchhoff's circuit laws,38
+Kronecker symbol,"239, 71"
+Krylov subspace,205
+LU decomposition,"100, 101, 99"
+Lagrange multiplier,104
+Laplace expansion,110
+Least-squares function approximation,251
+Linear combination,"151, 30"
+Linear differential equation,324
+Linear independence,"194, 195, 233, 301, 475"
+Linear map,"270, 292, 298, 310, 500"
+Linear span,"192, 202, 203, 233, 378, 471, 472, 484"
+Linear subspace,"201, 204, 234, 491"
+List of trigonometric identities,289
+Lorentz transformation,292
+Magnetic vector potential,162
+Main diagonal,112
+Majorana equation,162
+Mathematical induction,540
+Matrix (mathematics),"14, 53, 54, 56"
+Matrix addition,55
+Matrix decomposition,373
+Matrix exponential,392
+Matrix multiplication,"14, 60, 62, 68"
+Matrix norm,54
+Matrix similarity,"356, 362"
+Matroid rank,312
+Minor (linear algebra),"108, 109, 130"
+Multiplicity,350
+Nilpotent,128
+Normal (geometry),179
+Nullity,"219, 312"
+Ordinary differential equation,322
+Orthogonal complement,246
+Orthogonal matrix,"128, 235, 238, 27"
+Orthogonality,"235, 251"
+Orthonormal basis,301
+Orthonormality,235
+Parameter (disambiguation),23
+Permutation matrix,79
+Pivot element,18
+Plane (geometry),"179, 180"
+Point at infinity,486
+Polar coordinate system,439
+Position (geometry),146
+Positive definiteness,417
+QR decomposition,422
+Quadratic form,"427, 61"
+Quadratic formula,343
+Rank,312
+Rank (linear algebra),"14, 31"
+Reflection (mathematics),291
+Resultant,262
+Rotation matrix,"240, 54"
+Routh–Hurwitz stability criterion,418
+Row and column spaces,211
+Row and column vectors,58
+Row echelon form,"16, 19"
+Scalar,"150, 8"
+Scalar multiplication,"150, 57, 58"
+Scaling (geometry),425
+Set-builder notation,537
+Singular value,409
+Skew lines,6
+Skew-symmetric matrix,70
+Span,"192, 233, 472"
+Spherical coordinate system,450
+Square root of a matrix,54
+Steinitz exchange lemma,"204, 487"
+Stochastic matrix,378
+Summation notation,539
+Surjective function,"292, 293"
+Symmetric matrix,"401, 70"
+System of equations,8
+System of linear equations,"59, 61, 8"
+Trace (linear algebra),363
+Transformation matrix,273
+Transpose,69
+Triangle inequality,169
+Triangular matrix,"112, 13"
+Triviality (mathematics),28
+Union (set theory),537
+Unit vector,"158, 162"
+Vector,147
+Vector field,146
+Vector projection,"172, 174"
+Vector space,"455, 58"
+Velocity,263
+Well-order,540
+Zero element,149
+Zero matrix,54
+Zorn's lemma,349

@@ -1,0 +1,171 @@
+wiki_concept,pages
+3D rotation group,"162, 375"
+Absolute value,410
+Affine symmetric group,105
+Affine transformation,"124, 154, 165"
+Augmented matrix,13
+Autonomous system (mathematics),251
+Basis,93
+Basis (linear algebra),"102, 376, 97"
+Bijection,"139, 179, 251"
+Block matrix,320
+Born–Oppenheimer approximation,62
+Cartesian coordinate system,"103, 126"
+Change of basis,"100, 264"
+Characteristic polynomial,"252, 253, 274"
+CheiRank,"332, 333"
+Clockwise,126
+Codomain,"120, 124, 138"
+Commutative property,156
+Complex conjugate,410
+Complex number,"409, 410"
+Consistent and inconsistent equations,2
+Coordinate vector,"147, 148"
+Cosine similarity,"343, 347"
+Cramer's rule,"218, 219"
+Cross product,47
+Cubic equation,411
+Curve fitting,393
+Definite matrix,299
+Derivative,121
+Determinant,"131, 136, 159, 170, 188, 193, 194, 195,251, 196, 202, 203, 205, 206, 207, 217, 224, 235, 274"
+Diagonal matrix,"192, 44"
+Diagonalizable matrix,"275, 278, 279, 280, 281, 286, 287, 289, 371"
+Dilation,126
+Dimension,93
+Direct-quadrature-zero transformation,120
+Discrete-time Markov chain,327
+Discriminant,411
+Dot product,"188, 341, 342, 343, 347"
+Eigendecomposition of a matrix,"251, 274, 280, 285"
+Eigenvalue algorithm,"251, 257, 274"
+Eigenvalues and eigenvectors,"238, 240, 246, 247, 248, 251, 275, 280, 285, 293, 294, 297, 301, 316,318,319, nan"
+Eigenvector centrality,336
+Elementary matrix,13
+Empty set,27
+Equation solving,40
+Euclidean space,3
+Euclidean vector,"32, 33, 342"
+Factorization of polynomials,258
+Free variables and bound variables,25
+Function composition,161
+Function of several complex variables,122
+Fundamental theorem of algebra,411
+Gaussian elimination,"12, 13, 19, 190, 251"
+Geometrical properties of polynomial roots,411
+Google matrix,335
+Gram–Schmidt process,382
+Great-circle distance,343
+Hausdorff dimension,"58,64"
+Hermitian matrix,304
+Hilbert space,368
+Homogeneous coordinates,103
+Identity function,"122, 156"
+Identity matrix,"148, nan"
+Implicit function,"10,26"
+Injective function,130
+Invertible matrix,"169, 174, 180, 180,251, 182,251, 195,251, 218, 251, 391"
+Jacobian matrix and determinant,224
+Jordan–Chevalley decomposition,280
+Kernel (linear algebra),"110, 251, 351, 88, 90, 99"
+Linear algebra,"251, 309"
+Linear combination,35
+Linear equation,2
+Linear independence,"195, 66"
+Linear least squares,"388,389, 391, 393"
+Linear map,142
+Linear regression,69
+Linear span,87
+Linear subspace,"54, 82"
+Line–line intersection,nan
+Lorentz transformation,"120, 232"
+Matrix (mathematics),"13, 141, 198, 51"
+Matrix addition,166
+Matrix equivalence,262
+Matrix multiplication,"148, 158, 160, 161, 167, 169, 196, 263, 44, 45"
+Matrix multiplication algorithm,158
+Matrix sign function,207
+Matrix similarity,"274, 275, 297, 299, 300, 319"
+MeCard (QR code),5
+Metric signature,294
+Minor (linear algebra),207
+Negation introduction,130
+Nonlinear dimensionality reduction,108
+Normal matrix,371
+Nullity,110
+Number line,3
+One-to-one,129
+Ordinary differential equation,53
+Ordinary least squares,"387, 393"
+Orthogonal complement,"348, 350, 350,355, 353, 355"
+Orthogonal coordinates,380
+Orthogonal diagonalization,"94,95"
+Orthogonal group,380
+Orthogonality,"345, 382"
+Orthogonality (mathematics),345
+Orthonormal basis,"374, 376"
+Orthonormality,374
+PageRank algorithm in biochemistry,nan
+Parallelepiped,"223, 224, 227"
+Parametric equation,"10, 10,25, 11, 26, 62"
+Perron–Frobenius theorem,"246, 327, 371"
+Pivot,16
+Pivot element,21
+Plane (geometry),"3, 58,64"
+Point-to-point,30
+Polynomial long division,258
+Principal component analysis,385
+Projection (linear algebra),"148, 357, 358, 359, 361,377, 367, 368, 369, 371, 377"
+Projection matrix,"358, 387"
+Pythagorean theorem,345
+Quadratic formula,411
+Quadratic function,411
+Radon transform,377
+Random projection,"360,363"
+Rank,110
+Rank (linear algebra),"356, 41,48"
+Rank–nullity theorem,110
+Rational root theorem,258
+Real number,3
+Recurrence relation,323
+Red box,"323,326,330"
+Rotation matrix,"148, 306, 310, 316"
+Row and column spaces,"110, 124, 13, 251, 354, 355, 88, 96"
+Row and column vectors,47
+Row echelon form,16
+Row equivalence,15
+Scalar (physics),165
+Scalar multiplication,"166, 32"
+Scalar projection,380
+Self-similarity matrix,265
+Sensitivity analysis,71
+Separable space,84
+Set-builder notation,41
+Shape,7
+Shear mapping,126
+Signed distance function,230
+Similarity,261
+Similarity (geometry),264
+Similarity measure,262
+Singular value decomposition,"134, 64"
+Solution set,2
+Span,40
+Specular reflection,373
+Stochastic matrix,"134, 325, 326, 327"
+Subset,81
+Subspace,82
+Superposition principle,143
+Surjective function,"135, 136, 251"
+Symmetry (geometry),138
+System of linear equations,"174, 2, 27, 38, 46, 48, 53, 55, 57, 58,64, 62, 66"
+Three-dimensional space,4
+Trace (linear algebra),"145, 256"
+Transformation,120
+Transformation matrix,"114, 123, 126, 142, 148, 149, 161, 176, 241"
+Transpose,"199, 200, 381"
+Triangular matrix,"192, 193, 257"
+Trigonometric functions,6
+Triple product,224
+Unit cube,223
+Unit vector,"344, 374"
+Volume,"227, 232, nan"

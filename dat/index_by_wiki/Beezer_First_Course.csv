@@ -1,0 +1,77 @@
+wiki_concept,pages
+Absolute value,585
+Adjoint,170
+Affine transformation,441
+Augmented matrix,25
+Axis–angle representation,501
+Basis,303
+Cardinality of the continuum,589
+Change of basis,543
+Characteristic polynomial,375
+Coefficient matrix,23
+Complement,590
+Complex conjugate,584
+Complex conjugate of a vector space,148
+Complex number,582
+Conjugate transpose,168
+Consistent and inconsistent equations,45
+Dependence relation,288
+Determinant,346
+Diagonal matrix,407
+Diagonalizable matrix,407
+Dimension (vector space),318
+Eigendecomposition of a matrix,"377, 379, 380"
+Eigenvalues and eigenvectors,"367, 542"
+Elementary matrix,"26, 340"
+Endogeneity (econometrics),48
+Equation,12
+Examples of vector spaces,490
+General linear group,480
+Gram–Schmidt process,155
+Hermite normal form,241
+Hermitian matrix,188
+Identity matrix,67
+Image (mathematics),436
+Index set,587
+Inner product space,"149, 154"
+Intersection,589
+Invertible matrix,"194, 66"
+Kernel (linear algebra),"236, 325, 451, 61"
+Linear combination,279
+Linear independence,"122, 288"
+Linear map,"420, 438, 446, 462, 468, 480"
+Linear span,"279, 294"
+Linear subspace,277
+Matrix (mathematics),"22, 346"
+Matrix addition,163
+Matrix multiplication,"175, 179"
+Matrix norm,162
+Matrix representation,"24, 514"
+Matrix similarity,403
+Norm (mathematics),152
+Normal matrix,575
+Orthonormality,159
+Pauli matrices,162
+Rank (linear algebra),"23, 325, 492, 75, 83"
+Rank–nullity theorem,492
+Row and column spaces,"107, 217, 225"
+Row and column vectors,"23, 74"
+Row echelon form,28
+Row equivalence,26
+Scalar (mathematics),439
+Scalar multiplication,163
+Square matrix,66
+Structure constants,24
+Subspace,272
+Successive over-relaxation,24
+Symmetric difference,589
+Symmetric matrix,166
+System of linear equations,"58, 59, 9"
+Total subset,587
+Transpose,166
+Triangular matrix,568
+Unit vector,155
+Unitary matrix,211
+Vector (mathematics and physics),"76, 77"
+Vector space,257
+Zero matrix,165

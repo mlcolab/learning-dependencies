@@ -1,0 +1,152 @@
+wiki_concept,pages
+Absolute value,118
+Addition,"14, 20, nan"
+Additive,52
+Additive inverse,"12,15"
+Affine transformation,94
+Associative property,"3,12,56"
+Banach space,82
+Basis,39
+"Bijection, injection and surjection",62
+Block matrix,255
+Cauchy–Schwarz inequality,"171,317, 172"
+Cayley table,262
+Cayley–Hamilton theorem,"261, 284"
+Change of basis,298
+Change of variables,328
+Characteristic polynomial,"261, nan"
+Closure (mathematics),18
+Commutative property,"3,7,12,25,56,75,79,144,212"
+Complex conjugate,118
+Complex number,"118, 2, 4"
+Complexification,"276, 277, nan"
+Conjugate transpose,207
+Convex cone,17
+Coordinate system,6
+Cubic equation,124
+Decomposition of spectrum (functional analysis),107
+Degree of a polynomial,"144, 31"
+Derivative,327
+Descartes' theorem,1
+Determinant,"307, 314, nan"
+Diagonal matrix,"147, 155"
+Diagonalizable matrix,156
+Differentiable manifold,327
+Dimension,44
+Dimension (vector space),"30, 31"
+Direct sum,"21,42,93"
+Distributive property,"3,12,16,56,79"
+Dot product,"12, 164, 166"
+Dual basis,102
+Dual space,"101, 104, 116, nan"
+Eigendecomposition of a matrix,254
+Eigenvalues and eigenvectors,"134, 155, 157,218,221,224,268, 255"
+Euclidean distance,198
+Euclidean vector,12
+Factorization of polynomials,122
+Fibonacci polynomials,131
+Field (mathematics),"10, 9"
+Flatland (disambiguation),6
+Fredholm operator,251
+Frigyes Riesz,187
+Fundamental theorem of algebra,124
+Fundamental theorem of linear algebra,63
+GJMS operator,242
+General linear group,80
+Generalized eigenvector,"245, 253"
+Gram–Schmidt process,182
+Hadamard product (matrices),75
+Harmonic function,179
+Hermitian matrix,209
+Homogeneous function,52
+Hypatia (disambiguation),241
+Identity function,"52,56"
+Identity matrix,296
+Image (mathematics),62
+Injective module,60
+Inner product space,"166, 167, 169, 55"
+Integral,327
+Invariant subspace,132
+Inverse,nan
+Invertible matrix,296
+Isometry,"228,292,321"
+Isomorphism,82
+Jordan normal form,273
+Kernel,59
+Kernel (linear algebra),"106, 59"
+Laplace operator,"179, 323, 86"
+Linear combination,28
+Linear form,"101,187"
+Linear independence,"32, 33"
+Linear map,"52, 53,56,59,61,62,69,72,78,144,190,248,294, 55, 80, 98"
+Linear span,29
+Linear subspace,"18, 47"
+Matrix (mathematics),70
+Matrix addition,72
+Matrix multiplication,"55, 75, 84"
+Minimal polynomial,"263,279"
+Monic polynomial,262
+Multiplicative inverse,"3,4"
+Nilpotent matrix,249
+Nilpotent operator,"248,271"
+Norm,"164,168"
+Normal operator,"212,287"
+Ordinary differential equation,"66,89"
+Orthogonal complement,"193, 194"
+Orthogonality,nan
+Orthonormal basis,181
+Orthonormality,"180, 28, nan"
+Parallelogram law,174
+Parity of a permutation,312
+Permutation,311
+Perspective-n-Point,243
+Point-to-point,13
+Polar coordinate system,329
+Polar decomposition,233
+Polynomial,"122, 30"
+Polynomial long division,121
+Positive operator (Hilbert space),"225, 227"
+Product,nan
+Product (mathematics),2
+Projection (linear algebra),"195, 229"
+Projections onto convex sets,62
+Pythagorean theorem,"170, 179"
+Quotient,nan
+Quotient ring,97
+Quotient space,95
+Quotient space (linear algebra),"137, 96"
+Random Fibonacci sequence,161
+Rank (linear algebra),"111, 112"
+Restriction (mathematics),137
+Riesz representation theorem,187
+Scalar,4
+Scalar multiplication,"10,12, 73"
+Schur's theorem,186
+Self-adjoint operator,209
+Signum,313
+Singular value,236
+Singular value decomposition,237
+Span,"29, 30"
+Spectral theorem,"218, 218,221, 221"
+Spectrum (functional analysis),134
+Spherical coordinate system,330
+Square root,"223,225,233,259, 224"
+Standard basis,39
+Steinitz exchange lemma,34
+Subspace,18
+System of linear equations,"65,90"
+T'aqañawi,207
+Tensor product,91
+Time-scale calculus,"53,59,81,86,140"
+Trace,nan
+Trace (linear algebra),"146, 300, 70"
+Trace class,299
+Transformation matrix,110
+Transpose,"109,207"
+Transpose of a linear map,"103, 204"
+Triangle inequality,173
+Triangular matrix,"147,256"
+Tuple-versioning,5
+Unitary operator,188
+Vector,"8,13"
+Vector space,"10, 12, 13, 283, 7, 96"

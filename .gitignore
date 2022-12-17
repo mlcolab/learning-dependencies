@@ -11,4 +11,4 @@
 *.blg
 *.ipynb_checkpoints
 config.json
-**/__pycache__/
+**/__pycache__/**

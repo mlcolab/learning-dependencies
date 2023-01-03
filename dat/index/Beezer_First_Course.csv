@@ -1,115 +1,115 @@
-﻿,concept,pages,level
-0,System of Linear Equations ,9,1
-1,Solution of a System of Linear Equations ,9,1
-2,Solution Set of a System of Linear Equations,9,1
-3,Equivalent Systems ,11,1
-4,Equation Operations ,12,1
-5,Matrix ,22,1
-6,Column Vector,23,1
-7,Zero Column Vector,23,1
-8,Coeﬃcient Matrix ,23,1
-9,Vector of Constants ,24,1
-10,Solution Vector ,24,1
-11,Matrix Representation of a Linear System ,24,1
-12,Augmented Matrix ,25,1
-13,Row Operations ,26,1
-14,Row-Equivalent Matrices ,26,1
-15,Reduced Row-Echelon Form ,28,1
-16,Consistent System,45,1
-17,Independent and Dependent Variables,48,1
-18,Homogeneous System ,58,1
-19,Trivial Solution to Homogeneous Systems of Equations ,59,1
-20,Null Space of a Matrix ,61,1
-21,Square Matrix ,66,1
-22,Nonsingular Matrix ,66,1
-23,Identity Matrix ,67,1
-24,Vector Space of Column Vectors ,74,1
-25,Column Vector Equality ,75,1
-26,Column Vector Addition ,76,1
-27,Column Vector Scalar Multiplication ,77,1
-28,Linear Combination of Column Vectors ,83,1
-29,Span of a Set of Column Vectors,107,1
-30,Relation of Linear Dependence for Column Vectors ,122,1
-31,Linear Independence of Column Vectors,122,1
-32,Complex Conjugate of a Column Vector ,148,1
-33,Inner Product ,149,1
-34,Norm of a Vector ,152,1
-35,Orthogonal Vectors ,154,1
-36,Orthogonal Set of Vectors ,155,1
-37,Standard Unit Vectors ,155,1
-38,OrthoNormal Set ,159,1
-39,Vector Space of m × n Matrices ,162,1
-40,Matrix Equality ,162,1
-41,Matrix Addition ,163,1
-42,Matrix Scalar Multiplication ,163,1
-43,Zero Matrix ,165,1
-44,Transpose of a Matrix,166,1
-45,Symmetric Matrix,166,1
-46,Complex Conjugate of a Matrix ,168,1
-47,Adjoint ,170,1
-48,Matrix-Vector Product ,175,1
-49,Matrix Multiplication ,179,1
-50,Hermitian Matrix ,188,1
-51,Matrix Inverse ,194,1
-52,Unitary Matrices ,211,1
-53,Column Space of a Matrix ,217,1
-54,Row Space of a Matrix ,225,1
-55,Left Null Space ,236,1
-56,Extended Echelon Form,241,1
-57,Vector Space,257,1
-58,Subspace ,272,1
-59,Trivial Subspaces ,277,1
-60,Linear Combination ,279,1
-61,Span of a Set,279,1
-62,Relation of Linear Dependence,288,1
-63,Linear Independence ,288,1
-64,Spanning Set of a Vector Space ,294,1
-65,Basis ,303,1
-66,Dimension ,318,1
-67,Nullity Of a Matrix ,325,1
-68,Rank Of a Matrix ,325,1
-69,Elementary Matrices ,340,1
-70,SubMatrix ,346,1
-71,Determinant of a Matrix ,346,1
-72,Eigenvalues and Eigenvectors of a Matrix,367,1
-73,Characteristic Polynomial ,375,1
-74,Eigenspace of a Matrix ,377,1
-75,Algebraic Multiplicity of an Eigenvalue ,379,1
-76,Geometric Multiplicity of an Eigenvalue,380,1
-77,Similar Matrices ,403,1
-78,Diagonal Matrix ,407,1
-79,Diagonalizable Matrix,407,1
-80,Linear Transformation ,420,1
-81,Pre-Image ,436,1
-82,Linear Transformation Addition ,438,1
-83,Linear Transformation Scalar Multiplication ,439,1
-84,Linear Transformation Composition ,441,1
-85,Injective Linear Transformation ,446,1
-86,Kernel of a Linear Transformation,451,1
-87,Surjective Linear Transformation ,462,1
-88,Range of a Linear Transformation ,468,1
-89,Identity Linear Transformation,480,1
-90,Invertible Linear Transformations ,480,1
-91,Isomorphic Vector Spaces,490,1
-92,Rank Of a Linear Transformation ,492,1
-93,Nullity Of a Linear Transformation ,492,1
-94,Vector Representation,501,1
-95,Matrix Representation ,514,1
-96,Eigenvalue and Eigenvector of a Linear Transformation ,542,1
-97,Change-of-Basis Matrix,543,1
-98,Upper Triangular Matrix ,568,1
-99,Lower Triangular Matrix ,568,1
-100,Normal Matrix,575,1
-101,Complex Number Equality ,582,1
-102,Complex Number Addition,582,1
-103,Complex Number Multiplication,582,1
-104,Conjugate of a Complex Number ,584,1
-105,Modulus of a Complex Number ,585,1
-106,Set ,587,1
-107,Subset ,587,1
-108,Empty Set ,587,1
-109,Set Equality ,588,1
-110,Cardinality,589,1
-111,Set Union ,589,1
-112,Set Intersection ,589,1
-113,Set Complement,590,1
+,Unnamed: 0,concept,pages,level,wiki_concept,search_results
+0,0,System of Linear Equations ,9,1,System of linear equations,"['System of linear equations', 'System of equations', 'Nonlinear system', 'Linear equation', 'Linear differential equation', 'Diophantine equation', 'Overdetermined system', 'Equation', 'Elementary algebra', 'Kernel (linear algebra)']"
+1,1,Solution of a System of Linear Equations ,9,1,System of linear equations,"['System of linear equations', 'Overdetermined system', 'Linear differential equation', 'Linear equation', 'Diophantine equation', 'Nonlinear system', 'System of equations', ""Cramer's rule"", 'Ordinary differential equation', 'Differential equation']"
+2,2,Solution Set of a System of Linear Equations,9,1,System of linear equations,"['System of linear equations', 'Overdetermined system', 'Linear equation', 'System of equations', 'Nonlinear system', 'Diophantine equation', 'Equation', 'System of differential equations', 'Quantum algorithm for linear systems of equations', 'Numerical methods for ordinary differential equations']"
+3,3,Equivalent Systems ,11,1,,"['Harmonic oscillator', 'TNT equivalent', 'Equivalent (chemistry)', 'Equivalent weight', 'Fire Safety Evaluation System', 'Equivalent circuit', 'Twenty-foot equivalent unit', 'Human equivalent', 'Global warming potential', 'Chipkill']"
+4,4,Equation Operations ,12,1,Equation,"['Equation', 'Equation Group', 'Kozeny–Carman equation', 'Cubic equation', 'Linear differential equation', 'Algebraic expression', 'Algebraic equation', 'Differential equation', 'Quadratic equation', 'System of linear equations']"
+5,5,Matrix ,22,1,Matrix (mathematics),"['The Matrix', 'Matrix', 'Matrix (mathematics)', 'The Matrix Resurrections', 'Rotation matrix', 'The Matrix (franchise)', 'Matrix multiplication', 'Transpose', 'Definite matrix', 'Covariance matrix']"
+6,6,Column Vector,23,1,Row and column vectors,"['Row and column vectors', 'Row and column spaces', 'Bra–ket notation', 'Rank (linear algebra)', 'Vector', 'Matrix multiplication', 'Vectorization', 'Spinor', 'Matrix calculus', 'Rotation matrix']"
+7,7,Zero Column Vector,23,1,Rank (linear algebra),"['Rank (linear algebra)', 'Definite matrix', 'Norm (mathematics)', 'Linear subspace', 'Row and column spaces', 'Vector notation', 'Array (data structure)', 'Vector space', 'Coordinate vector', 'Kernel (linear algebra)']"
+8,8,Coeﬃcient Matrix ,23,1,Coefficient matrix,"['Coefficient matrix', 'Coefficient', 'Augmented matrix', 'Confusion matrix', 'Phi coefficient', ""Cramer's rule"", 'Matrix coefficient', 'Unimodular matrix', 'Correlation', 'Pearson correlation coefficient']"
+9,9,Vector of Constants ,24,1,Structure constants,"['Vector autoregression', 'List of common physics notations', 'Structure constants', 'Multivariate normal distribution', 'Laplace–Runge–Lenz vector', 'Circular motion', 'Del', 'Definite quadratic form', 'Independent equation', 'Consistent and inconsistent equations']"
+10,10,Solution Vector ,24,1,Successive over-relaxation,"['Successive over-relaxation', 'Poynting vector', 'Quantum algorithm for linear systems of equations', 'Vector space', 'Augmented matrix', 'Galerkin method', 'System of linear equations', 'Basic solution (linear programming)', 'Basis pursuit', 'Relaxation (iterative method)']"
+11,11,Matrix Representation of a Linear System ,24,1,Matrix representation,"['Matrix representation', 'Transpose', 'Sparse matrix', 'Representation theory', 'State-space representation', 'Kernel (linear algebra)', 'Eigendecomposition of a matrix', 'Matrix (mathematics)', 'Adjoint representation', 'Rosenbrock system matrix']"
+12,12,Augmented Matrix ,25,1,Augmented matrix,"['Augmented matrix', 'Affine transformation', 'Gaussian elimination', 'Augment', 'Invertible matrix', 'Transformation matrix', 'System of linear equations', 'Overdetermined system', 'Coefficient matrix', 'Rank (linear algebra)']"
+13,13,Row Operations ,26,1,Elementary matrix,"['Elementary matrix', 'Gaussian elimination', 'Row equivalence', 'Row echelon form', 'Rank (linear algebra)', 'Linear subspace', 'Row and column spaces', 'Column-oriented DBMS', 'Matrix (mathematics)', 'Allan B. Polunsky Unit']"
+14,14,Row-Equivalent Matrices ,26,1,Row equivalence,"['Row equivalence', 'Matrix (mathematics)', 'Matrix equivalence', 'Hermitian matrix', 'Normal matrix', 'Rank (linear algebra)', 'Row- and column-major order', 'List of named matrices', 'Matrix multiplication', 'Invertible matrix']"
+15,15,Reduced Row-Echelon Form ,28,1,Row echelon form,"['Row echelon form', 'Gaussian elimination', 'Row and column spaces', 'Elementary matrix', 'Row equivalence', 'Rank (linear algebra)', 'Linear subspace', 'Rank factorization', 'System of linear equations', 'Reduction']"
+16,16,Consistent System,45,1,Consistent and inconsistent equations,"['Consistent and inconsistent equations', 'Eventual consistency', 'Consistent hashing', 'Consistent life ethic', 'Consistent histories', ""Gödel's incompleteness theorems"", 'Consistency', 'Axiomatic system', 'Consistent pricing process', 'System']"
+17,17,Independent and Dependent Variables,48,1,Endogeneity (econometrics),"['Dependent and independent variables', 'Mediation (statistics)', 'Endogeneity (econometrics)', 'Regression analysis', 'Control variable', 'Omitted-variable bias', 'Standardized coefficient', 'Bivariate data', 'Kitchen sink regression', 'Path analysis (statistics)']"
+18,18,Homogeneous System ,58,1,System of linear equations,"['Homogeneous system', 'System of linear equations', 'Homogeneous coordinates', 'Heat capacity', 'System of imprimitivity', 'Grand potential', 'First law of thermodynamics', 'Gibbs free energy', 'Coordinate system', 'Linear subspace']"
+19,19,Trivial Solution to Homogeneous Systems of Equations ,59,1,System of linear equations,"['System of linear equations', 'Diophantine equation', 'Overdetermined system', 'Ordinary differential equation', 'Heat equation', ""Maxwell's equations"", 'Solution (chemistry)', 'Partial differential equation', 'Power series solution of differential equations', 'Underdetermined system']"
+20,20,Null Space of a Matrix ,61,1,Kernel (linear algebra),"['Kernel (linear algebra)', 'Row and column spaces', 'Linear subspace', 'Singular value decomposition', 'Nullity', 'Row equivalence', 'Null (mathematics)', 'Rotation matrix', 'EP matrix', 'Incidence matrix']"
+21,21,Square Matrix ,66,1,Square matrix,"['Square matrix', 'Matrix (mathematics)', 'Square root of a matrix', 'Invertible matrix', 'Transpose', 'Orthogonal matrix', 'Identity matrix', 'Triangular matrix', 'Trace (linear algebra)', 'Symmetric matrix']"
+22,22,Nonsingular Matrix ,66,1,Invertible matrix,"['Invertible matrix', 'Involutory matrix', 'Condition number', 'Determinant', 'Metric tensor', 'Generalized permutation matrix', 'Z-matrix (mathematics)', 'Symplectic matrix', 'Matrix decomposition', 'Rotation matrix']"
+23,23,Identity Matrix ,67,1,Identity matrix,"['Identity matrix', 'Woodbury matrix identity', 'Rotation matrix', 'Matrix (mathematics)', 'Orthogonal matrix', 'Elementary matrix', 'Unitary matrix', 'Determinant', 'Invertible matrix', 'Permutation matrix']"
+24,24,Vector Space of Column Vectors ,74,1,Row and column vectors,"['Row and column vectors', 'Vector space', 'Dimension (vector space)', 'Topological vector space', 'Vector (mathematics and physics)', 'Vector', 'Coordinate vector', 'Vector notation', 'Euclidean vector', 'Row and column spaces']"
+25,25,Column Vector Equality ,75,1,Rank (linear algebra),"['Rank (linear algebra)', 'Norm (mathematics)', 'Matrix multiplication', 'Euclidean vector', 'Matrix norm', 'Linear subspace', 'Dot product', 'Bra–ket notation', 'Matrix (mathematics)', 'Spinor']"
+26,26,Column Vector Addition ,76,1,Vector (mathematics and physics),"['Vector (mathematics and physics)', 'Vector notation', 'Euclidean vector', 'Vector space', 'Matrix multiplication', 'Vectorization (mathematics)', 'Row- and column-major order', 'Linear algebra', 'Matrix (mathematics)', 'Addition']"
+27,27,Column Vector Scalar Multiplication ,77,1,Vector (mathematics and physics),"['Vector (mathematics and physics)', 'Dot product', 'Matrix multiplication', 'Diagonal matrix', 'Vector space', 'Euclidean vector', 'Vector notation', 'Quaternion', 'Topological vector space', 'Eigenvalues and eigenvectors']"
+28,28,Linear Combination of Column Vectors ,83,1,Rank (linear algebra),"['Rank (linear algebra)', 'Row and column spaces', 'Linear independence', 'Basis (linear algebra)', 'Linear subspace', 'System of linear equations', 'Kernel (linear algebra)', 'Affine combination', 'Linear algebra', 'Vector space']"
+29,29,Span of a Set of Column Vectors,107,1,Row and column spaces,"['Row and column spaces', 'Rank (linear algebra)', 'Linear subspace', 'Gram–Schmidt process', 'Basis (linear algebra)', 'Kernel (linear algebra)', 'Vector notation', 'Linear independence', 'Orthonormal basis', 'Vector space']"
+30,30,Relation of Linear Dependence for Column Vectors ,122,1,Linear independence,"['Linear independence', 'Rank (linear algebra)', 'Row and column spaces', 'System of linear equations', 'Linear subspace', 'Affine space', 'Principal component analysis', 'Covariance matrix', 'Spinor', 'Ordinary least squares']"
+31,31,Linear Independence of Column Vectors,122,1,Linear independence,"['Linear independence', 'System of linear equations', 'Linear regression', 'Linear algebra', 'Vector space', 'Basis (linear algebra)', 'Dimension (vector space)', 'Linear subspace', 'Determinant', 'Affine space']"
+32,32,Complex Conjugate of a Column Vector ,148,1,Complex conjugate of a vector space,"['Complex conjugate of a vector space', 'Hermitian matrix', 'Bra–ket notation', 'Quaternion', 'Dot product', 'Rank (linear algebra)', 'Matrix multiplication', 'Transpose', 'Definite matrix', 'Eigenvalues and eigenvectors']"
+33,33,Inner Product ,149,1,Inner product space,"['Inner product space', 'Dot product', 'Frobenius inner product', 'Product', 'Outer product', 'Hilbert space', 'Petersson inner product', 'Indefinite inner product space', 'Cauchy–Schwarz inequality', 'L-semi-inner product']"
+34,34,Norm of a Vector ,152,1,Norm (mathematics),"['Norm (mathematics)', 'Normed vector space', 'Matrix norm', 'Magnitude (mathematics)', 'Banach space', 'Unit vector', 'Vector notation', 'Operator norm', 'Lp space', 'Vector space']"
+35,35,Orthogonal Vectors ,154,1,Inner product space,"['Inner product space', 'Orthogonality (mathematics)', 'Orthogonality', 'Gram–Schmidt process', 'Orthogonal matrix', 'Orthogonal transformation', 'Orthonormality', 'Projection (linear algebra)', 'Orthogonal group', 'Cosine similarity']"
+36,36,Orthogonal Set of Vectors ,155,1,Gram–Schmidt process,"['Gram–Schmidt process', 'Orthonormality', 'Inner product space', 'Orthogonality (mathematics)', 'Orthogonality', 'Orthogonal complement', 'Orthonormal basis', 'Orthogonal matrix', 'Orthogonal coordinates', 'Orthogonal basis']"
+37,37,Standard Unit Vectors ,155,1,Unit vector,"['Unit vector', 'Standard basis', 'Simplex', 'Euclidean vector', 'Vector calculus identities', 'Row and column vectors', 'Orthonormality', 'Vector processor', 'Gradient', 'Vector notation']"
+38,38,OrthoNormal Set ,159,1,Orthonormality,"['Orthonormality', 'Orthonormal basis', 'Ortho effect', 'Inner product space', 'Hilbert space', 'Gram–Schmidt process', 'Normal (geometry)', ""Parseval's identity"", 'Normal matrix', ""Mercer's theorem""]"
+39,39,Vector Space of m × n Matrices ,162,1,Pauli matrices,"['Pauli matrices', 'Hermitian matrix', 'Row and column spaces', 'Examples of vector spaces', 'Gamma matrices', 'Rotation matrix', 'Transformation matrix', 'Matrix multiplication', 'Inner product space', 'Coordinate vector']"
+40,40,Matrix Equality ,162,1,Matrix norm,"['Matrix norm', 'Matrix multiplication', 'Matrix (mathematics)', 'Berndt–Hall–Hall–Hausman algorithm', 'Rotation matrix', 'Information matrix test', 'Adjugate matrix', 'Matrix exponential', 'Rank (linear algebra)', 'Matrix polynomial']"
+41,41,Matrix Addition ,163,1,Matrix addition,"['Matrix addition', 'Matrix multiplication', 'Matrix (mathematics)', 'Addition', 'Diagonal matrix', 'Toeplitz matrix', 'Conjugate transpose', 'Matrix ring', 'Transpose', 'Stochastic matrix']"
+42,42,Matrix Scalar Multiplication ,163,1,Scalar multiplication,"['Scalar multiplication', 'Diagonal matrix', 'Matrix multiplication', 'Scalar (mathematics)', 'Computational complexity of matrix multiplication', 'Matrix multiplication algorithm', 'Vector multiplication', 'Hessian matrix', 'Rotation matrix', 'Matrix norm']"
+43,43,Zero Matrix ,165,1,Zero matrix,"['Zero matrix', 'Adjacency matrix', 'Sparse matrix', 'Definite matrix', 'Identity matrix', 'Diagonal matrix', 'Matrix (mathematics)', 'Rank (linear algebra)', 'Zero element', 'Triangular matrix']"
+44,44,Transpose of a Matrix,166,1,Transpose,"['Transpose', 'Conjugate transpose', 'Hermitian matrix', 'In-place matrix transposition', 'Adjugate matrix', 'Unitary matrix', 'Skew-Hermitian matrix', 'Matrix congruence', 'Symmetric matrix', 'Orthogonal matrix']"
+45,45,Symmetric Matrix,166,1,Symmetric matrix,"['Symmetric matrix', 'Skew-symmetric matrix', 'Definite matrix', 'Rotation matrix', 'Orthogonal matrix', 'Hermitian matrix', 'Transpose', 'Matrix (mathematics)', 'Square matrix', 'Eigendecomposition of a matrix']"
+46,46,Complex Conjugate of a Matrix ,168,1,Conjugate transpose,"['Conjugate transpose', 'Complex conjugate', 'Hermitian matrix', 'Unitary matrix', 'Normal matrix', 'Matrix multiplication', 'Definite matrix', 'Complex conjugate root theorem', 'Transpose', 'Matrix decomposition']"
+47,47,Adjoint ,170,1,Adjoint,"['Adjoint', 'Hermitian adjoint', 'Self-adjoint', 'Self-adjoint operator', 'Adjoint functors', 'Adjoint representation', 'Adjugate matrix', 'Dirac adjoint', 'Transpose', 'Conjugate transpose']"
+48,48,Matrix-Vector Product ,175,1,Matrix multiplication,"['Matrix multiplication', 'Cross product', 'Hadamard product (matrices)', 'Kronecker product', 'Dot product', 'Outer product', 'Row and column vectors', 'Gram matrix', 'Hermitian matrix', 'Orthogonal matrix']"
+49,49,Matrix Multiplication ,179,1,Matrix multiplication,"['Matrix multiplication', 'Matrix multiplication algorithm', 'Computational complexity of matrix multiplication', 'Matrix chain multiplication', 'Matrix (mathematics)', 'Rotation matrix', 'Diagonal matrix', 'Invertible matrix', 'DFT matrix', 'Sparse matrix']"
+50,50,Hermitian Matrix ,188,1,Hermitian matrix,"['Hermitian matrix', 'Skew-Hermitian matrix', 'Definite matrix', 'Unitary matrix', 'Normal matrix', 'Conjugate transpose', 'Symmetric matrix', 'Sesquilinear form', 'Gram matrix', 'Transpose']"
+51,51,Matrix Inverse ,194,1,Invertible matrix,"['Invertible matrix', 'Moore–Penrose inverse', 'Eigendecomposition of a matrix', 'Orthogonal matrix', 'Woodbury matrix identity', 'Jacobian matrix and determinant', 'Generalized inverse', 'Inverse problem', 'Square root of a matrix', 'Multiplicative inverse']"
+52,52,Unitary Matrices ,211,1,Unitary matrix,"['Unitary matrix', 'Special unitary group', 'Unitary group', 'Random matrix', 'Unitary operator', 'Quantum logic gate', 'Matrix (mathematics)', 'Matrix decomposition', 'Rotation matrix', 'Normal matrix']"
+53,53,Column Space of a Matrix ,217,1,Row and column spaces,"['Row and column spaces', 'Rank (linear algebra)', 'Projection matrix', 'Kernel (linear algebra)', 'Row and column vectors', 'Transpose', 'Matrix multiplication', 'Range space', 'Dimension (vector space)', 'Incidence matrix']"
+54,54,Row Space of a Matrix ,225,1,Row and column spaces,"['Row and column spaces', 'Rank (linear algebra)', 'Kernel (linear algebra)', 'Row equivalence', 'Row and column vectors', 'Transpose', 'Row echelon form', 'Linear subspace', 'Matrix multiplication', 'Shear matrix']"
+55,55,Left Null Space ,236,1,Kernel (linear algebra),"['Kernel (linear algebra)', 'Row and column spaces', 'Fundamental theorem of linear algebra', 'Null set', 'Sequence space', 'Orthogonal complement', 'Pseudo-Euclidean space', 'Linear subspace', 'Minkowski space', 'Quadratic sieve']"
+56,56,Extended Echelon Form,241,1,Hermite normal form,"['Hermite normal form', 'Five Eyes', ""Tom Clancy's Splinter Cell"", 'Dike (geology)', 'Deep operation', 'Linear subspace', 'RAF Menwith Hill', 'AirLand Battle', 'Healthcare in the Netherlands', 'Michelson interferometer']"
+57,57,Vector Space,257,1,Vector space,"['Vector space', 'Dimension (vector space)', 'Normed vector space', 'Euclidean space', 'Basis (linear algebra)', 'Inner product space', 'Vector space model', 'Topological vector space', 'Vector (mathematics and physics)', 'Examples of vector spaces']"
+58,58,Subspace ,272,1,Subspace,"['Subspace', 'Linear subspace', 'Affine space', 'Subspace topology', 'SubSpace (video game)', 'Invariant subspace', 'Clustering high-dimensional data', 'Kernel (linear algebra)', 'Complemented subspace', 'Cyclic subspace']"
+59,59,Trivial Subspaces ,277,1,Linear subspace,"['Linear subspace', 'Invariant subspace problem', 'Invariant subspace', 'Affine space', 'Flag (linear algebra)', 'Fiber bundle', 'Symplectic vector space', 'Compact space', 'Trivial topology', 'Euclidean space']"
+60,60,Linear Combination ,279,1,Linear combination,"['Linear combination', 'Linear combination of atomic orbitals', 'Linear span', 'Linear independence', 'Linear discriminant analysis', 'Rank (linear algebra)', 'Symmetry-adapted linear combination', 'Basis (linear algebra)', 'Linear regression', 'Linear subspace']"
+61,61,Span of a Set,279,1,Linear span,"['Linear span', 'Spanning tree', 'CME SPAN', 'Steeleye Span', 'Span of control', 'Affine hull', 'Upper set', 'Minimum spanning tree', 'Disjoint-set data structure', 'Spanić']"
+62,62,Relation of Linear Dependence,288,1,Dependence relation,"['Dependence relation', 'Linear independence', 'Dispersion relation', 'Clausius–Clapeyron relation', 'Cauchy–Schwarz inequality', 'Goodman relation', 'Rank (linear algebra)', 'Constitutive equation', ""Van 't Hoff equation"", 'Clausius–Mossotti relation']"
+63,63,Linear Independence ,288,1,Linear independence,"['Linear independence', 'Linear combination', 'Wronskian', 'Basis (linear algebra)', 'Matroid', 'Linear algebra', 'Vector space', 'Gram matrix', 'System of linear equations', 'Linear regression']"
+64,64,Spanning Set of a Vector Space ,294,1,Linear span,"['Linear span', 'Basis (linear algebra)', 'Topological vector space', 'Vector space', 'Generator (mathematics)', 'Row and column spaces', 'Linear subspace', 'Affine space', 'Inner product space', 'Projective space']"
+65,65,Basis ,303,1,Basis,"['Basis', 'Basis (linear algebra)', 'Basis function', 'Standard basis', 'Basis point', 'Gröbner basis', 'Orthogonal basis', 'Hilbert basis', 'Orthonormal basis', 'Radial basis function']"
+66,66,Dimension ,318,1,Dimension (vector space),"['Dimension', 'Dell Dimension', '11th dimension', 'Fifth Dimension', 'Dimension 20', 'Fourth dimension', 'Dimension Films', 'Dimension (vector space)', 'Dimension Hatröss', 'Dimensioning']"
+67,67,Nullity Of a Matrix ,325,1,Kernel (linear algebra),"['Kernel (linear algebra)', 'Row and column spaces', 'Nullity', 'Rank–nullity theorem', 'Rank (linear algebra)', 'Invertible matrix', 'Matrix (mathematics)', 'Generalized eigenvector', 'Rank (graph theory)', 'Nullity theorem']"
+68,68,Rank Of a Matrix ,325,1,Rank (linear algebra),"['Rank (linear algebra)', 'Row and column spaces', 'Augmented matrix', 'Matrix norm', 'Nonnegative rank (linear algebra)', 'Invertible matrix', 'Matrix (mathematics)', 'Eigendecomposition of a matrix', 'Matrix decomposition', 'Google matrix']"
+69,69,Elementary Matrices ,340,1,Elementary matrix,"['Elementary matrix', 'Matrix (mathematics)', 'Invertible matrix', 'Gaussian elimination', 'Diagonalizable matrix', 'Block matrix', 'Permutation matrix', 'Matrix similarity', 'Gell-Mann matrices', 'Special linear group']"
+70,70,SubMatrix ,346,1,Matrix (mathematics),"['Matrix (mathematics)', 'Definite matrix', 'Rank (linear algebra)', 'Matrix norm', 'Unimodular matrix', 'Minor (linear algebra)', 'Hessenberg matrix', 'Perfect matrix', 'Matrix multiplication algorithm', 'Block matrix']"
+71,71,Determinant of a Matrix ,346,1,Determinant,"['Determinant', 'Jacobian matrix and determinant', 'Vandermonde matrix', 'Minor (linear algebra)', 'Hessian matrix', 'Matrix determinant lemma', 'Invertible matrix', 'Matrix (mathematics)', 'Square matrix', 'Spectrum of a matrix']"
+72,72,Eigenvalues and Eigenvectors of a Matrix,367,1,Eigenvalues and eigenvectors,"['Eigenvalues and eigenvectors', 'QR algorithm', 'Eigendecomposition of a matrix', 'Diagonalizable matrix', 'Normal matrix', 'Eigenvalue algorithm', 'Matrix decomposition', 'Generalized eigenvector', 'Hermitian matrix', 'Spectrum of a matrix']"
+73,73,Characteristic Polynomial ,375,1,Characteristic polynomial,"['Characteristic polynomial', 'Eigenvalues and eigenvectors', 'Characteristic', 'Minimal polynomial (linear algebra)', 'Characteristic equation', 'Matroid', 'Jordan normal form', 'Cayley–Hamilton theorem', ""Newton's identities"", 'Linear differential equation']"
+74,74,Eigenspace of a Matrix ,377,1,Eigendecomposition of a matrix,"['Eigendecomposition of a matrix', 'Eigenvalues and eigenvectors', 'Diagonalizable matrix', 'Normal matrix', 'Shear matrix', 'Spectrum of a matrix', 'Eigenvalue algorithm', 'Square root of a matrix', 'Scaling (geometry)', 'Unitary matrix']"
+75,75,Algebraic Multiplicity of an Eigenvalue ,379,1,Eigendecomposition of a matrix,"['Eigendecomposition of a matrix', 'Jordan normal form', 'Eigenvalues and eigenvectors', 'Defective matrix', 'Eigenvalue algorithm', 'Eigenvalue perturbation', 'Perron–Frobenius theorem', 'Trace (linear algebra)', 'Fundamental theorem of algebra', 'Characteristic polynomial']"
+76,76,Geometric Multiplicity of an Eigenvalue,380,1,Eigendecomposition of a matrix,"['Eigendecomposition of a matrix', 'Eigenvalues and eigenvectors', 'Defective matrix', 'Jordan normal form', 'Nonlinear eigenproblem', 'Eigenvalue algorithm', 'Diagonalizable matrix', 'Dirichlet eigenvalue', 'Permutation matrix', 'Perron–Frobenius theorem']"
+77,77,Similar Matrices ,403,1,Matrix similarity,"['Matrix similarity', 'Trace (linear algebra)', 'Eigenvalue algorithm', 'Matrix equivalence', 'Gamma matrices', 'List of named matrices', 'Matrix (mathematics)', 'Pauli matrices', 'Determinant', 'Diagonalizable matrix']"
+78,78,Diagonal Matrix ,407,1,Diagonal matrix,"['Diagonal matrix', 'Diagonalizable matrix', 'Anti-diagonal matrix', 'Block matrix', 'Tridiagonal matrix', 'Symmetric matrix', 'Normal matrix', 'Square matrix', 'Diagonal', 'Definite matrix']"
+79,79,Diagonalizable Matrix,407,1,Diagonalizable matrix,"['Diagonalizable matrix', 'Normal matrix', 'Logarithm of a matrix', 'Spectrum of a matrix', 'Spectral theorem', 'Power iteration', 'Defective matrix', 'Nilpotent matrix', 'Definite matrix', 'Eigendecomposition of a matrix']"
+80,80,Linear Transformation ,420,1,Linear map,"['Linear map', 'Transformation matrix', 'Affine transformation', 'Linear fractional transformation', 'General linear group', 'Direct linear transformation', 'Eigenvalues and eigenvectors', 'Möbius transformation', 'Householder transformation', 'Rank (linear algebra)']"
+81,81,Pre-Image ,436,1,Image (mathematics),"['Image (mathematics)', 'Preimage attack', 'DALL-E', 'Cryptographic hash function', 'Surjective function', 'Rendering (computer graphics)', 'Security of cryptographic hash functions', 'Median filter', 'Computer vision', 'Gaussian blur']"
+82,82,Linear Transformation Addition ,438,1,Linear map,"['Linear map', 'Affine transformation', 'Linear algebra', 'Matrix (mathematics)', 'Rigid transformation', 'Data transformation (statistics)', 'Möbius transformation', 'Eigenvalues and eigenvectors', 'Outline of linear algebra', 'Linear regression']"
+83,83,Linear Transformation Scalar Multiplication ,439,1,Scalar (mathematics),"['Scalar (mathematics)', 'Linear map', 'Matrix multiplication', 'Linear algebra', 'Diagonal matrix', 'Vector space', 'Affine transformation', 'Direct linear transformation', 'General linear group', 'Matrix (mathematics)']"
+84,84,Linear Transformation Composition ,441,1,Affine transformation,"['Affine transformation', 'Linear map', 'Transformation matrix', 'Transformation (function)', 'General linear group', 'Möbius transformation', 'Natural transformation', 'Isometry', 'Linear canonical transformation', 'Composition operator']"
+85,85,Injective Linear Transformation ,446,1,Linear map,"['Linear map', 'Injective function', 'Isometry', 'Orthogonal transformation', 'Norm (mathematics)', 'Rank (linear algebra)', 'Linear algebra', 'Dual space', 'Identity function', 'Natural transformation']"
+86,86,Kernel of a Linear Transformation,451,1,Kernel (linear algebra),"['Kernel (linear algebra)', 'Linear map', 'Orthogonal transformation', 'Kernel (algebra)', 'Kernel principal component analysis', 'Row and column spaces', 'Dimensionality reduction', 'Projection (linear algebra)', 'General linear group', 'Linear algebra']"
+87,87,Surjective Linear Transformation ,462,1,Linear map,"['Linear map', 'Isometry', 'General linear group', 'Hilbert space', 'Möbius transformation', 'Lorentz transformation', 'Linear algebra', 'Rank (linear algebra)', 'Linear form', 'Identity function']"
+88,88,Range of a Linear Transformation ,468,1,Linear map,"['Linear map', 'Direct linear transformation', 'Projection (linear algebra)', 'Geometric transformation', 'Data transformation (statistics)', 'Eigenvalues and eigenvectors', 'Kernel (linear algebra)', 'Generalized linear model', 'Nonlinear regression', 'Linear algebra']"
+89,89,Identity Linear Transformation,480,1,Linear map,"['Linear map', 'Transformation matrix', 'Householder transformation', 'Affine transformation', 'General linear group', 'Identity function', 'Möbius transformation', 'Data transformation (statistics)', 'Eigenvalues and eigenvectors', 'Whitening transformation']"
+90,90,Invertible Linear Transformations ,480,1,General linear group,"['General linear group', 'Affine transformation', 'Data transformation (statistics)', 'Automorphism group', 'Nilpotent matrix', 'Linear fractional transformation', 'Matrix similarity', 'Linear map', 'Transformation matrix', 'Invertible matrix']"
+91,91,Isomorphic Vector Spaces,490,1,Examples of vector spaces,"['Banach space', 'Examples of vector spaces', 'Vector space', 'Topological vector space', 'Isomorphism', 'Vector (mathematics and physics)', 'Dimension (vector space)', 'Normed vector space', 'Direct sum of modules', 'Quotient space (linear algebra)']"
+92,92,Rank Of a Linear Transformation ,492,1,Rank (linear algebra),"['Rank (linear algebra)', 'Linear map', 'Kernel (linear algebra)', 'Direct linear transformation', 'Outline of linear algebra', 'Eigenvalues and eigenvectors', 'Data transformation (statistics)', 'Matrix similarity', 'Row and column spaces', 'Isometry']"
+93,93,Nullity Of a Linear Transformation ,492,1,Rank–nullity theorem,"['Rank–nullity theorem', 'Kernel (linear algebra)', 'Linear map', 'Outline of linear algebra', 'Rank (linear algebra)', 'Row and column spaces', 'Eigenvalues and eigenvectors', 'Matrix (mathematics)', 'Vector space', 'Corank']"
+94,94,Vector Representation,501,1,Axis–angle representation,"['Axis–angle representation', 'Group representation', 'Spinor', 'Row and column vectors', 'Euclidean vector', 'Vector calculus', 'Representation theory', 'Coordinate vector', 'Four-vector', 'Word2vec']"
+95,95,Matrix Representation ,514,1,Matrix representation,"['Matrix representation', 'Adjacency matrix', 'Sparse matrix', 'Quaternion', 'Complex number', 'Rotation matrix', 'Z-order curve', 'Matrix representation of conic sections', 'Diagonalizable matrix', 'Matrix (mathematics)']"
+96,96,Eigenvalue and Eigenvector of a Linear Transformation ,542,1,Eigenvalues and eigenvectors,"['Eigenvalues and eigenvectors', 'Eigendecomposition of a matrix', 'Generalized eigenvector', 'Eigenvalue algorithm', 'Principal component analysis', 'Transformation matrix', 'Diagonalizable matrix', 'Linear algebra', 'Numerical linear algebra', 'Jordan normal form']"
+97,97,Change-of-Basis Matrix,543,1,Change of basis,"['Change of basis', 'Matrix similarity', 'Diagonalizable matrix', 'Vandermonde matrix', 'Spherical basis', 'Covariance and contravariance of vectors', 'Tridiagonal matrix', 'Tensor', 'Eigenvalues and eigenvectors', 'Jordan matrix']"
+98,98,Upper Triangular Matrix ,568,1,Triangular matrix,"['Triangular matrix', 'Matrix decomposition', 'Crout matrix decomposition', 'Schur decomposition', 'Normal matrix', 'LU decomposition', 'QR decomposition', 'Square matrix', 'QR algorithm', ""Sylvester's criterion""]"
+99,99,Lower Triangular Matrix ,568,1,Triangular matrix,"['Triangular matrix', 'Crout matrix decomposition', 'Square matrix', 'LU decomposition', 'Cholesky decomposition', 'Matrix decomposition', 'Band matrix', 'Matrix (mathematics)', 'Symmetric matrix', ""Sylvester's criterion""]"
+100,100,Normal Matrix,575,1,Normal matrix,"['Normal matrix', 'Matrix normal distribution', 'Ordinary least squares', 'Square matrix', 'Matrix similarity', 'Multivariate normal distribution', 'Eigendecomposition of a matrix', 'Rayleigh–Ritz method', 'Jordan normal form', 'Diagonal matrix']"
+101,101,Complex Number Equality ,582,1,Complex number,"['Complex number', 'Imaginary number', 'Gender equality', '−1', 'Equality Act 2010', 'Number', 'Measures of gender equality', 'Complex plane', 'Square root', 'Equality of outcome']"
+102,102,Complex Number Addition,582,1,Complex number,"['Complex number', 'Absolute value', 'Addition', 'Split-complex number', 'Gaussian integer', 'Number', 'Imaginary unit', 'Complex plane', 'Complex conjugate', 'Fast Fourier transform']"
+103,103,Complex Number Multiplication,582,1,Complex number,"['Multiplication algorithm', 'Complex multiplication', 'Multiplication', 'Complex number', 'Matrix multiplication', 'Complex multiplier', 'Absolute value', 'OpenCL', 'Scalar multiplication', 'Split-complex number']"
+104,104,Conjugate of a Complex Number ,584,1,Complex conjugate,"['Complex conjugate', 'Conjugate transpose', 'Complex conjugate root theorem', 'Complex number', 'Split-complex number', 'Complex conjugate of a vector space', 'Bra–ket notation', 'Absolute value', 'Hermitian matrix', 'Covariance matrix']"
+105,105,Modulus of a Complex Number ,585,1,Absolute value,"['Absolute value', 'Complex modulus', 'Modulus', 'Complex plane', 'Complex conjugate', 'Complex number', 'Split-complex number', 'Argument (complex analysis)', 'Gaussian integer', 'Modulus (algebraic number theory)']"
+106,106,Set ,587,1,Index set,"['Set', 'Set (mathematics)', 'Set theory', 'Mandelbrot set', 'Set (deity)', 'Data set', 'Empty set', 'Working set', 'Countable set', 'Index set']"
+107,107,Subset ,587,1,Total subset,"['Subset', 'Subset sum problem', 'Set (mathematics)', 'Compact space', 'Empty set', 'Total subset', 'Open set', 'Agreeable subset', 'Precompact set', 'Dense set']"
+108,108,Empty Set ,587,1,,"['Empty set', 'Axiom of empty set', 'Set (mathematics)', 'Intersection (set theory)', 'Empty string', 'Null set', 'Power set', 'Open set', 'Convex set', 'Set theory']"
+109,109,Set Equality ,588,1,,"['Equality (mathematics)', 'Algebra of sets', 'Social equality', 'Gender equality', 'List of set identities and relations', 'SOGIE Equality Bill', 'Equality before the law', 'Setoid', ""Women's Equality Party"", 'Hash table']"
+110,110,Cardinality,589,1,Cardinality of the continuum,"['Cardinality', 'Cardinal number', 'Cardinality (SQL statements)', 'Cardinality of the continuum', 'Cardinality (data modeling)', 'Aleph number', 'Set (mathematics)', 'Cardinality (disambiguation)', 'HyperLogLog', 'Infinite set']"
+111,111,Set Union ,589,1,Symmetric difference,"['Union (set theory)', 'Disjoint-set data structure', 'Algebra of sets', 'Set', 'Union-closed sets conjecture', 'Finite set', 'Complement (set theory)', 'Symmetric difference', 'Set (mathematics)', 'Intersection (set theory)']"
+112,112,Set Intersection ,589,1,Intersection,"['Intersection (set theory)', 'Private set intersection', 'Set intersection oracle', 'Algebra of sets', 'Intersection', 'Symmetric difference', 'Intersection (disambiguation)', 'Intersection graph', 'Disjoint sets', 'Complement (set theory)']"
+113,113,Set Complement,590,1,Complement,"['Complement (set theory)', 'Algebra of sets', ""Two's complement"", 'Complement', 'Complement graph', 'Open set', 'Intersection (set theory)', 'Orthogonal complement', 'Method of complements', 'Complementizer']"

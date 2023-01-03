@@ -1,481 +1,481 @@
-,concept,pages,level
-0,Adjoint classical,"148, 159",2
-1,Adjoint of transformation,295,2
-2,Admissible subspace,232,1
-3,Algebra,117,1
-4,Algebra of formal power serie�,119,2
-5,self-adjoint Algebra,345,2
-6,Algebraically closed field,138,1
-7,Alternating n-linear function,"144, 169",1
-8,Annihilator of subset,101,2
-9,Annihilator of sum and intersection,106,2
-10,Annihilator of vector ( T-annihilator),"201, 202, 228",2
-11,Approximation,283,1
-12,Associativity,1,1
-13,Associativity of matrix multiplication,"19, 90",2
-14,Associativity of vector addition,28,2
-15,Augmented matrix,14,1
-16,Axiom o f  choice,400,1
-17,Basis,41,1
-18,change of Basis,92,2
-19,dual Basis,"99, 165",2
-20,for module Basis,164,2
-21,ordered Basis,50,2
-22,orthonormal Basis,281,2
-23,standard b!4�is of l!'n Basis,41,2
-24,Bessel's inequality,287,1
-25,Bilinear form,"166, 320, 359",1
-26,diagonalization of Bilinear form,370,2
-27,group preserving Bilinear form,379,2
-28,matrix of Bilinear form,362,2
-29,non-degenerate ( non-singular) Bilinear form,365,2
-30,positive definite Bilinear form,368,2
-31,rank of Bilinear form,865,2
-32,signature of Bilinear form,872,2
-33,skew-symmetric Bilinear form,375,2
-34,symmetric Bilinear form,367,2
-35,Cauchy-Schwarz inequality,278,1
-36,Cayley-Hamilton theorem,"194, 237",1
-37,Cayley transform,309,1
-38,Characteristic of a field,3,2
-39,Characteristic polynomial,183,2
-40,Characteristic space,182,2
-41,Characteristic value,"182, 183",2
-42,Characteristic vector,182,2
-43,Classical adjoint,"148, 159",1
-44,Coefficients of polynomial,120,1
-45,Cofactor,158,1
-46,equivalence,256,1
-47,operations,"26, 256",1
-48,rank,"72, 114",1
-49,Commutative algebra,117,2
-50,Commutative group,83,2
-51,Commutative ring,140,2
-52,Companion matrix,230,1
-53,Complementary Bubspace,231,1
-54,orthogonal Complementary Bubspace,286,2
-55,Composition,390,1
-56,Conductor,"201, 202, 232",1
-57,Congruence,"139, 393, 396",1
-58,Conjugate,271,1
-59,transpose Conjugate,272,2
-60,Conjugation,276,1
-61,Coordinates,50,1
-62,coordinate matrix Coordinates,51,2
-63,Coset,"177, 396",1
-64,Cramer's rule,161,1
-65,Cyclie decomposition theorem,233,2
-66,Cyclie subspace,227,2
-67,Cyclie vector,227,2
-68,Degree of multilinear form,166,2
-69,Degree of polynomial,119,2
-70,"Dependence, linear","40, 47",1
-71,Derivative of polynomial,"129, 266",1
-72,Determinant function,144,1
-73,existence of Determinant function,147,2
-74,for linear transformations Determinant function,172,2
-75,uniqueness of Determinant function,152,2
-76,Determinant rank,163,1
-77,Diagonalizable operator,185,2
-78,Diagonalizable part of linear operator,222,2
-79,Diagonalizable simultaneously,207,2
-80,Diagonalization,"204, 207, 216",1
-81,Diagonalization of Hermitian form,323,2
-82,Diagonalization of self-adjoint matrix (operator),314,2
-83,Diagonalization of symmetric bilinear form,370,2
-84,unitary Diagonalization,317,2
-85,Differential equations,223,1
-86,Dimension,44,1
-87,formula Dimension,46,2
-88,Direct sum,210,1
-89,invariant Direct sum,214,2
-90,Direct sum of matrices,214,2
-91,Direct sum of operators,214,2
-92,Distance,289,1
-93,Division with remainder,128,1
-94,Dual basi�,"99, 165",2
-95,Dual modllle,165,2
-96,Dual space,98,2
-97,Elementary column operation,"26, 256",2
-98,Elementary Jordan matrix,245,2
-99,Elementary matrix,"20, 253",2
-100,Elementary row operation,"6, 252",2
-101,Empty set,388,1
-102,"Entrie,; of a matrix",6,1
-103,Equiv2Jence relation,393,1
-104,Equivalent systems of equations,4,1
-105,Euelidean space,277,1
-106,Exterior (wedge) product,"175, 177",1
-107,Fm x n,"29, 29",1
-108,Factorization of polynomial,136,1
-109,"Factor:"" invariant","2, 261",1
-110,algebraically closed Field,138,2
-111,subfield Field,2,2
-112,Finite-dimensional,41,1
-113,Finitely generated module,165,1
-114,Form alternating,169,2
-115,Form bilinear,"166, 320, 359",2
-116,Form Hermitian,323,2
-117,matrix of Form,322,2
-118,Form mnhilinear,166,2
-119,Form non-degenerate,324,2
-120,Form non-negative,32,2
-121,Form normal,"257, 261",2
-122,Form quadratic,"273, 368",2
-123,Form r-linear,166,2
-124,Form rational,238,2
-125,Form sesq �i-linear,320,2
-126,Formal power series,119,1
-127,Free module,164,1
-128,Function,389,1
-129,determinant Function,144,2
-130,identity Function,390,2
-131,inverse of Function,391,2
-132,invertible Function,390,2
-133,linear Function,"67, 97, 291",2
-134,multilinear Function,166,2
-135,n-linear Function,142,2
-136,polynomial function Function,30,2
-137,range of Function,389,2
-138,restriction of Function,391,2
-139,Fundamental theorem of algebra,138,1
-140,Gram-Schmidt process,"280, 287",1
-141,"Gra,�sman ring",180,1
-142,Greatest common divisor,13,1
-143,Group,82,1
-144,commutative Group,83,2
-145,general linear Group,307,2
-146,Lorentz Group,382,2
-147,orthogonal Group,380,2
-148,pseudo-orthogonal Group,381,2
-149,symmetric Group,15,2
-150,Hermitian form,323,1
-151,Homogeneous system of linear equations,4,1
-152,Hyperspace,"101, 109",1
-153,Ideal,131,1
-154,principal ideal Ideal,131,2
-155,Identity element,"117, 140",2
-156,Identity function,390,2
-157,Identity matrix,9,2
-158,resolution of Identity,"337, 344",2
-159,"Independence, linear","40, 47",1
-160,Independent linearly,"40, 47",2
-161,Independent ,"8, 209",2
-162,Inner product,271,1
-163,matrix of Inner product,274,2
-164,quadratic form of Inner product,"273, 277",2
-165,Inner product standard,"271, 272",2
-166,Integers,2,1
-167,positive Integers,2,2
-168,Interpolation,"124, 388",1
-169,Interpolation of subs paces,36,2
-170,I nvariant direct sum,214,2
-171,I nvariant factors of a matrix,"239, 261",2
-172,I nvariant subset,392,2
-173,I nvariant subspace,"199, 206, 314",2
-174,Inverse of function,3,2
-175,Inverse left,22,2
-176,Inverse of matrix,"22, 160",2
-177,Inverse right,22,2
-178,Inverse two-sided,22,2
-179,Invertible function,390,2
-180,Invertible linear tral15formation,79,2
-181,Invertible matrix,"22, 160",2
-182,Irreducible polynomial,135,1
-183,Isomorphism of inner product spaces,299,2
-184,Isomorphism of vector spaces,84,2
-185,Jordan form of matrix,247,1
-186,Kronecker delta,9,1
-187,Lagrange interpolation formula,124,1
-188,Laplace expansions,179,1
-189,Left i nverse,22,1
-190,Linear algebra,117,1
-191,Linear combination of equations,4,2
-192,Linear combination of vectors,31,2
-193,Linear functional,97,1
-194,Linearly dependent (independent),"40, 47",1
-195,Linear transformation (operator),"67, 76",1
-196,adjoint of Linear transformation (operator),295,2
-197,cyclic decomposition of Linear transformation (operator),233,2
-198,determinant of Linear transformation (operator),172,2
-199,diagonalizable Linear transformation (operator),185,2
-200,diagollalizable part of Linear transformation (operator),222,2
-201,invertible Linear transformation (operator),79,2
-202,matrix in orthonormal basis Linear transformation (operator),293,2
-203,matrix of Linear transformation (operator),"87, 88",2
-204,minimal polynomial of Linear transformation (operator),191,2
-205,nilpotent Linear transformation (operator),222,2
-206,non-negative Linear transformation (operator),"329, 341",2
-207,nOll-singular Linear transformation (operator),79,2
-208,normal Linear transformation (operator),312,2
-209,Ilullity of Linear transformation (operator),71,2
-210,orthogonal Linear transformation (operator),303,2
-211,polar decompo�ition of Linear transformation (operator),343,2
-212,positive Linear transformation (operator),329,2
-213,product of Linear transformation (operator),76,2
-214,quotient Linear transformation (operator),397,2
-215,range of Linear transformation (operator),71,2
-216,rank of Linear transformation (operator),71,2
-217,self-adjoint Linear transformation (operator),"298, 314",2
-218,semi-simple Linear transformation (operator),263,2
-219,trace of Linear transformation (operator),106,2
-220,transpose of Linear transformation (operator),112,2
-221,triangulable Linear transformation (operator),202,2
-222,unitary Linear transformation (operator),302,2
-223,Lorentz group,382,2
-224,"Lorentz transformation, :31 l (Ex. 15)",382,2
-225,M atrix,6,1
-226,augmented M atrix,14,2
-227,M atrix of bilinear form,362,2
-228,classical adjoint of M atrix,"148, 159",2
-229,coefficient M atrix,6,2
-230,cofactors M atrix,158,2
-231,companion M atrix,230,2
-232,conjugate transpose M atrix,272,2
-233,coordinate M atrix,51,2
-234,elementary M atrix,"20, 253",2
-235,"elementary, Jordan M atrix",245,2
-236,M atrix of form,322,2
-237,identity M atrix,9,2
-238,M atrix of inner product,274,2
-239,invariant factors of M atrix,"239, 261",2
-240,i nverse of M atrix,"22, 160",2
-241,invertible M atrix,"22, 160",2
-242,Jordan form of M atrix,247,2
-243,Matrix of linear transformation,"87, 88",2
-244,minimal polynomial of Matrix,191,2
-245,Matrix tlilpotent,244,2
-246,Matrix tlormal,315,2
-247,Matrix orthogonal,"162, 380",2
-248,Matrix positive,329,2
-249,principal minors of Matrix,326,2
-250,Matrix product,"17, 90",2
-251,rank of Matrix,114,2
-252,rational form of Matrix,238,2
-253,row rank of Matrix,"56, 72, 114",2
-254,Matrix row-reduced,9,2
-255,Matrix row-reduced echelon,"11, 56",2
-256,Matrix self-adjoint ( Hermitian),"35, 314",2
-257,similarity of Matrix,94,2
-258,Matrix skew-symmetric,"162, 210",2
-259,Matrix symmetric,"35, 210",2
-260,trace of Matrix,98,2
-261,transpose of Matrix,114,2
-262,Matrix triangular,155,2
-263,Matrix unitary,"163, 303",2
-264,Matrix upper-triangular,27,2
-265,Matrix Vandermonde,125,2
-266,Matrix zero,12,2
-267,Minimal polynomial,191,1
-268,Module,164,1
-269,basis for Module,164,2
-270,dual Module,165,2
-271,finitely generated Module,165,2
-272,free Module,164,2
-273,rank of Module,165,2
-274,Monic polynomial,120,1
-275,M ultilinear function (form),166,1
-276,degree of M ultilinear function (form),166,2
-277,Multiplicity,130,1
-278,n-linear function,142,1
-279,alternating n-linear function,"144, 169",2
-280,n-tuple,29,1
-281,Nilpotent matrix,244,2
-282,Nilpotent operator,222,2
-283,Non-degenerate bilinear form,365,2
-284,Non-degenerate form,324,2
-285,Non-negative form,325,2
-286,Non-negative operator,"329, 341",2
-287,Non-singular linear transformation,79,2
-288,Norm,273,1
-289,Normal form,"257, 261",2
-290,Normal matrix,315,2
-291,Normal operator,312,2
-292,Nullity of linear transformation,71,1
-293,Null space,71,1
-294,Numbers complex,2,2
-295,Numbers rational,3,2
-296,Numbers real,2,2
-297,Onto,389,1
-298,"Operator, linear",76,1
-299,Ordered basis,50,1
-300,Orthogonal complement,285,2
-301,Orthogonal equivalence of matrices,308,2
-302,Orthogonal group,380,2
-303,Orthogonal linear transformation,304,2
-304,Orthogonal matrix,"162, 380",2
-305,Orthogonal projection,285,2
-306,Orthogonal set,278,2
-307,Orthogonal vectors,"278, 368",2
-308,Orthogonalization,280,1
-309,Orthonormal basis,281,2
-310,Orthonormal set,278,2
-311,Parallelogram law,276,1
-312,Permutation,151,1
-313,"even, odd Permutation",152,2
-314,product of Permutation,15,2
-315,sign of Permutation,152,2
-316,Polar decomposition,34,1
-317,Polarization identities,"274, 368",1
-318,Polynomial,119,1
-319,characteristic Polynomial,183,2
-320,coefficients of Polynomial,120,2
-321,degree of Polynomial,119,2
-322,derivative of Polynomial,"129, 266",2
-323,function Polynomial,30,2
-324,irreducible (prime) Polynomial,135,2
-325,minimal Polynomial,191,2
-326,Polynomial monic,120,2
-327,primary decomposition of,137,1
-328,prime (irreducible),135,1
-329,prime factorization of,136,1
-330,reducible,135,1
-331,root of,129,1
-332,scalar,120,1
-333,zero of,129,1
-334,Positive form,"325, 328",2
-335,Positive integers,2,2
-336,Positive matrix,329,2
-337,Positive operator,329,2
-338,Positive definite,368,1
-339,Power series,119,1
-340,Primary components,351,1
-341,Primary decomposition of polynomial,137,2
-342,Primary decomposition theorem,220,2
-343,Prime factorization of polynomial,136,2
-344,Prime polynomial,135,2
-345,Principal access theorem,323,2
-346,Principal ideal,131,2
-347,Principal minors,326,2
-348,"Product: 
-exterior (wedge)","175, 177",1
-349,"Product 
-exterior (wedge) of linear transformations",76,2
-350,"Product 
-exterior (wedge) of matrices, .14",90,2
-351,"Product 
-exterior (wedge) of permutations",153,2
-352,"Product 
-exterior (wedge) tensor",168,2
-353,Projection,211,1
-354,Proper subset,"388, 381",1
-355,Quadratic form,"273, 368",1
-356,Quotient space,397,2
-357,Quotient transformation,397,2
-358,Range,71,1
-359,Rank; of bilinear form,365,2
-360,column Rank;,"72, 114",2
-361,determinant Rank;,163,2
-362,Rank of linear transformation,71,2
-363,Rank of matrix,114,2
-364,Rank of module,165,2
-365,Rank row,"56, 72, 114",2
-366,Rational form o f  matrix,238,1
-367,Reducible polynomial,135,1
-368,Relation,393,1
-369,equivalence Relation,393,2
-370,Relatively prime,133,1
-371,Resolution of the identity,"337, 344",2
-372,Resolution lSpectral,"336, 344",2
-373,Restriction of function,391,2
-374,Restriction operator,199,2
-375,Right inverse,22,1
-376,Rigid motion,310,1
-377,Ring,140,1
-378,Grassman Ring,180,2
-379,Root of family of operators,343,2
-380,Root of polynomial,129,2
-381,Rotation,"54, 309",1
-382,Row operatiollH,"6, 252",2
-383,Row rank,"56, 72, 114",2
-384,Row space,39,2
-385,Row vectors,38,2
-386,Row-equivalence,"7, 58, 253",1
-387,summary of Row-equivalence,55,2
-388,Row-reduced matrix,9,1
-389,row-reduced echelon matrix Row-reduced matrix,"11, 56",2
-390,Scalar,2,1
-391,polynomial Scalar,120,2
-392,"Self-adjoint matrix, :35",314,2
-393,Self-adjoint operator,"298, 314",2
-394,Semi-simple operator,263,1
-395,Separating vector,243,1
-396,Sequence of vectors,47,1
-397,Sesqui-linear form,320,1
-398,Set,388,1
-399,element of (member of) Set,388,2
-400,empty Set,388,2
-401,Shuffle,171,1
-402,Signature,372,1
-403,Sign of permutation,152,1
-404,Si milar matrices,94,1
-405,Simultaneous diagonalization,207,2
-406,Simultaneous triangulation,207,2
-407,Skew-symmetric bilinear form,375,2
-408,Skew-symmetric matrix,"162, 210",2
-409,Solution space,36,1
-410,Spectral resolution,"336, 344",2
-411,Spectral theorem,3,2
-412,Spectrum,336,1
-413,Square root,341,1
-414,Standard basis of pn,41,1
-415,Stuffer (das einstopfende Ideal),201,1
-416,Subfield,2,1
-417,Submatrix,163,1
-418,Subset,388,1
-419,invariant Subset,392,2
-420,proper Subset,388,2
-421,Subspace,34,1
-422,annihilator of Subspace,101,2
-423,complementary Subspace,231,2
-424,cyclic Subspace,227,2
-425,independent subs paces Subspace,209,2
-426,invariant Subspace,"199, 206, 314",2
-427,orthogonal complement of Subspace,285,2
-428,quotient by Subspace,397,2
-429,spanned by Subspace,36,2
-430,sum of subs paces Subspace,37,2
-431,T-admissible Subspace,232,2
-432,zero Subspace,35,2
-433,Sum direct,210,2
-434,Symmetric bilinear form,367,2
-435,Symmetric group,153,2
-436,Symmetric matrix,"3, 210",2
-437,System of linear equations,3,1
-438,homogeneous System of linear equations,4,2
-439,T-admissible subspace,232,1
-440,T-annihilator,"201, 202, 228",1
-441,T-eonductor,"201, 202, 232",1
-442,Taylor's formula,"129, 266",1
-443,Tec\sor,166,1
-444,product Tec\sor,168,2
-445,Trace of linear transformation,106,2
-446,Trace of matrix,98,2
-447,Transformation differentiation,67,2
-448,Transformation linear,"67, 76",2
-449,Transformation zero,67,2
-450,Transpose conjugate,272,2
-451,Transpose of linear transformation,112,2
-452,Transpose of matrix,114,2
-453,Triangulable linear transformation,202,1
-454,Triangular matrix,155,1
-455,Triangulation,"203, 207, 334",1
-456,Union,388,1
-457,Unitary diagonalization,317,2
-458,matrix,"16, 3",1
-459,operator,302,1
-460,space,277,1
-461,transformation,3,1
-462,Upper-triangular matrix,27,1
-463,Vandermonde matrix,125,1
-464,Vector space,28,1
-465,basis of Vector space,41,2
-466,dimension of Vector space,44,2
-467,finite dimensional Vector space,41,2
-468,isomorphism of Vector space,84,2
-469,Vector space of n-tuples,29,2
-470,quotient of Vector space,397,2
-471,of solutions to linear equations,36,1
-472,Wedge (exterior) product,"175, 177",1
-473,Zero matrix,12,2
-474,Zero of polynomial,129,2
+,Unnamed: 0,concept,pages,level,search_results,wiki_concept
+0,0,Adjoint classical,"148, 159",2,"['Adjugate matrix', 'Self-adjoint operator', 'Adjoint representation', 'Differential operator', 'Spectral theorem', 'Quantum mechanics', 'Unbounded operator', 'Classical group', 'Sturm–Liouville theory', 'Observable']",Adjugate matrix
+1,1,Adjoint of transformation,295,2,"['Hermitian adjoint', 'Adjoint functors', 'Adjoint representation', 'Dirac adjoint', 'Self-adjoint operator', 'Conjugate transpose', 'Natural transformation', 'Adjugate matrix', 'Transpose', 'Adjoint bundle']",Hermitian adjoint
+2,2,Admissible subspace,232,1,"['Unitary representation', 'Jacquet module', 'Monotonic function', 'Harish-Chandra module', 'Monomial basis', 'Eigenvalues and eigenvectors', 'Controllability', 'Physics-informed neural networks', 'Wavelet', 'Minkowski space']",Unitary representation
+3,3,Algebra,117,1,"['Algebra', 'Boolean algebra', 'Linear algebra', '*-algebra', 'Abstract algebra', 'Algebraic', 'Lie algebra', 'Free Boolean algebra', 'Σ-algebra', 'Exterior algebra']",Algebra
+4,4,Algebra of formal power serie�,119,2,"['Formal power series', 'Power series', 'Algebraic independence', 'Lie algebra representation', 'Laurent series', 'Duflo isomorphism', ""Cauchy's integral formula"", 'Non-well-founded set theory', 'Askar Dzhumadildayev', 'Cauchy–Kowalevski theorem']",Formal power series
+5,5,self-adjoint Algebra,345,2,"['Self-adjoint', 'C*-algebra', 'Operator algebra', 'Jordan algebra', 'Self-adjoint operator', 'Hermitian adjoint', '*-algebra', 'Spectral theorem', 'Lie algebra', 'Lie algebra representation']",Self-adjoint
+6,6,Algebraically closed field,138,1,"['Algebraically closed field', 'Quasi-algebraically closed field', 'Real closed field', 'Field (mathematics)', 'Pseudo algebraically closed field', 'Algebraic variety', 'Algebraic closure', 'Zariski topology', ""Schur's lemma"", 'Algebraic extension']",Algebraically closed field
+7,7,Alternating n-linear function,"144, 169",1,"['Multilinear map', 'Alternating permutation', 'Linear programming', 'Identity function', 'Derivative', 'Projective linear group', 'Linear congruential generator', 'Holonomic function', 'Determinant', 'Non-linear least squares']",Multilinear map
+8,8,Annihilator of subset,101,2,"['Annihilator (ring theory)', 'Annihilator', 'Dual space', 'Convex set', 'Noncommutative ring', ""Goldie's theorem"", 'Ideal (ring theory)', 'Orthogonal complement', 'Baer ring', 'List of prime numbers']",Annihilator (ring theory)
+9,9,Annihilator of sum and intersection,106,2,"['Ideal (ring theory)', 'Convex set', 'Mock modular form', 'Support of a module', 'Jacobson radical', 'Module (mathematics)', 'Homological conjectures in commutative algebra', 'Integrally closed domain', 'Graded ring', 'Radical of a ring']",Ideal (ring theory)
+10,10,Annihilator of vector ( T-annihilator),"201, 202, 228",2,"['Annihilator (ring theory)', 'Annihilation', 'Creation and annihilation operators', 'Dual space', 'Orthogonal complement', 'Projection matrix', 'Star Wars: The Old Republic: Annihilation', 'Transpose of a linear map', 'Module (mathematics)', 'Cyclic module']",Annihilator (ring theory)
+11,11,Approximation,283,1,"['Approximation', 'Order of approximation', 'Approximation algorithm', 'Rational approximation', ""Stirling's approximation"", 'Universal approximation theorem', 'Successive approximation', 'Boussinesq approximation', 'Paraxial approximation', 'Binomial approximation']",Approximation
+12,12,Associativity,1,1,"['Associative property', 'Operator associativity', 'Power associativity', 'Associate', 'Associative case', 'Associated', ""Light's associativity test"", 'N-ary associativity', 'Associated Press', 'The Associates']",Associative property
+13,13,Associativity of matrix multiplication,"19, 90",2,"['Matrix multiplication', 'Matrix multiplication algorithm', 'Associative property', 'Matrix chain multiplication', 'Invertible matrix', 'Matrix (mathematics)', 'Multiplication', 'Algebra over a field', 'Diagonal matrix', 'Rotation matrix']",Matrix multiplication
+14,14,Associativity of vector addition,28,2,"['Vector (mathematics and physics)', 'Vector space', 'Euclidean vector', 'Associative property', 'Algebra over a field', 'Vector field', 'Addition', 'Support vector machine', 'Viral vector', 'Linear algebra']",Vector (mathematics and physics)
+15,15,Augmented matrix,14,1,"['Augmented matrix', 'Affine transformation', 'Gaussian elimination', 'Augment', 'Invertible matrix', 'Transformation matrix', 'System of linear equations', 'Overdetermined system', 'Coefficient matrix', 'Rank (linear algebra)']",Augmented matrix
+16,16,Axiom o f  choice,400,1,"['Axiom of countable choice', 'Von Neumann–Bernays–Gödel set theory', 'Axiom schema of specification', 'Axiom of limitation of size', 'Gluing axiom', 'Surjective function', 'Social choice theory', 'Set theory', ""Kőnig's lemma"", 'Glossary of set theory']",Axiom of countable choice
+17,17,Basis,41,1,"['Basis', 'Basis (linear algebra)', 'Basis point', 'Basis function', 'Gröbner basis', 'Orthogonal basis', 'Radial basis function', 'Orthonormal basis', 'Dry basis', 'Hilbert basis']",Basis
+18,18,change of Basis,92,2,"['Change of basis', 'Basis (linear algebra)', 'Basis', 'Covariance and contravariance of vectors', 'Matrix similarity', 'Canonical basis', 'IPCC Sixth Assessment Report', 'Basis point', 'Spherical basis', 'Stirling number']",Change of basis
+19,19,dual Basis,"99, 165",2,"['Dual basis', 'Dual space', 'Basis', 'Linear form', 'Basis function', 'Dual basis in a field extension', 'Orthonormal basis', 'Covariance and contravariance of vectors', 'Geometric algebra', 'Duality (mathematics)']",Dual basis
+20,20,for module Basis,164,2,"['Free module', 'Module (mathematics)', 'Basis (linear algebra)', 'Projective module', 'Structure theorem for finitely generated modules over a principal ideal domain', 'Monomial basis', 'Solar panel', 'Injective module', 'Apollo command and service module', 'Normal basis']",Free module
+21,21,ordered Basis,50,2,"['Basis (linear algebra)', 'Change of basis', 'Coordinate vector', 'Diagonalizable matrix', 'Moving frame', 'Gröbner basis', 'Standard basis', 'Generalized eigenvector', 'Lenstra–Lenstra–Lovász lattice basis reduction algorithm', 'Tensor']",Basis (linear algebra)
+22,22,orthonormal Basis,281,2,"['Orthonormal basis', 'Orthonormality', 'Orthogonal basis', 'Hilbert space', 'Inner product space', 'Orthogonal matrix', 'Cross product', 'Gram matrix', 'Orthogonal transformation', 'Basis function']",Orthonormal basis
+23,23,standard b!4�is of l!'n Basis,41,2,"['Orthonormal basis', 'Basis (linear algebra)', 'Schauder basis', 'Standard deviation', 'Gamma matrices', 'Standard ML', 'Standard Model', 'B-spline', 'Coefficient of variation', 'Basis set (chemistry)']",Orthonormal basis
+24,24,Bessel's inequality,287,1,"[""Bessel's inequality"", 'Cauchy–Schwarz inequality', 'Hilbert space', 'Generalized Fourier series', 'Bessel', 'List of inequalities', 'Friedrich Bessel', 'Riesz–Fischer theorem', ""Bessel's correction"", 'Weak convergence (Hilbert space)']",Bessel's inequality
+25,25,Bilinear form,"166, 320, 359",1,"['Bilinear form', 'Degenerate bilinear form', 'Symmetric bilinear form', 'Definite quadratic form', 'Sesquilinear form', 'Quadratic form', 'Bilinear map', 'Killing form', 'Trace (linear algebra)', 'Transpose']",Bilinear form
+26,26,diagonalization of Bilinear form,370,2,"['Bilinear form', 'Symmetric bilinear form', 'Definite quadratic form', 'Quadratic form', 'Symplectic vector space', 'Killing form', 'Bilinear interpolation', 'Transpose', 'Change of basis', 'Poincaré duality']",Bilinear form
+27,27,group preserving Bilinear form,379,2,"['Orthogonal group', 'Quadratic form', 'Cartan–Dieudonné theorem', 'Symplectic vector space', 'Classical group', 'Indefinite orthogonal group', 'Symplectic group', 'Clifford algebra', 'General linear group', 'Differential form']",Orthogonal group
+28,28,matrix of Bilinear form,362,2,"['Bilinear form', 'Symmetric bilinear form', 'Degenerate bilinear form', 'Definite quadratic form', 'Transpose', 'Bilinear map', 'Quadratic form', 'Trace (linear algebra)', 'Matrix congruence', 'Matrix multiplication']",Bilinear form
+29,29,non-degenerate ( non-singular) Bilinear form,365,2,"['Degenerate bilinear form', 'Bilinear form', 'Quadratic form', 'Symmetric bilinear form', 'Singular value decomposition', 'Pseudo-Riemannian manifold', 'Trace (linear algebra)', 'Clifford algebra', 'Quadric', 'Hodge structure']",Degenerate bilinear form
+30,30,positive definite Bilinear form,368,2,"['Definite quadratic form', 'Positive definiteness', 'Quadratic form', 'Galerkin method', 'Symmetric bilinear form', 'Bilinear form', 'Positive semidefinite', 'Degenerate bilinear form', 'Killing form', 'Isotropic quadratic form']",Definite quadratic form
+31,31,rank of Bilinear form,865,2,"['Bilinear form', 'Tensor (intrinsic definition)', 'Strassen algorithm', 'Form', 'Low-rank approximation', 'Differential form', 'Unimodular lattice', 'Tensor product', 'Trace (linear algebra)', 'Inner product space']",Bilinear form
+32,32,signature of Bilinear form,872,2,"['Symmetric bilinear form', 'Quadratic form', 'Isotropic quadratic form', 'Eisenbud–Levine–Khimshiashvili signature formula', 'Killing form', 'Unimodular lattice', 'Intersection form of a 4-manifold', 'Metric signature', 'Minkowski space', 'Metric tensor']",Symmetric bilinear form
+33,33,skew-symmetric Bilinear form,375,2,"['Bilinear form', 'Sesquilinear form', 'Skew-symmetric matrix', 'Antisymmetric', 'Symplectic matrix', 'Classical group', 'Quasi-Frobenius Lie algebra', ""Witt's theorem"", 'Symplectic vector space', 'Vector (mathematics and physics)']",Bilinear form
+34,34,symmetric Bilinear form,367,2,"['Symmetric bilinear form', 'Bilinear form', 'Definite quadratic form', 'Quadratic form', 'Killing form', 'Sesquilinear form', 'Orthogonal basis', 'Change of basis', 'Symmetric form', 'Degenerate bilinear form']",Symmetric bilinear form
+35,35,Cauchy-Schwarz inequality,278,1,"['Cauchy–Schwarz inequality', ""Cauchy's inequality"", 'Hermann Schwarz', ""Hölder's inequality"", 'Inequality (mathematics)', 'Triangle inequality', 'Paley–Zygmund inequality', 'Complex random variable', 'Autocorrelation', 'Positive operator (Hilbert space)']",Cauchy–Schwarz inequality
+36,36,Cayley-Hamilton theorem,"194, 237",1,"['Cayley–Hamilton theorem', 'Arthur Cayley', 'Jordan normal form', 'Hamiltonian path', 'Adjugate matrix', 'Ferdinand Georg Frobenius', 'Characteristic polynomial', 'Matrix (mathematics)', 'Matrix exponential', ""Nakayama's lemma""]",Cayley–Hamilton theorem
+37,37,Cayley transform,309,1,"['Cayley transform', 'Rotation matrix', 'Arthur Cayley', 'Clifford analysis', 'Linear fractional transformation', 'Hilbert transform', 'Extensions of symmetric operators', 'Self-adjoint operator', 'List of things named after Arthur Cayley', 'Möbius transformation']",Cayley transform
+38,38,Characteristic of a field,3,2,"['Characteristic (algebra)', 'Characteristic polynomial', 'Field (mathematics)', 'Perfect field', 'Finite field arithmetic', 'Euler characteristic', 'Root of unity', 'Characteristic function', 'Finite field', 'Field with one element']",Characteristic (algebra)
+39,39,Characteristic polynomial,183,2,"['Characteristic polynomial', 'Eigenvalues and eigenvectors', 'Characteristic', 'Minimal polynomial (linear algebra)', 'Matroid', 'Characteristic equation', 'Jordan normal form', 'Cayley–Hamilton theorem', ""Newton's identities"", 'Linear differential equation']",Characteristic polynomial
+40,40,Characteristic space,182,2,"['Characteristic polynomial', 'Euler characteristic', 'Eigenvalues and eigenvectors', 'Impedance of free space', 'Characteristic (algebra)', 'Characteristic impedance', 'Characteristic class', 'Characteristic length', 'Synovial joint', 'Receiver operating characteristic']",Characteristic polynomial
+41,41,Characteristic value,"182, 183",2,"['Eigenvalues and eigenvectors', 'Characteristic', 'Characteristic (algebra)', 'Receiver operating characteristic', 'Characteristic velocity', 'Euler characteristic', 'Characteristic function (probability theory)', 'Characteristic function', 'Price equation', 'Expected value']",Eigenvalues and eigenvectors
+42,42,Characteristic vector,182,2,"['Characteristic vector', 'Eigenvalues and eigenvectors', 'Characteristic', 'Principal component analysis', 'Characteristic polynomial', 'Characteristic (algebra)', 'Characteristic function (probability theory)', 'Indicator vector', 'Characteristic class', 'Standard illuminant']",Characteristic vector
+43,43,Classical adjoint,"148, 159",1,"['Adjugate matrix', 'Self-adjoint operator', 'ADJ', 'Minor (linear algebra)', 'Adjoint representation', 'Differential operator', 'Spectral theorem', 'Quantum mechanics', 'Unbounded operator', 'Classical group']",Adjugate matrix
+44,44,Coefficients of polynomial,120,1,"['Polynomial', 'Discriminant', 'Coefficient', 'Characteristic polynomial', 'Irreducible polynomial', 'Newton polynomial', 'Factorization of polynomials', 'Rational root theorem', 'Monic polynomial', 'Symmetric polynomial']",Polynomial
+45,45,Cofactor,158,1,"['Cofactor', 'Cofactor (biochemistry)', 'Minor (linear algebra)', 'Cofactor Genomics', 'Enzyme', 'Molybdenum cofactor', 'Nicotinamide adenine dinucleotide', 'Molybdenum cofactor guanylyltransferase', 'Molybdenum cofactor cytidylyltransferase', 'FeMoco']",Cofactor
+46,46,equivalence,256,1,"['Equivalence', 'Equivalence relation', 'False equivalence', 'Equivalence class', 'Dynamic and formal equivalence', 'Equivalence principle', 'Logical equivalence', 'Turing equivalence', 'Principle of equivalence', 'Mass–energy equivalence']",Equivalence
+47,47,operations,"26, 256",1,"['Operation', 'Special operations', 'Met Operations', 'Sting operation', 'Operations research', 'Operation Overlord', 'Order of operations', 'Operations management', 'Business operations', 'Operations engineering']",Operation
+48,48,rank,"72, 114",1,"['Rank', 'RANK', 'Taxonomic rank', 'Military rank', 'Ensign (rank)', 'Private (rank)', 'Rank-into-rank', 'Diplomatic rank', 'Dan (rank)', 'Specialist (rank)']",Rank
+49,49,Commutative algebra,117,2,"['Commutative algebra', 'Associative algebra', 'Algebra over a field', 'Localization (commutative algebra)', 'Commutative ring', 'Algebra', 'Ring (mathematics)', 'Noncommutative ring', 'Symmetric algebra', '*-algebra']",Commutative algebra
+50,50,Commutative group,83,2,"['Abelian group', 'Commutative property', 'Non-abelian group', 'Commutative ring', 'Group scheme', 'Topological group', 'Semiring', 'Ring (mathematics)', 'Non-commutative cryptography', 'Semigroup']",Abelian group
+51,51,Commutative ring,140,2,"['Commutative ring', 'Ring (mathematics)', 'Noncommutative ring', 'Commutative algebra', 'Polynomial ring', 'Ideal (ring theory)', 'Unit (ring theory)', 'Algebra over a field', 'Local ring', 'Localization (commutative algebra)']",Commutative ring
+52,52,Companion matrix,230,1,"['Companion matrix', 'Cyclic subspace', 'Companion', 'Matrix exponential', 'Characteristic polynomial', 'Frobenius normal form', 'Matrix (mathematics)', 'Eigenvalue algorithm', 'Schur decomposition', 'Eigenvalues and eigenvectors']",Companion matrix
+53,53,Complementary Bubspace,231,1,[],
+54,54,orthogonal Complementary Bubspace,286,2,[],
+55,55,Composition,390,1,"['Composition', 'Function composition', 'Musical composition', 'Object composition', 'Body composition', 'Composition B', 'Composition VII', 'Composition of the German state parliaments', 'Composition H6', 'Chemical composition']",Composition
+56,56,Conductor,"201, 202, 232",1,"['Conductor', 'Electrical conductor', 'Conducting', 'Semiconductor', 'Perfect conductor', 'Conductor (rail)', 'Bus conductor', 'Aluminium-conductor steel-reinforced cable', 'Artin conductor', 'The Orchestra Conductor']",Conductor
+57,57,Congruence,"139, 393, 396",1,"['Congruence', 'Modular arithmetic', 'Table of congruences', 'Congruence (geometry)', 'Matrix congruence', 'Chinese remainder theorem', 'Congruence relation', 'Congruence subgroup', 'Semigroup', 'Modular multiplicative inverse']",Congruence
+58,58,Conjugate,271,1,"['Conjugation', 'Complex conjugate', 'Conjugate prior', 'Conjugate (acid-base theory)', 'Conjugate transpose', 'Conjugate gradient method', 'Hermitian matrix', 'Conjugate vaccine', 'Pneumococcal conjugate vaccine', 'Conjugate variables']",Conjugation
+59,59,transpose Conjugate,272,2,"['Conjugate transpose', 'Transpose', 'Hermitian matrix', 'Complex conjugate', 'Matrix multiplication', 'Conjugate gradient method', 'Unitary matrix', 'Conjugation', 'Hermitian adjoint', 'Block reflector']",Conjugate transpose
+60,60,Conjugation,276,1,"['Conjugation', 'Bacterial conjugation', 'Drug metabolism', 'Grammatical conjugation', 'Complex conjugate', 'Japanese verb conjugation', 'Latin conjugation', 'French conjugation', 'Emotive conjugation', 'Hyperconjugation']",Conjugation
+61,61,Coordinates,50,1,"['Coordinate system', 'Homogeneous coordinates', 'Del in cylindrical and spherical coordinates', 'Geographic coordinate system', 'Generalized coordinates', 'Spherical coordinate system', 'Plücker coordinates', 'Curvilinear coordinates', 'Geodetic coordinates', 'Cylindrical coordinate system']",Coordinate system
+62,62,coordinate matrix Coordinates,51,2,"['Coordinate system', 'Spherical coordinate system', 'Cartesian coordinate system', 'Curvilinear coordinates', 'Barycentric coordinate system', 'Homogeneous coordinates', 'Change of basis', 'Rotation matrix', 'Camera matrix', 'Local tangent plane coordinates']",Coordinate system
+63,63,Coset,"177, 396",1,"['Coset', 'Double coset', 'Homogeneous space', 'Coset leader', 'Coset enumeration', 'Index of a subgroup', 'Quotient group', 'Coset construction', 'Schreier coset graph', 'Group (mathematics)']",Coset
+64,64,Cramer's rule,161,1,"[""Cramer's rule"", 'Gabriel Cramer', 'Adjugate matrix', 'System of linear equations', 'Determinant', 'Jim Cramer', ""Cramér's theorem"", 'Linear algebra', 'Coefficient', 'Comparison of vector algebra and geometric algebra']",Cramer's rule
+65,65,Cyclie decomposition theorem,233,2,[],
+66,66,Cyclie subspace,227,2,[],
+67,67,Cyclie vector,227,2,[],
+68,68,Degree of multilinear form,166,2,"['Multilinear form', 'Multilinear polynomial', 'Tensor', 'Form', 'Differential form', 'Homogeneous polynomial', 'Six degrees of separation', 'One-form (differential geometry)', 'Exterior algebra', 'Monomial']",Multilinear form
+69,69,Degree of polynomial,119,2,"['Degree of a polynomial', 'Polynomial', 'Quartic function', 'Polynomial interpolation', 'Homogeneous polynomial', 'Polynomial long division', 'Irreducible polynomial', 'Polynomial regression', 'Quadratic function', 'Factorization of polynomials']",Degree of a polynomial
+70,70,"Dependence, linear","40, 47",1,"['Linear independence', 'Correlation', 'Linear regression', 'Mutual information', 'Linear equation', 'Wronskian', 'Generalized linear model', 'Rank (linear algebra)', 'Arrhenius equation', 'Linear subspace']",Linear independence
+71,71,Derivative of polynomial,"129, 266",1,"['Taylor series', 'Bernstein polynomial', 'Cubic Hermite spline', 'Chebyshev polynomials', 'Lagrange polynomial', 'Formal derivative', 'Polynomial', 'Polynomial regression', 'Savitzky–Golay filter', 'Factorization of polynomials']",Taylor series
+72,72,Determinant function,144,1,"['Jacobian matrix and determinant', 'Determinant', 'Slater determinant', 'Hessian matrix', 'Trace (linear algebra)', 'Wronskian', 'Concave function', 'Inverse function theorem', 'Probability density function', 'Functional determinant']",Jacobian matrix and determinant
+73,73,existence of Determinant function,147,2,"['Determinant', 'Jacobian matrix and determinant', 'Inverse function theorem', 'Wronskian', 'Wave function', 'Leibniz formula for determinants', 'Determinantal point process', 'Cayley–Hamilton theorem', 'Inflection point', 'Trace (linear algebra)']",Determinant
+74,74,for linear transformations Determinant function,172,2,"['Determinant', 'Jacobian matrix and determinant', 'Affine transformation', 'Trace (linear algebra)', 'Linear algebra', 'Geometric transformation', 'Function space', 'Rank (linear algebra)', 'Householder transformation', 'Linear fractional transformation']",Determinant
+75,75,uniqueness of Determinant function,152,2,"['Determinant', 'Inverse function theorem', 'Wronskian', 'Probability density function', 'Wave function', 'Leibniz formula for determinants', 'Gram matrix', 'Vandermonde matrix', 'Determinantal point process', 'Permanent (mathematics)']",Determinant
+76,76,Determinant rank,163,1,"['Rank (linear algebra)', 'Determinant', 'Jacobian matrix and determinant', 'PageRank', 'Minor (linear algebra)', 'List of countries by Human Development Index', 'Vandermonde matrix', 'Matrix (mathematics)', 'Matrix determinant lemma', 'Gram matrix']",Rank (linear algebra)
+77,77,Diagonalizable operator,185,2,"['Diagonalizable matrix', 'Semisimple operator', 'Spectral theorem', 'Normal operator', 'Analytic function of a matrix', 'Operator theory', 'Semisimple element', 'Normal matrix', 'Abelian von Neumann algebra', 'Diagonal matrix']",Diagonalizable matrix
+78,78,Diagonalizable part of linear operator,222,2,"['Diagonalizable matrix', 'Projection (linear algebra)', 'Linear algebra', 'Operator theory', 'Jordan normal form', 'Analytic function of a matrix', 'Eigenvalues and eigenvectors', 'Matrix (mathematics)', 'Compact operator on Hilbert space', 'Spectral radius']",Diagonalizable matrix
+79,79,Diagonalizable simultaneously,207,2,"['Diagonalizable matrix', 'Normal matrix', 'Weight (representation theory)', ""Cochran's theorem"", 'Commuting matrices', 'Eigendecomposition of a matrix', 'Toral subalgebra', 'Non-Hermitian quantum mechanics', 'Linear algebra', 'Symmetric matrix']",Diagonalizable matrix
+80,80,Diagonalization,"204, 207, 216",1,"['Diagonalization', 'Diagonal', 'Diagonalizable matrix', 'Exact diagonalization', 'Orthogonal diagonalization', ""Cantor's diagonal argument"", 'Diagonal lemma', 'Table diagonalization', 'Diagonal matrix', 'Main diagonal']",Diagonalization
+81,81,Diagonalization of Hermitian form,323,2,"['Hermitian matrix', 'Diagonalizable matrix', 'Tridiagonal matrix', 'Definite matrix', 'Normal matrix', 'Defective matrix', 'Jordan normal form', 'Eigendecomposition of a matrix', 'Skew-Hermitian matrix', 'Triangular matrix']",Hermitian matrix
+82,82,Diagonalization of self-adjoint matrix (operator),314,2,"['Self-adjoint operator', 'Hermitian matrix', 'Transpose', 'Skew-Hermitian matrix', 'Normal matrix', 'Operator theory', 'Polar decomposition', 'Square root of a matrix', 'Definite matrix', 'Analytic function of a matrix']",Self-adjoint operator
+83,83,Diagonalization of symmetric bilinear form,370,2,"['Symmetric bilinear form', 'Bilinear form', 'Definite quadratic form', 'Quadratic form', 'Skew-symmetric matrix', 'Killing form', 'Transpose', 'Symplectic vector space', 'Change of basis', 'Real form (Lie theory)']",Symmetric bilinear form
+84,84,unitary Diagonalization,317,2,"['Diagonalizable matrix', 'Singular value', 'Unitary matrix', 'Unitary group', 'Diagonal matrix', 'Singular value decomposition', 'Normal matrix', 'Defective matrix', 'Symmetric matrix', 'Square root of a matrix']",Diagonalizable matrix
+85,85,Differential equations,223,1,"['Differential equation', 'Partial differential equation', 'Ordinary differential equation', 'Linear differential equation', 'Stochastic differential equation', 'Homogeneous differential equation', 'Bernoulli differential equation', 'Nonlinear system', 'Numerical methods for ordinary differential equations', 'Matrix differential equation']",Differential equation
+86,86,Dimension,44,1,"['Dimension', 'Dell Dimension', '11th dimension', 'Fifth Dimension', 'Fourth dimension', 'Dimension 20', 'Dimension Films', 'Dimension (vector space)', 'Dimensioning', 'Dimension Hatröss']",Dimension
+87,87,formula Dimension,46,2,"['Weyl character formula', 'Dimension (vector space)', 'Four-dimensional space', 'Formula', 'Euclidean distance', 'Euler characteristic', 'Chemical formula', 'Area', 'Dimensional transmutation', 'Array (data structure)']",Weyl character formula
+88,88,Direct sum,210,1,"['Direct sum', 'Direct sum of modules', 'Direct sum of groups', 'Matrix addition', 'Semidirect product', 'Direct sum of topological groups', 'Sum', 'Direct product', 'Hilbert space', 'Complemented subspace']",Direct sum
+89,89,invariant Direct sum,214,2,"['Dehn invariant', 'Arf invariant', 'Linear time-invariant system', 'Structure theorem for finitely generated modules over a principal ideal domain', 'Invariant subspace', 'Graph property', 'Casimir element', 'Mass in special relativity', 'Directed graph', 'Adiabatic invariant']",Dehn invariant
+90,90,Direct sum of matrices,214,2,"['Matrix addition', 'Direct sum', 'Block matrix', 'Direct sum of modules', 'Pauli matrices', 'Matrix multiplication', 'Sum', 'Trace (linear algebra)', 'Commuting matrices', 'Matrix (mathematics)']",Matrix addition
+91,91,Direct sum of operators,214,2,"['Hilbert space', 'Antiunitary operator', 'Product of rings', 'Self-adjoint operator', 'Spectral theorem', 'Contraction (operator theory)', 'Hamiltonian (quantum mechanics)', 'Parallel (operator)', 'Semisimple operator', 'Operators in C and C++']",Hilbert space
+92,92,Distance,289,1,"['Distance', 'The Distance', 'Euclidean distance', 'Levenshtein distance', 'Hamming distance', 'Distance education', 'Distance transform', 'Triathlon', 'Chebyshev distance', 'In the Distance']",Distance
+93,93,Division with remainder,128,1,"['Euclidean division', 'Remainder', 'Division (mathematics)', 'Division algorithm', 'Polynomial long division', 'Chinese remainder theorem', 'Modulo operation', 'Hurwitz quaternion', 'Synthetic division', 'Polynomial remainder theorem']",Euclidean division
+94,94,Dual basi�,"99, 165",2,"['Jagapathi Babu filmography', 'Basia', 'Gürdal Duyar', 'Sardinia', 'General Atomics MQ-1 Predator', 'List of Ottoman titles and appellations', 'Skanderbeg', 'Battery (tort)', 'Arts in the Philippines', 'Water clock']",
+95,95,Dual modllle,165,2,[],
+96,96,Dual space,98,2,"['Dual space', 'Dual linear program', 'Strong dual space', 'Antilinear map', 'Beta-dual space', 'Banach space', 'Duality (mathematics)', 'Dual norm', 'Lp space', 'Linear form']",Dual space
+97,97,Elementary column operation,"26, 256",2,"['Elementary matrix', 'Elementary operations', 'Row equivalence', 'Rank (linear algebra)', 'Elementary arithmetic', 'Gaussian elimination', 'Row and column vectors', 'Arithmetic', 'Fractionating column', 'Unit operation']",Elementary matrix
+98,98,Elementary Jordan matrix,245,2,"['Elementary matrix', 'Jordan normal form', 'Gaussian elimination', 'Matrix similarity', 'Matrix (mathematics)', 'Diagonalizable matrix', 'Generalized eigenvector', 'Invertible matrix', 'Matrix exponential', 'Block matrix']",Elementary matrix
+99,99,Elementary matrix,"20, 253",2,"['Elementary matrix', 'Identity matrix', 'Shear matrix', 'Involutory matrix', 'Block matrix', 'Invertible matrix', 'Skew-symmetric matrix', 'Gaussian elimination', 'Diagonal matrix', 'Unitary matrix']",Elementary matrix
+100,100,Elementary row operation,"6, 252",2,"['Elementary matrix', 'Gaussian elimination', 'Elementary operations', 'Row equivalence', 'Rank (linear algebra)', 'Row echelon form', 'Row and column spaces', 'Invertible matrix', 'Linear subspace', 'Hamming code']",Elementary matrix
+101,101,Empty set,388,1,"['Empty set', 'Axiom of empty set', 'Set (mathematics)', 'Intersection (set theory)', 'Empty string', 'Null set', 'Power set', 'Open set', 'Convex set', 'Set theory']",Empty set
+102,102,"Entrie,; of a matrix",6,1,[],
+103,103,Equiv2Jence relation,393,1,[],
+104,104,Equivalent systems of equations,4,1,"['System of linear equations', 'Equation', 'System of polynomial equations', ""Maxwell's equations"", 'Ordinary differential equation', 'Euler–Lagrange equation', 'Overdetermined system', 'Algebraic equation', 'Diophantine equation', 'Equations of motion']",System of linear equations
+105,105,Euelidean space,277,1,[],
+106,106,Exterior (wedge) product,"175, 177",1,"['Exterior algebra', 'Product', 'Exterior derivative', 'Interior product', 'Multivector', 'Triple product', 'Differential form', 'Wedge (symbol)', 'Geometric algebra', 'Wedge sum']",Exterior algebra
+107,107,Fm x n,"29, 29",1,"['WXXX', 'Frequency modulation synthesis', ""Fubini's theorem"", 'Nikon FM2', 'Linear algebra', 'FM broadcasting', 'X (disambiguation)', 'Frequency modulation', 'WNNX', 'List of Farm to Market Roads in Texas (100–199)']",Linear algebra
+108,108,Factorization of polynomial,136,1,"['Factorization of polynomials', 'Factorization', 'Irreducible polynomial', 'Factorization of polynomials over finite fields', 'Integer factorization', ""Gauss's lemma (polynomials)"", 'Primitive part and content', 'Polynomial greatest common divisor', 'Square-free polynomial', 'Polynomial matrix spectral factorization']",Factorization of polynomials
+109,109,"Factor:"" invariant","2, 261",1,"['CD74', 'Physical constant', 'Scale invariance', 'Small nucleolar RNA SNORD21', 'Automorphic form', 'Automorphic function', 'Power factor', 'Invariant measure', 'Invariant factor', 'Height (abelian group)']",Automorphic form
+110,110,algebraically closed Field,138,2,"['Algebraically closed field', 'Quasi-algebraically closed field', 'Real closed field', 'Field (mathematics)', 'Pseudo algebraically closed field', 'Algebraic variety', 'Algebraic closure', 'Zariski topology', ""Schur's lemma"", 'Algebraic number']",Algebraically closed field
+111,111,subfield Field,2,2,"['Field extension', 'Subfield', 'Academic discipline', 'Characteristic (algebra)', 'Field (mathematics)', 'Finite field', 'Ordered field', 'Tensor product of fields', '802.11 Frame Types', 'Quadratic field']",Field extension
+112,112,Finite-dimensional,41,1,"['Dimension (vector space)', 'Finite element method', 'Euclidean space', 'Lie group', 'Approximately finite-dimensional', ""Riesz's lemma"", 'Dual space', 'Finite-dimensional distribution', 'Representation theory', 'Linear algebra']",Dimension (vector space)
+113,113,Finitely generated module,165,1,"['Finitely generated module', 'Projective module', 'Structure theorem for finitely generated modules over a principal ideal domain', 'Iwasawa algebra', 'Finitely generated group', 'Finitely generated abelian group', 'Finitely generated algebra', 'Flat module', 'Torsion-free module', 'Finitely generated']",Finitely generated module
+114,114,Form alternating,169,2,"['Alternating current', 'Alternate forms for the name John', 'Alternating', 'Bilinear form', 'Exterior algebra', 'Multilinear form', 'Alternating series', 'Alternating caps', 'Alternating multilinear map', 'Alternating algebra']",Alternating
+115,115,Form bilinear,"166, 320, 359",2,"['Bilinear form', 'Degenerate bilinear form', 'Symmetric bilinear form', 'Definite quadratic form', 'Bilinear map', 'Quadratic form', 'Sesquilinear form', 'Bilinear interpolation', 'Bilinear', 'Killing form']",Bilinear form
+116,116,Form Hermitian,323,2,"['Sesquilinear form', 'Hermitian matrix', 'Hermitian manifold', 'Skew-Hermitian matrix', 'Hermitian adjoint', 'Hermitian Yang–Mills connection', 'Charles Hermite', 'Classical group', 'Hermite polynomials', 'List of things named after Charles Hermite']",Sesquilinear form
+117,117,matrix of Form,322,2,"['Transpose', 'Matrix (mathematics)', 'Triangular matrix', 'Jordan normal form', 'Diagonal matrix', 'Matrix multiplication', 'Row echelon form', 'Eigendecomposition of a matrix', 'Unitary matrix', 'Definite matrix']",Transpose
+118,118,Form mnhilinear,166,2,[],
+119,119,Form non-degenerate,324,2,"['Degenerate bilinear form', 'Degenerate matter', 'Degenerate conic', 'Degeneracy (mathematics)', 'Degenerate energy levels', 'Bilinear form', 'Future of an expanding universe', 'Method of steepest descent', 'Degeneracy', 'Interval (mathematics)']",Degenerate bilinear form
+120,120,Form non-negative,32,2,"['Definite quadratic form', 'Definite matrix', 'Non-negative matrix factorization', 'Sign (mathematics)', 'Non-negative least squares', 'Negative number', 'Double negative', 'Negative verb', 'Ion', 'Non-adjacent form']",Definite quadratic form
+121,121,Form normal,"257, 261",2,"['Normal form', 'Jordan normal form', 'Hermite normal form', 'Prenex normal form', 'Conjunctive normal form', 'Normal-form game', 'Third normal form', 'Chomsky normal form', 'Frobenius normal form', 'First normal form']",Normal form
+122,122,Form quadratic,"273, 368",2,"['Quadratic form', 'Definite quadratic form', 'Binary quadratic form', 'Quadratic form (statistics)', 'Isotropic quadratic form', 'Quadratic equation', 'Quadratic function', 'Discriminant', 'Quadratic formula', 'Ε-quadratic form']",Quadratic form
+123,123,Form r-linear,166,2,"['Linear form', 'Bilinear form', 'General linear group', 'Row echelon form', 'Quadratic form', 'Linear algebra', 'Rank (linear algebra)', 'Linear subspace', 'One-form (differential geometry)', 'Jordan normal form']",Linear form
+124,124,Form rational,238,2,"['Rational number', 'Rationality', 'Frobenius normal form', 'Rational egoism', 'Rational expectations', 'Rational choice theory', 'Rational function', 'Rational-legal authority', 'Dyadic rational', 'Rational ClearCase']",Rational number
+125,125,Form sesq �i-linear,320,2,[],
+126,126,Formal power series,119,1,"['Formal power series', 'Power series', 'Laurent series', 'Formal', 'Series (mathematics)', 'Discrete valuation ring', ""Faà di Bruno's formula"", 'Formal group law', 'Generating function', 'Weierstrass preparation theorem']",Formal power series
+127,127,Free module,164,1,"['Free module', 'Torsion-free module', 'Projective module', 'Module (mathematics)', 'Stably free module', 'Finitely generated module', 'Flat module', 'Basis (linear algebra)', 'Module', 'Module homomorphism']",Free module
+128,128,Function,389,1,"['Function', 'Function (mathematics)', 'Hash function', 'Gamma function', 'Likelihood function', 'Error function', 'Bessel function', 'Differentiable function', 'Activation function', 'Function composition']",Function (mathematics)
+129,129,determinant Function,144,2,"['Jacobian matrix and determinant', 'Determinant', 'Hessian matrix', 'Slater determinant', 'Trace (linear algebra)', 'Wronskian', 'Concave function', 'Inverse function theorem', 'Probability density function', 'Functional determinant']",Jacobian matrix and determinant
+130,130,identity Function,390,2,"['Identity function', 'Identity', 'Surjective function', 'List of trigonometric identities', 'Identity management', 'Identity element', 'Function (mathematics)', 'Identity matrix', 'Inverse function', 'Injective function']",Identity function
+131,131,inverse of Function,391,2,"['Inverse function', 'Inverse trigonometric functions', 'Inverse hyperbolic functions', 'Inverse function theorem', 'Inverse demand function', 'Quantile function', 'Ackermann function', 'Inverse function rule', 'Error function', 'Cumulative distribution function']",Inverse function
+132,132,invertible Function,390,2,"['Inverse function', 'Inverse function theorem', 'Bijection', 'Power inverter', 'Injective function', 'Monotonic function', 'Surjective function', 'Solar inverter', 'Diffeomorphism', 'Invertible matrix']",Inverse function
+133,133,linear Function,"67, 97, 291",2,"['Linear function', 'Piecewise linear function', 'Linear function (calculus)', 'Linear interpolation', 'Linear map', 'Generalized linear model', 'Linearity', 'Linear programming', 'Differentiable function', 'Linear regression']",Linear function
+134,134,multilinear Function,166,2,"['Multilinear map', 'Multilinear polynomial', 'Alternating multilinear map', 'Multilinear algebra', 'Multilinear', 'Homogeneous function', 'Multilinear form', 'Penrose graphical notation', 'Gateaux derivative', 'Trace diagram']",Multilinear map
+135,135,n-linear Function,142,2,"['Linear function', 'Piecewise linear function', 'Linear programming', 'Linear map', 'Linear algebra', 'Linear differential equation', 'Linear equation', 'Function space', 'Generalized linear model', 'Linear interpolation']",Linear function
+136,136,polynomial function Function,30,2,"['Polynomial', 'Linear function', 'Zero of a function', 'Generating function', 'Hermite polynomials', 'Quadratic function', 'Hash function', 'Laguerre polynomials', 'Graph of a function', 'List of mathematical functions']",Polynomial
+137,137,range of Function,389,2,"['Range of a function', 'Function (mathematics)', 'Surjective function', 'Injective function', 'Sigmoid function', 'Quantile function', 'Activation function', 'Error function', 'Monotonic function', 'Function generator']",Range of a function
+138,138,restriction of Function,391,2,"['Restriction (mathematics)', 'Restriction enzyme', 'Function (mathematics)', 'Restriction', 'Calorie restriction', 'Domain of a function', 'Partial function', 'Intrauterine growth restriction', 'Restriction point', 'List of restriction enzyme cutting sites']",Restriction (mathematics)
+139,139,Fundamental theorem of algebra,138,1,"['Fundamental theorem of algebra', 'Fundamental theorem of linear algebra', 'List of theorems called fundamental', 'Algebraically closed field', 'Complex conjugate root theorem', 'Weierstrass factorization theorem', 'Fundamental theorem on homomorphisms', 'Fundamental', 'Jean-Robert Argand', 'Zero of a function']",Fundamental theorem of algebra
+140,140,Gram-Schmidt process,"280, 287",1,"['Gram–Schmidt process', 'QR decomposition', 'Orthogonalization', 'Jørgen Pedersen Gram', 'Orthonormal basis', 'Erhard Schmidt', 'Inner product space', 'Orthogonal polynomials', 'Symplectic basis', 'Rotation matrix']",Gram–Schmidt process
+141,141,"Gra,�sman ring",180,1,['List of administrative divisions of the Tibet Autonomous Region'],List of administrative divisions of the Tibet Autonomous Region
+142,142,Greatest common divisor,13,1,"['Greatest common divisor', 'Polynomial greatest common divisor', 'Least common multiple', 'Extended Euclidean algorithm', ""Bézout's identity"", 'Euclidean algorithm', 'Lowest common divisor', 'Divisor', 'Gaussian integer', 'Algorithm']",Greatest common divisor
+143,143,Group,82,1,"['Group', 'Group (mathematics)', 'In-group and out-group', 'Ethnic group', 'Functional group', 'Kara (South Korean group)', 'The Group', 'Group (periodic table)', 'Social group', '2023 AFC Asian Cup']",Group
+144,144,commutative Group,83,2,"['Abelian group', 'Commutative property', 'Non-abelian group', 'Commutative ring', 'Group scheme', 'Topological group', 'Semiring', 'Non-commutative cryptography', 'Artin–Tits group', 'Ring (mathematics)']",Abelian group
+145,145,general linear Group,307,2,"['General linear group', 'Special linear group', 'Projective linear group', 'Linear group', 'Affine group', 'Group representation', 'Automorphism group', 'Algebraic group', 'Matrix similarity', 'General linear model']",General linear group
+146,146,Lorentz Group,382,2,"['Lorentz group', 'Poincaré group', 'Lorentz covariance', 'Lorentz transformation', 'Representation theory of the Lorentz group', 'Spherical wave transformation', 'Irreducible representation', 'Derivations of the Lorentz transformations', 'Representation theory of the Poincaré group', 'Lorenz gauge condition']",Lorentz group
+147,147,orthogonal Group,380,2,"['Orthogonal group', 'Orthogonal matrix', 'Indefinite orthogonal group', 'Unitary group', 'Spin group', 'Euclidean group', 'Orthogonality', 'Orthonormal basis', 'Pin group', 'Lie group']",Orthogonal group
+148,148,pseudo-orthogonal Group,381,2,"['Indefinite orthogonal group', 'Pseudo-Euclidean space', 'Pin group', 'Orthogonality (mathematics)', 'Orientability', 'Orthonormal basis', 'Conformal group', 'Spin group', 'Pseudo-reductive group', 'Isometry group']",Indefinite orthogonal group
+149,149,symmetric Group,15,2,"['Symmetric group', 'Affine symmetric group', 'Representation theory of the symmetric group', 'Alternating group', 'Group action', 'Dihedral group of order 6', 'Permutation group', 'Abel–Ruffini theorem', ""Cayley's theorem"", 'Generalized symmetric group']",Symmetric group
+150,150,Hermitian form,323,1,"['Sesquilinear form', 'Hermitian matrix', 'Hermitian manifold', 'Unitary group', 'Classical group', 'Inner product space', 'Definite matrix', 'Complex torus', 'Skew-Hermitian matrix', 'Virasoro algebra']",Sesquilinear form
+151,151,Homogeneous system of linear equations,4,1,"['System of linear equations', 'Linear differential equation', 'Kernel (linear algebra)', 'Homogeneous differential equation', 'Linear subspace', 'Diophantine equation', 'Nonlinear system', 'Homogeneous system', 'Ordinary differential equation', 'Overdetermined system']",System of linear equations
+152,152,Hyperspace,"101, 109",1,"['Hyperspace', 'Hyperspace (album)', 'Hyperspace (disambiguation)', 'Tales of the Jedi (comics)', 'Hyperspace (film)', 'Dimension', 'Hyperspace (book)', 'Spirals in Hyperspace', 'Space Mountain', 'Star Wars Hyperspace Mountain']",Hyperspace (disambiguation)
+153,153,Ideal,131,1,"['Ideal', 'IDEAL', 'Ideal (ring theory)', 'Ideal (group)', 'Ideal gas law', 'Ideal electrode', 'Ideal gas', 'Ideal type', 'Changhe Ideal', 'Ideal (ethics)']",Ideal
+154,154,principal ideal Ideal,131,2,"['Ideal (ring theory)', 'Principal ideal', 'Prime ideal', 'Principal ideal domain', 'Maximal ideal', 'Fractional ideal', 'Ideal class group', 'Ideal norm', ""Krull's principal ideal theorem"", 'Principal ideal ring']",Ideal (ring theory)
+155,155,Identity element,"117, 140",2,"['Identity element', 'Additive identity', 'Identity', 'Identity function', 'Rng (algebra)', 'Identity matrix', 'Monoid', 'Element (mathematics)', 'Inverse element', 'Group (mathematics)']",Identity element
+156,156,Identity function,390,2,"['Identity function', 'Identity', 'Surjective function', 'List of trigonometric identities', 'Identity management', 'Identity element', 'Function (mathematics)', 'Identity matrix', 'Inverse function', 'Injective function']",Identity function
+157,157,Identity matrix,9,2,"['Identity matrix', 'Woodbury matrix identity', 'Matrix (mathematics)', 'Orthogonal matrix', 'Rotation matrix', 'Elementary matrix', 'Unitary matrix', 'Determinant', 'Invertible matrix', 'Permutation matrix']",Identity matrix
+158,158,resolution of Identity,"337, 344",2,"['Identity crisis', 'Borel functional calculus', 'Spectral theory of normal C*-algebras', 'LGBT rights at the United Nations', 'Identity document', 'Identity (2003 film)', 'Record linkage', 'Who is a Jew?', 'Mathematical formulation of quantum mechanics', 'National identity cards in the European Economic Area']",Borel functional calculus
+159,159,"Independence, linear","40, 47",1,"['Linear independence', 'Linear regression', 'Linear combination', 'Linear probing', 'Wronskian', 'Matroid', 'Linear algebra', 'System of linear equations', 'Independence (disambiguation)', 'Correlation']",Linear independence
+160,160,Independent linearly,"40, 47",2,"['Linear independence', 'Basis (linear algebra)', 'Linearity', 'Rank (linear algebra)', 'Linear span', 'Overdetermined system', 'Linear regression', 'Linear algebra', 'Linear A', 'Defective matrix']",Linear independence
+161,161,Independent ,"8, 209",2,"['Independent', 'Independent politician', 'The Independent', 'Independent music', 'Independent film', 'Independent school', 'Independent clause', 'Independent Democrat', 'Independent Albums', 'Independent Baptist']",
+162,162,Inner product,271,1,"['Inner product space', 'Dot product', 'Frobenius inner product', 'Product', 'Outer product', 'Hilbert space', 'Petersson inner product', 'Indefinite inner product space', 'L-semi-inner product', 'Cauchy–Schwarz inequality']",Inner product space
+163,163,matrix of Inner product,274,2,"['Gram matrix', 'Matrix multiplication', 'Outer product', 'Product', 'Inner product space', 'Dot product', 'Frobenius inner product', 'Hadamard product (matrices)', 'Symmetric matrix', 'Unitary matrix']",Gram matrix
+164,164,quadratic form of Inner product,"273, 277",2,"['Degenerate bilinear form', 'Bilinear form', 'Inner product space', 'Isotropic quadratic form', 'Square-integrable function', 'Orthogonal basis', 'Tensor product', 'Polarization identity', 'Geometric algebra', 'Sesquilinear form']",Degenerate bilinear form
+165,165,Inner product standard,"271, 272",2,"['Inner product space', 'Dot product', 'Outer product', 'L-semi-inner product', 'Orthonormal basis', 'Bra–ket notation', '16:9 aspect ratio', 'Parallelogram law', 'Cross product', 'Inner Mongolia']",Inner product space
+166,166,Integers,2,1,"['Integer', 'Algebraic integer', 'Gaussian integer', 'Coprime integers', 'Integer programming', 'Natural number', 'Integer factorization', 'Almost integer', 'Integer (computer science)', 'Eisenstein integer']",Algebraic integer
+167,167,positive Integers,2,2,"['Natural number', 'Integer', 'Coprime integers', 'Fundamental theorem of arithmetic', 'Integer factorization', 'Particular values of the Riemann zeta function', 'Gamma function', 'Pythagorean triple', 'Floor and ceiling functions', 'Factorial']",Natural number
+168,168,Interpolation,"124, 388",1,"['Interpolation', 'Linear interpolation', 'Bilinear interpolation', 'Interpolation (disambiguation)', 'Spline interpolation', 'Bicubic interpolation', 'Trilinear interpolation', 'Lagrange polynomial', 'String interpolation', 'Polynomial interpolation']",Interpolation
+169,169,Interpolation of subs paces,36,2,"['Deja Vu (Olivia Rodrigo song)', 'Calipers', 'List of Latin verbs with English derivatives', 'Embolism (liturgy)', 'Outline of Assam', 'History of mathematics', 'Hip hop music', 'Congregation (The Afghan Whigs album)', 'Evolutionary history of plants', 'Fixed-income attribution']",
+170,170,I nvariant direct sum,214,2,[],
+171,171,I nvariant factors of a matrix,"239, 261",2,[],
+172,172,I nvariant subset,392,2,[],
+173,173,I nvariant subspace,"199, 206, 314",2,[],
+174,174,Inverse of function,3,2,"['Inverse function', 'Inverse trigonometric functions', 'Inverse hyperbolic functions', 'Inverse demand function', 'Inverse function theorem', 'Quantile function', 'Ackermann function', 'Inverse function rule', 'Error function', 'Multiplicative inverse']",Inverse function
+175,175,Inverse left,22,2,"['Left inverse', 'Inverse function', 'Inverse element', 'Invertible matrix', 'Moore–Penrose inverse', 'Multiplicative inverse', 'Inverse trigonometric functions', 'Inverse hyperbolic functions', 'Generalized inverse', 'Tf–idf']",Inverse function
+176,176,Inverse of matrix,"22, 160",2,"['Invertible matrix', 'Moore–Penrose inverse', 'Orthogonal matrix', 'Woodbury matrix identity', 'Transpose', 'Eigendecomposition of a matrix', 'Inverse', 'Covariance matrix', 'Inverse problem', 'Logarithm of a matrix']",Invertible matrix
+177,177,Inverse right,22,2,"['Inverse function', 'Right inverse', 'Generalized inverse', 'Invertible matrix', 'Inverse element', 'Inverse hyperbolic functions', 'Multiplicative inverse', 'Moore–Penrose inverse', 'Inverse Gaussian distribution', 'Inverse-gamma distribution']",Inverse function
+178,178,Inverse two-sided,22,2,"['Mellin inversion theorem', 'List of transforms', 'Inverse function', 'Inverse element', 'Two-sided Laplace transform', 'P-value', 'Wiener filter', 'Moore–Penrose inverse', 'Fast inverse square root', 'Inverse trigonometric functions']",Mellin inversion theorem
+179,179,Invertible function,390,2,"['Inverse function', 'Inverse function theorem', 'Bijection', 'Monotonic function', 'Power inverter', 'Injective function', 'Surjective function', 'Solar inverter', 'Diffeomorphism', 'Invertible matrix']",Inverse function
+180,180,Invertible linear tral15formation,79,2,[],
+181,181,Invertible matrix,"22, 160",2,"['Invertible matrix', 'Definite matrix', 'Triangular matrix', 'Diagonalizable matrix', 'General linear group', 'Adjugate matrix', 'Transpose', 'Matrix (mathematics)', 'Square matrix', 'Orthogonal matrix']",Invertible matrix
+182,182,Irreducible polynomial,135,1,"['Irreducible polynomial', 'Finite field', ""Eisenstein's criterion"", 'Algebraically closed field', 'Finite field arithmetic', 'Factorization of polynomials over finite fields', 'Partial fraction decomposition', 'Cyclotomic polynomial', 'Irreducibility (mathematics)', 'Polynomial']",Irreducible polynomial
+183,183,Isomorphism of inner product spaces,299,2,"['Inner product space', 'Hilbert space', 'Tensor product of Hilbert spaces', 'Isomorphism', 'Musical isomorphism', 'Orthonormal basis', 'Tensor product', 'Space (mathematics)', 'Euclidean space', 'Vector space']",Inner product space
+184,184,Isomorphism of vector spaces,84,2,"['Isomorphism', 'Vector space', 'Topological vector space', 'Vector notation', 'Dual space', 'Basis (linear algebra)', 'Isomorphism theorems', 'Examples of vector spaces', 'Norm (mathematics)', 'Vector bundle']",Isomorphism
+185,185,Jordan form of matrix,247,1,"['Jordan normal form', 'Jordan matrix', 'Matrix similarity', 'Gaussian elimination', 'Elementary matrix', 'Matrix decomposition', 'Canonical form', 'Generalized eigenvector', 'Diagonalizable matrix', 'Frobenius normal form']",Jordan normal form
+186,186,Kronecker delta,9,1,"['Kronecker delta', 'Dirac delta function', 'Leopold Kronecker', 'Delta', 'Cauchy–Binet formula', 'Ricci calculus', 'Delta function (disambiguation)', 'Delta (letter)', 'Levi-Civita symbol', 'Einstein notation']",Kronecker delta
+187,187,Lagrange interpolation formula,124,1,"['Lagrange polynomial', ""Lagrange's formula"", 'Chinese remainder theorem', 'List of things named after Joseph-Louis Lagrange', 'Polynomial interpolation', 'Inverse quadratic interpolation', 'Nonuniform sampling', 'Interpolation', ""Sylvester's formula"", 'Hermite interpolation']",Lagrange polynomial
+188,188,Laplace expansions,179,1,"['Laplace expansion', 'Laplace expansion (potential)', 'Determinant', 'Pierre-Simon Laplace', 'Laplace transform', 'List of things named after Pierre-Simon Laplace', ""Laplace's equation"", ""Green's function for the three-variable Laplace equation"", 'Multipole expansion', 'Speed of sound']",Laplace expansion
+189,189,Left i nverse,22,1,[],
+190,190,Linear algebra,117,1,"['Linear algebra', 'Rank (linear algebra)', 'Trace (linear algebra)', 'Kernel (linear algebra)', 'Projection (linear algebra)', 'Algebra', 'Basis (linear algebra)', 'Outline of linear algebra', 'Basic Linear Algebra Subprograms', 'Minor (linear algebra)']",Linear algebra
+191,191,Linear combination of equations,4,2,"['Linear combination', 'System of linear equations', 'Linear differential equation', 'Nonlinear system', 'Linear subspace', 'Ordinary differential equation', 'Linear independence', 'Least squares', 'Rank (linear algebra)', 'Outline of linear algebra']",Linear combination
+192,192,Linear combination of vectors,31,2,"['Linear combination', 'Linear independence', 'Basis (linear algebra)', 'Rank (linear algebra)', 'Linear span', 'Linear subspace', 'Convex combination', 'Vector space', 'Linear form', 'Unit vector']",Linear combination
+193,193,Linear functional,97,1,"['Linear form', 'Functional analysis', 'Functional (mathematics)', 'Continuous linear operator', 'Positive linear functional', 'Bounded operator', 'Equicontinuity', 'Trace (linear algebra)', 'Linear subspace', 'Transpose of a linear map']",Linear form
+194,194,Linearly dependent (independent),"40, 47",1,"['Linear independence', 'Dependent and independent variables', 'Overdetermined system', 'Linear regression', 'Simple linear regression', 'Linear span', 'General linear model', 'Wronskian', 'Coefficient of multiple correlation', 'System of linear equations']",Linear independence
+195,195,Linear transformation (operator),"67, 76",1,"['Linear map', 'Continuous linear operator', 'Householder transformation', 'Bounded operator', 'Operator (mathematics)', 'Kernel (linear algebra)', 'Transformation matrix', 'Hermitian adjoint', 'Matrix similarity', 'Projection (linear algebra)']",Linear map
+196,196,adjoint of Linear transformation (operator),295,2,"['Hermitian adjoint', 'Self-adjoint operator', 'Unbounded operator', 'Transpose', 'Conjugate transpose', 'Hilbert space', 'General linear group', 'Antiunitary operator', 'Observable', 'Composition operator']",Hermitian adjoint
+197,197,cyclic decomposition of Linear transformation (operator),233,2,"['Trace (linear algebra)', 'Fourier transform', 'Eigenvalues and eigenvectors', 'General linear group', 'Cyclic subspace', 'Matrix (mathematics)', 'Lorentz transformation', 'Convolution', 'Group action', 'List of numerical analysis topics']",Trace (linear algebra)
+198,198,determinant of Linear transformation (operator),172,2,"['Determinant', 'Trace (linear algebra)', 'Operator (mathematics)', 'Householder transformation', 'General linear group', 'Linear algebra', 'Rank (linear algebra)', 'Symplectic matrix', 'Matrix similarity', 'Transpose']",Determinant
+199,199,diagonalizable Linear transformation (operator),185,2,"['Matrix similarity', 'Diagonalizable matrix', 'Linear algebra', 'Diagonal matrix', 'Projection (linear algebra)', 'Eigenvalues and eigenvectors', 'Nilpotent matrix', 'Matrix (mathematics)', 'Jordan normal form', 'Creation and annihilation operators']",Matrix similarity
+200,200,diagollalizable part of Linear transformation (operator),222,2,[],
+201,201,invertible Linear transformation (operator),79,2,"['Linear map', 'Operator (mathematics)', 'General linear group', 'Matrix similarity', 'Transformation matrix', 'Rank (linear algebra)', 'Kernel (linear algebra)', 'Transpose', 'Projection (linear algebra)', 'Nilpotent matrix']",Linear map
+202,202,matrix in orthonormal basis Linear transformation (operator),293,2,"['Trace (linear algebra)', 'Transpose', 'Self-adjoint operator', 'Projection (linear algebra)', 'Eigenvalues and eigenvectors', 'Hilbert space', 'Singular value decomposition', 'Operator (physics)', 'Linear algebra', 'Diagonalizable matrix']",Trace (linear algebra)
+203,203,matrix of Linear transformation (operator),"87, 88",2,"['Transformation matrix', 'Linear map', 'Kernel (linear algebra)', 'Transpose', 'Trace (linear algebra)', 'Matrix similarity', 'Rank (linear algebra)', 'Diagonal matrix', 'Eigenvalues and eigenvectors', 'Hessenberg matrix']",Transformation matrix
+204,204,minimal polynomial of Linear transformation (operator),191,2,"['Matrix similarity', 'Linear algebra', 'Jordan normal form', 'Nilpotent matrix', 'Projection (linear algebra)', 'Transpose', 'Hilbert space', 'List of numerical analysis topics', 'Polynomial ring', 'Ridge regression']",Matrix similarity
+205,205,nilpotent Linear transformation (operator),222,2,"['Nilpotent matrix', 'Linear map', 'Nilpotent', 'Trace (linear algebra)', 'General linear group', 'Jordan normal form', 'Group action', 'Lie group', 'Lorentz group', 'Lie algebra']",Nilpotent matrix
+206,206,non-negative Linear transformation (operator),"329, 341",2,"['General linear group', 'Transformation matrix', 'Monotonic function', 'Definite matrix', 'Laplace operator', 'Projection (linear algebra)', 'Eigenvalues and eigenvectors', 'Fourier transform', 'Lorentz transformation', 'Linear system']",General linear group
+207,207,nOll-singular Linear transformation (operator),79,2,['Force'],Force
+208,208,normal Linear transformation (operator),312,2,"['Householder transformation', 'Transformation matrix', 'Jordan normal form', 'Matrix similarity', 'General linear group', 'Linear temporal logic', 'Laplace operator', 'Linear algebra', 'Covariant transformation', 'Trace (linear algebra)']",Householder transformation
+209,209,Ilullity of Linear transformation (operator),71,2,[],
+210,210,orthogonal Linear transformation (operator),303,2,"['Projection (linear algebra)', 'Kernel (linear algebra)', 'Operator (mathematics)', 'Householder transformation', 'Transformation matrix', 'Inner product space', 'Composition operator', 'Hermitian adjoint', 'Hilbert space', 'Rank (linear algebra)']",Projection (linear algebra)
+211,211,polar decompo�ition of Linear transformation (operator),343,2,[],
+212,212,positive Linear transformation (operator),329,2,"['Linear map', 'Continuous linear operator', 'Transformation matrix', 'General linear group', 'Nilpotent matrix', 'Bounded operator', 'Matrix similarity', 'Isometry', 'Projection (linear algebra)', 'Identity function']",Linear map
+213,213,product of Linear transformation (operator),76,2,"['Linear map', 'Householder transformation', 'Hermitian adjoint', 'Operator (mathematics)', 'Inner product space', 'Kernel (linear algebra)', 'Isometry', 'Trace (linear algebra)', 'Tensor', 'Unitary operator']",Linear map
+214,214,quotient Linear transformation (operator),397,2,"['Linear map', 'Kernel (linear algebra)', 'General linear group', 'Isometry', 'Rayleigh quotient', 'Laplace operator', 'Gradient', 'Natural transformation', 'Trace operator', 'Homogeneous differential equation']",Linear map
+215,215,range of Linear transformation (operator),71,2,"['Linear map', 'Operator (mathematics)', 'Projection (linear algebra)', 'Kernel (linear algebra)', 'Unitary operator', 'Linear system', 'Linearity', 'Unbounded operator', 'Monotonic function', 'Eigenvalues and eigenvectors']",Linear map
+216,216,rank of Linear transformation (operator),71,2,"['Linear map', 'Rank (linear algebra)', 'Operator (mathematics)', 'Kernel (linear algebra)', 'Matrix similarity', 'Tensor', 'Trace (linear algebra)', 'Isometry', 'General linear group', 'Projection (linear algebra)']",Linear map
+217,217,self-adjoint Linear transformation (operator),"298, 314",2,"['Self-adjoint operator', 'Hermitian adjoint', 'Hilbert space', 'Projection (linear algebra)', 'Conjugate transpose', 'Momentum operator', 'Transpose', 'Laplace operator', 'Sturm–Liouville theory', 'Unbounded operator']",Self-adjoint operator
+218,218,semi-simple Linear transformation (operator),263,2,"['General linear group', 'Trace (linear algebra)', 'Projection (linear algebra)', 'Semisimple Lie algebra', 'Dyadic transformation', 'Hilbert space', 'Singular value decomposition', 'Inner product space', 'Resolvent formalism', 'List of numerical analysis topics']",General linear group
+219,219,trace of Linear transformation (operator),106,2,"['Trace (linear algebra)', 'Trace operator', 'Householder transformation', 'Partial trace', 'Trace', 'Tensor', 'Matrix similarity', 'General linear group', 'Laplace operator', 'Nilpotent matrix']",Trace (linear algebra)
+220,220,transpose of Linear transformation (operator),112,2,"['Transpose', 'Linear map', 'Conjugate transpose', 'Continuous linear operator', 'Hermitian adjoint', 'Kernel (linear algebra)', 'Projection (linear algebra)', 'Rank (linear algebra)', 'Householder transformation', 'Trace (linear algebra)']",Transpose
+221,221,triangulable Linear transformation (operator),202,2,"['Topological data analysis', 'Timeline of manifolds']",
+222,222,unitary Linear transformation (operator),302,2,"['Unitary operator', 'Unitary transformation', 'Householder transformation', 'Isometry', 'Shift operator', 'Antiunitary operator', 'Unitary representation', 'General linear group', 'Fourier transform', 'Momentum operator']",Unitary operator
+223,223,Lorentz group,382,2,"['Lorentz group', 'Poincaré group', 'Lorentz transformation', 'Lorentz covariance', 'Representation theory of the Lorentz group', 'Spherical wave transformation', 'Irreducible representation', 'Hendrik Lorentz', 'Representation theory of the Poincaré group', 'Bispinor']",Lorentz group
+224,224,"Lorentz transformation, :31 l (Ex. 15)",382,2,"['Lorentz transformation', 'Modern searches for Lorentz violation', 'Faster-than-light', 'Arnold Sommerfeld', 'Cartesian tensor', 'Instagram', 'Higgs boson', 'Sterile neutrino', 'Magnetic monopole', 'Cosmic microwave background']",Lorentz transformation
+225,225,M atrix,6,1,"['Motorola Atrix 4G', 'Willy Fischler', 'Tom Banks (physicist)', 'Motorola Atrix 2', 'Glossary of string theory', 'Melanie Becker', 'Santa Cruz Institute for Particle Physics', 'Motorola Mobility', 'AT&T Mobility', 'Samsung Galaxy S II']",
+226,226,augmented M atrix,14,2,['Smartphone'],Smartphone
+227,227,M atrix of bilinear form,362,2,[],
+228,228,classical adjoint of M atrix,"148, 159",2,[],
+229,229,coefficient M atrix,6,2,['Glossary of string theory'],Glossary of string theory
+230,230,cofactors M atrix,158,2,[],
+231,231,companion M atrix,230,2,"['Comparison of high-definition smartphone displays', 'Comparison of smartphones', 'Tegra', 'Consumer Electronics Show', 'Mythopoeic Awards']",
+232,232,conjugate transpose M atrix,272,2,[],
+233,233,coordinate M atrix,51,2,"['Glossary of string theory', 'GameStop']",
+234,234,elementary M atrix,"20, 253",2,['Glossary of string theory'],Glossary of string theory
+235,235,"elementary, Jordan M atrix",245,2,[],
+236,236,M atrix of form,322,2,"['Motorola Atrix 4G', 'EB Games Australia', 'Motorola Atrix 2', 'GameStop', 'List of Motorola products', 'Droid Razr', 'Android version history', 'Motorola Mobility', 'Glossary of string theory', 'AT&T Mobility']",
+237,237,identity M atrix,9,2,"['Motorola Mobility', 'Fingerprint', 'Smartphone', 'Mythopoeic Awards']",
+238,238,M atrix of inner product,274,2,['Tegra'],Tegra
+239,239,invariant factors of M atrix,"239, 261",2,['Fingerprint'],Fingerprint
+240,240,i nverse of M atrix,"22, 160",2,[],
+241,241,invertible M atrix,"22, 160",2,"[""T'au Empire""]",T'au Empire
+242,242,Jordan form of M atrix,247,2,[],
+243,243,Matrix of linear transformation,"87, 88",2,"['Transformation matrix', 'Affine transformation', 'Rank (linear algebra)', 'Linear map', 'Direct linear transformation', 'Matrix similarity', 'Transpose', 'Trace (linear algebra)', 'Matrix (mathematics)', 'Rigid transformation']",Transformation matrix
+244,244,minimal polynomial of Matrix,191,2,"['Minimal polynomial (linear algebra)', 'Matrix polynomial', 'Characteristic polynomial', 'Companion matrix', 'Matrix similarity', 'Diagonalizable matrix', 'Matrix of ones', 'Polynomial', 'Time complexity', 'Nilpotent matrix']",Minimal polynomial (linear algebra)
+245,245,Matrix tlilpotent,244,2,[],
+246,246,Matrix tlormal,315,2,[],
+247,247,Matrix orthogonal,"162, 380",2,"['Orthogonal matrix', 'Rotation matrix', 'Unitary matrix', 'Orthogonal group', 'Projection (linear algebra)', 'Semi-orthogonal matrix', 'Skew-symmetric matrix', 'Orthogonal transformation', 'Orthogonal Procrustes problem', 'Normal matrix']",Orthogonal matrix
+248,248,Matrix positive,329,2,"['Definite matrix', 'Totally positive matrix', 'Positive semidefinite', 'Confusion matrix', 'Positive definiteness', 'Square root of a matrix', 'Covariance matrix', 'Matrix decomposition', 'Square matrix', 'M-matrix']",Definite matrix
+249,249,principal minors of Matrix,326,2,"['Minor (linear algebra)', 'Hessian matrix', 'Triangular matrix', 'Totally positive matrix', 'Matrix (mathematics)', 'Definite matrix', ""Sylvester's criterion"", 'M-matrix', 'Hurwitz matrix', 'P-matrix']",Minor (linear algebra)
+250,250,Matrix product,"17, 90",2,"['Matrix multiplication', 'Matrix (mathematics)', 'Hadamard product (matrices)', 'Matrix product state', 'Outer product', 'Transpose', 'Kronecker product', 'Orthogonal matrix', 'Cross product', 'Dot product']",Matrix multiplication
+251,251,rank of Matrix,114,2,"['Rank (linear algebra)', 'Invertible matrix', 'Matrix norm', 'Matrix completion', 'Augmented matrix', 'Matrix decomposition', 'Woodbury matrix identity', 'Rank factorization', 'Identity matrix', 'Definite matrix']",Rank (linear algebra)
+252,252,rational form of Matrix,238,2,"['Frobenius normal form', 'Matrix similarity', 'Row echelon form', 'Rational number', 'Jordan normal form', 'Smith normal form', 'Quadratic form', 'Companion matrix', 'Square root of a matrix', 'Jordan matrix']",Frobenius normal form
+253,253,row rank of Matrix,"56, 72, 114",2,"['Rank (linear algebra)', 'Row and column spaces', 'Augmented matrix', 'Gaussian elimination', 'Row echelon form', 'Invertible matrix', 'Kernel (linear algebra)', 'Rank factorization', 'Matrix completion', 'Matrix decomposition']",Rank (linear algebra)
+254,254,Matrix row-reduced,9,2,"['Row echelon form', 'Gaussian elimination', 'Row and column spaces', 'Elementary matrix', 'Rank (linear algebra)', 'Matrix (mathematics)', 'Sparse matrix', 'Stochastic matrix', 'Orthogonal matrix', 'Row equivalence']",Row echelon form
+255,255,Matrix row-reduced echelon,"11, 56",2,"['Row echelon form', 'Gaussian elimination', 'Elementary matrix', 'Rank (linear algebra)', 'Row and column spaces', 'Row equivalence', 'Kernel (linear algebra)', 'Linear subspace', 'Matrix (mathematics)', 'Pivot element']",Row echelon form
+256,256,Matrix self-adjoint ( Hermitian),"35, 314",2,"['Hermitian matrix', 'Hermitian adjoint', 'Skew-Hermitian matrix', 'Conjugate transpose', 'Self-adjoint operator', 'Self-adjoint', 'Transpose', 'Normal matrix', 'Definite matrix', 'Symmetric matrix']",Hermitian matrix
+257,257,similarity of Matrix,94,2,"['Matrix similarity', 'Similarity transformation', 'Similarity measure', 'Cosine similarity', 'Distance matrix', 'Self-similarity matrix', 'Similarity', 'The Matrix (franchise)', 'The Matrix', 'Spectral clustering']",Matrix similarity
+258,258,Matrix skew-symmetric,"162, 210",2,"['Skew-symmetric matrix', 'Symmetric matrix', 'Skew-Hermitian matrix', 'Bilinear form', 'Rotation matrix', 'Hermitian matrix', 'Symplectic matrix', 'Transpose', 'Square matrix', 'Pfaffian']",Skew-symmetric matrix
+259,259,Matrix symmetric,"35, 210",2,"['Symmetric matrix', 'Skew-symmetric matrix', 'Definite matrix', 'Hermitian matrix', 'Transpose', 'Laplacian matrix', 'Orthogonal matrix', 'Toeplitz matrix', 'Tridiagonal matrix', 'Eigendecomposition of a matrix']",Symmetric matrix
+260,260,trace of Matrix,98,2,"['Trace (linear algebra)', 'Matrix norm', 'Traceability matrix', 'Rotation matrix', 'Invertible matrix', 'Partial trace', 'Matrix similarity', 'Characteristic polynomial', 'Square matrix', 'Matrix exponential']",Trace (linear algebra)
+261,261,transpose of Matrix,114,2,"['Transpose', 'Conjugate transpose', 'Hermitian matrix', 'Adjugate matrix', 'In-place matrix transposition', 'Unitary matrix', 'Symmetric matrix', 'Orthogonal matrix', 'Matrix congruence', 'Skew-Hermitian matrix']",Transpose
+262,262,Matrix triangular,155,2,"['Triangular matrix', 'Matrix decomposition', 'Hessenberg matrix', 'Schur decomposition', 'Crout matrix decomposition', 'LU decomposition', 'Triangular matrix ring', 'Definite matrix', 'Cholesky decomposition', 'Normal matrix']",Triangular matrix
+263,263,Matrix unitary,"163, 303",2,"['Unitary matrix', 'Unitary group', 'Identity matrix', 'Matrix decomposition', 'Singular value decomposition', 'Normal matrix', 'Unitary operator', 'Orthogonal matrix', 'Random matrix', 'DFT matrix']",Unitary matrix
+264,264,Matrix upper-triangular,27,2,"['Triangular matrix', 'Matrix decomposition', 'Hessenberg matrix', 'LU decomposition', 'Crout matrix decomposition', 'Schur decomposition', 'QR decomposition', 'Square matrix', 'Normal matrix', 'Orthogonal matrix']",Triangular matrix
+265,265,Matrix Vandermonde,125,2,"['Vandermonde matrix', 'Alexandre-Théophile Vandermonde', 'Toeplitz matrix', 'Hankel matrix', 'Moore matrix', 'Wronskian', 'Outline of linear algebra', 'Linear least squares', 'DFT matrix', 'Hilbert matrix']",Vandermonde matrix
+266,266,Matrix zero,12,2,"['Zero matrix', 'Identity matrix', 'Sparse matrix', 'Definite matrix', 'Diagonal matrix', 'Adjacency matrix', 'Triangular matrix', 'Black/Matrix', 'Band matrix', 'Rotation matrix']",Zero matrix
+267,267,Minimal polynomial,191,1,"['Minimal polynomial', 'Minimal polynomial (linear algebra)', 'Minimal polynomial (field theory)', 'Irreducible polynomial', 'Polynomial ring', 'Characteristic polynomial', 'Golden ratio', 'Chebyshev polynomials', 'Jordan normal form', 'Primitive polynomial (field theory)']",Minimal polynomial
+268,268,Module,164,1,"['Module', 'Modularity', 'Module (mathematics)', 'International Space Station', 'Merge Module', 'Modulor', 'Solar panel', 'Free module', 'Apollo command and service module', 'Projective module']",Module (mathematics)
+269,269,basis for Module,164,2,"['Basis (linear algebra)', 'Free module', 'Module (mathematics)', 'Projective module', 'Apollo command and service module', 'Structure theorem for finitely generated modules over a principal ideal domain', 'Monomial basis', 'Standard basis', 'Solar panel', 'Normal basis']",Basis (linear algebra)
+270,270,dual Module,165,2,"['Dual module', 'Dualizing module', 'DIMM', 'Tensor product of modules', 'Memory module', 'Module homomorphism', 'Dual space', 'Matlis duality', 'Functional (mathematics)', 'D-module']",Dual module
+271,271,finitely generated Module,165,2,"['Finitely generated module', 'Structure theorem for finitely generated modules over a principal ideal domain', 'Projective module', 'Iwasawa algebra', 'Finitely generated group', 'Finitely generated abelian group', 'Finitely generated algebra', 'Torsion-free module', 'Flat module', 'Generating set of a module']",Finitely generated module
+272,272,free Module,164,2,"['Free module', 'Torsion-free module', 'Projective module', 'Module (mathematics)', 'Stably free module', 'Flat module', 'Finitely generated module', 'Basis (linear algebra)', 'Module', 'Galois module']",Free module
+273,273,rank of Module,165,2,"['Free module', 'Finitely generated module', 'Projective module', 'Module (mathematics)', 'DDR SDRAM', 'DIMM', 'D-module', 'Drinfeld module', 'Injective hull', 'Rank']",Free module
+274,274,Monic polynomial,120,1,"['Monic polynomial', 'Minimal polynomial (field theory)', 'Minimal polynomial (linear algebra)', 'Characteristic polynomial', 'Algebraic integer', 'Finite field', 'Cyclotomic polynomial', 'Symmetric polynomial', 'Chebyshev polynomials', 'Synthetic division']",Monic polynomial
+275,275,M ultilinear function (form),166,1,[],
+276,276,degree of M ultilinear function (form),166,2,[],
+277,277,Multiplicity,130,1,"['Multiplicity', 'Eigenvalues and eigenvectors', 'Multiplicity (film)', 'Multiplicity (mathematics)', 'Multiplicity (chemistry)', 'Gender', 'Multiplicity theory', 'Multiplicity of infection', ""Hund's rule of maximum multiplicity"", 'Multiplicity (psychology)']",Multiplicity
+278,278,n-linear function,142,1,"['Linear function', 'Piecewise linear function', 'Linear programming', 'Linear map', 'Linear differential equation', 'Linear equation', 'Linear algebra', 'Function space', 'Basis function', 'Linear regression']",Linear function
+279,279,alternating n-linear function,"144, 169",2,"['Multilinear map', 'Alternating permutation', 'Linear programming', 'Identity function', 'Linear congruential generator', 'Derivative', 'Projective linear group', 'Determinant', 'Non-linear least squares', 'Exterior algebra']",Multilinear map
+280,280,n-tuple,29,1,"['Tuple', 'Pythagorean triple', 'Partially ordered set', 'Circular shift', 'Relation (database)', 'Cartesian product', 'Finitary relation', 'N-gram', 'Prime k-tuple', 'Euclidean space']",Tuple
+281,281,Nilpotent matrix,244,2,"['Nilpotent matrix', 'Nilpotent', 'Diagonalizable matrix', 'Nilpotent group', 'Triangular matrix', 'Zero matrix', 'Matrix exponential', 'Trace (linear algebra)', 'Shift matrix', 'Nilpotent orbit']",Nilpotent matrix
+282,282,Nilpotent operator,222,2,"['Nilpotent operator', 'Nilpotent', 'Nilpotent matrix', 'Jordan–Chevalley decomposition', 'Semisimple operator', 'Linear map', 'Volterra operator', 'T-norm', 'Schur decomposition', 'Trace (linear algebra)']",Nilpotent operator
+283,283,Non-degenerate bilinear form,365,2,"['Degenerate bilinear form', 'Bilinear form', 'Symmetric bilinear form', 'Linear form', 'Minkowski space', 'Quadratic form', 'Eisenbud–Levine–Khimshiashvili signature formula', 'Killing form', 'Musical isomorphism', 'Isotropic quadratic form']",Degenerate bilinear form
+284,284,Non-degenerate form,324,2,"['Degenerate bilinear form', 'Degenerate matter', 'Bilinear form', 'Quadratic form', 'Degenerate conic', 'Degeneracy (mathematics)', 'Einstein notation', ""Sylvester's law of inertia"", 'Degenerate energy levels', 'Future of an expanding universe']",Degenerate bilinear form
+285,285,Non-negative form,325,2,"['Definite quadratic form', 'Non-negative matrix factorization', 'Definite matrix', 'Sign (mathematics)', 'Non-negative least squares', 'Negative number', 'Double negative', 'Ion', 'Negative verb', 'Negative feedback']",Definite quadratic form
+286,286,Non-negative operator,"329, 341",2,"['Operator theory', 'Square root of a matrix', 'Partial trace', 'Definite matrix', 'Quantum operation', 'Laplace operator', 'Friedrichs extension', 'Modulo operation', 'Nonnegative matrix', 'Hilbert space']",Operator theory
+287,287,Non-singular linear transformation,79,2,"['Singular value decomposition', 'Direct linear transformation', 'Geometric transformation', 'Singular value', 'Rank (linear algebra)', 'Whitening transformation', 'Projection (linear algebra)', 'Method of steepest descent', 'Non-linear least squares', 'Invertible matrix']",Singular value decomposition
+288,288,Norm,273,1,"['Norm', 'Norm (mathematics)', 'Norm Macdonald', 'Social norm', 'Matrix norm', 'Naturally occurring radioactive material', 'Norm (chess)', 'Norm Pattiz', 'Norm Abram', 'Norm Peterson']",Norm
+289,289,Normal form,"257, 261",2,"['Conjunctive normal form', 'Normal form', 'First normal form', 'Jordan normal form', 'Third normal form', 'Prenex normal form', 'Chomsky normal form', 'Second normal form', 'Disjunctive normal form', 'Fifth normal form']",Conjunctive normal form
+290,290,Normal matrix,315,2,"['Normal matrix', 'Matrix normal distribution', 'Ordinary least squares', 'Square matrix', 'Matrix similarity', 'Multivariate normal distribution', 'Eigendecomposition of a matrix', 'Jordan normal form', 'Diagonal matrix', 'Rayleigh–Ritz method']",Normal matrix
+291,291,Normal operator,312,2,"['Normal operator', 'Operator theory', 'Spectral theorem', 'Normal matrix', 'Jordan normal form', 'Normal', 'Creation and annihilation operators', 'Compact operator on Hilbert space', 'Normal distribution', 'Normal map']",Normal operator
+292,292,Nullity of linear transformation,71,1,"['Kernel (linear algebra)', 'Outline of linear algebra', 'Rank–nullity theorem', 'Linear map', 'Rank (linear algebra)', 'Row and column spaces', 'Matrix (mathematics)', 'Eigenvalues and eigenvectors', 'Vector space', 'Corank']",Kernel (linear algebra)
+293,293,Null space,71,1,"['Kernel (linear algebra)', 'Row and column spaces', 'Linear subspace', 'Null (mathematics)', 'Projection (linear algebra)', 'Singular value decomposition', 'Null character', 'Orthogonal complement', 'Sequence space', 'Null set']",Kernel (linear algebra)
+294,294,Numbers complex,2,2,"['Complex number', 'Number', 'Complex plane', 'Split-complex number', 'Riemann sphere', 'Geometry of Complex Numbers', 'Complex', 'Complex conjugate', 'Complex analysis', 'Complex random variable']",Complex number
+295,295,Numbers rational,3,2,"['Rational number', 'Integer', 'List of types of numbers', 'Irrational number', 'Number', 'Dyadic rational', 'Real number', 'Rational function', 'Transcendental number', 'Continued fraction']",Rational number
+296,296,Numbers real,2,2,"['Real number', 'Complex number', 'Completeness of the real numbers', 'Construction of the real numbers', 'Positive real numbers', 'Transcendental number', 'Hyperreal number', 'Real analysis', 'List of types of numbers', 'Computable number']",Real number
+297,297,Onto,389,1,"['Surjective function', 'Onto Innovation', 'OntoUML', 'Bijection', 'OntoLex', 'OntoWiki', ""Holdin' Onto Something"", 'OntoCAPE', 'Projections onto convex sets', 'Out of the Races and Onto the Tracks']",Surjective function
+298,298,"Operator, linear",76,1,"['Linear map', 'Continuous linear operator', 'Bounded operator', 'Projection (linear algebra)', 'Differential operator', 'Hermitian adjoint', 'Compact operator', 'Kernel (linear algebra)', 'Unbounded operator', 'Operator norm']",Linear map
+299,299,Ordered basis,50,1,"['Basis (linear algebra)', 'Change of basis', 'Coordinate vector', 'Diagonalizable matrix', 'Moving frame', 'Gröbner basis', 'Standard basis', 'Generalized eigenvector', 'Lenstra–Lenstra–Lovász lattice basis reduction algorithm', 'Cyclic subspace']",Basis (linear algebra)
+300,300,Orthogonal complement,285,2,"['Orthogonal complement', 'Projection (linear algebra)', 'Hilbert space', 'Inner product space', 'Complement', 'Orthogonality (mathematics)', 'Linear subspace', 'Complemented lattice', 'Moore–Penrose inverse', 'Normal operator']",Orthogonal complement
+301,301,Orthogonal equivalence of matrices,308,2,"['Row equivalence', 'Hadamard matrix', 'Matrix congruence', 'Random matrix', 'Spectral theorem', 'Outline of linear algebra', 'Rank (linear algebra)', 'Dot product', ""Euler's rotation theorem"", 'Moore–Penrose inverse']",Row equivalence
+302,302,Orthogonal group,380,2,"['Orthogonal group', 'Orthogonal matrix', 'Indefinite orthogonal group', 'Orthogonality', 'Unitary group', 'Spin group', 'Euclidean group', 'Orthonormal basis', 'Lie group', 'Pin group']",Orthogonal group
+303,303,Orthogonal linear transformation,304,2,"['Orthogonal transformation', 'Orthogonal matrix', 'Projection (linear algebra)', 'Rigid transformation', 'Outline of linear algebra', 'Householder transformation', 'Procrustes analysis', 'Transformation matrix', 'Orthogonal group', 'Principal component analysis']",Orthogonal transformation
+304,304,Orthogonal matrix,"162, 380",2,"['Orthogonal matrix', 'Matrix (mathematics)', 'Skew-symmetric matrix', 'Orthogonal group', 'Unitary matrix', 'Semi-orthogonal matrix', 'Rotation matrix', 'Square matrix', 'Symmetric matrix', 'Orthogonal transformation']",Orthogonal matrix
+305,305,Orthogonal projection,285,2,"['Projection (linear algebra)', 'Vector projection', 'Orthographic projection', 'Scalar projection', '3D projection', 'Projection matrix', 'Hilbert space', 'Transformation matrix', 'Moore–Penrose inverse', 'Projection (mathematics)']",Projection (linear algebra)
+306,306,Orthogonal set,278,2,"['Orthonormal basis', 'Orthogonal instruction set', 'Orthogonality', 'Gram–Schmidt process', 'Orthogonality (mathematics)', 'Orthogonal matrix', 'Orthogonal complement', 'Projection (linear algebra)', 'Orthogonal group', 'Orthonormality']",Orthonormal basis
+307,307,Orthogonal vectors,"278, 368",2,"['Inner product space', 'Orthogonality (mathematics)', 'Orthogonality', 'Orthogonal matrix', 'Gram–Schmidt process', 'Orthogonal transformation', 'Orthonormality', 'Projection (linear algebra)', 'Orthogonal group', 'Cosine similarity']",Inner product space
+308,308,Orthogonalization,280,1,"['Orthogonalization', 'Gram–Schmidt process', 'QR decomposition', 'Noise reduction', 'Iwasawa decomposition', 'Singular value decomposition', 'Per-Olov Löwdin', 'Arnoldi iteration', 'Orthogonal matrix', 'QR algorithm']",Orthogonalization
+309,309,Orthonormal basis,281,2,"['Orthonormal basis', 'Orthonormality', 'Orthogonal basis', 'Hilbert space', 'Inner product space', 'Orthogonal matrix', 'Cross product', 'Gram matrix', 'Orthogonal transformation', 'Hilbert–Schmidt operator']",Orthonormal basis
+310,310,Orthonormal set,278,2,"['Orthonormality', 'Orthonormal basis', 'Wavelet transform', 'Orthogonal matrix', 'Hilbert space', 'Inner product space', ""Mercer's theorem"", 'Gram–Schmidt process', 'Wavelet', ""Parseval's identity""]",Orthonormality
+311,311,Parallelogram law,276,1,"['Parallelogram law', 'Parallelogram', 'Rhombus', 'Quadrilateral', 'Polarization identity', ""Varignon's theorem"", 'Pseudo-Euclidean space', 'Hilbert space', ""Apollonius's theorem"", 'Pythagorean theorem']",Parallelogram law
+312,312,Permutation,151,1,"['Permutation', 'Permutation group', 'Permutation test', 'Cyclic permutation', 'Permutation matrix', 'Combinations and permutations', 'Parity of a permutation', 'Permutation (disambiguation)', 'Random permutation', 'Levi-Civita symbol']",Permutation
+313,313,"even, odd Permutation",152,2,"['Parity of a permutation', 'Parity (mathematics)', 'Permutation', 'Even', 'Levi-Civita symbol', 'Double factorial', 'Odd', 'Alternating permutation', 'Symmetric group', ""Heap's algorithm""]",Parity of a permutation
+314,314,product of Permutation,15,2,"['Permutation', 'Permutation group', 'Cyclic permutation', 'Permutation matrix', 'Parity of a permutation', 'Levi-Civita symbol', 'Symmetric group', 'Wreath product', 'Cross product', 'Triple product']",Permutation
+315,315,sign of Permutation,152,2,"['Parity of a permutation', 'Permutation', 'Permutation group', 'Levi-Civita symbol', 'Permutation matrix', 'Symmetric group', 'Sign (mathematics)', 'Permutation test', 'Generalized permutation matrix', 'Digital signature']",Parity of a permutation
+316,316,Polar decomposition,34,1,"['Polar decomposition', 'Matrix decomposition', 'Singular value decomposition', 'Rotation matrix', 'Operator theory', 'Square root of a matrix', 'Cartan decomposition', 'QR decomposition', 'Orthogonal matrix', 'Polar factorization theorem']",Polar decomposition
+317,317,Polarization identities,"274, 368",1,"['Polarization identity', 'Polarization', 'Political polarization', 'Polarization (waves)', 'Inner product space', 'Group polarization', 'Parallelogram law', 'Political polarization in the United States', 'Photon polarization', 'Birefringence']",Polarization identity
+318,318,Polynomial,119,1,"['Polynomial', 'Time complexity', 'Characteristic polynomial', 'Lagrange polynomial', 'Polynomial regression', 'Chebyshev polynomials', 'Cyclic redundancy check', 'Degree of a polynomial', 'NP (complexity)', 'Irreducible polynomial']",Polynomial
+319,319,characteristic Polynomial,183,2,"['Characteristic polynomial', 'Eigenvalues and eigenvectors', 'Characteristic equation', 'Minimal polynomial (linear algebra)', 'Characteristic', 'Matroid', 'Jordan normal form', 'Cayley–Hamilton theorem', ""Newton's identities"", 'Linear differential equation']",Characteristic polynomial
+320,320,coefficients of Polynomial,120,2,"['Polynomial', 'Discriminant', 'Coefficient', 'Irreducible polynomial', 'Characteristic polynomial', 'Factorization of polynomials', 'Rational root theorem', 'Monic polynomial', 'Symmetric polynomial', 'Newton polynomial']",Polynomial
+321,321,degree of Polynomial,119,2,"['Degree of a polynomial', 'Polynomial', 'Quartic function', 'Polynomial interpolation', 'Homogeneous polynomial', 'Polynomial long division', 'Irreducible polynomial', 'Polynomial regression', 'Quadratic function', 'Factorization of polynomials']",Degree of a polynomial
+322,322,derivative of Polynomial,"129, 266",2,"['Taylor series', 'Chebyshev polynomials', 'Cubic Hermite spline', 'Polynomial', 'Bernstein polynomial', 'Formal derivative', 'Lagrange polynomial', 'Savitzky–Golay filter', 'Factorization of polynomials', 'Polynomial regression']",Taylor series
+323,323,function Polynomial,30,2,"['Polynomial', 'Zero of a function', 'Quadratic function', 'Linear function', 'Chebyshev polynomials', 'Rational function', 'Hermite polynomials', 'Polynomial regression', 'Algebraic function', 'Quartic function']",Polynomial
+324,324,irreducible (prime) Polynomial,135,2,"['Irreducible polynomial', 'Finite field', ""Eisenstein's criterion"", 'Irreducibility (mathematics)', 'Algebraically closed field', ""Gauss's lemma (polynomials)"", 'Multiplicity (mathematics)', 'Irreducible element', 'Factorization of polynomials over finite fields', 'Separable polynomial']",Irreducible polynomial
+325,325,minimal Polynomial,191,2,"['Minimal polynomial', 'Minimal polynomial (linear algebra)', 'Minimal polynomial (field theory)', 'Polynomial ring', 'Irreducible polynomial', 'Characteristic polynomial', 'Golden ratio', 'Chebyshev polynomials', 'Jordan normal form', 'Primitive polynomial (field theory)']",Minimal polynomial
+326,326,Polynomial monic,120,2,"['Monic polynomial', 'Minimal polynomial (linear algebra)', 'Minimal polynomial (field theory)', 'Characteristic polynomial', 'Algebraic integer', 'Chebyshev polynomials', 'Polynomial', 'Symmetric polynomial', 'Monic', 'Irreducible polynomial']",Monic polynomial
+327,327,primary decomposition of,137,1,"['Primary decomposition', 'Decomposer', 'Structure theorem for finitely generated modules over a principal ideal domain', 'Decomposition', 'Primary ideal', 'Finitely generated abelian group', 'Commutative algebra', 'Primary', 'Decomposition (disambiguation)', 'Singular value decomposition']",Primary decomposition
+328,328,prime (irreducible),135,1,"['Irreducible polynomial', 'Irreducible element', 'Irreducibility (mathematics)', 'Irreducible fraction', 'List of prime numbers', 'Prime element', ""Eisenstein's criterion"", 'Prime number', 'Irreducible component', 'Finite field']",Irreducible polynomial
+329,329,prime factorization of,136,1,"['Integer factorization', 'Factorization', 'Fundamental theorem of arithmetic', 'Table of prime factors', 'Prime number', 'Highly composite number', 'Unique factorization domain', 'Factorization of polynomials', 'List of prime numbers', 'Least common multiple']",Factorization
+330,330,reducible,135,1,"['Reduction', 'Reduced form', 'Reducing sugar', 'Reduced properties', 'Weihrauch reducibility', 'Random self-reducibility', 'Reduced eye', 'Water reducer', 'Reduced level', 'Reduced mass']",Reduced form
+331,331,root of,129,1,"['Root', 'ROOT', 'Rooting (Android)', 'Rooting', 'Joe Root', 'Square root', 'Root cap', 'Root!', 'Stephen Root', 'Root mean square']",Rooting
+332,332,scalar,120,1,"['Scalar', 'Scalar (mathematics)', 'Diagonal matrix', 'Scalar field', 'Electric potential', 'Triple product', 'Dot product', 'Scalar processor', 'Vector space', 'Scalar multiplication']",Scalar
+333,333,zero of,129,1,"['Zero-marking in English', 'ZeroZeroZero', 'Zero-COVID', 'Zero Zero', 'Zero to the power of zero', 'Zero Zero (comics)', '0', 'ZeroZeroZero (album)', 'Zero-sum game', 'Absolute zero']",Zero to the power of zero
+334,334,Positive form,"325, 328",2,"['Positive form', 'Definite quadratic form', 'Gram-positive bacteria', 'Positive semidefinite', 'Positive definiteness', 'Positive', 'Positive feedback', 'Definite matrix', 'German adjectives', 'Positive disintegration']",Definite quadratic form
+335,335,Positive integers,2,2,"['Natural number', 'Integer', 'Fundamental theorem of arithmetic', 'Coprime integers', 'Integer factorization', 'Particular values of the Riemann zeta function', 'Gamma function', 'Gaussian integer', 'Floor and ceiling functions', 'Factorial']",Natural number
+336,336,Positive matrix,329,2,"['Definite matrix', 'Nonnegative matrix', 'Totally positive matrix', 'Non-negative matrix factorization', 'Square root of a matrix', 'Confusion matrix', 'Hessian matrix', 'Matrix (mathematics)', 'Covariance matrix', 'Matrix decomposition']",Definite matrix
+337,337,Positive operator,329,2,"['Positive operator (Hilbert space)', 'Positive', 'POVM', 'Square root of a matrix', 'Operon', 'Operator theory', 'Positive linear operator', 'Definite matrix', 'Effect algebra', 'Positive-definite kernel']",Positive operator (Hilbert space)
+338,338,Positive definite,368,1,"['Positive definiteness', 'Definite matrix', 'Positive-definite kernel', 'Positive-definite function', 'Definite quadratic form', 'Positive semidefinite', 'Schur complement', 'Cholesky decomposition', 'Seminorm', 'Schur product theorem']",Positive definiteness
+339,339,Power series,119,1,"['Power series', 'Formal power series', 'Power (TV series)', 'Laurent series', 'Power series solution of differential equations', 'The Lord of the Rings: The Rings of Power', 'The Power (TV series)', 'Series (mathematics)', 'The Learning Company', 'Taylor series']",Power series
+340,340,Primary components,351,1,"['Primary decomposition', 'Explosive train', 'Principal component analysis', 'Web Components', 'Agate', 'Ferrocerium', 'Changa (drug)', 'Vascular tissue', 'Uremia', 'Polyurea']",Primary decomposition
+341,341,Primary decomposition of polynomial,137,2,"['Primary decomposition', 'Frobenius normal form', 'Polynomial', 'Structure theorem for finitely generated modules over a principal ideal domain', 'System of polynomial equations', 'Factorization of polynomials over finite fields', 'Macsyma', 'Commutative algebra', 'Polynomial chaos', 'Hironaka decomposition']",Primary decomposition
+342,342,Primary decomposition theorem,220,2,"['Primary decomposition', 'Singular value decomposition', 'Structure theorem for finitely generated modules over a principal ideal domain', 'Primary ideal', 'Decomposer', 'Finitely generated abelian group', 'Commutative algebra', 'Decomposition', 'Decomposition (disambiguation)', 'Frobenius normal form']",Primary decomposition
+343,343,Prime factorization of polynomial,136,2,"['Factorization of polynomials', 'Factorization', 'Irreducible polynomial', 'Integer factorization', 'Factorization of polynomials over finite fields', 'Unique factorization domain', ""Gauss's lemma (polynomials)"", 'Multiplicity (mathematics)', 'Primality test', 'Prime number']",Factorization of polynomials
+344,344,Prime polynomial,135,2,"['Irreducible polynomial', 'Algebraically closed field', 'Characteristic polynomial', 'Formula for primes', 'Polynomial', 'Cyclotomic polynomial', 'Chebyshev polynomials', 'Multiplicity (mathematics)', 'Prime (disambiguation)', 'Ulam spiral']",Irreducible polynomial
+345,345,Principal access theorem,323,2,"['Principal component analysis', 'The Zero Theorem', 'Equipartition theorem', 'Channel access method', 'Eigenvalues and eigenvectors', 'Gwendoline Christie', 'Definite matrix', 'Exponential family', 'Hexagon', 'Inverse semigroup']",Eigenvalues and eigenvectors
+346,346,Principal ideal,131,2,"['Principal ideal', 'Principal ideal domain', 'Principal ideal ring', 'Ideal (ring theory)', 'Principal ideal theorem', 'Structure theorem for finitely generated modules over a principal ideal domain', ""Krull's principal ideal theorem"", 'Fractional ideal', 'Commutative ring', 'Ideal class group']",Principal ideal
+347,347,Principal minors,326,2,"['Minor (linear algebra)', ""Sylvester's criterion"", 'Hessian matrix', 'Definite matrix', 'Second partial derivative test', 'M-matrix', 'LU decomposition', 'Triangular matrix', 'Hurwitz matrix', 'Principal photography']",Minor (linear algebra)
+348,348,"Product: 
+exterior (wedge)","175, 177",1,"['Exterior algebra', 'Product', 'Exterior derivative', 'Interior product', 'Multivector', 'Triple product', 'Wedge (symbol)', 'Differential form', 'Geometric algebra', 'Wedge sum']",Exterior algebra
+349,349,"Product 
+exterior (wedge) of linear transformations",76,2,"['Exterior algebra', 'Inner product space', 'Geometric algebra', 'Exterior derivative', 'Cross product', 'Determinant', 'Adjugate matrix', 'Spinor', 'Connection form', 'Angular velocity']",Exterior algebra
+350,350,"Product 
+exterior (wedge) of matrices, .14",90,2,"['Geometric algebra', 'Bivector', 'Spinor', 'Clifford algebra', 'Grassmannian', 'Rotation formalisms in three dimensions', 'Tetrahedron', 'Group cohomology', 'Calculus on Euclidean space', 'Relativistic quantum mechanics']",Geometric algebra
+351,351,"Product 
+exterior (wedge) of permutations",153,2,"['Exterior algebra', 'Triple product', 'Geometric algebra', 'Tensor product', 'Cross product', 'Exterior calculus identities', 'Riffle shuffle permutation', 'Curl (mathematics)', 'Multilinear form', 'Hodge star operator']",Exterior algebra
+352,352,"Product 
+exterior (wedge) tensor",168,2,"['Exterior algebra', 'Tensor product', 'Tensor algebra', 'Interior product', 'Product', 'Triple product', 'Product (mathematics)', 'Electromagnetic tensor', 'Differential form', 'Antisymmetric tensor']",Exterior algebra
+353,353,Projection,211,1,"['Projection', 'Map projection', 'Orthographic projection', 'Psychological projection', 'Isometric projection', 'Vector projection', 'Astral projection', 'Equirectangular projection', 'Projection (mathematics)', 'Mercator projection']",Projection
+354,354,Proper subset,"388, 381",1,"['Subset', 'Set (mathematics)', 'Subgroup', 'Closed set', 'Cardinal number', 'Proper', 'Dedekind-infinite set', 'Finite set', 'Set theory', 'Ultrafilter (set theory)']",Subset
+355,355,Quadratic form,"273, 368",1,"['Quadratic form', 'Definite quadratic form', 'Binary quadratic form', 'Isotropic quadratic form', 'Quadratic form (statistics)', 'Discriminant', 'Genus of a quadratic form', 'Second fundamental form', 'Bilinear form', 'Quadratic function']",Quadratic form
+356,356,Quotient space,397,2,"['Quotient space (topology)', 'Quotient space', 'Quotient space (linear algebra)', 'Equivalence class', 'Quotient', 'Quotient ring', 'Normed vector space', 'Kolmogorov space', 'Vector space', 'Dual space']",Quotient space (topology)
+357,357,Quotient transformation,397,2,"['Emotional intelligence', 'Natural transformation', 'Rayleigh quotient', 'Möbius transformation', 'Linear map', 'Isometry', 'Polynomial long division', 'Quotient category', 'Covering space', 'Lorentz group']",Natural transformation
+358,358,Range,71,1,"['Range', 'Mountain range', 'The Range', 'Range Rover', 'Outer Range', 'Vocal range', 'Caren Range', 'Interquartile range', 'Himalayas', 'Cascade Range']",
+359,359,Rank; of bilinear form,365,2,"['Bilinear form', 'Tensor (intrinsic definition)', 'Strassen algorithm', 'Form', 'Low-rank approximation', 'Differential form', 'Unimodular lattice', 'Tensor product', 'Trace (linear algebra)', 'Inner product space']",Bilinear form
+360,360,column Rank;,"72, 114",2,"['Rank (linear algebra)', 'Moore–Penrose inverse', 'Rank factorization', 'Rank', 'Row and column spaces', 'Gram–Schmidt process', ""Spearman's rank correlation coefficient"", 'Military rank', 'Principal component analysis', 'Generalized inverse']",Rank (linear algebra)
+361,361,determinant Rank;,163,2,"['Rank (linear algebra)', 'Determinant', 'Jacobian matrix and determinant', 'PageRank', 'Minor (linear algebra)', 'List of countries by Human Development Index', 'Vandermonde matrix', 'Matrix (mathematics)', 'Matrix determinant lemma', 'Gram matrix']",Rank (linear algebra)
+362,362,Rank of linear transformation,71,2,"['Rank (linear algebra)', 'Linear map', 'Direct linear transformation', 'Outline of linear algebra', 'Kernel (linear algebra)', 'General linear group', 'Eigenvalues and eigenvectors', 'Row and column spaces', 'Data transformation (statistics)', 'Matrix similarity']",Rank (linear algebra)
+363,363,Rank of matrix,114,2,"['Rank (linear algebra)', 'Matrix norm', 'Invertible matrix', 'Matrix completion', 'Matrix decomposition', 'Augmented matrix', 'Woodbury matrix identity', 'Rank factorization', 'Definite matrix', 'Identity matrix']",Rank (linear algebra)
+364,364,Rank of module,165,2,"['Free module', 'Finitely generated module', 'Module (mathematics)', 'Projective module', 'DDR SDRAM', 'DIMM', 'Drinfeld module', 'D-module', 'Injective hull', 'Memory rank']",Free module
+365,365,Rank row,"56, 72, 114",2,"['Rank (linear algebra)', 'Rank', 'Row and column spaces', 'Row echelon form', 'Memory rank', 'Military rank', 'British Army officer rank insignia', 'Rank and file', 'Teófimo López', 'Rank factorization']",Rank (linear algebra)
+366,366,Rational form o f  matrix,238,1,"['Frobenius normal form', 'Quadratic form', 'Invertible matrix', 'Cauchy matrix', 'Orthogonal group', 'Jordan normal form', 'Jordan matrix', 'Gaussian elimination', 'Matrix (mathematics)', 'Algebraic curve']",Frobenius normal form
+367,367,Reducible polynomial,135,1,"['Irreducible polynomial', 'Cyclic redundancy check', 'Polynomial-time reduction', 'Finite field arithmetic', ""Eisenstein's criterion"", 'NP-completeness', 'Polynomial', 'Chebyshev polynomials', 'Hypersurface', 'Random self-reducibility']",Irreducible polynomial
+368,368,Relation,393,1,"['Relation', 'Recurrence relation', 'Social relation', 'Dispersion relation', 'Equivalence relation', 'Binary relation', 'Transitive relation', 'Antisymmetric relation', 'Relation (mathematics)', 'Relationism']",Relation
+369,369,equivalence Relation,393,2,"['Equivalence relation', 'Partial equivalence relation', 'Adequate equivalence relation', 'Equivalence class', 'Transitive relation', 'Congruence relation', 'Partition of a set', 'Ternary equivalence relation', 'Hyperfinite equivalence relation', 'Quotient by an equivalence relation']",Equivalence relation
+370,370,Relatively prime,133,1,"['Coprime integers', 'Algebraically closed field', 'Prime number', ""Euler's totient function"", 'Reduced residue system', '1000 (number)', 'Sexy prime', 'Prime-factor FFT algorithm', 'Carmichael number', 'Repunit']",Coprime integers
+371,371,Resolution of the identity,"337, 344",2,"['Borel functional calculus', 'Identity crisis', 'Dirac delta function', 'Spectral theory', 'Self-adjoint operator', 'Coherent state', 'Hilbert space', 'LGBT rights at the United Nations', 'Coherent states in mathematical physics', 'Basis set (chemistry)']",Borel functional calculus
+372,372,Resolution lSpectral,"336, 344",2,"['Spectral resolution', 'Spectral theory', 'Spectral leakage', 'Spectral density', 'Fourier-transform infrared spectroscopy', 'Spectral imaging', 'Super-resolution microscopy', 'Spectral sequence', 'Synthetic-aperture radar', 'Hyperspectral imaging']",Spectral theory
+373,373,Restriction of function,391,2,"['Restriction (mathematics)', 'Restriction enzyme', 'Restriction', 'Function (mathematics)', 'Domain of a function', 'Partial function', 'Calorie restriction', 'Restriction point', 'Intrauterine growth restriction', 'Holomorphic function']",Restriction (mathematics)
+374,374,Restriction operator,199,2,"['List of Internet top-level domains', 'Restriction (mathematics)', 'Sobolev space', 'Trace operator', 'Operator overloading', 'Federal Aviation Regulations', 'Angular momentum operator', 'Genetic use restriction technology', 'Operator (physics)', 'Value restriction']",Restriction (mathematics)
+375,375,Right inverse,22,1,"['Right inverse', 'Inverse function', 'Inverse element', 'Invertible matrix', 'Moore–Penrose inverse', 'Multiplicative inverse', 'Generalized inverse', 'Inverse trigonometric functions', 'Surjective function', 'Quasigroup']",Right inverse
+376,376,Rigid motion,310,1,"['Rigid body', 'Rigid transformation', 'Rigid motion segmentation', 'Rigid body dynamics', ""Euler's laws of motion"", 'Rotation around a fixed axis', 'Isometry', 'Euclidean space', ""Chasles' theorem (kinematics)"", 'Born rigidity']",Rigid body
+377,377,Ring,140,1,"['Ring', 'Ring Ring', 'RING finger domain', 'The Lord of the Rings', 'The Ring', 'Elden Ring', 'Ring Ring (album)', 'The Lord of the Rings: The Fellowship of the Ring', 'Ring (mathematics)', 'Ring of Fire']",Ring (mathematics)
+378,378,Grassman Ring,180,2,"['Grassmannian', 'Grassmann number', 'Exterior algebra', 'Abstract algebra', 'Mountain Monsters', 'Binturong', 'Mustelidae', 'Sandy Denny', 'Pantherinae', 'Neofelis']",Grassmannian
+379,379,Root of family of operators,343,2,"['Square root of a matrix', 'Unary operation', 'Root system', 'Ternary conditional operator', 'List of Internet top-level domains', 'Tetration', 'Elihu Root', 'List of richest Americans in history', 'Spectral theorem', ""Newton's method""]",Square root of a matrix
+380,380,Root of polynomial,129,2,"['Multiplicity (mathematics)', 'Root-finding algorithms', 'Rational root theorem', 'Polynomial', 'Polynomial long division', 'Zero of a function', 'Square-free polynomial', 'Discriminant', 'Algebraic equation', 'Root of unity']",Multiplicity (mathematics)
+381,381,Rotation,"54, 309",1,"['Rotation', 'Rotation matrix', 'Optical rotation', ""Earth's rotation"", 'Crop rotation', 'Angle of rotation', 'Rotation operator', 'Specific rotation', 'Improper rotation', 'Rotational frequency']",Rotation matrix
+382,382,Row operatiollH,"6, 252",2,[],
+383,383,Row rank,"56, 72, 114",2,"['Rank (linear algebra)', 'Rank factorization', 'Moore–Penrose inverse', 'Low-rank approximation', 'Rank', 'Army general (Russia)', 'Row and column spaces', 'Row echelon form', 'Memory rank', 'British Army officer rank insignia']",Rank (linear algebra)
+384,384,Row space,39,2,"['Row and column spaces', 'Rank (linear algebra)', 'Kernel (linear algebra)', 'Row echelon form', 'Linear subspace', 'Row equivalence', 'Row and column vectors', 'Saints Row', 'Greg Russo (screenwriter)', 'Row crop']",Row and column spaces
+385,385,Row vectors,38,2,"['Row and column vectors', 'Row and column spaces', 'Rank (linear algebra)', 'Bra–ket notation', 'Row- and column-major order', 'Linear subspace', 'Matrix calculus', 'Einstein notation', 'Gradient', 'Kernel (linear algebra)']",Row and column vectors
+386,386,Row-equivalence,"7, 58, 253",1,"['Row equivalence', 'Matrix equivalence', 'Equivalence relation', 'Partition of a set', 'Outline of linear algebra', 'Rank (linear algebra)', 'Similarity (network science)', 'Latin square', 'Conjugacy class', 'Multinomial distribution']",Row equivalence
+387,387,summary of Row-equivalence,55,2,"['Truth table', 'Mathematics of Sudoku', 'Rough set', 'Scientific method', 'Twelvefold way', 'Scheme (programming language)', 'Principia Mathematica', 'Dash', 'Triangulated category', 'Quantile normalization']",Mathematics of Sudoku
+388,388,Row-reduced matrix,9,1,"['Row echelon form', 'Gaussian elimination', 'Row and column spaces', 'Elementary matrix', 'Rank (linear algebra)', 'Matrix (mathematics)', 'Sparse matrix', 'Row equivalence', 'Stochastic matrix', 'Orthogonal matrix']",Row echelon form
+389,389,row-reduced echelon matrix Row-reduced matrix,"11, 56",2,"['Row echelon form', 'Row and column spaces', 'Matrix decomposition', 'Rank (linear algebra)', 'Kernel (linear algebra)', 'Elementary matrix', 'Gaussian elimination', 'Matrix (mathematics)', 'Row equivalence', 'Reduction']",Row echelon form
+390,390,Scalar,2,1,"['Scalar', 'Scalar (mathematics)', 'Diagonal matrix', 'Scalar field', 'Scalar processor', 'Electric potential', 'Triple product', 'Scalar boson', 'Dot product', 'Vector projection']",Scalar
+391,391,polynomial Scalar,120,2,"['Homogeneous polynomial', 'Polynomial ring', 'Diagonal matrix', 'Legendre polynomials', 'Polynomial regression', 'Matrix polynomial', 'Polynomial', 'Polynomial matrix', 'Polynomial evaluation', 'Polynomial kernel']",Homogeneous polynomial
+392,392,"Self-adjoint matrix, :35",314,2,"['Singular value decomposition', 'Projection (linear algebra)', 'Eigenvalues and eigenvectors', ""Hurwitz's theorem (composition algebras)"", 'Bra–ket notation', 'Trace inequality', 'Quantum entanglement', 'Convolution', 'Born rule', ""Bogomol'nyi–Prasad–Sommerfield bound""]",Singular value decomposition
+393,393,Self-adjoint operator,"298, 314",2,"['Self-adjoint operator', 'Self-adjoint', 'Hermitian adjoint', 'Spectral theorem', 'Differential operator', 'Unbounded operator', 'Normal operator', 'Hermitian matrix', 'Multiplication operator', 'Spectrum (functional analysis)']",Self-adjoint operator
+394,394,Semi-simple operator,263,1,"['Semisimple operator', 'Semi-simplicity', 'Semisimple Lie algebra', 'Ternary conditional operator', 'Semi-automatic rifle', 'Sliding door operator', 'Koi-Yamagata Station', 'Affiliated operator', 'Fredholm operator', 'Projection (linear algebra)']",Semisimple operator
+395,395,Separating vector,243,1,"['Cyclic and separating vector', 'Hyperplane separation theorem', 'Vector projection', 'Euclidean vector', 'Vector space', 'KRISS Vector', 'Support vector machine', 'Norm (mathematics)', 'Dot product', 'Row and column vectors']",Cyclic and separating vector
+396,396,Sequence of vectors,47,1,"['Linear independence', 'Word embedding', 'Vector (molecular biology)', 'Sequence', 'Gram–Schmidt process', 'ELMo', 'Vector space', 'Vector (mathematics and physics)', 'Lattice path', 'Destination-Sequenced Distance Vector routing']",Linear independence
+397,397,Sesqui-linear form,320,1,"['Sesquilinear form', 'Terpene', 'Superparticular ratio', 'Interval (music)', 'Roman numerals', 'Electrosurgery', 'Graph rewriting', 'Indium halides', 'Centennial Parklands']",Sesquilinear form
+398,398,Set,388,1,"['Set', 'Set (mathematics)', 'Set theory', 'Mandelbrot set', 'Set (deity)', 'Data set', 'Empty set', 'Working set', 'Countable set', 'Index set']",Set (mathematics)
+399,399,element of (member of) Set,388,2,"['Element (mathematics)', 'Set (mathematics)', 'Partition of a set', 'Empty set', 'Singleton (mathematics)', 'Maximal and minimal elements', 'Greatest element and least element', 'Finite element method', 'Conflict-free replicated data type', 'Bloom filter']",Element (mathematics)
+400,400,empty Set,388,2,"['Empty set', 'Axiom of empty set', 'Set (mathematics)', 'Intersection (set theory)', 'Empty string', 'Null set', 'Power set', 'Open set', 'Convex set', 'Set theory']",Empty set
+401,401,Shuffle,171,1,"['Shuffling', 'Shuffle!', 'IPod Shuffle', 'Fisher–Yates shuffle', 'Melbourne shuffle', 'Lido Shuffle', 'Zarrow shuffle', 'Shuffle (disambiguation)', 'Rosanna shuffle', 'Faro shuffle']",Fisher–Yates shuffle
+402,402,Signature,372,1,"['Signature', 'Digital signature', 'Time signature', 'Key signature', 'Signature forgery', 'Signature block', 'Signature (whisky)', 'Signature crime', 'American Signature', 'Type signature']",
+403,403,Sign of permutation,152,1,"['Parity of a permutation', 'Permutation', 'Permutation group', 'Levi-Civita symbol', 'Permutation matrix', 'Symmetric group', 'Sign (mathematics)', 'Permutation test', 'Generalized permutation matrix', 'Digital signature']",Parity of a permutation
+404,404,Si milar matrices,94,1,[],
+405,405,Simultaneous diagonalization,207,2,"['Diagonalizable matrix', 'Definite matrix', 'Compact operator on Hilbert space', 'Symmetric matrix', 'Eigenmoments', 'Common spatial pattern', ""Cochran's theorem"", 'Schur decomposition', 'Weight (representation theory)', 'Simultaneous equations model']",Diagonalizable matrix
+406,406,Simultaneous triangulation,207,2,"['Triangulation (surveying)', 'Simultaneous exhibition', 'Triangulation (chess)', 'Schur decomposition', 'Battle of Taegu', 'Pseudotriangle', 'Observer bias', 'Planar straight-line graph', 'Finite element method', 'Matrix chain multiplication']",Schur decomposition
+407,407,Skew-symmetric bilinear form,375,2,"['Bilinear form', 'Sesquilinear form', 'Skew-symmetric matrix', 'Antisymmetric', 'Symplectic matrix', 'Quasi-Frobenius Lie algebra', 'Classical group', ""Witt's theorem"", 'Symplectic vector space', 'Vector (mathematics and physics)']",Bilinear form
+408,408,Skew-symmetric matrix,"162, 210",2,"['Skew-symmetric matrix', 'Symmetric matrix', 'Rotation matrix', 'Symplectic matrix', 'Skew-Hermitian matrix', 'Square matrix', 'Parallel axis theorem', 'Bilinear form', 'Pfaffian', 'Matrix (mathematics)']",Skew-symmetric matrix
+409,409,Solution space,36,1,"['Feasible region', 'Simulated annealing', 'Piranha solution', 'Weak formulation', 'Genetic algorithm', 'System of linear equations', 'Swarm intelligence', 'Las Vegas algorithm', 'Inverse kinematics', 'Will Wright (game designer)']",Feasible region
+410,410,Spectral resolution,"336, 344",2,"['Spectral resolution', 'Image resolution', 'Landsat program', 'Spectral imaging', 'Resolving power', 'Fourier-transform infrared spectroscopy', 'Resolution', 'Spectral line shape', 'GOES-17', 'Multispectral imaging']",Spectral imaging
+411,411,Spectral theorem,3,2,"['Spectral theorem', 'Singular value decomposition', 'Eigendecomposition of a matrix', 'Self-adjoint operator', 'Spectral decomposition', 'Hilbert space', 'Spectral density', 'Spectral theory', 'Functional analysis', 'Wiener–Khinchin theorem']",Spectral theorem
+412,412,Spectrum,336,1,"['Spectrum', 'Autism spectrum', 'ZX Spectrum', 'Electromagnetic spectrum', 'Emission spectrum', 'Spectrum (brand)', 'Political spectrum', 'Antimicrobial spectrum', 'Spectrum disorder', 'Visible spectrum']",
+413,413,Square root,341,1,"['Square root', 'Root mean square', 'Square root of 2', 'Fast inverse square root', 'Methods of computing square roots', 'Root-mean-square deviation', 'Square root of a matrix', 'Square root of 3', 'Imaginary unit', 'Integer square root']",Square root
+414,414,Standard basis of pn,41,1,"['Schauder basis', 'Standard deviation', 'Naval Aircraft Factory PN', 'List of DIN standards', 'Pitcairn Islands', 'P-group', 'National Council Licensure Examination', 'Industry Standard Architecture', 'Night-vision device', 'Ford F-Series (tenth generation)']",Schauder basis
+415,415,Stuffer (das einstopfende Ideal),201,1,[],
+416,416,Subfield,2,1,"['Subfield', 'Subfields of psychology', 'Subfields of archaeology', 'Field extension', 'Subfield of an algebra', 'Evolutionary biology', 'Academic discipline', '802.11 Frame Types', 'Electronics', 'Critical race theory']",Subfield
+417,417,Submatrix,163,1,"['Matrix (mathematics)', 'Unimodular matrix', 'Matrix multiplication algorithm', 'Minor (linear algebra)', 'Hessenberg matrix', 'Eigenvalues and eigenvectors', 'Balanced matrix', 'MATLAB', 'Graph (abstract data type)', 'Rank (linear algebra)']",Matrix (mathematics)
+418,418,Subset,388,1,"['Subset', 'Subset sum problem', 'Set (mathematics)', 'Compact space', 'Empty set', 'Total subset', 'Open set', 'Agreeable subset', 'Precompact set', 'Dense set']",Subset
+419,419,invariant Subset,392,2,"['Group action', 'Invariant (mathematics)', 'Invariant subspace problem', 'Invariant theory', 'Arf invariant', 'EBCDIC', 'Amenable group', 'Geometric invariant theory', 'Dense set', 'ISO/IEC 646']",Group action
+420,420,proper Subset,388,2,"['Subset', 'Set (mathematics)', 'Subgroup', 'Closed set', 'Cardinal number', 'Proper', 'Dedekind-infinite set', 'Finite set', 'Set theory', 'Ultrafilter (set theory)']",Subset
+421,421,Subspace,34,1,"['Subspace', 'Linear subspace', 'Affine space', 'Subspace topology', 'SubSpace (video game)', 'Kernel (linear algebra)', 'Clustering high-dimensional data', 'Complemented subspace', 'Invariant subspace', 'Cyclic subspace']",Subspace
+422,422,annihilator of Subspace,101,2,"['Annihilator', 'Dual space', 'Orthogonal complement', 'Creation and annihilation operators', 'Transpose of a linear map', 'Super Smash Bros. Brawl', 'Projection matrix', 'Convex set', 'Jordan normal form', 'Support of a module']",Annihilator
+423,423,complementary Subspace,231,2,"['Direct sum of modules', 'Complemented subspace', 'Angle', 'Linear subspace', 'Projection (linear algebra)', 'Affine space', 'Complement', 'Hodge index theorem', 'Vertical and horizontal bundles', 'Frobenius normal form']",Direct sum of modules
+424,424,cyclic Subspace,227,2,"['Cyclic subspace', 'Companion matrix', 'Linear subspace', 'Frobenius normal form', 'Invariant subspace problem', 'Krylov subspace', 'Outline of linear algebra', 'Cyclic and separating vector', 'Spectral theorem', 'Technology in Star Trek']",Cyclic subspace
+425,425,independent subs paces Subspace,209,2,"['Super Smash Bros. Brawl', 'Spatial cognition']",
+426,426,invariant Subspace,"199, 206, 314",2,"['Invariant subspace', 'Invariant subspace problem', 'Jordan normal form', 'Controlled invariant subspace', 'Nonstandard analysis', 'Krylov subspace', 'Invariant (mathematics)', 'Schur decomposition', 'Spectral theory of compact operators', 'Lie algebra representation']",Invariant subspace
+427,427,orthogonal complement of Subspace,285,2,"['Orthogonal complement', 'Complemented subspace', 'Projection (linear algebra)', 'Orthogonality (mathematics)', 'Linear subspace', 'Symplectic vector space', 'Inner product space', 'Complement', 'Isotropic quadratic form', 'Pseudo-Euclidean space']",Orthogonal complement
+428,428,quotient by Subspace,397,2,"['Quotient space (linear algebra)', 'Quotient of subspace theorem', 'Invariant subspace', 'Dual system', 'Affine space', 'Linear subspace', 'Quotient', 'Quotient space (topology)', 'Complemented subspace', 'Subspace topology']",Quotient space (linear algebra)
+429,429,spanned by Subspace,36,2,"['Linear span', 'Krylov subspace', 'Linear subspace', 'Invariant subspace', 'Symplectic vector space', 'Affine space', 'Complemented subspace', 'Signal subspace', 'Clustering high-dimensional data', 'Orthogonal complement']",Linear span
+430,430,sum of subs paces Subspace,37,2,"['List of Greek and Latin roots in English/P–Z', 'Quantum information', 'List of Latin words with English derivatives']",
+431,431,T-admissible Subspace,232,2,"['Unitary representation', 'Monotonic function', 'Eigenvalues and eigenvectors', 'Controllability', 'Physics-informed neural networks', 'Rigid analytic space', 'Waldspurger formula', 'Separation principle in stochastic control', 'Wavelet', 'Langlands classification']",Unitary representation
+432,432,zero Subspace,35,2,"['Linear subspace', 'Cyclic subspace', 'Affine space', 'SubSpace (video game)', 'Invariant subspace', 'Isotropic quadratic form', 'Observability', 'Kernel (algebra)', 'Invariant subspace problem', 'Kernel (linear algebra)']",Linear subspace
+433,433,Sum direct,210,2,"['Direct sum', 'Direct sum of modules', 'Matrix addition', 'Direct sum of groups', 'Semidirect product', 'Direct sum of topological groups', 'Sum', 'Disjoint union (topology)', 'Direct', 'Product of rings']",Direct sum
+434,434,Symmetric bilinear form,367,2,"['Symmetric bilinear form', 'Bilinear form', 'Definite quadratic form', 'Quadratic form', 'Killing form', 'Sesquilinear form', 'Orthogonal basis', 'Symmetric form', 'Change of basis', 'Degenerate bilinear form']",Symmetric bilinear form
+435,435,Symmetric group,153,2,"['Symmetric group', 'Representation theory of the symmetric group', 'Affine symmetric group', 'Alternating group', 'Group action', 'Dihedral group of order 6', 'Permutation group', 'Abel–Ruffini theorem', ""Cayley's theorem"", ""Lagrange's theorem (group theory)""]",Symmetric group
+436,436,Symmetric matrix,"3, 210",2,"['Symmetric matrix', 'Skew-symmetric matrix', 'Definite matrix', 'Orthogonal matrix', 'Rotation matrix', 'Hermitian matrix', 'Square matrix', 'Transpose', 'Matrix (mathematics)', 'Eigendecomposition of a matrix']",Symmetric matrix
+437,437,System of linear equations,3,1,"['System of linear equations', 'System of equations', 'Nonlinear system', 'Linear equation', 'Linear differential equation', 'Overdetermined system', 'Diophantine equation', 'Equation', 'Elementary algebra', 'Linear system']",System of linear equations
+438,438,homogeneous System of linear equations,4,2,"['System of linear equations', 'Linear differential equation', 'Kernel (linear algebra)', 'Homogeneous differential equation', 'Diophantine equation', 'Linear subspace', 'Homogeneous system', 'Nonlinear system', 'Ordinary differential equation', 'Fundamental matrix (linear differential equation)']",System of linear equations
+439,439,T-admissible subspace,232,1,"['Unitary representation', 'Monotonic function', 'Eigenvalues and eigenvectors', 'Controllability', 'Physics-informed neural networks', 'Rigid analytic space', 'Waldspurger formula', 'Wavelet', 'Separation principle in stochastic control', 'Arf invariant']",Unitary representation
+440,440,T-annihilator,"201, 202, 228",1,"['Annihilator (band)', 'Annihilator (ring theory)', 'Annihilation', 'Annihilator discography', 'Annihilation (film)', 'Annihilator (film)', 'Annihilation: Conquest', 'Feast (Annihilator album)', 'Metal (Annihilator album)', 'Set the World on Fire (Annihilator album)']",Annihilator (ring theory)
+441,441,T-eonductor,"201, 202, 232",1,[],
+442,442,Taylor's formula,"129, 266",1,"[""Taylor's theorem"", 'Taylor series', ""Euler's formula"", ""Itô's lemma"", 'Taylor Barnard', ""Stirling's approximation"", 'Rule of three (statistics)', 'List of Formula One fatalities', 'Infant formula', 'Taylor knock-out factor']",Taylor's theorem
+443,443,Tec\sor,166,1,"['Cristina Rivera Garza', 'List of airline codes', 'Relaxation (iterative method)', 'Tyskie', 'Mexico', 'List of finite element software packages', 'List of universities in Mexico', 'Saltillo', 'Fusion power', 'Education in Mexico']",Relaxation (iterative method)
+444,444,product Tec\sor,168,2,"['Tyskie', 'List of finite element software packages', 'Mexico', 'Saltillo', 'Fusion power', 'Querétaro City']",
+445,445,Trace of linear transformation,106,2,"['Trace (linear algebra)', 'Householder transformation', 'Partial trace', 'Outline of linear algebra', 'Matrix similarity', 'Möbius transformation', 'Trace', 'General linear group', 'Matrix (mathematics)', 'Field trace']",Trace (linear algebra)
+446,446,Trace of matrix,98,2,"['Trace (linear algebra)', 'Matrix norm', 'Traceability matrix', 'Rotation matrix', 'Invertible matrix', 'Partial trace', 'Matrix similarity', 'Matrix exponential', 'Characteristic polynomial', 'Square matrix']",Trace (linear algebra)
+447,447,Transformation differentiation,67,2,"['Derivative', 'Automatic differentiation', 'Logarithmic differentiation', 'Differentiation (sociology)', 'Legendre transformation', 'Lorentz transformation', 'Geometric transformation', 'Differentiable manifold', 'Chain rule', 'Risk transformation']",Derivative
+448,448,Transformation linear,"67, 76",2,"['Linear map', 'Transformation matrix', 'Affine transformation', 'Linear fractional transformation', 'Möbius transformation', 'General linear group', 'Transformation (function)', 'Direct linear transformation', 'Eigenvalues and eigenvectors', 'Householder transformation']",Linear map
+449,449,Transformation zero,67,2,"['Direct-quadrature-zero transformation', 'Affine transformation', 'Transformation matrix', 'Ultraman Zero', 'Lorentz transformation', 'Möbius transformation', ""Descartes' rule of signs"", 'Power transform', 'Zero-COVID', 'Zoids: New Century']",Direct-quadrature-zero transformation
+450,450,Transpose conjugate,272,2,"['Conjugate transpose', 'Transpose', 'Hermitian matrix', 'Complex conjugate', 'Matrix multiplication', 'Conjugate gradient method', 'Unitary matrix', 'Conjugation', 'Hermitian adjoint', 'Block reflector']",Conjugate transpose
+451,451,Transpose of linear transformation,112,2,"['Transpose', 'Linear map', 'Conjugate transpose', 'Geometric transformation', 'Householder transformation', 'Outline of linear algebra', 'Orthogonal matrix', 'Rank (linear algebra)', 'Orthogonal transformation', 'Rigid transformation']",Transpose
+452,452,Transpose of matrix,114,2,"['Transpose', 'Conjugate transpose', 'Hermitian matrix', 'Adjugate matrix', 'In-place matrix transposition', 'Unitary matrix', 'Symmetric matrix', 'Matrix congruence', 'Orthogonal matrix', 'Square matrix']",Transpose
+453,453,Triangulable linear transformation,202,1,"['Lefschetz fixed-point theorem', 'Locally nilpotent derivation', 'Timeline of manifolds', 'Topological data analysis']",Lefschetz fixed-point theorem
+454,454,Triangular matrix,155,1,"['Triangular matrix', 'Matrix (mathematics)', 'Normal matrix', 'Matrix decomposition', 'LU decomposition', 'Schur decomposition', 'Square matrix', 'QR decomposition', 'Crout matrix decomposition', 'Hessenberg matrix']",Triangular matrix
+455,455,Triangulation,"203, 207, 334",1,"['Triangulation', 'Delaunay triangulation', 'Polygon triangulation', 'Triangulation (disambiguation)', 'Triangulation (surveying)', 'Triangulation (chess)', 'Triangulation (politics)', 'Triangulation (social science)', 'Schur decomposition', 'Triangulation (geometry)']",Triangulation (disambiguation)
+456,456,Union,388,1,"['Union', 'UNION of European Practitioners in Intellectual Property', 'Soviet Union', 'Trade union', 'Union territory', 'European Union', 'African Union', 'States and union territories of India', 'Union affiliation by U.S. state', 'Dissolution of the Soviet Union']",
+457,457,Unitary diagonalization,317,2,"['Diagonalizable matrix', 'Singular value', 'Unitary matrix', 'Unitary group', 'Diagonal matrix', 'Singular value decomposition', 'Defective matrix', 'Normal matrix', 'Symmetric matrix', 'Square root of a matrix']",Diagonalizable matrix
+458,458,matrix,"16, 3",1,"['Matrix', 'The Matrix', 'Matrix (mathematics)', 'The Matrix Resurrections', 'Rotation matrix', 'The Matrix (franchise)', 'Matrix multiplication', 'Transpose', 'Definite matrix', 'The Matrix Revolutions']",Matrix (mathematics)
+459,459,operator,302,1,"['Operator', 'Tour operator', 'Sobel operator', 'Telephone operator', 'Laplace operator', 'Differential operator', 'Semisimple operator', 'Momentum operator', 'Smooth Operator', 'Elevator operator']",Laplace operator
+460,460,space,277,1,"['Space', 'Space (disambiguation)', 'NASA', 'Dead Space', 'Triangular space', 'Outer space', 'SpaceX', 'Space Shuttle', 'In Space', 'Dead space']",
+461,461,transformation,3,1,"['Transformation', 'Transformation matrix', 'Affine transformation', 'Lorentz transformation', 'Transformation (function)', 'Unitary transformation', 'Energy transformation', 'Transformation (genetics)', 'Digital transformation', 'Möbius transformation']",Transformation
+462,462,Upper-triangular matrix,27,1,"['Triangular matrix', 'Matrix decomposition', 'Normal matrix', 'Crout matrix decomposition', 'Square matrix', 'Schur decomposition', 'LU decomposition', 'QR decomposition', 'QR algorithm', ""Sylvester's criterion""]",Triangular matrix
+463,463,Vandermonde matrix,125,1,"['Vandermonde matrix', 'Polynomial interpolation', 'DFT matrix', 'Vandermonde polynomial', 'Alexandre-Théophile Vandermonde', 'Toeplitz matrix', 'Lagrange polynomial', 'Polynomial regression', 'Matrix exponential', 'Companion matrix']",Vandermonde matrix
+464,464,Vector space,28,1,"['Vector space', 'Dimension (vector space)', 'Normed vector space', 'Basis (linear algebra)', 'Euclidean space', 'Inner product space', 'Vector space model', 'Topological vector space', 'Vector (mathematics and physics)', 'Examples of vector spaces']",Vector space
+465,465,basis of Vector space,41,2,"['Basis (linear algebra)', 'Dimension (vector space)', 'Inner product space', 'Change of basis', 'Vector space', 'Covariance and contravariance of vectors', 'Examples of vector spaces', 'Standard basis', 'Unit vector', 'Dual space']",Basis (linear algebra)
+466,466,dimension of Vector space,44,2,"['Dimension (vector space)', 'Vector space', 'Euclidean space', 'Vector calculus', 'Basis (linear algebra)', 'Examples of vector spaces', 'Six-dimensional space', 'Dimension', 'Three-dimensional space', 'Inner product space']",Dimension (vector space)
+467,467,finite dimensional Vector space,41,2,"['Dimension (vector space)', 'Vector space', 'Normed vector space', 'Basis (linear algebra)', 'Dual space', 'Linear algebra', 'Euclidean space', 'Dual basis', 'Natural transformation', 'Hilbert space']",Dimension (vector space)
+468,468,isomorphism of Vector space,84,2,"['Isomorphism', 'Vector space', 'Topological vector space', 'Dual space', 'Isomorphism theorems', 'Vector notation', 'Affine space', 'Examples of vector spaces', 'Basis (linear algebra)', 'Natural transformation']",Isomorphism
+469,469,Vector space of n-tuples,29,2,"['Vector (mathematics and physics)', 'Real coordinate space', 'Tuple', 'Complex coordinate space', 'Euclidean space', 'Quotient space (linear algebra)', 'Examples of vector spaces', 'Basis (linear algebra)', 'Vector space', 'Vector field']",Vector (mathematics and physics)
+470,470,quotient of Vector space,397,2,"['Quotient space (linear algebra)', 'Affine space', 'Kolmogorov space', 'Quotient space', 'Normed vector space', 'Dot product', 'Quotient space (topology)', 'Vector space', 'Stable vector bundle', 'Topological vector space']",Quotient space (linear algebra)
+471,471,of solutions to linear equations,36,1,"['Linear differential equation', 'Linear equation', 'System of linear equations', 'Equation', 'Diophantine equation', 'Partial differential equation', 'Differential equation', 'Overdetermined system', 'Quadratic equation', 'Nonlinear system']",Linear differential equation
+472,472,Wedge (exterior) product,"175, 177",1,"['Exterior algebra', 'Product', 'Interior product', 'Exterior derivative', 'Multivector', 'Wedge (symbol)', 'Triple product', 'Differential form', 'Geometric algebra', 'Wedge sum']",Exterior algebra
+473,473,Zero matrix,12,2,"['Zero matrix', 'Adjacency matrix', 'Sparse matrix', 'Definite matrix', 'Identity matrix', 'Diagonal matrix', 'Matrix (mathematics)', 'Rank (linear algebra)', 'Zero element', 'Triangular matrix']",Zero matrix
+474,474,Zero of polynomial,129,2,"['Polynomial', 'Zero of a function', 'Characteristic polynomial', 'Degree of a polynomial', 'Discriminant', 'Geometrical properties of polynomial roots', 'Irreducible polynomial', 'Hurwitz polynomial', 'Rational root theorem', 'Polynomial long division']",Polynomial

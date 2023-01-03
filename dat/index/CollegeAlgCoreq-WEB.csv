@@ -1,478 +1,478 @@
-﻿,concept,pages,level
-0,absolute maximum,272,1
-1,absolute minimum,272,1
-2,absolute value,"252, 339",1
-3,absolute value equation,"184, 185",1
-4,absolute value function,249,1
-5,absolute value functions,"339, 342",1
-6,absolute value inequality,"195, 195",1
-7,addition method,"807, 809, 813",1
-8,Addition Principle,1111,1
-9,Addition Principle,1109,1
-10,circle,"846, 847, 949",1
-11,co-vertex,953,1
-12,co-vertices,954,1
-13,coefficient,"60, 60, 487, 489, 551",1
-14,coefficient matrix,"889, 891, 912, 916",1
-15,column,873,1
-16,column matrix,873,1
-17,combinations,"1116, 1124",1
-18,combining functions,281,1
-19,common base,727,1
-20,common difference,"1065, 1069, 1096",1
-21,common logarithm,674,1
-22,common ratio,"1080, 1083, 1099",1
-23,commutative,282,1
-24,commutative property of addition,17,1
-25,commutative property of multiplication,17,1
-26,complement of an event,1137,1
-27,decomposition,860,1
-28,decreasing function,"268, 383",1
-29,decreasing linear function,383,1
-30,degenerate conic sections,1013,1
-31,degree,"60, 60, 486, 495, 547",1
-32,degree of the polynomial equation,547,1
-33,dependent system,"804, 813, 831",1
-34,dependent variable,"213, 628",1
-35,Descartes’ Rule of Signs,557,1
-36,determinant,"902, 924, 926, 927",1
-37,difference of squares,65,1
-38,direct variation,"609, 610",1
-39,directrix,"837, 989, 995, 998, 999, 1000, 1003, 1028, 1029, 1034, 1035, 1036",1
-40,discriminant,"173, 173",1
-41,Disjoint events,1109,1
-42,distance formula,"108, 968, 974, 996",1
-43,distributive property,18,1
-44,diverges,1101,1
-45,dividend,537,1
-46,Division Algorithm,"538, 549",1
-47,divisor,537,1
-48,domain,"209, 214, 223, 237, 240, 242, 243, 244, 679",1
-49,domain and range,"241, 241",1
-50,domain of a composite function,287,1
-51,doubling time,748,1
-52,addition property,192,1
-53,algebraic expression,20,1
-54,angle of rotation,1017,1
-55,annual interest,1104,1
-56,annual percentage rate (APR),641,1
-57,annuity,1104,1
-58,apoapsis,1028,1
-59,area,142,1
-60,area of a circle,489,1
-61,arithmetic sequence,"1065, 1069, 1070, 1072, 1072, 1096",1
-62,arithmetic series,1096,1
-63,arrow notation,566,1
-64,associative property of addition,17,1
-65,associative property of multiplication,17,1
-67,asymptotes,973,1
-68,augmented matrix,"889, 893, 894, 911",1
-69,augmented matrix form,885,1
-70,average rate of change,"259, 262",1
-71,axes of symmetry,973,1
-72,axis of symmetry,"466, 468, 1003, 1005",1
-73,base,15,1
-74,best fit,764,1
-75,binomial,"60, 486, 538",1
-76,binomial coefficient,1124,1
-77,binomial expansion,"1125, 1128",1
-78,Binomial Squares Pattern,948,1
-79,Binomial Theorem,1127,1
-80,branch,969,1
-81,break-even point,814,1
-82,completing the square,"170, 171, 948",1
-83,complex conjugate,157,1
-84,Complex Conjugate Theorem,556,1
-85,complex number,152,1
-86,complex plane,153,1
-87,composite,"279, 346",1
-88,composite function,282,1
-89,composition of functions,281,1
-90,compound inequality,194,1
-91,compound interest,641,1
-92,compression,"395, 658, 693",1
-93,conditional equation,120,1
-94,conic,"952, 972, 1035",1
-95,conic section,1015,1
-96,conjugate axis,"969, 973",1
-97,consistent system,803,1
-98,constant,20,1
-99,constant function,249,1
-100,constant of variation,"609, 610",1
-101,continuous,512,1
-102,continuous function,501,1
-103,coordinate plane,996,1
-104,Cornell Method,69,1
-105,correlation coefficient,441,1
-106,cost function,"280, 814",1
-107,Cramer’s Rule,"921, 924, 925, 927, 931",1
-108,cube root,490,1
-109,cubic functions,597,1
-110,cues,69,1
-111,decompose a composite function,289,1
-112,earthquake intensity,741,1
-113,eccentricity,"1029, 1029",1
-114,electrostatic force,265,1
-115,element,870,1
-116,elimination,847,1
-117,ellipse,"847, 952, 953, 954, 956, 960, 995, 1030, 1034",1
-118,ellipsis,1050,1
-119,end behavior,"491, 577",1
-120,endpoint,265,1
-121,entry,"870, 873",1
-122,equation,"22, 221",1
-123,equation in quadratic form,186,1
-124,equation in two variables,104,1
-125,even function,317,1
-126,event,"1109, 1133",1
-127,experiment,1133,1
-128,explicit formula,"1051, 1052, 1053, 1073, 1087",1
-129,exponent,15,1
-130,Exponential decay,"631, 639, 653, 740, 743, 746, 749, 766",1
-131,exponential equation,726,1
-132,exponential equations,722,1
-133,carrying capacity,750,1
-134,Cartesian coordinate system,102,1
-135,Celsius,349,1
-136,center,"949, 969",1
-137,center of a hyperbola,973,1
-138,center of an ellipse,953,1
-139,central rectangle,973,1
-140,change-of-base formula,"718, 719",1
-141,knowledge space,45,1
-142,exponential expression,485,1
-143,exponential function,632,1
-144,exponential growth,"632, 635, 654, 740, 743, 748, 750",1
-145,exponential notation,15,1
-146,extraneous solution,730,1
-147,extraneous solutions,182,1
-148,extrapolation,439,1
-149,horizontal compression,323,1
-150,horizontal line,"129, 401, 402",1
-151,horizontal line test,"228, 348",1
-152,horizontal reflection,312,1
-153,horizontal shift,"306, 651, 656, 689",1
-154,horizontal stretch,323,1
-155,hyperbola,"969, 973, 976, 977, 978, 980, 981, 983, 985, 995, 1030, 1032",1
-156,factor by grouping,74,1
-157,Factor Theorem,550,1
-158,factorial,1059,1
-159,factoring,164,1
-160,Fahrenheit,349,1
-161,feasible region,850,1
-162,finite arithmetic sequence,1074,1
-163,finite sequence,1052,1
-164,fixed mindset,57,1
-165,foci,"952, 953, 954, 974",1
-166,focus,"837, 952, 969, 989, 995, 998, 999, 1000, 1003, 1028, 1034, 1035, 1036",1
-167,FOIL,62,1
-168,formula,"22, 221",1
-169,function,"210, 214, 237, 253, 278, 348, 377, 1048",1
-170,function notation,216,1
-171,Fundamental Counting Principle,1113,1
-172,Fundamental Theorem of Algebra,"554, 555",1
-173,latus rectum,"996, 998, 999, 1003",1
-174,leading coefficient,"60, 60, 495, 547",1
-175,leading term,"60, 60, 495",1
-176,learning sciences,45,1
-177,least common denominator,"86, 122",1
-178,least squares regression,440,1
-179,left column,69,1
-180,linchpin topics,"46, 46",1
-181,linear,434,1
-182,linear equation,120,1
-183,linear equation with three variables,821,1
-184,Linear Factorization Theorem,"556, 556",1
-185,linear function,"381, 382",1
-186,Linear functions,377,1
-187,linear growth,632,1
-188,linear model,"421, 436",1
-189,Linear Regression Model,764,1
-190,linear relationship,436,1
-191,local extrema,267,1
-192,local maximum,"267, 526",1
-193,local minimum,"267, 526",1
-194,logarithm,671,1
-195,logarithmic equation,731,1
-196,Logarithmic Function,741,1
-197,logarithmic model,769,1
-198,logistic growth model,750,1
-199,long division,536,1
-200,lower limit of summation,1095,1
-201,Gauss,"826, 889",1
-202,Gaussian elimination,"826, 891, 893",1
-203,general form,"462, 467",1
-204,general form of a quadratic function,469,1
-205,general form of the equation of a circle,950,1
-206,general term,1048,1
-207,geometric sequence,"1079, 1083, 1098",1
-208,geometric series,1099,1
-209,global maximum,"526, 526",1
-210,global minimum,"526, 526",1
-211,graph in two variables,104,1
-212,graphing,237,1
-213,greatest common factor,"72, 72, 164",1
-214,growth mindset,57,1
-215,icons,69,1
-216,identity equation,120,1
-217,identity matrix,"906, 906, 911",1
-218,identity property of addition,18,1
-219,identity property of multiplication,18,1
-220,illustrations,69,1
-221,imaginary number,152,1
-222,Imaginary numbers,150,1
-223,inconsistent equation,120,1
-224,inconsistent system,"803, 811, 830",1
-225,increasing function,"268, 383",1
-226,increasing linear function,383,1
-227,independent system,803,1
-228,independent variable,"213, 628",1
-229,index,"53, 53",1
-230,index of summation,1095,1
-231,inequality,849,1
-232,infinite geometric sequence,1101,1
-233,infinite sequence,"1048, 1052",1
-234,infinite series,1101,1
-235,input,214,1
-236,integers,"11, 14",1
-237,intercepts,106,1
-238,Intermediate Value Theorem,"523, 523",1
-239,interpolation,439,1
-240,intersection,1135,1
-241,interval,191,1
-242,interval notation,"191, 237, 241, 268",1
-243,inverse function,"351, 597",1
-244,inverse matrix,"911, 912",1
-245,inverse of a radical function,600,1
-246,inverse of a rational function,602,1
-247,inverse property of addition,19,1
-248,inverse property of multiplication,19,1
-249,inverse variation,611,1
-250,inverse variations,612,1
-251,inversely proportional,612,1
-252,inverses,346,1
-253,invertible functions,595,1
-254,invertible matrix,"906, 924",1
-255,irrational numbers,"12, 14",1
-256,joint variation,613,1
-257,half-life,"734, 743",1
-258,heading,69,1
-259,Heaviside method,862,1
-260,horizontal asymptote,"569, 575, 577",1
-261,magnitude,"252, 305",1
-262,main diagonal,891,1
-263,major and minor axes,954,1
-264,major axis,"952, 956",1
-265,matrix,"870, 873, 873, 889",1
-266,matrix multiplication,"879, 907, 912",1
-267,matrix operations,873,1
-268,maximum value,466,1
-269,midpoint formula,111,1
-270,mind map,69,1
-271,minimum value,466,1
-272,minor axis,952,1
-273,minor of an entry,903,1
-274,model breakdown,438,1
-275,modulus,252,1
-276,monomial,"60, 486",1
-277,Multiplication Principle,"1110, 1113",1
-278,multiplication property,192,1
-279,multiplicative inverse,"908, 909",1
-280,multiplicative inverse of a matrix,"906, 906",1
-281,multiplicity,"516, 517",1
-282,mutually exclusive,1109,1
-283,mutually exclusive events,1136,1
-284,n factorial,1060,1
-285,natural exponential function,631,1
-286,natural logarithm,"676, 729",1
-287,natural numbers,"11, 14, 213",1
-288,negative association,434,1
-289,Newton’s Law of Cooling,749,1
-290,nominal rate,641,1
-291,nondegenerate conic sections,1013,1
-292,nonlinear inequality,849,1
-293,notes during class,69,1
-294,Notice,970,1
-295,nth partial sum,1094,1
-296,nth term of the sequence,"1048, 1051, 1052",1
-297,polar equation,1029,1
-298,polar form of a conic,1036,1
-299,polynomial,"60, 60, 486, 551",1
-300,polynomial equation,"180, 547",1
-301,polynomial function,"494, 511, 518, 524",1
-302,positive association,434,1
-303,power function,"487, 489",1
-304,Power Property,707,1
-305,power rule for logarithms,"714, 718",1
-306,principal nth root,"52, 53",1
-307,principal square root,"47, 47",1
-308,probability,1133,1
-309,probability model,"1131, 1133",1
-310,probability of an event,1131,1
-311,product of two matrices,878,1
-312,Product Property,707,1
-313,product rule for logarithms,"712, 714",1
-314,profit function,814,1
-315,properties of determinants,930,1
-316,Proxima Centauri,744,1
-317,Pythagorean Theorem,"108, 174",1
-318,recursive formula,"1057, 1071, 1072, 1085",1
-319,Reflect,69,1
-320,reflection,"660, 696",1
-321,regression analysis,"765, 769, 772",1
-322,regression line,440,1
-323,relation,"209, 213, 237",1
-324,remainder,537,1
-325,Remainder Theorem,549,1
-326,removable discontinuity,"573, 574",1
-327,Restricting the domain,358,1
-328,revenue function,814,1
-329,Richter Scale,670,1
-330,right section,69,1
-331,roots,466,1
-332,roster notation,1131,1
-333,row,873,1
-334,row matrix,873,1
-335,row operations,"891, 893, 895, 908, 910, 910, 911",1
-336,row-echelon form,"886, 891, 893, 894",1
-337,row-equivalent,891,1
-338,odd function,317,1
-339,one-to-one,"654, 670, 711, 718",1
-340,one-to-one function,"226, 348, 351",1
-341,order of magnitude,744,1
-342,order of operations,15,1
-343,ordered pair,"102, 213, 242",1
-344,ordered triple,"822, 826",1
-345,origin,"102, 339",1
-346,outcome,1109,1
-347,outcomes,1133,1
-348,output,214,1
-349,quadrant,102,1
-350,quadratic,"864, 866",1
-351,quadratic equation,"164, 164, 170, 171",1
-352,quadratic formula,"171, 172, 173",1
-353,quadratic function,"462, 462, 469, 472",1
-354,quotient,537,1
-355,Quotient Property,707,1
-356,quotient rule for logarithms,713,1
-357,sample space,1133,1
-358,sample space S,1131,1
-359,scalar,876,1
-360,scalar multiple,"871, 876",1
-361,scalar multiplication,876,1
-362,scatter plot,"436, 762",1
-363,scatterplot,434,1
-364,scientific notation,"39, 39, 40",1
-365,sequence,"1048, 1050, 1052, 1069",1
-366,series,"1092, 1094",1
-367,set-builder notation,"191, 244",1
-368,sigma,1095,1
-369,slope,"125, 259, 382",1
-370,slope-intercept,378,1
-371,slope-intercept form,"381, 382, 386",1
-372,smooth curve,501,1
-373,solution set,"120, 826",1
-374,Solutions,822,1
-375,solving systems of linear equations,807,1
-376,square matrix,"873, 902, 924",1
-377,square root property,"169, 948",1
-378,square trinomial,948,1
-379,standard form,128,1
-380,standard form of a quadratic function,469,1
-381,standard or graphing form,949,1
-382,stretch,658,1
-383,subsets,45,1
-384,substitution method,806,1
-385,summarizing the important concepts,69,1
-386,summary,69,1
-387,radical,"47, 47",1
-388,radical equation,182,1
-389,radical expression,"47, 47",1
-390,Radical expressions,53,1
-391,radical functions,595,1
-392,radicand,"47, 47, 182",1
-393,radiocarbon dating,747,1
-394,radius,949,1
-395,range,"210, 214, 237, 679",1
-396,rate of change,"262, 421",1
-397,rational equation,123,1
-398,rational expression,"84, 121, 860, 861, 866",1
-399,rational function,"571, 579, 583",1
-400,rational number,121,1
-401,rational numbers,"11, 14",1
-402,Rational Zero Theorem,"551, 552",1
-403,real number line,13,1
-404,real numbers,13,1
-405,reciprocal,"130, 350, 490",1
-406,reciprocal function,565,1
-407,parabola,"462, 466, 473, 837, 843, 989, 995, 999, 999, 1000, 1004, 1028, 1030, 1031",1
-408,parallel,129,1
-409,parallel lines,"403, 405",1
-410,parent function,689,1
-411,partial fraction,860,1
-412,partial fraction decomposition,"860, 861",1
-413,Pascal's Triangle,1126,1
-414,Pascal’s Triangle,1122,1
-415,perfect square trinomial,64,1
-416,periapsis,1028,1
-417,perimeter,142,1
-418,permutation,1113,1
-419,perpendicular,130,1
-420,perpendicular lines,"404, 405",1
-421,pH,710,1
-422,piecewise function,252,1
-423,piecewise functions,1054,1
-424,plane,821,1
-425,point-slope form,386,1
-426,point-slope formula,"131, 978",1
-427,turning point,"499, 520",1
-428,volume of a sphere,489,1
-429,whole numbers,"11, 14",1
-430,union of two events,1135,1
-431,upper limit of summation,1095,1
-432,upper triangular form,826,1
-433,x-axis,102,1
-434,x-coordinate,102,1
-435,x-intercept,"106, 399",1
-436,xx-intercept,564,1
-437,summation notation,"1092, 1095",1
-438,surface area,595,1
-439,symmetric,462,1
-440,synthetic division,"540, 553",1
-441,system of equations,"889, 890, 893, 894, 913",1
-442,system of linear equations,"426, 803, 805, 806",1
-443,system of nonlinear equations,843,1
-444,system of nonlinear inequalities,850,1
-445,system of three equations in three variables,927,1
-446,y-axis,102,1
-447,y-coordinate,102,1
-448,y-intercept,"106, 382",1
-449,yy-intercept,564,1
-450,Zero Product Property,509,1
-451,zero-product property,164,1
-452,zeros,"466, 512, 517, 553",1
-453,Zeros of the Function,548,1
-454,term,"486, 1048, 1050, 1069",1
-455,term of a polynomial,"60, 60",1
-456,term of a polynomial function,494,1
-457,test questions,69,1
-458,The loudness level D,741,1
-459,transformation,"303, 395",1
-460,transformations,300,1
-461,translation,956,1
-462,transverse axis,"969, 973",1
-463,trinomial,"60, 486",1
-464,variable,20,1
-465,varies directly,"609, 610",1
-466,varies inversely,612,1
-467,vertex,"462, 466, 953, 953, 969, 996, 1003",1
-468,vertex form of a quadratic function,468,1
-469,vertical asymptote,"568, 571, 577",1
-470,vertical compression,319,1
-471,vertical line,"128, 401, 402",1
-472,vertical line test,"227, 348",1
-473,vertical reflection,312,1
-474,vertical shift,"303, 395, 651, 656, 691, 749",1
-475,vertical stretch,"319, 395, 693",1
-476,vertices,"953, 954",1
-477,volume,142,1
+,Unnamed: 0,concept,pages,level,search_results,wiki_concept
+0,0,absolute maximum,272,1,"['Average absolute deviation', 'Maxima and minima', 'Deviation (statistics)', 'Greatest element and least element', 'Aircraft gross weight', 'Absolute zero', 'Maximum likelihood estimation', 'Climate of Romania', 'Latch-up', 'La Pampa Province']",Average absolute deviation
+1,1,absolute minimum,272,1,"['Maxima and minima', 'Absolute zero', 'Absolute scale', 'Poverty threshold', 'Least absolute deviations', 'Extreme poverty', 'Excited state', 'Absolute temperature scale', 'For sale: baby shoes, never worn', 'Basic needs']",Maxima and minima
+2,2,absolute value,"252, 339",1,"['Absolute value', 'Value (ethics and social sciences)', 'Absolute value (disambiguation)', 'Absolute value (algebra)', 'Norm (mathematics)', 'Least absolute deviations', 'Mean absolute percentage error', 'Mean absolute error', 'Homogeneous function', 'Complex number']",Absolute value
+3,3,absolute value equation,"184, 185",1,"['Absolute value', 'Boundary value problem', 'Tafel equation', 'Equation of time', 'Least absolute deviations', 'Quadratic equation', 'Chemical equation', 'Stiff equation', 'Kozeny–Carman equation', 'Homogeneous function']",Absolute value
+4,4,absolute value function,249,1,"['Absolute value', 'Piecewise', 'Least absolute deviations', 'Sign function', 'Homogeneous function', 'Huber loss', 'Symmetric derivative', 'Absolute difference', 'Derivative', ""Rolle's theorem""]",Absolute value
+5,5,absolute value functions,"339, 342",1,"['Absolute value', 'Homogeneous function', 'Least absolute deviations', 'Sign function', 'Lists of integrals', 'Piecewise', 'Absolute value (algebra)', 'Norm (mathematics)', 'Archimedean property', 'Absolute continuity']",Absolute value
+6,6,absolute value inequality,"195, 195",1,"['Absolute value', 'Estimation lemma', ""Markov's inequality"", ""Chebyshev's inequality"", ""Hölder's inequality"", 'Average absolute deviation', 'Absolute difference', 'Mean absolute difference', ""Hoeffding's inequality"", 'Expected value']",Absolute value
+7,7,addition method,"807, 809, 813",1,"['Standard addition', 'Addition', 'Planarity testing', 'Elliptic curve point multiplication', 'Addition chain', 'Exclusive or', 'Matrix (chemical analysis)', ""Newton's method"", 'Euclidean vector', 'Subtraction']",Addition
+8,8,Addition Principle,1111,1,"['Addition principle', ""Le Chatelier's principle"", 'Uncertainty principle', ""Bernoulli's principle"", 'Dependency inversion principle', 'Liskov substitution principle', 'Robustness principle', 'Stationary-action principle', 'Handicap principle', 'Principle of maximum entropy']",Addition principle
+9,9,Addition Principle,1109,1,"['Addition principle', ""Le Chatelier's principle"", 'Uncertainty principle', ""Bernoulli's principle"", 'Dependency inversion principle', 'Liskov substitution principle', 'Robustness principle', 'Stationary-action principle', 'Handicap principle', 'Principle of maximum entropy']",Addition principle
+10,10,circle,"846, 847, 949",1,"['Circle', 'Centre for Innovation, Research and Competence in the Learning Economy', 'The Circle', 'Circled a', 'Circle II Circle', 'Arctic Circle', 'Circle packing in a circle', 'Inferno (Dante)', 'Circle K', 'Unit circle']",Circle
+11,11,co-vertex,953,1,"['Vertex (graph theory)', 'Vertex (anatomy)', 'Vertex Pharmaceuticals', 'Ellipse', 'Graph coloring', 'Cephalic presentation', 'Polyhedral skeletal electron pair theory', 'Armored Core: Last Raven', 'Glossary of graph theory', 'Neighbourhood (graph theory)']",Vertex (graph theory)
+12,12,co-vertices,954,1,"['Vertex (graph theory)', 'Ellipse', 'Graph theory', 'Regular graph', 'Graph (discrete mathematics)', 'Tree (graph theory)', 'Neighbourhood (graph theory)', 'Handshaking lemma', 'Star polygon', 'Glossary of graph theory']",Vertex (graph theory)
+13,13,coefficient,"60, 60, 487, 489, 551",1,"['Coefficient', 'Gini coefficient', 'Pearson correlation coefficient', 'UEFA coefficient', 'Drag coefficient', 'Binomial coefficient', 'Thermal expansion', 'Friction', 'Partition coefficient', 'Coefficient of variation']",Coefficient
+14,14,coefficient matrix,"889, 891, 912, 916",1,"['Coefficient matrix', 'Coefficient', 'Augmented matrix', 'Confusion matrix', 'Matrix coefficient', 'Phi coefficient', 'Unimodular matrix', ""Cramer's rule"", 'Correlation', 'Pearson correlation coefficient']",Coefficient matrix
+15,15,column,873,1,"['Column', 'Vertebral column', 'Fifth column', 'Column (periodical)', 'Renal column', 'Plate column', ""Trajan's Column"", 'Water column', 'Anal columns', 'Column (typography)']",
+16,16,column matrix,873,1,"['Row and column vectors', 'Rank (linear algebra)', 'Matrix multiplication', 'Row and column spaces', 'Matrix (mathematics)', 'Stochastic matrix', 'Transpose', 'Permutation matrix', 'Determinant', 'Sparse matrix']",Row and column vectors
+17,17,combinations,"1116, 1124",1,"['Combination', 'Combinations and permutations', 'Linear combination', 'List of polysubstance combinations', 'Food combining', 'Striking combination', 'Early Combinations', 'Combinations (album)', 'Law of multiple proportions', 'Freddy Moore']",Combination
+18,18,combining functions,281,1,"['Fold (higher-order function)', 'Stream cipher', 'Derivative', 'Hyperbolic functions', 'Bessel function', 'Trigonometric functions', 'Executive functions', 'Mini-DIN connector', 'Nyquist (programming language)', 'Commercial property']",Derivative
+19,19,common base,727,1,"['Common base', 'Common emitter', 'Common drain', 'Common gate', 'Common collector', 'Common Base Event', 'Bipolar junction transistor', 'Buffer amplifier', 'Colpitts oscillator', 'Amplifier']",Common base
+20,20,common difference,"1065, 1069, 1096",1,"['Arithmetic progression', 'Difference in differences', 'Voltage', 'Difference engine', 'Finite difference', 'North Gujarat', 'Color difference', 'Contract for difference', 'Effect size', 'Relative change and difference']",Arithmetic progression
+21,21,common logarithm,674,1,"['Common logarithm', 'Logarithm', 'History of logarithms', 'Mathematical table', 'Binary logarithm', 'Natural logarithm', 'Napierian logarithm', 'Natural logarithm of 2', 'Absorbance', 'Antoine equation']",Common logarithm
+22,22,common ratio,"1080, 1083, 1099",1,"['Aspect ratio (image)', 'Common-mode rejection ratio', 'Ratio', '16:9 aspect ratio', 'Geometric progression', 'Geometric series', 'Display aspect ratio', 'Debt-to-GDP ratio', 'Golden ratio', 'Tier 1 capital']",Common-mode rejection ratio
+23,23,commutative,282,1,"['Commutative property', 'Commutative algebra', 'Commutative ring', 'Monoid', 'Commutative magma', 'Graded-commutative ring', 'Commutative diagram', 'Ring (mathematics)', 'Noncommutative ring', 'Abelian group']",Commutative property
+24,24,commutative property of addition,17,1,"['Commutative property', 'Addition', 'Associative property', 'Commutative ring', 'Ring (mathematics)', 'Distributive property', 'Localization (commutative algebra)', 'Leyland number', 'Elementary arithmetic', 'Commutative diagram']",Commutative property
+25,25,commutative property of multiplication,17,1,"['Commutative property', 'Commutative ring', 'Matrix multiplication', 'Associative property', 'Algebra over a field', 'Ring (mathematics)', 'Multiplication', 'Distributive property', 'Localization (commutative algebra)', 'Hole formalism']",Commutative property
+26,26,complement of an event,1137,1,"['Complementary event', 'Complement system', 'Complement', 'Complementizer', 'Orthogonal complement', 'Probability', 'Classical complement pathway', 'Event (computing)', 'Justice League Heroes: The Flash', 'Complement of HMS Bounty']",Complementary event
+27,27,decomposition,860,1,"['Decomposition', 'Cholesky decomposition', 'Decomposer', 'QR decomposition', 'Thermal decomposition', 'LU decomposition', 'Corpse decomposition', 'Matrix decomposition', 'Singular value decomposition', 'Tensor decomposition']",Cholesky decomposition
+28,28,decreasing function,"268, 383",1,"['Monotonic function', 'Symmetric decreasing rearrangement', 'Concave function', 'Exponential decay', 'Failure rate', 'Quasiconvex function', 'Schwartz space', 'Vanish at infinity', 'Convex function', 'Sequence']",Monotonic function
+29,29,decreasing linear function,383,1,"['Monotonic function', 'Function space', 'Linear function (calculus)', 'Generalized linear model', 'Schwartz space', 'Rectifier (neural networks)', 'Linear programming', 'Linear discriminant analysis', 'Convex function', 'Linear regression']",Monotonic function
+30,30,degenerate conic sections,1013,1,"['Conic section', 'Degenerate conic', 'Matrix representation of conic sections', 'Degeneracy (mathematics)', 'Rotation of axes', 'Parabola', 'Family of curves', 'Five points determine a conic', 'Steiner conic', 'Pole and polar']",Conic section
+31,31,degree,"60, 60, 486, 495, 547",1,"['Degree', 'Academic degree', ""Bachelor's degree"", ""Master's degree"", 'Honorary degree', 'Associate degree', 'Degree symbol', 'Degree (angle)', 'Bachelor of Arts', 'Honours degree']",Degree
+32,32,degree of the polynomial equation,547,1,"['Algebraic equation', 'Polynomial', 'Cubic equation', 'Degree of a polynomial', 'Sextic equation', 'Quartic function', 'Equation', 'Quadratic equation', 'Diophantine equation', 'Curve fitting']",Algebraic equation
+33,33,dependent system,"804, 813, 831",1,"['Time-invariant system', 'Dependent type', 'Integrated Software Dependent System', 'Linear parameter-varying control', 'Time-dependent density functional theory', 'Dependent territory', 'Automatic Dependent Surveillance–Broadcast', 'Antibody-dependent cellular cytotoxicity', 'Satellite navigation', 'List of sovereign states and dependent territories in North America']",Time-invariant system
+34,34,dependent variable,"213, 628",1,"['Dependent and independent variables', 'Mediation (statistics)', 'Regression analysis', 'Omitted-variable bias', 'Control variable', 'Variable (mathematics)', 'Dummy variable (statistics)', 'Limited dependent variable', 'Bivariate analysis', 'Linear regression']",Dependent and independent variables
+35,35,Descartes’ Rule of Signs,557,1,"[""Descartes' rule of signs"", ""Budan's theorem"", 'Real-root isolation', 'Bisection method', ""Sturm's theorem"", 'René Descartes', 'Root-finding algorithms', 'Rational root theorem', 'List of things named after René Descartes', 'Li Rui (mathematician)']",Descartes' rule of signs
+36,36,determinant,"902, 924, 926, 927",1,"['Determinant', 'Jacobian matrix and determinant', 'Moore determinant', 'Risk factor', 'Minor (linear algebra)', 'Hessian matrix', 'Slater determinant', 'Cytoplasmic determinant', 'Vandermonde matrix', 'Fredholm determinant']",Determinant
+37,37,difference of squares,65,1,"['Difference of two squares', 'Difference in differences', 'Square number', 'Least squares', 'Catastrophic cancellation', ""Fermat's factorization method"", 'Factorization', 'Mean squared error', 'Ordinary least squares', 'Square-difference-free set']",Difference of two squares
+38,38,direct variation,"609, 610",1,"['Proportionality (mathematics)', 'Direct method in the calculus of variations', 'Parang (knife)', 'Calculus of variations', 'Direct current', 'Satellite television', 'Phoenician alphabet', 'The Family Way (soundtrack)', 'Bounded variation', 'Lateral force variation']",Proportionality (mathematics)
+39,39,directrix,"837, 989, 995, 998, 999, 1000, 1003, 1028, 1029, 1034, 1035, 1036",1,"['Conic section', 'Directrix', 'Focus (geometry)', 'Parabola', 'Generatrix', 'Ellipse', 'Hyperbola', 'Ruled surface', 'Cylinder', 'Cone']",Conic section
+40,40,discriminant,"173, 173",1,"['Discriminant', 'Linear discriminant analysis', 'Discriminant (disambiguation)', 'Discriminant validity', 'Fundamental discriminant', 'Quadratic equation', 'Quadratic formula', 'Hessian matrix', 'Average variance extracted', 'Quadratic classifier']",Discriminant
+41,41,Disjoint events,1109,1,"['Disjoint sets', 'Probability measure', 'Law of total probability', 'Probability space', 'Mutual exclusivity', 'Compositional data', 'Conditional probability', 'Alain Badiou', 'Petri net', 'Probability distribution']",Disjoint sets
+42,42,distance formula,"108, 968, 974, 996",1,"['Euclidean distance', 'Distance', 'Taxicab geometry', 'Rigid transformation', 'Great-circle distance', 'Distance from a point to a line', 'Law of cosines', 'Haversine formula', 'Quadratic formula', 'Inversive distance']",Euclidean distance
+43,43,distributive property,18,1,"['Distributive property', 'Property (mathematics)', 'Distributive', 'Distributive justice', 'Racks and quandles', 'Completely multiplicative function', 'Algebraic expression', 'FOIL method', 'Distributive lattice', 'Eigenvalues and eigenvectors']",Distributive property
+44,44,diverges,1101,1,"['Divergence (disambiguation)', 'Diverge (film)', 'Diverging diamond interchange', 'Diverged (The Walking Dead)', 'Divergence of the sum of the reciprocals of the primes', 'Lens', 'The Road Not Taken', 'Convergent series', 'Two Roads Diverge', 'Optical power']",Divergence of the sum of the reciprocals of the primes
+45,45,dividend,537,1,"['Dividend', 'Dividend yield', 'Demographic dividend', 'S&P 500 Dividend Aristocrats', 'Peace dividend', 'Qualified dividend', 'Dividend aristocrat', 'PSX Dividend 20 Index', 'Dividend tax', 'Social dividend']",Dividend aristocrat
+46,46,Division Algorithm,"538, 549",1,"['Division algorithm', 'Euclidean algorithm', 'Polynomial long division', 'Long division', 'Euclidean division', 'Algorithm', 'P-adic number', 'List of algorithms', 'Risch algorithm', 'Multiplication algorithm']",Division algorithm
+47,47,divisor,537,1,"['Divisor', 'Greatest common divisor', 'Zero divisor', 'Divisor function', 'Elementary divisors', 'Dow Jones Industrial Average', 'Divisor (algebraic geometry)', 'Division (mathematics)', 'Divisor (disambiguation)', 'Prime number']",Divisor
+48,48,domain,"209, 214, 223, 237, 240, 242, 243, 244, 679",1,"['Domain', 'Public domain', 'Domain name', 'Top-level domain', 'Domain-driven design', 'Domain Name System', 'DomainKeys', 'Domain model', 'Domain (biology)', 'Windows domain']",Domain
+49,49,domain and range,"241, 241",1,"['Function (mathematics)', 'Domain-to-range ratio', 'Planning Domain Definition Language', 'Domain', 'Frequency domain', 'Domain-specific language', 'Domain theory', 'Domain name registrar', 'Geometric transformation', 'Operator (mathematics)']",Function (mathematics)
+50,50,domain of a composite function,287,1,"['Function composition', 'Function (mathematics)', 'Partial function', 'Restriction (mathematics)', 'Monotonic function', 'Name server', 'Trapezoidal rule', 'Universal quantification', 'List of types of functions', 'Elementary function']",Function composition
+51,51,doubling time,748,1,"['Doubling time', 'Double Time', 'Half-time (music)', 'Rule of 72', 'Doubling', 'Population dynamics', 'Brothers in Arms: Double Time', 'Double Time (film)', 'Generation time', 'Double-double']",Rule of 72
+52,52,addition property,192,1,"['Addition', 'Commutative property', 'Property', 'Equality (mathematics)', 'Israeli land and property laws', 'Distributive property', 'Exclusive or', 'Associative property', 'Velocity-addition formula', 'Minkowski addition']",Addition
+53,53,algebraic expression,20,1,"['Algebraic expression', 'Expression (mathematics)', 'Closed-form expression', 'Binary expression tree', 'Computer algebra', 'Algebraic equation', 'Algebra', 'Algebraic operation', 'Algebraic fraction', 'Algebraic data type']",Algebraic expression
+54,54,angle of rotation,1017,1,"['Angle of rotation', 'Rotation matrix', 'Axis–angle representation', 'Euler angles', 'Angle', 'Quaternions and spatial rotation', 'Rotation', 'Conversion between quaternions and Euler angles', 'Degrees of freedom (mechanics)', ""Rodrigues' rotation formula""]",Angle of rotation
+55,55,annual interest,1104,1,"['Compound interest', 'Effective interest rate', 'Interest', 'Nominal interest rate', 'Interest rate', 'Annual percentage rate', 'Current yield', 'List of sovereign states by central bank interest rates', 'Berkshire Hathaway', 'Equivalent annual cost']",Compound interest
+56,56,annual percentage rate (APR),641,1,"['Annual percentage rate', 'Effective interest rate', 'Annual percentage yield', 'Representative APR', 'APRS', 'Nominal interest rate', 'Collateral (finance)', 'Interest rate', 'Payday loan', 'Finance charge']",Annual percentage yield
+57,57,annuity,1104,1,"['Annuity', 'Annuities in the United States', 'Life annuity', 'Annuity (disambiguation)', 'Teachers Insurance and Annuity Association of America', 'Consol (bond)', 'Fixed annuity', 'Charitable gift annuity', 'Government Annuities Act', 'Enhanced annuity']",Annuity
+58,58,apoapsis,1028,1,"['Apsis', 'Eve Online', 'Orbit', 'Apoapsis Records', 'Earth', 'Aerobraking', 'Orbital eccentricity', 'Orbital speed', 'Bi-elliptic transfer', 'Hohmann transfer orbit']",Apsis
+59,59,area,142,1,"['Area', 'Urban area', 'Unincorporated area', 'Penalty area', 'Schengen Area', 'Metropolitan statistical area', 'Metropolitan area', 'Rural area', 'List of U.S. states and territories by area', 'Area codes 330 and 234']",Area
+60,60,area of a circle,489,1,"['Area of a circle', 'Area', 'Squaring the circle', 'Circle', 'Circular sector', 'Dividing a circle into areas', 'Measurement of a Circle', 'Pi', 'A Perfect Circle', 'Second moment of area']",Area of a circle
+61,61,arithmetic sequence,"1065, 1069, 1070, 1072, 1072, 1096",1,"['Arithmetic progression', 'Arithmetico-geometric sequence', 'Geometric progression', 'Arithmetic', 'Coin problem', 'Primes in arithmetic progression', 'Arithmetic logic unit', 'Arithmetic coding', 'IEEE 754', 'Analytic continuation']",Arithmetic progression
+62,62,arithmetic series,1096,1,"['Arithmetic progression', 'Arithmetic', 'Geometric series', 'Arithmetic mean', 'Arithmetic logic unit', 'Arithmetic derivative', 'Arithmetic function', 'Arbitrary-precision arithmetic', 'Carry (arithmetic)', 'Geometric mean']",Arithmetic progression
+63,63,arrow notation,566,1,"['Arrow notation', ""Knuth's up-arrow notation"", 'Conway chained arrow notation', 'Notation', '→', 'Function (mathematics)', '↑', ""Graham's number"", 'Mathematical notation', '↓']",Arrow notation
+64,64,associative property of addition,17,1,"['Associative property', 'Commutative property', 'Operator associativity', 'Associative array', 'Addition', 'Associative algebra', 'Algebraic expression', 'Algebra over a field', 'Ring (mathematics)', 'Equality (mathematics)']",Associative property
+65,65,associative property of multiplication,17,1,"['Associative property', 'Matrix multiplication', 'Associative algebra', 'Commutative property', 'Non-associative algebra', 'Multiplication', 'Algebra over a field', 'Distributive property', 'Operator associativity', 'Cayley–Dickson construction']",Associative property
+66,67,asymptotes,973,1,"['Asymptote', 'Asymptote (disambiguation)', 'Hyperbola', 'Unit hyperbola', 'Asymptote (vector graphics language)', 'Asymptote Architecture', 'Asymptote (magazine)', 'Hyperbolic trajectory', 'Gompertz function', 'Moscow']",Asymptote
+67,68,augmented matrix,"889, 893, 894, 911",1,"['Augmented matrix', 'Affine transformation', 'Gaussian elimination', 'Augment', 'Invertible matrix', 'Transformation matrix', 'System of linear equations', 'Coefficient matrix', 'Overdetermined system', 'Rank (linear algebra)']",Augmented matrix
+68,69,augmented matrix form,885,1,"['Row echelon form', 'Augment', 'Gaussian elimination', 'Affine transformation', 'Transformation matrix', 'Definite quadratic form', 'The Matrix', 'Invertible matrix', 'Rouché–Capelli theorem', 'Overdetermined system']",Row echelon form
+69,70,average rate of change,"259, 262",1,"['Rate of change', 'Rate (mathematics)', 'Tax rate', 'Rate of return', 'List of countries by intentional homicide rate', 'Birth rate', 'Climate change', 'Bowling average', 'Urbanization by sovereign state', 'Difference quotient']",Rate (mathematics)
+70,71,axes of symmetry,973,1,"['Reflection symmetry', 'Rotational symmetry', 'Ellipsoid', 'Dihedral group', 'Rectangle', 'Semi-major and semi-minor axes', 'Oval', 'Orthotropic material', 'Symmetry', 'Hyperboloid']",Reflection symmetry
+71,72,axis of symmetry,"466, 468, 1003, 1005",1,"['Axial symmetry', 'Rotational symmetry', 'Parabola', 'Quadratic formula', 'Symmetry element', 'Symmetry (geometry)', 'Reflection symmetry', 'Dihedral group', 'Floral symmetry', 'Molecular symmetry']",Axial symmetry
+72,73,base,15,1,"['Base', 'Google Base', 'Base pair', 'Base64', 'Basal', 'Naval base', 'Base of skull', 'The Base', 'Political base', 'Baseball']",
+73,74,best fit,764,1,"['Curve fitting', 'Linear regression', 'The Line of Best Fit', 'Best-fit bin packing', 'Line chart', 'Linear least squares', 'Rina Sawayama', 'Maya Hawke', 'Honda Fit', ""Preacher's Daughter""]",Curve fitting
+74,75,binomial,"60, 486, 538",1,"['Binomial distribution', 'Binomial', 'Binomial nomenclature', 'Binomial theorem', 'Binomial coefficient', 'Negative binomial distribution', 'Binomial test', 'Binomial (polynomial)', 'Binomial identity', 'Binomial heap']",Binomial distribution
+75,76,binomial coefficient,1124,1,"['Binomial coefficient', 'Gaussian binomial coefficient', 'Central binomial coefficient', 'Binomial theorem', 'Binomial distribution', 'Binomial', 'Binomial series', 'Negative binomial distribution', ""Freshman's dream"", 'Combination']",Binomial coefficient
+76,77,binomial expansion,"1125, 1128",1,"['Binomial theorem', 'Binomial coefficient', 'Binomial (polynomial)', 'Binomial', ""Pascal's triangle"", ""Pascal's pyramid"", ""Freshman's dream"", 'Binomial approximation', 'Abraham de Moivre', 'Trinomial expansion']",Binomial theorem
+77,78,Binomial Squares Pattern,948,1,"['Binomial theorem', ""Pascal's triangle"", 'Square pyramidal number', 'Montessori sensorial materials', 'Tetrahedral number', 'Pingala', 'Regression analysis', 'List of statistics articles', 'Probability distribution', 'Summation']",Binomial theorem
+78,79,Binomial Theorem,1127,1,"['Binomial theorem', 'Binomial series', 'Multinomial theorem', 'Binomial distribution', ""Freshman's dream"", 'Binomial', 'A Treatise on the Binomial Theorem', ""Abel's binomial theorem"", 'Gaussian binomial coefficient', 'Power set']",Binomial theorem
+79,80,branch,969,1,"['Branch', 'Military branch', 'Torso', 'Branching fraction', 'Branch predictor', 'Branch (banking)', 'Michelle Branch', 'Cliff Branch', 'Branch and bound', 'From Branch to Branch']",Branch and bound
+80,81,break-even point,814,1,"['Break-even (economics)', 'Break-even', 'Point Break', 'Progressive jackpot', 'Margin of safety (financial)', 'Break-even (disambiguation)', 'Overhead (business)', 'Snake Eyes (2021 film)', 'Reminiscence (2021 film)', ""It's a Wonderful Life""]",Break-even
+81,82,completing the square,"170, 171, 948",1,"['Completing the square', 'Quadratic formula', 'Quadratic equation', 'Magic square', 'Principal axis theorem', 'Mean squared displacement', 'Binomial (polynomial)', 'Chi-squared test', 'Quadratic function', 'Standard deviation']",Completing the square
+82,83,complex conjugate,157,1,"['Complex conjugate', 'Conjugate transpose', 'Complex conjugate root theorem', 'Complex conjugate of a vector space', 'Complex conjugate representation', 'Hermitian matrix', 'Complex conjugate line', 'Holomorphic function', 'Conjugate element (field theory)', 'Matrix multiplication']",Complex conjugate
+83,84,Complex Conjugate Theorem,556,1,"['Complex conjugate root theorem', 'Complex conjugate', 'Fundamental theorem of algebra', 'Complex conjugate of a vector space', 'Maximum power transfer theorem', 'Holomorphic function', ""Cauchy's integral theorem"", 'Residue theorem', 'Complex number', 'Hermitian matrix']",Complex conjugate root theorem
+84,85,complex number,152,1,"['Complex number', 'Absolute value', 'Split-complex number', 'Number', 'Riemann sphere', 'Gamma function', 'Electrical impedance', 'Complex logarithm', 'Argument (complex analysis)', 'Gaussian integer']",Complex number
+85,86,complex plane,153,1,"['Complex plane', 'Complex number', 'Riemann sphere', 'Complex logarithm', 'Split-complex number', 'Holomorphic function', 'Plane (geometry)', 'Exponential function', 'Complex analysis', 'Unit circle']",Complex plane
+86,87,composite,"279, 346",1,"['Composite', 'Composite material', 'Compositing', 'Composite number', 'Composite video', 'Nasdaq Composite', 'Stratovolcano', 'Dental composite', 'Composite pattern', 'Composite measure']",Composite
+87,88,composite function,282,1,"['Function composition', 'Composite number', 'Chain rule', 'APL syntax and symbols', 'Function (mathematics)', 'Total derivative', 'Superior highly composite number', 'Composite material', 'Integration by substitution', ""Simpson's rule""]",Function composition
+88,89,composition of functions,281,1,"['Function composition', 'Inverse function', 'Function composition (computer science)', 'Function (mathematics)', 'Infinite compositions of analytic functions', 'Composition', 'Composition of relations', 'Category of sets', 'Joy (programming language)', 'AP Precalculus']",Function composition
+89,90,compound inequality,194,1,"['Economic inequality', 'One-sided limit', 'Spatial inequality', 'Distribution of wealth', 'Structural inequality', 'Occupational inequality', 'Health equity', 'E (mathematical constant)', 'Racial inequality in the United States', 'Beta prime distribution']",One-sided limit
+90,91,compound interest,641,1,"['Compound interest', 'Interest', 'Compound interest treasury note', 'Effective interest rate', 'Compound', 'E (mathematical constant)', 'Future value', 'Compound Interest (website)', 'Nominal interest rate', 'Rule of 72']",Compound interest
+91,92,compression,"395, 658, 693",1,"['Compression', 'Data compression', 'Lossless compression', 'Compression ratio', 'Compression fitting', 'Compression artifact', 'Image compression', 'Compression garment', 'Lossy compression', 'Audio compression']",Compression
+92,93,conditional equation,120,1,"['Equation', 'Reverberation', 'Conditional probability', 'Conditional expectation', 'Upwind scheme', 'Counterfactual conditional', 'RC time constant', 'Material conditional', 'Nernst equation', 'Chapman–Kolmogorov equation']",Equation
+93,94,conic,"952, 972, 1035",1,"['Conic section', 'Parabola', 'Cone', 'Map projection', 'Lambert conformal conic projection', 'Conic optimization', 'Conic Hill', 'Apollonius of Perga', 'Lambert equal-area conic projection', 'Albers projection']",Conic section
+94,95,conic section,1015,1,"['Conic section', 'Matrix representation of conic sections', 'Parabola', 'Apollonius of Perga', 'Cone', 'Conic Sections Rebellion', 'Confocal conic sections', 'Degeneracy (mathematics)', 'Conic constant', 'Eccentricity (mathematics)']",Conic section
+95,96,conjugate axis,"969, 973",1,"['Semi-major and semi-minor axes', 'Complex conjugate', 'Hyperbola', 'Perpendicular', 'Hyperbolic trajectory', 'Cardinal point (optics)', 'Nonlinear optics', 'Jacques Philippe Marie Binet', 'Ellipse', 'Central line (geometry)']",Semi-major and semi-minor axes
+96,97,consistent system,803,1,"['Consistent and inconsistent equations', 'Eventual consistency', 'Consistent hashing', 'Consistent life ethic', 'Consistency', 'Consistent histories', ""Gödel's incompleteness theorems"", 'System of measurement', 'Axiomatic system', 'Consistent pricing process']",Consistent and inconsistent equations
+97,98,constant,20,1,"['Constant', 'Planck constant', 'Gas constant', 'Boltzmann constant', 'MRB constant', 'Gravitational constant', 'Faraday constant', 'The Constant', 'Cosmological constant', 'Equilibrium constant']",Constant
+98,99,constant function,249,1,"['Constant function', 'Step function', 'Locally constant function', 'Constant (mathematics)', 'Proportionality (mathematics)', 'Constant of integration', 'Constant (computer programming)', 'Lipschitz continuity', 'Monotonic function', 'Exponential function']",Constant function
+99,100,constant of variation,"609, 610",1,"['Proportionality (mathematics)', 'Time-variation of fundamental constants', 'Fine-structure constant', 'Gravitational constant', 'Variation of parameters', 'Coefficient of variation', 'Solar constant', 'Calculus of variations', 'Physical constant', 'Steam turbine governing']",Proportionality (mathematics)
+100,101,continuous,512,1,"['Continuity', 'Continuous function', 'Continuous delivery', 'Continuous integration', 'Present continuous', 'Continuous track', 'Continuous optimization', 'Past continuous', 'Continuous production', 'Continuous breeder']",Continuous function
+101,102,continuous function,501,1,"['Continuous function', 'Lipschitz continuity', 'Weierstrass function', 'Differentiable function', 'Uniform continuity', 'Nowhere continuous function', 'Continuous Function Chart', 'Piecewise', 'Probability density function', 'Hölder condition']",Continuous function
+102,103,coordinate plane,996,1,"['Coordinate system', 'Cartesian coordinate system', 'Spherical coordinate system', 'Cylindrical coordinate system', 'Polar coordinate system', 'Galactic coordinate system', 'Euclidean plane', 'Equatorial coordinate system', 'State Plane Coordinate System', 'Analytic geometry']",Coordinate system
+103,104,Cornell Method,69,1,"['Cornell Notes', 'Chris Cornell', 'Note-taking', 'H5P', 'Cornell University', 'Nelly', 'Ezra Cornell', 'Scientific method', 'Joseph Cornell', 'Katharine Cornell']",Cornell Notes
+104,105,correlation coefficient,441,1,"['Correlation coefficient', 'Pearson correlation coefficient', ""Spearman's rank correlation coefficient"", 'Correlation', 'Kendall rank correlation coefficient', 'Coefficient of multiple correlation', 'Phi coefficient', 'Rank correlation', 'Partial correlation', 'Coefficient of determination']",Correlation coefficient
+105,106,cost function,"280, 814",1,"['Cost function', 'Cost curve', 'Marginal cost', 'Cobb–Douglas production function', 'Loss function', 'Long-run cost curve', 'Economic cost', 'Artificial neural network', 'Cost-sharing mechanism', 'Cost-of-living index']",Cost function
+106,107,Cramer’s Rule,"921, 924, 925, 927, 931",1,"[""Cramer's rule"", 'Adjugate matrix', 'System of linear equations', ""Cramér's theorem"", 'Gabriel Cramer', 'Cramér–Rao bound', 'Determinant', 'Jim Cramer', 'Kevin Cramer', 'Cramer (surname)']",Cramer's rule
+107,108,cube root,490,1,"['Cube root', 'Cube root law', 'Cubic equation', 'Doubling the cube', 'Root of unity', 'Nth root', 'Cube (algebra)', 'Rationalisation (mathematics)', 'Square root', 'Cube']",Cube root
+108,109,cubic functions,597,1,"['Cubic function', 'Cubic equation', 'Cubic Hermite spline', 'Cubic', 'Cubic yard', 'Cubic mile', 'Quintic function', 'Hyperbolic functions', 'Cubic equations of state', 'Bézier curve']",Cubic function
+109,110,cues,69,1,"['Cue', 'Cue stick', 'Code for Unplanned Encounters at Sea', 'Social cue', 'Cue sheet', 'Cue (theatrical)', 'Depth perception', 'Social Cues', 'Cue (audio)', 'The Cues']",Cue sheet
+110,111,decompose a composite function,289,1,"['Function composition', 'Matrix (composite)', 'Functional decomposition', 'Polynomial decomposition', 'Ammonium perchlorate composite propellant', 'Hilbert–Huang transform', 'Chain rule', 'Prime number', 'Wave function', 'Sum of two squares theorem']",Function composition
+111,112,earthquake intensity,741,1,"['Modified Mercalli intensity scale', 'PHIVOLCS Earthquake Intensity Scale', 'Peak ground acceleration', '1976 Tangshan earthquake', '2005 Kashmir earthquake', 'Great Hanshin earthquake', 'Earthquake', 'Seismic intensity scales', '2022 West Java earthquake', '2022 Luzon earthquake']",Modified Mercalli intensity scale
+112,113,eccentricity,"1029, 1029",1,"['Eccentricity', 'Orbital eccentricity', 'Eccentricity (behavior)', 'Eccentricity (mathematics)', 'Eccentricity vector', 'Angular eccentricity', 'Eccentricity effect', 'Horizontal eccentricity', 'Milankovitch cycles', 'Elliptic orbit']",Eccentricity
+113,114,electrostatic force,265,1,"[""Coulomb's law"", 'Electrostatic force microscope', 'Electric potential energy', 'Van der Waals force', 'Electrostatics', 'Force', 'Protein precipitation', 'Electrostatic induction', 'Electrostatic loudspeaker', 'Kelvin probe force microscope']",
+114,115,element,870,1,"['Element', 'Mercury (element)', 'Chemical element', 'Fifth Element', 'Greatest element and least element', 'Element Skateboards', 'The Fifth Element', 'HTML element', 'Elementor', 'Finite element method']",Greatest element and least element
+115,116,elimination,847,1,"['Elimination', 'Gaussian elimination', 'Single-elimination tournament', 'Elimination Chamber (2023)', 'Double-elimination tournament', 'Elimination Chamber', 'Elimination Chamber (2022)', 'Elimination reaction', 'Eliminator', 'Conjunction elimination']",Gaussian elimination
+116,117,ellipse,"847, 952, 953, 954, 956, 960, 995, 1030, 1034",1,"['Ellipse', 'The Ellipse', 'Ellipses', ""Kepler's laws of planetary motion"", 'Semi-major and semi-minor axes', 'N-ellipse', 'Ellipse (disambiguation)', 'Circumference', 'Great ellipse', 'Elliptical polarization']",Ellipse
+117,118,ellipsis,1050,1,"['Ellipsis', 'Ellipsis (linguistics)', 'Ellipsis (disambiguation)', 'Noun ellipsis', 'Comparative', 'Answer ellipsis', 'Comparative illusion', 'Ellipsis (narrative device)', 'Ellipsis (computer programming)', 'Cohesion (linguistics)']",Ellipsis (disambiguation)
+118,119,end behavior,"491, 577",1,"['Organizational behavior', 'Dog behavior', 'Self-destructive behavior', 'Undefined behavior', 'Theory of planned behavior', 'Cognitive behavioral therapy', 'Differentiated services', 'Prosocial behavior', 'Behavior-driven development', 'Cartesian coordinate system']",Cartesian coordinate system
+119,120,endpoint,265,1,"['Endpoint', 'Symantec Endpoint Protection', 'Endpoint security', 'Communication endpoint', 'Microsoft Endpoint Configuration Manager', 'Clinical endpoint', 'Endpoint detection and response', 'Ivanti', 'Interval (mathematics)', 'Citrix Endpoint Management']",Endpoint
+120,121,entry,"870, 873",1,"['Entry', 'Entryism', 'Atmospheric entry', 'No Entry', 'Forcible entry', 'Port of entry', 'Journal entry', 'Double-entry bookkeeping', 'Entry-level job', 'Book entry']",Entry
+121,122,equation,"22, 221",1,"['Equation', 'Differential equation', 'Heat equation', 'Quadratic equation', 'Schrödinger equation', 'Linear equation', 'Navier–Stokes equations', 'Diophantine equation', 'Drake equation', 'Continuity equation']",Equation
+122,123,equation in quadratic form,186,1,"['Quadratic equation', 'Quadratic form', 'Quadratic formula', 'Linear–quadratic regulator', 'Definite quadratic form', 'Riccati equation', 'Quadratic function', 'Completing the square', 'Binary quadratic form', 'Quadratic']",Quadratic equation
+123,124,equation in two variables,104,1,"['Linear equation', 'System of linear equations', 'Equation', 'Separation of variables', 'Elementary algebra', 'Structural equation modeling', 'Level set', 'Equation solving', 'Conic section', 'Helmholtz equation']",Linear equation
+124,125,even function,317,1,"['Even and odd functions', 'Symmetry in mathematics', 'Error function', 'Parity (mathematics)', 'Square (algebra)', 'Even', 'Taylor series', 'Hyperbolic functions', 'Ackermann function', 'Even language']",Even and odd functions
+125,126,event,"1109, 1133",1,"['Event', 'The Event', 'Tunguska event', 'Eventing', 'Event management', 'Event horizon', 'Extinction event', 'Carrington Event', 'List of UFC events', 'Impact event']",Event
+126,127,experiment,1133,1,"['Experiment', 'Stanford prison experiment', 'Philadelphia Experiment', 'Russian Sleep Experiment', 'Milgram experiment', 'The Experiment', 'Pitch drop experiment', 'Thought experiment', 'The Belko Experiment', 'Nazi human experimentation']",Experiment
+127,128,explicit formula,"1051, 1052, 1053, 1073, 1087",1,"['Explicit formula', 'Explicit formulae for L-functions', 'Closed-form expression', 'Explicit and implicit methods', 'Bernoulli polynomials', 'Stirling numbers of the second kind', 'Black–Scholes model', 'Hecke operator', 'Ramanujan tau function', 'Alternating permutation']",Explicit formula
+128,129,exponent,15,1,"['Exponentiation', 'Exponent bias', 'The Exponents', 'Lyapunov exponent', 'ISO 4217', 'Angstrom exponent', 'Exponent (disambiguation)', 'Characteristic exponent', 'Scientific notation', 'Ben Thompson (writer)']",Exponentiation
+129,130,Exponential decay,"631, 639, 653, 740, 743, 746, 749, 766",1,"['Exponential decay', 'Exponential growth', 'Half-life', 'Decay', 'Exponential', 'Time constant', 'Exponential function', 'Damping', 'Laplace transform', 'Lieb–Robinson bounds']",Exponential decay
+130,131,exponential equation,726,1,"['Exponential function', 'Exponential decay', 'Exponential growth', 'Arrhenius equation', 'Diophantine equation', 'Pre-exponential factor', 'Matrix exponential', 'Linear differential equation', 'Freundlich equation', 'Exponential distribution']",Exponential function
+131,132,exponential equations,722,1,"['Exponential function', 'Exponential decay', 'Diophantine equation', 'Numerical methods for ordinary differential equations', 'Exponential growth', 'Matrix exponential', 'Exponential distribution', 'Exponential integrator', 'Transcendental equation', 'Linear differential equation']",Exponential function
+132,133,carrying capacity,750,1,"['Carrying capacity', 'Tourism carrying capacity', 'Blood', 'Sustainable population', 'Capacity', 'Ampacity', 'Logistic function', 'Human overpopulation', 'Pack animal', 'Hemoglobin']",Logistic function
+133,134,Cartesian coordinate system,102,1,"['Cartesian coordinate system', 'Coordinate system', 'Geographic coordinate system', 'Spatial reference system', 'Polar coordinate system', 'Cartesian coordinate robot', 'Elliptic coordinate system', 'Projected coordinate system', 'State Plane Coordinate System', 'Cartesian']",Cartesian coordinate system
+134,135,Celsius,349,1,"['Celsius', 'Celsius Network', 'Celsius family', 'Celsius (disambiguation)', 'Fahrenheit', 'Anders Celsius', 'Magnus Celsius', 'Kelvin', 'Olof Celsius', 'Celsius (character)']",Celsius family
+135,136,center,"949, 969",1,"['Center', 'National Center for Biotechnology Information', 'OCLC', 'Kennedy Space Center', 'Centers for Disease Control and Prevention', 'Center (gridiron football)', 'Pew Research Center', 'Chicago Bulls', 'The Center', 'H. Lee Moffitt Cancer Center & Research Institute']",
+136,137,center of a hyperbola,973,1,"['Hyperbola', 'Unit hyperbola', 'Centre (geometry)', 'I-Space (Chinese company)', 'Lemniscate of Bernoulli', 'Concurrent lines', 'Semi-major and semi-minor axes', 'Midpoint', 'Conic section', 'Hyperbolic sector']",Hyperbola
+137,138,center of an ellipse,953,1,"['Ellipse', 'The Ellipse', 'Distance of closest approach', 'MacAdam ellipse', 'Great ellipse', 'Semi-major and semi-minor axes', 'Steiner ellipse', 'Eccentricity (mathematics)', 'Focus (geometry)', 'Centre (geometry)']",Ellipse
+138,139,central rectangle,973,1,"['Golden rectangle', 'Red Rectangle Nebula', 'Padel', 'Square', 'Tube map', 'Wives of Muhammad', 'Central limit theorem', 'Circle–ellipse problem', 'Rabatment of the rectangle', 'Le Rectangle']",Golden rectangle
+139,140,change-of-base formula,"718, 719",1,"['Change of base', 'Change of basis', 'List of logarithmic identities', 'Formula for change', 'Base change theorems', '2022 Formula One World Championship', 'Base change lifting', 'Formula One', 'Goldman equation', 'Logarithm']",Change of base
+140,141,knowledge space,45,1,"['Knowledge space', 'Knowledge', 'Knowledge space (philosophy)', 'Knowledge commons', 'Outline of knowledge', 'Epistemology', 'Jean-Claude Falmagne', 'Space', 'Knowledge representation and reasoning', 'ALEKS']",Knowledge space
+141,142,exponential expression,485,1,"['Exponential function', 'Exponential family', 'Exponential decay', 'Matrix exponential', 'ReDoS', 'Exponential growth', 'Regular expression', 'Exponential discounting', 'Expression (mathematics)', 'Closed-form expression']",Exponential function
+142,143,exponential function,632,1,"['Exponential function', 'Double exponential function', 'Stretched exponential function', 'Exponential growth', 'List of integrals of exponential functions', 'Softmax function', 'Half-exponential function', 'Exponential integral', 'Characterizations of the exponential function', 'Exponential distribution']",Exponential function
+143,144,exponential growth,"632, 635, 654, 740, 743, 748, 750",1,"['Exponential growth', 'Double exponential function', 'Compound annual growth rate', 'Bacterial growth', 'The Singularity Is Near', 'Population growth', 'Malthusian growth model', 'Biological exponential growth', 'Logarithmic growth', 'Exponential']",Exponential growth
+144,145,exponential notation,15,1,"['Scientific notation', 'Hexadecimal', 'Tetration', 'Exponential', 'Exponential function', 'Exponential growth', 'List of exponential topics', 'Exponentiation', 'Time complexity', 'Double exponential function']",Scientific notation
+145,146,extraneous solution,730,1,"['Extraneous and missing solutions', 'Equation', 'Equation solving', 'Pseudo-range multilateration', 'Solution set', 'Ad hoc', 'Software framework', 'Bring radical', 'Elastin-like polypeptides', 'Rational planning model']",Extraneous and missing solutions
+146,147,extraneous solutions,182,1,"['Extraneous and missing solutions', 'Equation', 'Equation solving', 'Pseudo-range multilateration', 'Bring radical', 'Ad hoc', 'Software framework', 'Solution set', 'Humanyze', 'Acidosis']",Extraneous and missing solutions
+147,148,extrapolation,439,1,"['Extrapolation', 'Richardson extrapolation', 'Extrapolation (album)', 'Extrapolations (TV series)', 'In vitro', 'Extrapolation (journal)', 'Regression analysis', 'Langley extrapolation', 'Blood alcohol content', 'Birge–Sponer method']",Extrapolation
+148,149,horizontal compression,323,1,"['Spaghettification', 'Mountain formation', 'Compression molding', 'High Life (2018 film)', 'Anamorphic format', 'JPEG', 'Group 4 compression', 'Tied-arch bridge', 'Compression (geology)', 'Geology']",
+149,150,horizontal line,"129, 401, 402",1,"['Line (geometry)', 'Horizontal line test', 'Vertical and horizontal', 'Dash', 'Vertical–horizontal illusion', 'Asymptote', 'Horizontal scan rate', 'Obelus', 'Analog television', 'Slope']",Line (geometry)
+150,151,horizontal line test,"228, 348",1,"['Horizontal line test', 'Vertical line test', 'Injective function', 'Vertical and horizontal', 'Bijection, injection and surjection', 'Maddox rod', 'Field sobriety testing', 'Analog television', 'Algebraic function', 'Dash']",Horizontal line test
+151,152,horizontal reflection,312,1,"['Frieze group', 'Tetromino', 'Reflection (mathematics)', 'Vertical and horizontal', 'Klein four-group', 'Examples of groups', 'Rule 110', 'Polarization (waves)', 'Antenna (radio)', 'Generative adversarial network']",Frieze group
+152,153,horizontal shift,"306, 651, 656, 689",1,"['Williams–Landel–Ferry equation', 'Autostereogram', 'Sway', 'Motions in the time-frequency distribution', 'Phase (waves)', 'Horizontal mobility', 'Cinematography', 'Volvo 164', 'Distance decay', 'Horizontal gene transfer']",Phase (waves)
+153,154,horizontal stretch,323,1,"['21:9 aspect ratio', 'LNER Class A4 4468 Mallard', 'Stretch wrap', 'Iscorama', 'Opel Blitz', 'Salt tolerance of crops', 'Extended Display Identification Data', 'Horizontal Falls', 'Blow molding', 'Dash']",
+154,155,hyperbola,"969, 973, 976, 977, 978, 980, 981, 983, 985, 995, 1030, 1032",1,"['Hyperbola', 'Semi-major and semi-minor axes', 'Unit hyperbola', 'Hyperbola GNU/Linux-libre', 'Conic section', 'I-Space (Chinese company)', 'Eccentricity (mathematics)', 'Dirichlet hyperbola method', 'Hyperboloid', 'Inverse hyperbolic functions']",Hyperbola
+155,156,factor by grouping,74,1,"['Lancefield grouping', 'Shot grouping', 'Big Five personality traits', 'Analysis of variance', 'Fear Factor', 'Rh blood group system', 'Factor analysis', 'Blood compatibility testing', 'FOIL method', 'List of countries by Human Development Index']",Shot grouping
+156,157,Factor Theorem,550,1,"['Factor theorem', 'Polynomial remainder theorem', 'Factor price equalization', 'Factorization', 'Rational root theorem', 'Stolper–Samuelson theorem', '2-factor theorem', ""Bayes' theorem"", 'Weierstrass factorization theorem', 'Rybczynski theorem']",Factor theorem
+157,158,factorial,1059,1,"['Factorial', 'Double factorial', 'Factorial experiment', 'Fractional factorial design', 'Gamma function', 'Falling and rising factorials', 'Analysis of variance', 'Factorial prime', 'Alternating factorial', 'Exponential factorial']",Factorial
+158,159,factoring,164,1,"['Factoring', 'Factoring (finance)', 'Factor', 'Integer factorization', 'RSA Factoring Challenge', 'Impact factor', 'Supply chain finance', ""Shor's algorithm"", 'Merchant factor', 'Integer factorization records']",Factoring
+159,160,Fahrenheit,349,1,"['Fahrenheit', 'Fahrenheit 451', 'Fahrenheit (disambiguation)', 'Daniel Gabriel Fahrenheit', 'Mr. Fahrenheit', 'Fahrenheit 9/11', 'Fahrenheit (2005 video game)', 'Fahrenheit (perfume)', 'Fahrenheit 451 (2018 film)', 'Fahrenheit 451 (disambiguation)']",Fahrenheit (disambiguation)
+160,161,feasible region,850,1,"['Feasible region', 'Feasibility', 'Nonlinear programming', 'Simplex algorithm', 'Cutting-plane method', 'Linear programming', 'Generalized least squares', 'Active-set method', ""Slater's condition"", 'Search space']",Feasible region
+161,162,finite arithmetic sequence,1074,1,"['Arithmetic progression', 'Finite field arithmetic', 'Non-standard model of arithmetic', 'Geometric progression', 'IEEE 754', 'Modular arithmetic', 'Cardinal number', 'Sequence', 'Finite set', 'Discrete mathematics']",Arithmetic progression
+162,163,finite sequence,1052,1,"['Sequence', 'Finite-state machine', 'Sequence space', 'Deterministic finite automaton', 'String (computer science)', 'Discrete mathematics', 'Barker code', 'Exchangeable random variables', 'Lexicographic order', ""Kruskal's tree theorem""]",Sequence
+163,164,fixed mindset,57,1,"['Mindset', 'Carol Dweck', 'Goal orientation', 'Implicit theories of intelligence', 'Success', 'Racial achievement gap in the United States', 'The Infinite Game', 'Tracking (education)', 'Albert J. Dunlap', 'List of The Karate Kid and Cobra Kai characters']",Implicit theories of intelligence
+164,165,foci,"952, 953, 954, 974",1,"['Focus', 'Focus (geometry)', 'Simon focus', 'Pacemaker potential', 'Pro aris et focis', 'Aberrant crypt foci', 'Hypocenter', 'Ectopic pacemaker', 'Focus of infection', 'Lemniscate']",Focus (geometry)
+165,166,focus,"837, 952, 969, 989, 995, 998, 999, 1000, 1003, 1028, 1034, 1035, 1036",1,"['Focus', 'FOCUS', 'Ford Focus', 'Focus Entertainment', 'Focus...', 'Focus Plays Focus', 'Focus (optics)', 'Focus Features', 'Focus discography', 'Focus (band)']",Focus (optics)
+166,167,FOIL,62,1,"['Foil', 'Tin foil hat', 'Aluminium foil', 'Foil (narrative)', 'Foil (fencing)', 'Tin foil', 'Foil (metal)', 'Hydrofoil', 'Fencing', 'Foil bearing']",Foil
+167,168,formula,"22, 221",1,"['Formula', 'Formula One', 'Chemical formula', '2023 Formula One World Championship', 'Quadratic formula', '2022 Formula One World Championship', 'The Formula', ""List of Formula One World Drivers' Champions"", '2022–23 Formula E World Championship', 'Infant formula']",Formula
+168,169,function,"210, 214, 237, 253, 278, 348, 377, 1048",1,"['Function', 'Function (mathematics)', 'Hash function', 'Gamma function', 'Wave function', 'Likelihood function', 'Bessel function', 'Error function', 'Gaussian function', 'Differentiable function']",Function (mathematics)
+169,170,function notation,216,1,"['Function (mathematics)', 'Big O notation', 'Notation for differentiation', 'Function composition', 'Hungarian notation', 'Indicator function', 'Infix notation', 'Engineering notation', 'Abuse of notation', ""Leibniz's notation""]",Function (mathematics)
+170,171,Fundamental Counting Principle,1113,1,"['Rule of product', 'Counting', 'Anthropic principle', 'Codimension', 'Harm principle', 'Holographic principle', 'Fundamental theorem of algebra', 'Addition principle', 'Law of Demeter', 'Geiger counter']",Rule of product
+171,172,Fundamental Theorem of Algebra,"554, 555",1,"['Fundamental theorem of algebra', 'Fundamental theorem of linear algebra', 'List of theorems called fundamental', 'Algebraically closed field', 'Complex conjugate root theorem', 'Weierstrass factorization theorem', 'Fundamental theorem on homomorphisms', 'Jean-Robert Argand', 'Zero of a function', 'Invariant subspace']",Fundamental theorem of algebra
+172,173,latus rectum,"996, 998, 999, 1003",1,"['Conic section', 'Parabola', 'Ellipse', 'Hyperbola', 'Semi-major and semi-minor axes', 'Menaechmus', 'Universal parabolic constant', ""Kepler's laws of planetary motion"", 'Perpendicular', 'Sun-synchronous orbit']",Conic section
+173,174,leading coefficient,"60, 60, 495, 547",1,"['Coefficient', 'Gaussian elimination', 'Row echelon form', 'Ehrhart polynomial', 'Rational root theorem', 'Synthetic division', 'Monic polynomial', 'Algebraic number', ""Eisenstein's criterion"", 'Binomial coefficient']",Coefficient
+174,175,leading term,"60, 60, 495",1,"['Leading-order term', 'Leading', 'Coefficient', 'Leading rating', 'Leading-tone', 'Leading seaman', 'Gröbner basis', 'Leading edge', 'Elementary symmetric polynomial', 'Rational root theorem']",Leading-order term
+175,176,learning sciences,45,1,"['Learning sciences', 'Learning', 'Inquiry-based learning', 'International Society of the Learning Sciences', 'Active learning', 'BSCS Science Learning', 'Journal of the Learning Sciences', 'Learning curve', 'Design-based research', 'Machine learning']",Learning curve
+176,177,least common denominator,"86, 122",1,"['Lowest common denominator', 'Greatest common divisor', 'Least common multiple', 'Fraction', 'Periodic function', 'Testability', 'Quadratic irrational number', 'Extraneous and missing solutions', 'Composite pattern', 'Lowest common factor']",Lowest common denominator
+177,178,least squares regression,440,1,"['Partial least squares regression', 'Linear least squares', 'Ordinary least squares', 'Local regression', 'Least squares', 'Quantile regression', 'Least absolute deviations', 'Ridge regression', 'Robust regression', 'Linear regression']",Partial least squares regression
+178,179,left column,69,1,"['Left Column (theater troupe)', 'Column', 'Row and column spaces', 'Column (typography)', 'Battle of Arras (1940)', 'Powder River Expedition (1865)', 'Battles inscribed on the Arc de Triomphe', ""Trajan's Column"", 'Revolver (2005 film)', 'Vertebral column']",Row and column spaces
+179,180,linchpin topics,"46, 46",1,"['Meanings of minor planet names: 7001–8000', 'Intelligence analysis', 'Soviet Union', 'TAFIM', 'Andy the Kid', 'Ralph Waldo Emerson', 'Foreign relations of China', 'Yam Kim-fai', 'Genghis Khan', 'Destination-based cash flow tax']",
+180,181,linear,434,1,"['Linearity', 'Linear A', 'Linear regression', 'Linear interpolation', 'Linear B', 'Lincoln Near-Earth Asteroid Research', 'Linear equation', 'Linear algebra', 'Linearization', 'Linear function']",Linearity
+181,182,linear equation,120,1,"['Linear equation', 'System of linear equations', 'Linear differential equation', 'Nonlinear system', 'Partial differential equation', 'Diophantine equation', 'Equation', 'Linear recurrence with constant coefficients', 'Homogeneous differential equation', 'Ordinary differential equation']",Linear equation
+182,183,linear equation with three variables,821,1,"['System of linear equations', 'Linear equation', 'Equation', 'Linear differential equation', 'Partial differential equation', 'Overdetermined system', 'Simultaneous equations model', 'Differential equation', 'Diophantine equation', 'Structural equation modeling']",System of linear equations
+183,184,Linear Factorization Theorem,"556, 556",1,"['Factorization', 'Sufficient statistic', 'Weierstrass factorization theorem', 'Rank (linear algebra)', 'Spectral theorem', 'Uniqueness theorem', 'Incomplete LU factorization', 'Rational root theorem', 'Central limit theorem', 'Factorization of polynomials']",Factorization
+184,185,linear function,"381, 382",1,"['Linear function', 'Piecewise linear function', 'Linear function (calculus)', 'Linear interpolation', 'Linear map', 'Generalized linear model', 'Linearity', 'Linear programming', 'Differentiable function', 'Nonlinear system']",Linear function
+185,186,Linear functions,377,1,"['Linear function', 'Linear function (calculus)', 'Piecewise linear function', 'Linear interpolation', 'Linear map', 'Generalized linear model', 'Linear discriminant analysis', 'Function space', 'Linear programming', 'Nonlinear system']",Linear function
+186,187,linear growth,632,1,"['Linear function', 'Exponential growth', 'Growth', 'Schwinger function', 'Proportionality (mathematics)', 'Probability distribution', 'Growth rate', 'Growth hormone', 'Additive increase/multiplicative decrease', 'Logistic function']",Linear function
+187,188,linear model,"421, 436",1,"['Linear model', 'Generalized linear model', 'General linear model', 'Linear regression', 'Log-linear model', 'Linear probability model', 'Multilevel model', 'Mixed model', 'Generalized linear mixed model', 'Logistic regression']",Linear model
+188,189,Linear Regression Model,764,1,"['Linear regression', 'General linear model', 'Linear model', 'Simple linear regression', 'Logistic regression', 'Poisson regression', 'Polynomial regression', 'Generalized linear model', 'Regression analysis', 'Ordinary least squares']",Linear regression
+189,190,linear relationship,436,1,"['Correlation', 'Linear regression', 'Linearity', 'Spurious relationship', 'Covariance', 'Linear programming', 'Partial correlation', 'Linear A', 'Information coefficient', 'K-index']",Correlation
+190,191,local extrema,267,1,"['Maxima and minima', 'Stationary point', 'Definite matrix', 'Blob detection', 'Parks–McClellan filter design algorithm', 'Euler–Lagrange equation', ""Fermat's theorem (stationary points)"", 'Valleytronics', 'Four-vertex theorem', 'Scale space implementation']",Maxima and minima
+191,192,local maximum,"267, 526",1,"['Maxima and minima', 'Maximum likelihood estimation', 'Maximum power point tracking', 'Maximum modulus principle', 'Local maximum intensity projection', 'Hessian matrix', 'Expectation–maximization algorithm', 'Concave function', 'Gradient descent', 'Critical point (mathematics)']",Maxima and minima
+192,193,local minimum,"267, 526",1,"['Maxima and minima', 'Minimum wage in the United States', 'Gradient descent', 'Hessian matrix', 'Mathematical optimization', 'Local optimum', 'K-means clustering', 'Minimum wage', 'Potential well', 'Critical point (mathematics)']",Maxima and minima
+193,194,logarithm,671,1,"['Logarithm', 'Natural logarithm', 'Common logarithm', 'Complex logarithm', 'Binary logarithm', 'E (mathematical constant)', 'Logarithm of a matrix', 'Iterated logarithm', 'Exponentiation', 'Integral logarithm']",Logarithm
+194,195,logarithmic equation,731,1,"['Logarithmic scale', 'Logarithmic Schrödinger equation', 'Elementary algebra', 'Semi-log plot', 'Logistic function', 'Functional equation', 'Transcendental equation', 'Quadratic equation', 'Tafel equation', 'Logarithm']",Logarithmic scale
+195,196,Logarithmic Function,741,1,"['Logarithm', 'Logarithmic integral function', 'List of integrals of logarithmic functions', 'Trigonometric functions', 'Logarithmic growth', 'Logarithmic scale', 'Argument of a function', 'Logarithmically concave function', 'Logarithmically convex function', 'Logarithmic differentiation']",Logarithm
+196,197,logarithmic model,769,1,"['Log-distance path loss model', 'Logarithmic spiral', 'Logarithmic growth', 'Logarithm', 'Logistic function', 'Analysis of algorithms', 'Golden spiral', 'Superfluid vacuum theory', 'Exponential-logarithmic distribution', 'Logarithmic conformal field theory']",Logarithmic spiral
+197,198,logistic growth model,750,1,"['Logistic function', 'Generalised logistic function', 'Logistic regression', 'Intraspecific competition', 'Exponential growth', 'Pierre François Verhulst', 'Malthusian growth model', 'Growth', 'Logistic map', 'Latent growth modeling']",Logistic function
+198,199,long division,536,1,"['Long division', 'Polynomial long division', 'Long Division', 'Long Division (Low album)', 'Synthetic division', 'Division algorithm', 'Josie Long', 'Division (mathematics)', 'Euclidean division', 'Short division']",Long division
+199,200,lower limit of summation,1095,1,"['Riemann zeta function', 'Summation', 'Riemann sum', 'Winkler index', 'List of real analysis topics', 'Euler–Maclaurin formula', 'Internet checksum', 'Indefinite sum', 'Special relativity', 'Calculus']",Riemann zeta function
+200,201,Gauss,"826, 889",1,"['Carl Friedrich Gauss', 'GAUSS (software)', 'Gauss (surname)', ""Gauss's law"", 'Gauss (disambiguation)', 'Gaussian elimination', 'Gauss–Bonnet theorem', 'Coilgun', 'Gaussian quadrature', 'Gauss–Seidel method']",Gauss's law
+201,202,Gaussian elimination,"826, 891, 893",1,"['Gaussian elimination', 'Kernel (linear algebra)', 'LU decomposition', 'Gram–Schmidt process', 'Invertible matrix', 'Computational complexity of matrix multiplication', 'Michel Rolle', 'Numerical linear algebra', 'Row echelon form', 'Linear algebra']",Gaussian elimination
+202,203,general form,"462, 467",1,"[""L'Hôpital's rule"", 'Quintic function', 'Value-form', 'Plane (geometry)', 'Energy', ""Jensen's inequality"", 'System of linear equations', 'General strike', 'Modular form', 'Quadratic form']",L'Hôpital's rule
+203,204,general form of a quadratic function,469,1,"['Quadratic form', 'Quadratic function', 'Definite quadratic form', 'Binary quadratic form', 'Quadratic equation', 'Quadratic formula', 'Quadratic programming', 'Completing the square', 'Loss function', 'Quartic function']",Quadratic form
+204,205,general form of the equation of a circle,950,1,"['Circle', 'Quadratic equation', 'Equation', 'Diophantine equation', 'Parametric equation', 'Helmholtz equation', ""Laplace's equation"", 'Euler equations (fluid dynamics)', 'Analytic geometry', 'Cubic equation']",Circle
+205,206,general term,1048,1,"['Cold war (term)', 'Natural satellite', 'Attorney-General for India', 'Director-General of the BBC', 'Kaffir (racial term)', 'Neologism', 'Solicitor General of India', 'Gay', 'Black people', 'Artifact (archaeology)']",
+206,207,geometric sequence,"1079, 1083, 1098",1,"['Geometric progression', 'Arithmetico-geometric sequence', 'Geometric distribution', 'Geometric series', 'Coin problem', 'Arithmetic progression', 'Geometric mean', 'Arithmetic–geometric mean', 'Geometric Shapes (Unicode block)', 'British Association screw threads']",Geometric progression
+207,208,geometric series,1099,1,"['Geometric series', 'Geometric progression', 'Taylor series', 'Arithmetico-geometric sequence', 'Divergent geometric series', ""Grandi's series"", 'Power series', 'Geometric mean', 'Series (mathematics)', 'Geometry']",Geometric series
+208,209,global maximum,"526, 526",1,"['Maxima and minima', 'Maximum likelihood estimation', 'Maximum power point tracking', 'Maximum Ride', 'Arg max', 'E (mathematical constant)', 'Hill climbing', 'Concave function', 'Karush–Kuhn–Tucker conditions', 'Mathematical optimization']",Maxima and minima
+209,210,global minimum,"526, 526",1,"['Maxima and minima', 'Global minimum corporate tax rate', 'Mathematical optimization', 'Rosenbrock function', 'List of countries by minimum wage', 'Janet Yellen', 'False vacuum decay', 'Arg max', ""Karger's algorithm"", 'Neural tangent kernel']",Maxima and minima
+210,211,graph in two variables,104,1,"['Signal-flow graph', 'Graph of a function', 'Dependency graph', 'Scatter plot', 'Two-dimensional graph', 'Bond graph', 'Proportionality (mathematics)', 'Constraint graph', 'Strongly connected component', 'Graph coloring']",Graph of a function
+211,212,graphing,237,1,"['Graph', 'Graphing calculator', 'Desmos', 'Comparison of Texas Instruments graphing calculators', 'Grapher', 'Graph paper', 'GraphPad Software', 'Graph theory', 'GraphCalc', 'Comparison of HP graphing calculators']",Graph
+212,213,greatest common factor,"72, 72, 164",1,"['Greatest common divisor', 'Lowest common factor', 'Factorization', 'GCF', 'Euclidean algorithm', 'Max Factor (disambiguation)', 'Heronian triangle', 'Edge-transitive graph', 'Polynomial greatest common divisor', ""Birkhoff's representation theorem""]",Greatest common divisor
+213,214,growth mindset,57,1,"['Mindset', 'Carol Dweck', 'Goal orientation', 'Success', 'Jo Boaler', 'Psychology of learning', 'Bill Bowerman', 'Sammi Rotibi', 'Satya Nadella', 'Growth hacking']",
+214,215,icons,69,1,"['Icon', 'Iconic', 'Icon (computing)', 'Cultural icon', 'Favicon', 'Gay icon', 'Heroes & Icons', 'Russian icons', 'Icon Comics', 'ICon']",Iconic
+215,216,identity equation,120,1,"['Identity (mathematics)', ""Euler's identity"", ""Abel's identity"", 'Equation', 'List of trigonometric identities', 'Identity element', ""Wald's equation"", ""Bézout's identity"", 'Chapman–Kolmogorov equation', 'Curvature form']",Identity (mathematics)
+216,217,identity matrix,"906, 906, 911",1,"['Identity matrix', 'Woodbury matrix identity', 'Matrix (mathematics)', 'Rotation matrix', 'Orthogonal matrix', 'Elementary matrix', 'Unitary matrix', 'Invertible matrix', 'Determinant', 'Permutation matrix']",Identity matrix
+217,218,identity property of addition,18,1,"['Addition', 'List of trigonometric identities', 'Commutative property', 'Identity element', 'Equality (mathematics)', 'Rng (algebra)', 'Identity document', 'Proofs involving the addition of natural numbers', ""Euler's identity"", 'Exclusive or']",Addition
+218,219,identity property of multiplication,18,1,"['Multiplication', 'Identity element', 'Matrix multiplication', 'Rng (algebra)', 'Commutative property', 'Distributive property', 'Jacobi identity', 'Conversion of units', 'Identity matrix', 'Associative property']",Multiplication
+219,220,illustrations,69,1,"['Illustration', 'Fashion illustration', ""L'Illustration"", 'Botanical illustration', 'Archaeological illustration', 'Book illustration', 'Medical illustration', 'Biological illustration', 'Edmund Dulac', 'Technical illustration']",
+220,221,imaginary number,152,1,"['Imaginary number', 'Complex number', 'Imaginary unit', 'Imaginary', 'Quater-imaginary base', 'Number', 'Imaginary time', 'Totally imaginary number field', 'Class number problem', 'Complex plane']",Imaginary number
+221,222,Imaginary numbers,150,1,"['Imaginary number', 'Complex number', 'List of types of numbers', 'Imaginary unit', 'Mathematical joke', 'Imaginary Numbers (EP)', 'Real number', 'Imaginary time', 'Complex plane', 'Quater-imaginary base']",Imaginary number
+222,223,inconsistent equation,120,1,"['Consistent and inconsistent equations', 'System of linear equations', 'Overdetermined system', 'Linear equation', 'Einstein field equations', 'Dynamic inconsistency', 'Structural equation modeling', 'System of polynomial equations', 'Boltzmann equation', 'Elementary algebra']",Consistent and inconsistent equations
+223,224,inconsistent system,"803, 811, 830",1,"['Consistent and inconsistent equations', ""Gödel's incompleteness theorems"", 'Status inconsistency', 'Elementary algebra', 'System of linear equations', 'Cricket in Pakistan', 'Prior consistent statements and prior inconsistent statements', 'Ω-consistent theory', 'Overdetermined system', ""Popper's three worlds""]",Consistent and inconsistent equations
+224,225,increasing function,"268, 383",1,"['Monotonic function', 'Exponential growth', 'Copula (probability theory)', 'Production function', 'Sequence', 'Convex function', ""Markov's inequality"", ""Young's inequality for products"", 'Logarithm', 'Diminishing returns']",Monotonic function
+225,226,increasing linear function,383,1,"['Linear function (calculus)', 'Monotonic function', 'Generalized linear model', 'Linear predictor function', 'Activation function', 'Quantile function', 'Exponential growth', 'Linear regression', 'Linear discriminant analysis', 'Linear programming']",Linear function (calculus)
+226,227,independent system,803,1,"['Independent Subway System', 'Midcontinent Independent System Operator', 'California Independent System Operator', 'Independent politician', 'Independent Electricity System Operator', 'Regional transmission organization (North America)', 'Sympathetic nervous system', 'Parasympathetic nervous system', 'Independent voter', 'X Window System']",Midcontinent Independent System Operator
+227,228,independent variable,"213, 628",1,"['Dependent and independent variables', 'Independent and identically distributed random variables', 'Mediation (statistics)', 'Variable (mathematics)', 'Moderation (statistics)', 'Categorical variable', 'Omitted-variable bias', 'Control variable', 'Regression analysis', 'Confounding']",Dependent and independent variables
+228,229,index,"53, 53",1,"['Index', 'Web server directory index', 'Democracy Index', 'Human Development Index', 'Indian Institute of Management Lucknow', 'List of countries by Human Development Index', 'Refractive index', 'FTSE 100 Index', 'Air quality index', 'Index Librorum Prohibitorum']",
+229,230,index of summation,1095,1,"['Summation', 'Einstein notation', 'Divergent series', 'Index', 'Winkler index', 'Index of dissimilarity', 'Kahan summation algorithm', 'Matsubara frequency', 'Series (mathematics)', 'Abstract index notation']",Summation
+230,231,inequality,849,1,"['Inequality', 'Cauchy–Schwarz inequality', 'Economic inequality', 'Social inequality', ""Markov's inequality"", 'Gender inequality', 'List of countries by inequality-adjusted Human Development Index', 'Triangle inequality', ""Chebyshev's inequality"", 'Inequality (mathematics)']",Inequality
+231,232,infinite geometric sequence,1101,1,"['Geometric progression', 'Geometric series', 'Arithmetico-geometric sequence', 'Sequence', 'Geometric distribution', 'Arithmetic progression', 'Series (mathematics)', 'Limit of a sequence', 'Geometric lattice', 'Smoothness']",Geometric progression
+232,233,infinite sequence,"1048, 1052",1,"['Sequence', 'Series (mathematics)', 'Infinite monkey theorem', 'Bernoulli process', 'Thue–Morse sequence', 'Limit of a sequence', 'Path (graph theory)', 'Sequence space', 'Arithmetic progression', 'Actual infinity']",Sequence
+233,234,infinite series,1101,1,"['Series (mathematics)', 'Geometric series', 'Infinity', 'Infinite regress', 'Halo Infinite', 'Pi', 'Divergent series', 'Truncation error', 'Taylor series', 'Convergence tests']",Series (mathematics)
+234,235,input,214,1,"['Input', 'Input device', 'Input/output', 'Input mask', 'Input hypothesis', 'Input lag', 'Input method', 'Equivalent input', 'Input–output model', 'Touchscreen']",Input
+235,236,integers,"11, 14",1,"['Integer', 'Algebraic integer', 'Gaussian integer', 'Coprime integers', 'Integer programming', 'Natural number', 'Integer factorization', 'Almost integer', 'Integer (computer science)', 'Eisenstein integer']",Algebraic integer
+236,237,intercepts,106,1,"['Interception', 'Y-intercept', 'The Intercept', 'Intercept', 'The Interception', 'Mall intercept', 'Intercept message', 'Interception (water)', 'Lawful interception', 'Postal interception']",Y-intercept
+237,238,Intermediate Value Theorem,"523, 523",1,"['Intermediate value theorem', ""Darboux's theorem (analysis)"", 'Mean value theorem', 'Completeness of the real numbers', 'Complex conjugate root theorem', 'Least-upper-bound property', 'Nonstandard calculus', 'Constructive analysis', 'Continuous function', 'Ham sandwich theorem']",Intermediate value theorem
+238,239,interpolation,439,1,"['Interpolation', 'Interpolation (disambiguation)', 'Linear interpolation', 'Bilinear interpolation', 'Trilinear interpolation', 'Bicubic interpolation', 'Lagrange polynomial', 'Spline interpolation', 'String interpolation', 'Polynomial interpolation']",Interpolation
+239,240,intersection,1135,1,"['Intersection', 'Intersectionality', 'Intersection (road)', 'Intersection (disambiguation)', 'Intersection (set theory)', 'Intersection (aeronautics)', 'Intersection (group)', 'Intersection syndrome', 'Tendinous intersection', 'Protected intersection']",Intersection
+240,241,interval,191,1,"['Interval', 'Confidence interval', 'Interval (mathematics)', 'Interval (music)', 'QT interval', 'PR interval', 'Interval training', 'Interval tree', 'Binomial proportion confidence interval', 'Prediction interval']",Interval
+241,242,interval notation,"191, 237, 241, 268",1,"['Interval (mathematics)', 'Partially ordered set', 'Octave', 'Just intonation', 'Braille music', 'Unit interval', 'Chord notation', 'Set-builder notation', 'Standard atomic weight', 'Commission on Isotopic Abundances and Atomic Weights']",Interval (mathematics)
+242,243,inverse function,"351, 597",1,"['Inverse function', 'Inverse function theorem', 'Inverse trigonometric functions', 'Inverse hyperbolic functions', 'Inverse demand function', 'Inverse function rule', 'Multiplicative inverse', 'Quantile function', 'Ackermann function', 'Function composition']",Inverse function
+243,244,inverse matrix,"911, 912",1,"['Invertible matrix', 'Moore–Penrose inverse', 'Symplectic matrix', 'Woodbury matrix identity', 'Orthogonal matrix', 'Inverse problem', 'Matrix (mathematics)', 'Inverse iteration', 'Eigendecomposition of a matrix', 'Inverse']",Invertible matrix
+244,245,inverse of a radical function,600,1,"['Inverse trigonometric functions', 'Function (mathematics)', 'Algebraic function', 'Differentiation of trigonometric functions', 'Equation solving', 'Square (algebra)', 'Differential of a function', 'Exponentiation', 'Solution in radicals', 'Free-radical theory of aging']",Inverse trigonometric functions
+245,246,inverse of a rational function,602,1,"['Inverse function', 'Inverse hyperbolic functions', 'Elementary function', 'Multiplicative inverse', 'Quantile function', 'Monotonic function', 'Function (mathematics)', 'Additive inverse', 'Algebraic function', 'Function composition']",Inverse function
+246,247,inverse property of addition,19,1,"['Additive inverse', 'Addition', 'Inverse-square law', 'Inverse limit', 'Inverse trigonometric functions', 'Inverse element', 'Inverse problem', 'Triangle inequality', 'Inversive geometry', 'Inverse dynamics']",Additive inverse
+247,248,inverse property of multiplication,19,1,"['Multiplicative inverse', 'Matrix multiplication', 'Multiplication', 'Inverse element', 'Inverse', 'Invertible matrix', 'Quasigroup', 'Dirichlet convolution', 'Hadamard product (matrices)', 'Additive inverse']",Multiplicative inverse
+248,249,inverse variation,611,1,"['Proportionality (mathematics)', 'Inverse trigonometric functions', 'Tf–idf', 'Calculus of variations', 'Laplace transform', 'Fast inverse square root', 'Inverse problem', 'Inverse function theorem', 'Woodbury matrix identity', 'Sharpshooter (professional wrestling)']",Proportionality (mathematics)
+249,250,inverse variations,612,1,"['Proportionality (mathematics)', 'Inverse trigonometric functions', 'Tf–idf', 'Calculus of variations', 'Fourier transform', 'Fast inverse square root', 'Inverse function theorem', 'Inverse problem', 'Variational principle', 'Integral of inverse functions']",Proportionality (mathematics)
+250,251,inversely proportional,612,1,"['Proportionality (mathematics)', 'Inverse-square law', ""Boyle's law"", ""Newton's law of universal gravitation"", 'Gas laws', 'PID controller', ""Graham's law"", 'Proportional-fair scheduling', ""Coulomb's law"", 'Frequency']",Proportionality (mathematics)
+251,252,inverses,346,1,"['Inverse element', 'Generalized inverse', 'Inverse', 'Additive inverse', 'Inverse function', 'Modular multiplicative inverse', 'Left inverse', 'Group inverse', 'Multiplicative inverse', 'Invertible matrix']",Inverse element
+252,253,invertible functions,595,1,"['Inverse function', 'Power inverter', 'Surjective function', 'Solar inverter', 'Inverse function theorem', 'Invertible matrix', 'Bijection', 'Monotonic function', 'Injective function', 'Diffeomorphism']",Inverse function
+253,254,invertible matrix,"906, 924",1,"['Invertible matrix', 'Triangular matrix', 'Definite matrix', 'Diagonalizable matrix', 'General linear group', 'Adjugate matrix', 'Square matrix', 'Matrix (mathematics)', 'Orthogonal matrix', 'Transpose']",Invertible matrix
+254,255,irrational numbers,"12, 14",1,"['Irrational number', 'List of numbers', 'Transcendental number', 'Quadratic irrational number', 'Number', 'Rational number', 'Real number', 'Mathematics in the medieval Islamic world', 'Multiplicative inverse', 'Sexagesimal']",Irrational number
+255,256,joint variation,613,1,"['Proportionality (mathematics)', 'Joint', 'Miter joint', 'Expansion joint', 'Multivariate statistics', 'Ehlers–Danlos syndromes', 'Constant-velocity joint', 'Synovial joint', 'Factor analysis', 'Anatomical variation']",Proportionality (mathematics)
+256,257,half-life,"734, 743",1,"['Half-life', 'Half-Life (video game)', 'Half-Life (series)', 'Half-Life 2', 'Half-Life: Alyx', 'Characters of Half-Life', 'Biological half-life', 'Half-Life 2: Episode Two', 'Half-Life: Blue Shift', 'List of radioactive nuclides by half-life']",Half-life
+257,258,heading,69,1,"['Heading', 'Heading (navigation)', 'Heading for Tomorrow', 'Attitude and heading reference system', 'Heading South', 'Double heading', 'Medical Subject Headings', 'Heading indicator', 'Heading for the East', 'Heading (metalworking)']",Heading
+258,259,Heaviside method,862,1,"['Oliver Heaviside', 'Heaviside step function', 'Heaviside cover-up method', 'Kennelly–Heaviside layer', 'Heaviside (disambiguation)', 'Level-set method', 'Operational calculus', 'Loading coil', 'Cats (musical)', 'Morse code']",Heaviside step function
+259,260,horizontal asymptote,"569, 575, 577",1,"['Asymptote', 'Limit of a function', 'Exponential function', 'Gompertz function', 'Truncus (mathematics)', 'Extended real number line', 'Tractrix', 'Sigmoid function', 'Komabayashi–Ingersoll limit', 'Schild regression']",Asymptote
+260,261,magnitude,"252, 305",1,"['Magnitude', 'Apparent magnitude', 'Order of magnitude', 'Seismic magnitude scales', 'Magnitude (astronomy)', 'Absolute magnitude', 'Moment magnitude scale', 'Richter magnitude scale', 'Orders of magnitude (mass)', 'Magnitude (mathematics)']",Magnitude
+261,262,main diagonal,891,1,"['Main diagonal', 'Diagonal', 'Diagonal matrix', 'Diagonalization', 'Square matrix', 'Block matrix', 'Tridiagonal matrix', 'Matrix (mathematics)', 'Hermitian matrix', 'Trace (linear algebra)']",Main diagonal
+262,263,major and minor axes,954,1,"['Semi-major and semi-minor axes', 'Principal axis theorem', 'Circumference', 'Area of a circle', 'Elliptical polarization', 'Great-circle distance', 'Circle–ellipse problem', 'Galaxy filament', 'Perpendicular', 'Image moment']",Semi-major and semi-minor axes
+263,264,major axis,"952, 956",1,"['Semi-major and semi-minor axes', 'Axis powers', 'Total least squares', 'Planet Nine', 'Ellipse', 'Orbital period', 'Elliptic orbit', ""Kepler's laws of planetary motion"", 'Hyperbolic trajectory', 'Latitude']",Semi-major and semi-minor axes
+264,265,matrix,"870, 873, 873, 889",1,"['Matrix', 'The Matrix', 'Matrix (mathematics)', 'The Matrix Resurrections', 'Rotation matrix', 'The Matrix (franchise)', 'Matrix multiplication', 'Transpose', 'Definite matrix', 'The Matrix Revolutions']",Matrix (mathematics)
+265,266,matrix multiplication,"879, 907, 912",1,"['Matrix multiplication', 'Matrix multiplication algorithm', 'Computational complexity of matrix multiplication', 'Matrix chain multiplication', 'Matrix (mathematics)', 'Rotation matrix', 'Diagonal matrix', 'Invertible matrix', 'DFT matrix', 'Sparse matrix']",Matrix multiplication
+266,267,matrix operations,873,1,"['Matrix (mathematics)', 'Invertible matrix', 'Matrix multiplication', 'Diagonal matrix', 'Sparse matrix', 'Block matrix', 'Transpose', 'Matrix addition', 'Computational complexity of matrix multiplication', 'Elementary matrix']",Matrix (mathematics)
+267,268,maximum value,466,1,"['Maxima and minima', 'Maximum flow problem', 'Maximum likelihood estimation', 'Full width at half maximum', 'Arg max', 'Maximum modulus principle', 'Kroger', 'Mode (statistics)', 'Maximum-value composite procedure', 'Threshold limit value']",Maxima and minima
+268,269,midpoint formula,111,1,"['Midpoint', 'Section formula', 'Midpoint method', 'Midpoint theorem', 'Arc elasticity', 'Riemann sum', 'Midpoint circle algorithm', ""Simpson's rule"", 'Cubic equation', 'Newton–Cotes formulas']",Midpoint
+269,270,mind map,69,1,"['Mind map', 'List of concept- and mind-mapping software', 'MindMapper', 'Concept map', 'Topic map', 'Argument map', 'Cognitive map', 'FreeMind', 'Mind42', 'Edraw Max']",Mind42
+270,271,minimum value,466,1,"['Maxima and minima', 'Minimum efficiency reporting value', 'Extreme value theorem', 'Mathematical optimization', 'Arg max', 'Minimum viable product', 'Mex (mathematics)', 'Principle of minimum energy', 'Box plot', 'Gumbel distribution']",Maxima and minima
+271,272,minor axis,952,1,"['Semi-major and semi-minor axes', 'Axis powers', 'Latitude', 'Spheroid', 'Ellipse', 'Eccentricity (mathematics)', 'Earth ellipsoid', 'World Geodetic System', 'Earth radius', ""Kepler's laws of planetary motion""]",Semi-major and semi-minor axes
+272,273,minor of an entry,903,1,"['Minor (linear algebra)', 'United States Minor Outlying Islands', 'Barriers to entry', 'Entryism', 'Meanings of minor-planet names', 'Minor ice hockey', 'List of major World War II warships built by minor powers', 'Minor Hotels', 'Fugue', 'List of minor planet discoverers']",Minor (linear algebra)
+273,274,model breakdown,438,1,"['Dielectric breakdown model', 'Work breakdown structure', 'Ford C4 transmission', 'Cascade Model of Relational Dissolution', 'STRIDE (security)', 'Time-dependent gate oxide breakdown', 'BMW Z4 (E85)', 'Waterfall model', 'Swiss cheese model', 'AIBO']",
+274,275,modulus,252,1,"['Modulus', ""Young's modulus"", 'Section modulus', 'Elastic modulus', 'Shear modulus', 'Bulk modulus', 'Modulus modulus', 'Tangent modulus', 'Modulo operation', 'Flexural modulus']",Modulus
+275,276,monomial,"60, 486",1,"['Monomial', 'Monomial basis', 'Monomial order', 'Monomial ideal', 'Monomial representation', 'Generalized permutation matrix', 'Basis function', 'Symmetric polynomial', 'Monomial group', 'Gröbner basis']",Monomial
+276,277,Multiplication Principle,"1110, 1113",1,"['Rule of product', 'Peter principle', 'Multiplication algorithm', 'Multiplicative order', 'Lattice multiplication', 'Karatsuba algorithm', 'Uncertainty principle', 'Multiplication theorem', 'Commutative property', 'Principal component analysis']",Rule of product
+277,278,multiplication property,192,1,"['Multiplication', 'Commutative property', 'Distributive property', 'Associative property', 'Matrix multiplication', 'Zero-product property', 'Dot product', 'Computational complexity of matrix multiplication', 'Multiplicative inverse', 'Elliptic curve point multiplication']",Multiplication
+278,279,multiplicative inverse,"908, 909",1,"['Multiplicative inverse', 'Modular multiplicative inverse', 'Finite field arithmetic', 'Extended Euclidean algorithm', 'Inverse element', 'Invertible matrix', 'Multiplicative group of integers modulo n', 'Inverse function', 'Fast inverse square root', 'Modular arithmetic']",Multiplicative inverse
+279,280,multiplicative inverse of a matrix,"906, 906",1,"['Multiplicative inverse', 'Matrix multiplication', 'Invertible matrix', 'Computational complexity of matrix multiplication', 'Inverse element', 'Inverse', 'Matrix field', 'Moore–Penrose inverse', 'Hadamard product (matrices)', 'Orthogonal matrix']",Multiplicative inverse
+280,281,multiplicity,"516, 517",1,"['Multiplicity', 'Eigenvalues and eigenvectors', 'Multiplicity (film)', 'Multiplicity (mathematics)', 'Multiplicity (chemistry)', 'Gender', 'Multiplicity theory', 'Multiplicity of infection', ""Hund's rule of maximum multiplicity"", 'Multiplicity (psychology)']",Multiplicity
+281,282,mutually exclusive,1109,1,"['Mutual exclusivity', 'Mutual exclusion', 'Probability', 'Disjoint sets', 'Work breakdown structure', 'Internal rate of return', 'Collectively exhaustive events', 'Independence (probability theory)', 'And/or', 'Mutual exclusivity (psychology)']",Probability
+282,283,mutually exclusive events,1136,1,"['Mutual exclusivity', 'Collectively exhaustive events', 'Probability', 'Mutual exclusion', 'Disjoint sets', 'Independence (probability theory)', 'Probability space', 'Conditional probability', 'Complementary event', 'Probability theory']",Collectively exhaustive events
+283,284,n factorial,1060,1,"['Factorial', 'Double factorial', 'Falling and rising factorials', 'Factorial number system', 'Exponential factorial', 'Factorial prime', 'Standard ML', 'Alternating factorial', 'Haskell features', 'Volume of an n-ball']",Factorial
+284,285,natural exponential function,631,1,"['Exponential function', 'E (mathematical constant)', 'Natural logarithm', 'Exponential family', 'Stretched exponential function', 'Exponential distribution', 'Exponential growth', 'Characterizations of the exponential function', 'Natural exponential family', 'Half-exponential function']",Exponential function
+285,286,natural logarithm,"676, 729",1,"['Natural logarithm', 'Logarithm', 'Natural logarithm of 2', 'E (mathematical constant)', 'Common logarithm', 'History of logarithms', 'Exponential function', 'Complex logarithm', 'Binary logarithm', 'Logarithmic derivative']",Natural logarithm
+286,287,natural numbers,"11, 14, 213",1,"['Natural number', 'Addition', 'List of numbers', 'Number', '1 + 2 + 3 + 4 + ⋯', 'Prime number', 'Integer', 'Set-theoretic definition of natural numbers', 'Mathematical induction', 'Real number']",Natural number
+287,288,negative association,434,1,"['Negative number', 'Association (psychology)', 'Implicit-association test', 'Mister Negative', 'Gruel', 'Geopolitics', 'Procrastination', 'Negative liberty', 'Woke', 'Emotional intelligence']",Negative number
+288,289,Newton’s Law of Cooling,749,1,"[""Newton's law of cooling"", ""Newton's law"", 'Convection (heat transfer)', 'Thermal conduction', 'Lumped-element model', 'Isaac Newton', ""Newton's Law (TV series)"", 'Mpemba effect', 'Heat transfer', 'Newton scale']",Newton's law of cooling
+289,290,nominal rate,641,1,"['Nominal interest rate', 'List of countries by GDP (nominal)', 'Effective interest rate', 'Annual percentage rate', 'List of countries by GDP (nominal) per capita', 'Real versus nominal value (economics)', 'Exchange rate', 'Interest rate', 'Compound interest', 'Fisher effect']",Nominal interest rate
+290,291,nondegenerate conic sections,1013,1,"['Conic section', 'Degeneracy (mathematics)', ""Segre's theorem"", 'Steiner conic', 'Oval (projective plane)', 'Quadratic form', 'Quadric', 'Enumerative geometry', 'Duality (projective geometry)', 'Spinor']",Conic section
+291,292,nonlinear inequality,849,1,"[""Young's inequality for products"", ""Grönwall's inequality"", 'Nonlinear programming', 'Karush–Kuhn–Tucker conditions', 'Gagliardo–Nirenberg interpolation inequality', 'Sobolev inequality', 'Constrained optimization', 'Constraint (mathematics)', 'Cutting-plane method', 'Louis Nirenberg']",Young's inequality for products
+292,293,notes during class,69,1,"['Note (perfumery)', 'Note-taking', 'Samsung Galaxy Note series', 'Tironian notes', 'First-class citizen', 'Charles F. Adams-class destroyer', 'W and Z-class destroyer', 'Power amplifier classes', 'List of federal political scandals in the United States', 'Gerald R. Ford-class aircraft carrier']",
+293,294,Notice,970,1,"['Notice', 'Burn Notice', 'Interpol notice', 'Notice and notice', 'Notice period', 'Public notice', 'Red Notice (film)', 'DSMA-Notice', 'Constructive notice', 'Copyright notice']",
+294,295,nth partial sum,1094,1,"['1 + 2 + 3 + 4 + ⋯', 'Series (mathematics)', 'Convergent series', ""Fejér's theorem"", 'Divergence of the sum of the reciprocals of the primes', 'Partial correlation', 'Dirac delta function', 'Partial permutation', 'List of trigonometric identities', 'Taylor series']",1 + 2 + 3 + 4 + ⋯
+295,296,nth term of the sequence,"1048, 1051, 1052",1,"['Integer sequence', 'The Nth Degree', 'Double exponential function', 'Toy program', 'On-Line Encyclopedia of Integer Sequences', 'Arithmetico-geometric sequence', 'Completeness of the real numbers', 'Sequence', ""Lazy caterer's sequence"", 'Fibonacci number']",Integer sequence
+296,297,polar equation,1029,1,"['Polar coordinate system', 'Pedal curve', 'Binet equation', 'Golden spiral', 'Spiral', 'Butterfly curve (transcendental)', 'Taft equation', ""Fermat's spiral"", 'Cardioid', 'Strophoid']",Polar coordinate system
+297,298,polar form of a conic,1036,1,"['Matrix representation of conic sections', 'Conic section', 'Pole and polar', 'Polar coordinate system', 'Parabola', 'Limaçon', 'Eccentricity (mathematics)', 'Duality (projective geometry)', 'Von Staudt conic', 'Generalized conic']",Matrix representation of conic sections
+298,299,polynomial,"60, 60, 486, 551",1,"['Polynomial', 'Time complexity', 'Characteristic polynomial', 'Polynomial regression', 'Lagrange polynomial', 'Chebyshev polynomials', 'Cyclic redundancy check', 'Degree of a polynomial', 'NP (complexity)', 'Irreducible polynomial']",Polynomial
+299,300,polynomial equation,"180, 547",1,"['Algebraic equation', 'Polynomial', 'Equation', 'Diophantine equation', 'Cubic equation', 'Quadratic equation', 'System of polynomial equations', 'Quartic function', 'Characteristic polynomial', 'Complex number']",Algebraic equation
+300,301,polynomial function,"494, 511, 518, 524",1,"['Polynomial', 'Zero of a function', 'Quadratic function', 'Hermite polynomials', 'Linear function', 'Rational function', 'Polynomial interpolation', 'Degree of a polynomial', 'Algebraic function', 'Chebyshev polynomials']",Polynomial
+301,302,positive association,434,1,"['FKG inequality', 'Positive stereotype', 'Positive psychology', 'Positive disintegration', 'Red meat', 'Positive feedback', 'Implicit-association test', 'Positive liberty', 'Nitrosamine', 'Association (psychology)']",FKG inequality
+302,303,power function,"487, 489",1,"['Exponentiation', 'Truncated power function', 'Power rule', 'Spectral density', 'Zero to the power of zero', 'Power law', 'Gamma function', 'Beta function', 'Analytic function', 'Generating function']",Exponentiation
+303,304,Power Property,707,1,"['Property', 'Intellectual property', 'Property is theft!', 'Eminent domain', 'Property law', 'Property tax', 'Private property', 'Sound power', 'Property crime', 'Intensive and extensive properties']",
+304,305,power rule for logarithms,"714, 718",1,"['History of logarithms', 'Power rule', 'Natural logarithm', 'Common logarithm', 'List of logarithmic identities', 'Logarithm', 'Slide rule', 'Exponentiation', 'Rule of 72', 'Index of logarithm articles']",History of logarithms
+305,306,principal nth root,"52, 53",1,"['Nth root', 'Root of unity', 'Square root', 'Exponentiation', 'Cube root', 'Discrete Fourier transform over a ring', 'Chinese mathematics', 'Methods of computing square roots', 'Tetration', 'Square root of 7']",Nth root
+306,307,principal square root,"47, 47",1,"['Square root', 'Square root of a matrix', 'Radical symbol', 'Methods of computing square roots', 'Nth root', 'Square root of 2', 'Square root of 3', 'Imaginary unit', 'Square root of 5', 'Square root of 6']",Square root
+307,308,probability,1133,1,"['Probability', 'Probability distribution', 'Bayesian probability', 'Conditional probability', 'Probability theory', 'Poisson distribution', 'Binomial distribution', 'Poker probability', 'Probability density function', 'Outage probability']",Probability
+308,309,probability model,"1131, 1133",1,"['Statistical model', 'Linear probability model', 'Generalized linear model', 'Generative model', 'Perplexity', 'Naive Bayes classifier', 'Binomial distribution', 'Hidden Markov model', 'Language model', 'Logistic regression']",Statistical model
+309,310,probability of an event,1131,1,"['Event (probability theory)', 'Probability', 'Probability space', 'Conditional probability', 'Probability theory', 'Almost surely', 'Independence (probability theory)', 'Probability distribution', 'Probability axioms', 'Law of total probability']",Event (probability theory)
+310,311,product of two matrices,878,1,"['Hadamard product (matrices)', 'Matrix multiplication', 'Kronecker product', 'Frobenius inner product', 'Product (mathematics)', 'Matrix (mathematics)', 'Characteristic polynomial', 'Khatri–Rao product', 'List of named matrices', 'Trace (linear algebra)']",Hadamard product (matrices)
+311,312,Product Property,707,1,"['Zero-product property', 'Kronecker product', 'Hadamard product (matrices)', 'Triple product property', 'Euler characteristic', 'Dot product', 'Tensor product', 'Property', 'Cross product', 'Intellectual property']",Zero-product property
+312,313,product rule for logarithms,"712, 714",1,"['Product rule', 'History of logarithms', 'Slide rule', 'Logarithm', 'Quotient rule', 'List of trigonometric identities', 'List of logarithmic identities', 'Natural logarithm', 'Logarithmic differentiation', 'Logarithmic derivative']",Product rule
+313,314,profit function,814,1,"['Profit maximization', 'Nonprofit organization', 'Loss function', 'Classical general equilibrium model', 'Profit (accounting)', 'Newsvendor model', 'Implicit function', ""Hotelling's lemma"", 'Zero-profit condition', 'Profit (economics)']",Profit maximization
+314,315,properties of determinants,930,1,"['Determinant', 'Hyperdeterminant', 'Slater determinant', 'Orthogonal matrix', 'Risk factor', 'Cayley–Hamilton theorem', 'Integer matrix', 'Dieudonné determinant', 'Epitope', 'Leibniz formula for determinants']",Determinant
+315,316,Proxima Centauri,744,1,"['Proxima Centauri', 'Proxima Centauri b', 'Alpha Centauri', 'Proxima Centauri c', 'Proxima Centauri d', 'Breakthrough Starshot', 'Proxima Centauri (disambiguation)', 'BLC1', 'Akaa Solar System Scale Model', 'Solar System']",Proxima Centauri (disambiguation)
+316,317,Pythagorean Theorem,"108, 174",1,"['Pythagorean theorem', 'Law of cosines', 'Inverse Pythagorean theorem', 'Pythagorean expectation', 'Pythagorean triple', 'Euclidean distance', ""Fermat's Last Theorem"", 'Shulba Sutras', 'Pythagoras', 'Right triangle']",Pythagorean theorem
+317,318,recursive formula,"1057, 1071, 1072, 1085",1,"['Recursion', 'Binomial coefficient', 'Recursion (disambiguation)', ""Ward's method"", 'Partial correlation', 'Recursion (computer science)', 'Primitive recursive function', 'Recursive language', ""Graham's number"", 'Recursive partitioning']",Recursion
+318,319,Reflect,69,1,"['Reflectance', 'Reflection', 'Reflecting telescope', 'Reflecting pool', 'Macrium Reflect', 'The Reflecting Skin', 'Reflecting instrument', 'Reflectativity', 'Skin reflectance', 'Reflecting roadstud']",
+319,320,reflection,"660, 696",1,"['Reflection', 'Reflection (physics)', 'Specular reflection', 'Reflections', 'Reflection formula', 'Diffuse reflection', 'Reflection coefficient', 'Celebrity Reflection', 'Reflection (mathematics)', 'Reflective programming']",Specular reflection
+320,321,regression analysis,"765, 769, 772",1,"['Regression analysis', 'Linear regression', 'Logistic regression', 'Dummy variable (statistics)', 'Segmented regression', 'Polynomial regression', 'Time series', 'Poisson regression', 'Robust regression', 'Quantile regression']",Regression analysis
+321,322,regression line,440,1,"['Linear regression', 'Regression analysis', 'Simple linear regression', 'Distance from a point to a line', 'Ordinary least squares', 'Regression toward the mean', 'Isotonic regression', 'Regression dilution', 'Polynomial regression', 'Deming regression']",Linear regression
+322,323,relation,"209, 213, 237",1,"['Relation', 'Social relation', 'Dispersion relation', 'Equivalence relation', 'Binary relation', 'Transitive relation', 'Recurrence relation', 'Antisymmetric relation', 'Einstein relation', 'Relationism']",Relation
+323,324,remainder,537,1,"['Remainder', 'Chinese remainder theorem', 'Remainder (disambiguation)', 'Remainder theorem', 'Remaindered book', 'Euclidean division', 'Charitable Remainder Annuity Trust', 'Remainder (film)', ""Taylor's theorem"", 'Remainderman']",Remainder
+324,325,Remainder Theorem,549,1,"['Chinese remainder theorem', ""Taylor's theorem"", 'Remainder theorem', 'Polynomial remainder theorem', 'Remainder', 'Euclidean division', 'RSA (cryptosystem)', 'Euclidean algorithm', 'Synthetic division', ""Wilson's theorem""]",Chinese remainder theorem
+325,326,removable discontinuity,"573, 574",1,"['Classification of discontinuities', 'Removable', 'Removable singularity', 'Singularity (mathematics)', 'Regression discontinuity design', 'Discontinuities of monotone functions', 'Gutenberg discontinuity', 'Oscillation (mathematics)', 'Bounded variation', 'Persistence (discontinuity)']",Classification of discontinuities
+326,327,Restricting the domain,358,1,"['Restriction (mathematics)', 'Complex plane', 'Truncated distribution', 'Relational database', 'Top-level domain', 'Inverse function', 'Web portal', 'Sponsored top-level domain', 'Register (sociolinguistics)', 'Internationalized domain name']",Restriction (mathematics)
+327,328,revenue function,814,1,"['Inverse demand function', 'Total revenue', 'Profit maximization', 'Marginal revenue', 'Demand', 'Ministry of Finance (India)', 'Monopoly', 'Oligopoly', 'Economy', 'Internal Revenue Service']",Inverse demand function
+328,329,Richter Scale,670,1,"['Richter magnitude scale', 'Charles Francis Richter', 'Moment magnitude scale', 'Seismic magnitude scales', 'Back in Business (EPMD album)', 'Max Richter', 'Richter', 'Gerhard Richter', 'Saffir–Simpson scale', 'Logarithmic scale']",Moment magnitude scale
+329,330,right section,69,1,"['Cylinder', 'Section', 'Right-wing politics', 'Caesarean section', 'Alt-right', 'Section 377', 'Section 375', 'Section modulus', 'Section sign', 'Cross section (physics)']",Cylinder
+330,331,roots,466,1,"['Root (disambiguation)', 'The Roots', 'Roots Bloody Roots', 'List of Greek and Latin roots in English', 'Roots music', 'The Grass Roots', 'No Roots', 'Back to the Roots', 'Roots Canada', 'Baba Roots']",
+331,332,roster notation,1131,1,"['Set (mathematics)', 'List of current XFL team rosters', 'Set-builder notation', 'Portable Game Notation', 'List of current USFL team rosters', 'List of current NFC team rosters', 'List of current AFC team rosters', 'Mallory Pugh', 'List of Great Northern Railway (U.S.) locomotives', '4-6-6-4']",Set (mathematics)
+332,333,row,873,1,"['Row', 'Row, Row, Row Your Boat', 'Saints Row', 'Death Row Records', 'Death row', 'Barley', 'Carnival Row', 'Savile Row', 'Billionaires Row', 'Skid row (disambiguation)']",
+333,334,row matrix,873,1,"['Row and column vectors', 'Rank (linear algebra)', 'Row and column spaces', 'Matrix (mathematics)', 'Transpose', 'Sparse matrix', 'Elementary matrix', 'Matrix multiplication', 'Gaussian elimination', 'Row echelon form']",Row and column vectors
+334,335,row operations,"891, 893, 895, 908, 910, 910, 911",1,"['Elementary matrix', 'Gaussian elimination', 'Row equivalence', 'Row echelon form', 'Rank (linear algebra)', 'Row and column spaces', 'Linear subspace', 'Column-oriented DBMS', 'Matrix (mathematics)', 'Allan B. Polunsky Unit']",Elementary matrix
+335,336,row-echelon form,"886, 891, 893, 894",1,"['Row echelon form', 'Gaussian elimination', 'Row and column spaces', 'Rank (linear algebra)', 'Elementary matrix', 'Linear subspace', 'Row equivalence', 'Echelon', 'Canonical form', 'Rank factorization']",Row echelon form
+336,337,row-equivalent,891,1,"['Row equivalence', 'Row echelon form', 'Row- and column-major order', 'Invertible matrix', 'Rank (linear algebra)', 'Matrix equivalence', 'Row and column spaces', 'Tone row', 'Spectral leakage', 'Voiced pharyngeal fricative']",Row equivalence
+337,338,odd function,317,1,"['Even and odd functions', 'Symmetry in mathematics', 'Parity (mathematics)', 'Error function', 'Borsuk–Ulam theorem', 'Sign function', 'Odd', 'Rounding', 'Cubic function', 'Hermitian function']",Even and odd functions
+338,339,one-to-one,"654, 670, 711, 718",1,"['One-to-one', 'Xbox One', '-one', 'Formula One', 'One-to-one (data model)', 'One to One (Apple)', 'One Day International', 'BBC One', 'And One', 'Hoka One One']",
+339,340,one-to-one function,"226, 348, 351",1,"['Injective function', 'One-to-one', 'Bijection', 'One-way compression function', 'One-way function', 'Xbox One', 'Loss function', 'One-to-one (data model)', 'One, No One and One Hundred Thousand', 'Trapdoor function']",Injective function
+340,341,order of magnitude,744,1,"['Order of magnitude', 'Cost estimate', 'Orders of magnitude (numbers)', 'Magnitude (mathematics)', 'Magnitude', 'Orders of magnitude (time)', 'Orders of magnitude (energy)', 'Angular velocity', 'Orders of magnitude (length)', 'Mining feasibility study']",Order of magnitude
+341,342,order of operations,15,1,"['Order of operations', 'Operations order', 'Operations Order No. 35', 'Order of battle for Operation Barbarossa', 'Bitwise operation', 'Infix notation', 'Operand', 'Operation Dragoon order of battle', 'Operation Herrick order of battle', 'Operation Husky order of battle']",Order of operations
+342,343,ordered pair,"102, 213, 242",1,"['Ordered pair', 'Tuple', 'Integer', 'Partially ordered set', 'Cartesian product', 'Unordered pair', 'Total order', 'Graph (discrete mathematics)', 'Naive set theory', 'New Foundations']",Ordered pair
+343,344,ordered triple,"822, 826",1,"['Tuple', 'Ordered pair', 'System of linear equations', 'Graph theory', 'Jacobi identity', 'Graph (discrete mathematics)', 'Triple E-class container ship', 'Betweenness', 'Multigraph', 'Three-dimensional space']",Tuple
+344,345,origin,"102, 339",1,"['Origin', 'Origin (service)', 'Blue Origin', 'UBlock Origin', 'Origin (mathematics)', 'On the Origin of Species', 'Origin myth', 'Origines', 'Origin (Origin album)', 'Pokémon Origins']",Origin (mathematics)
+345,346,outcome,1109,1,"['Outcome', 'Outcome (probability)', 'Love & the Outcome', 'Equality of outcome', 'Outcome measure', 'Outcome bias', 'Glasgow Outcome Scale', 'The Outcome', 'Outcome-based education', 'Outcome primacy']",Outcome
+346,347,outcomes,1133,1,"['Outcome', 'Outcome (probability)', 'Executive Outcomes', 'Outcomes research', 'Ocean Outcomes', 'Love & the Outcome', 'Outcome measure', 'Outcome-based education', 'Outcome bias', 'Equality of outcome']",Outcome
+347,348,output,214,1,"['Output', 'Input/output', 'Cardiac output', 'Output device', 'List of countries by GDP sector composition', 'Output (economics)', 'Output elasticity', 'Transmitter power output', 'Output compare', 'Input–output model']",Output
+348,349,quadrant,102,1,"['Quadrant', 'Quadrants and regions of abdomen', 'Quadrant (plane geometry)', 'Quadrant (instrument)', 'Four-quadrant movie', 'List of Star Trek regions of space', 'Galactic quadrant', 'Quadrant dentistry', 'TRIAC', 'Magic Quadrant']",Quadrant (plane geometry)
+349,350,quadratic,"864, 866",1,"['Quadratic', 'Quadratic equation', 'Quadratic formula', 'Quadratic programming', 'Quadratically constrained quadratic program', 'Quadratic form', 'Quadratic function', 'Quadratic algebra', 'Quadratic field', 'Quadratic voting']",Quadratic
+350,351,quadratic equation,"164, 164, 170, 171",1,"['Quadratic equation', 'Quadratic formula', 'Quadratic function', 'Conic section', 'Elementary algebra', 'Completing the square', 'Quadratic', 'Algebraic equation', 'Quartic equation', 'Algebra']",Quadratic equation
+351,352,quadratic formula,"171, 172, 173",1,"['Quadratic formula', 'Quadratic equation', 'Glomerular filtration rate', 'Completing the square', 'Quadratic', 'Quadratic function', 'Numeric precision in Microsoft Excel', 'Discriminant', 'Solving quadratic equations with continued fractions', 'TeX']",Quadratic formula
+352,353,quadratic function,"462, 462, 469, 472",1,"['Quadratic function', 'Quadratic equation', 'Quadratic programming', 'Loss function', 'Quadratic formula', 'Linear–quadratic regulator', 'Quadratic', 'Quartic function', 'Completing the square', 'Convex function']",Quadratic function
+353,354,quotient,537,1,"['Quotient', 'Intelligence quotient', 'Equivalence class', 'Quotient ring', 'Quotient space', 'Quotient type', 'Quotient rule', 'Quotient (disambiguation)', 'Respiratory quotient', 'Quotient group']",Quotient
+354,355,Quotient Property,707,1,"['Quotient ring', 'Equivalence class', 'Intelligence quotient', 'Quotient space (topology)', 'Quotient rule', 'Emotional intelligence', 'Quotient group', 'Euclidean division', 'Kolmogorov space', 'Rayleigh quotient']",Quotient ring
+355,356,quotient rule for logarithms,713,1,"['Quotient rule', 'Signal-to-noise ratio', 'List of logarithmic identities', 'Slide rule', 'Logarithm', 'Product rule', 'Logarithmic derivative', 'Differentiation rules', 'Exponentiation', ""L'Hôpital's rule""]",Quotient rule
+356,357,sample space,1133,1,"['Sample space', 'Probability space', 'Probability theory', 'Probability distribution', 'Sampling (signal processing)', 'Random variable', 'Event (probability theory)', 'Mars sample-return mission', 'Experiment (probability theory)', 'Outcome (probability)']",Sample space
+357,358,sample space S,1131,1,"['Sample space', 'Mars sample-return mission', 'Sampling (signal processing)', ""Student's t-test"", 'Probability space', 'Sample-return mission', 'Small-bias sample space', 'Sample size determination', 'Chinese space program', 'Sample complexity']",Sample space
+358,359,scalar,876,1,"['Scalar', 'Scalar (mathematics)', 'Diagonal matrix', 'Scalar field', 'Electric potential', 'Triple product', 'Dot product', 'Scalar processor', 'Vector space', 'Scalar multiplication']",Scalar
+359,360,scalar multiple,"871, 876",1,"['Scalar multiplication', 'Diagonal matrix', 'Scalar (mathematics)', 'Scalar processor', ""Schur's lemma"", 'Eigenvalues and eigenvectors', 'Vector notation', 'Linear independence', 'Electric potential', 'Superscalar processor']",Scalar multiplication
+360,361,scalar multiplication,876,1,"['Scalar multiplication', 'Vector space', 'Elliptic curve point multiplication', 'Matrix (mathematics)', 'Scalar (mathematics)', 'Dot product', 'Diagonal matrix', 'Euclidean vector', 'Linear algebra', 'Scalar (physics)']",Scalar multiplication
+361,362,scatter plot,"436, 762",1,"['Scatter plot', 'Volcano plot (statistics)', 'Q–Q plot', 'Box plot', 'Partial regression plot', 'Rug plot', 'Scatter', 'Partial residual plot', 'Violin plot', 'Scree plot']",Scatter plot
+362,363,scatterplot,434,1,"['Scatter plot', 'Scatterplot smoothing', 'Local regression', 'Plot (graphics)', 'Chart', 'Iris flower data set', 'Bivariate analysis', 'Draft lottery (1969)', 'Exploratory data analysis', 'Goodman relation']",Scatter plot
+363,364,scientific notation,"39, 39, 40",1,"['Scientific notation', 'Scientific pitch notation', 'Engineering notation', 'Notation', 'Scientific calculator', 'Power of 10', 'Mathematical notation', 'Crore', 'Reverse Polish notation', 'Decade (log scale)']",Scientific notation
+364,365,sequence,"1048, 1050, 1052, 1069",1,"['Sequence', 'Sequence diagram', 'The Sequence', 'Fibonacci number', 'Sequencer', 'Sequence (game)', 'Sequence homology', 'Cauchy sequence', 'Genome', 'Insertion sequence']",Sequence
+365,366,series,"1092, 1094",1,"['Series', 'Television show', 'World Series', 'Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series', 'List of Hercules (1998 TV series) episodes', 'Honda CBR series', 'XXX (film series)', '2002 World Series of Poker', 'Golden Globe Award for Best Television Series – Drama', 'List of World Series champions']",
+366,367,set-builder notation,"191, 244",1,"['Set-builder notation', 'Set (mathematics)', 'Cartesian product', 'Notation', 'Union (set theory)', 'List comprehension', 'Equality (mathematics)', 'Glossary of mathematical symbols', 'Intersection (set theory)', 'Naive set theory']",Set-builder notation
+367,368,sigma,1095,1,"['Sigma', 'Six Sigma', 'Sigma Sigma Sigma', 'Sigma Sigma', 'Standard deviation', 'Sigma Sigma Phi', 'Sigma Chi', 'Gamma Sigma Sigma', 'Sigma-Aldrich', 'Sigma bond']",Sigma
+368,369,slope,"125, 259, 382",1,"['Slope', 'Slippery slope', 'Grade (slope)', 'Slope mining', 'Park Slope', 'Slope stability analysis', 'Sloper', 'Slope Point', 'Dry ski slope', 'Slope field']",Slope
+369,370,slope-intercept,378,1,"['Linear equation', 'Slope', 'Linear function (calculus)', 'Y-intercept', 'Third-order intercept point', ""Bresenham's line algorithm"", 'Line (geometry)', 'Simple linear regression', 'Secant method', 'Hough transform']",Linear equation
+370,371,slope-intercept form,"381, 382, 386",1,"['Linear equation', 'Y-intercept', 'Slope', 'Linear function (calculus)', 'Canonical form', ""Bresenham's line algorithm"", 'Third-order intercept point', 'Secant method', 'Progressive tax', 'Line (geometry)']",Linear equation
+371,372,smooth curve,501,1,"['Curve', 'Smoothing', 'Bézier curve', 'Local regression', 'Schoenflies problem', 'Plane curve', 'Smoothness', 'French curve', 'Convex curve', 'Curve fitting']",Curve
+372,373,solution set,"120, 826",1,"['Solution set', 'System of linear equations', 'Feasible region', 'Equation solving', 'Empty set', 'Final Solution', 'Extraneous and missing solutions', 'Solution (chemistry)', 'Branch and bound', 'NP-completeness']",Solution set
+373,374,Solutions,822,1,"['Solution', 'Aqueous solution', 'Jacobs Solutions', 'Tally Solutions', 'Alight Solutions', 'Final Solution', 'Motorola Solutions', 'Solution (chemistry)', 'Skyworks Solutions', 'POS Solutions']",
+374,375,solving systems of linear equations,807,1,"['System of linear equations', 'Quantum algorithm for linear systems of equations', 'List of algorithms', 'Gaussian elimination', 'Diophantine equation', 'Equation solving', 'Coefficient matrix', 'Linear differential equation', 'Nonlinear system', 'Matrix decomposition']",System of linear equations
+375,376,square matrix,"873, 902, 924",1,"['Square matrix', 'Matrix (mathematics)', 'Square root of a matrix', 'Invertible matrix', 'Transpose', 'Orthogonal matrix', 'Triangular matrix', 'Identity matrix', 'Trace (linear algebra)', 'Unitary matrix']",Square matrix
+376,377,square root property,"169, 948",1,"['Square root of 2', 'Square root', 'Methods of computing square roots', 'Fast inverse square root', 'Square root of a matrix', 'Square root of 3', 'Square root of 6', 'Square root of 5', 'Imaginary unit', 'Square root of 7']",Square root of 2
+377,378,square trinomial,948,1,"['Completing the square', 'Perfect square', 'Factorization', 'Montessori sensorial materials', 'Quadratic function', 'Binomial (polynomial)', 'Sign test', 'Rationalisation (mathematics)', '800 (number)', 'Northern white rhinoceros']",Completing the square
+378,379,standard form,128,1,"['Standard form', 'Standard Form 86', 'Standard form contract', 'Standard Form 50', 'Standard Chinese', 'Frénicle standard form', 'Skolem normal form', 'Standard Written Form', 'Polynomial', 'Canonical form']",Standard form
+379,380,standard form of a quadratic function,469,1,"['Quadratic function', 'Quadratic form', 'Quadratic formula', 'Quadratic equation', 'Quadratic programming', 'Normal distribution', 'Standard deviation', 'Loss function', 'Square (algebra)', 'Polynomial']",Quadratic function
+380,381,standard or graphing form,949,1,"['Graphing calculator', 'Standard Written Form', 'Graph database', 'GraphPad Software', 'Graph Query Language', 'Graph coloring', 'Laplacian matrix', 'Complement graph', 'TI-83 series', 'Complete bipartite graph']",Laplacian matrix
+381,382,stretch,658,1,"['Stretch', 'Gary Stretch', 'Stretching', 'IBM 7030 Stretch', 'Stretch reflex', 'Stretch (rapper)', 'Stretch receptor', 'Stretch Armstrong', 'Stretch marks', 'Stretch four']",Stretch
+382,383,subsets,45,1,"['Subset', 'Subset sum problem', 'Agreeable subset', 'Total subset', 'Multiple subset sum', 'Locally closed subset', 'Open set', 'Compact space', 'Set (mathematics)', 'Dense set']",Subset
+383,384,substitution method,806,1,"['Substitution method', 'Tangent half-angle substitution', 'Integration by substitution', 'Substitution', 'Epsilon calculus', 'Substitution cipher', 'Method of successive substitution', 'Constrained optimization', 'Integration by parts', 'Liskov substitution principle']",Tangent half-angle substitution
+384,385,summarizing the important concepts,69,1,"['Basic Concepts in Sociology', 'Automatic summarization', 'High concept', 'Concept', 'Concept map', 'Introduction (writing)', 'Reciprocal teaching', 'Concept learning', 'Executive summary', 'Macrostructure (linguistics)']",Executive summary
+385,386,summary,69,1,"['Summary', 'Summary execution', 'Executive summary', 'Summary offence', 'Summary statistics', 'Abstract (summary)', 'Summary judgment', 'Summary justice', 'BBC News', 'Summary relative']",Summary
+386,387,radical,"47, 47",1,"['Radical', 'Radical feminism', 'Radical (chemistry)', 'Radical Republicans', 'Radical left', 'Kangxi radical', 'Radical politics', 'Radical Party (France)', 'Radical of a ring', 'Radical centrism']",Radical
+387,388,radical equation,182,1,"['Elementary algebra', 'Cubic equation', 'Radical (chemistry)', 'Algebraic equation', 'Quartic equation', 'Nested radical', 'Abel–Ruffini theorem', 'Quintic function', 'Solution in radicals', 'Drake equation']",Elementary algebra
+388,389,radical expression,"47, 47",1,"['Nth root', 'Nested radical', 'Radical', 'Fraction', 'Gay Shame', 'Radical feminism', 'Trigonometric substitution', 'Radical Reformation', 'Solution in radicals', 'Kangxi radical']",Nth root
+389,390,Radical expressions,53,1,"['Nth root', 'Nested radical', 'Radical', 'Fraction', 'Trigonometric substitution', 'Kangxi radical', 'Radical feminism', 'Root of unity', 'Factorization', ""African-American women's suffrage movement""]",Nth root
+390,391,radical functions,595,1,"['Radical of an integer', 'Radical feminism', 'Function (mathematics)', 'Radical (chemistry)', 'Radical politics', 'Bring radical', 'Solution in radicals', 'Antioxidant', 'Inverse trigonometric functions', 'Free-radical theory of aging']",Radical of an integer
+391,392,radicand,"47, 47, 182",1,"['Nth root', 'Square root', 'Order of operations', 'Vinculum (symbol)', 'Summation', 'Product (mathematics)', 'Division (mathematics)', 'Gardner–Salinas braille codes', 'Remainder', 'Shifting nth root algorithm']",Nth root
+392,393,radiocarbon dating,747,1,"['Radiocarbon dating', 'Radiocarbon dating of the Shroud of Turin', 'Radiocarbon dating considerations', 'Radiocarbon dating samples', 'Before Present', 'Absolute dating', 'Radiocarbon dating in Hawaii', 'Radiometric dating', 'Radiocarbon calibration', 'Accelerator mass spectrometry']",Radiocarbon calibration
+393,394,radius,949,1,"['Radius', 'RADIUS', 'Earth radius', 'Radius (bone)', 'Solar radius', 'Atomic radius', 'Lantern Entertainment', 'Schwarzschild radius', 'Ionic radius', 'Blast radius']",Radius
+394,395,range,"210, 214, 237, 679",1,"['Range', 'Mountain range', 'The Range', 'Outer Range', 'Range Rover', 'Vocal range', 'Caren Range', 'Himalayas', 'Interquartile range', 'Cascade Range']",Interquartile range
+395,396,rate of change,"262, 421",1,"['Rate of change', 'Rate (mathematics)', 'Exchange rate', 'Frequency', 'Rate', 'Strain rate', 'Angular frequency', 'Shear rate', 'Accelerating change', 'Wall Street Journal prime rate']",Rate (mathematics)
+396,397,rational equation,123,1,"['Algebraic expression', 'Diophantine equation', 'Algebraic equation', 'Rational root theorem', 'Parametric equation', 'Equation', 'Cubic equation', 'Quadratic equation', 'Equation solving', 'Degree of a differential equation']",Algebraic expression
+397,398,rational expression,"84, 121, 860, 861, 866",1,"['Rational expression', 'Algebraic expression', 'Rational function', 'Regular expression', 'Rational number', 'Regular language', ""Bhaskara I's sine approximation formula"", 'Algebraic fraction', 'Algebraically closed field', 'Closed-form expression']",Rational expression
+398,399,rational function,"571, 579, 583",1,"['Rational function', 'Asymptote', 'Polynomial', 'List of integrals of rational functions', 'Limit of a function', 'Rational number', 'Gamma function', 'Dirichlet function', 'Orthogonal functions', 'Generating function']",Rational function
+399,400,rational number,121,1,"['Rational number', 'Irrational number', 'P-adic number', 'Real number', 'Number', 'Transcendental number', 'Continued fraction', 'Fraction', 'Diophantine approximation', 'Decimal']",Rational number
+400,401,rational numbers,"11, 14",1,"['Rational number', 'Integer', 'Irrational number', 'Real number', 'List of types of numbers', 'Number', 'List of numbers', 'Construction of the real numbers', 'Algebraic number', 'Completeness of the real numbers']",Rational number
+401,402,Rational Zero Theorem,"551, 552",1,"['Rational root theorem', 'Lindemann–Weierstrass theorem', ""Rolle's theorem"", 'Rational point', 'Zeros and poles', 'Rational number', 'Factor theorem', ""Doob's martingale convergence theorems"", 'Field (mathematics)', 'Modularity theorem']",Rational root theorem
+402,403,real number line,13,1,"['Number line', 'Extended real number line', 'Real number', 'Completeness of the real numbers', 'Projectively extended real line', 'Hyperreal number', 'Aleph number', 'Real projective line', 'Long line (topology)', 'Real analysis']",Number line
+403,404,real numbers,13,1,"['Real number', 'Complex number', 'Construction of the real numbers', 'Positive real numbers', 'Completeness of the real numbers', 'Number', 'Real analysis', 'Transcendental number', 'Computable number', 'List of numbers']",Real number
+404,405,reciprocal,"130, 350, 490",1,"['Reciprocal', 'Reciprocal lattice', 'Multiplicative inverse', 'Lineweaver–Burk plot', 'Reciprocal liking', 'Reciprocal altruism', 'Symmetric-key algorithm', 'Brillouin zone', 'Reciprocal length', 'Reciprocal determinism']",Reciprocal
+405,406,reciprocal function,565,1,"['Multiplicative inverse', 'Reciprocal gamma function', 'Reciprocal distribution', 'Reciprocal lattice', 'Reciprocal', 'Inverse distribution', 'Entire function', 'Holomorphic function', 'Chain rule', 'Reciprocal rule']",Multiplicative inverse
+406,407,parabola,"462, 466, 473, 837, 843, 989, 995, 999, 999, 1000, 1004, 1028, 1030, 1031",1,"['Parabola', 'Parabola (disambiguation)', 'Quadrature of the Parabola', 'Parabola GNU/Linux-libre', 'Conic section', 'Parabola (song)', 'Semicubical parabola', 'Paraboloid', 'Evolute', 'Parabola Films']",Parabola
+407,408,parallel,129,1,"['Parallel', 'Parallel and counter parallel', 'The Parallel', 'Parallel World', 'Parallel computing', 'Parallel universe', 'Antarctica', 'Parallel processing', 'Parallel thinking', 'Parallels']",Parallel
+408,409,parallel lines,"403, 405",1,"['Parallel Lines', 'Parallel (geometry)', 'Parallel lines (disambiguation)', 'Driver: Parallel Lines', 'Convergence of parallel lines', 'Parallel postulate', 'Parallel projection', 'Perpendicular', 'Distance between two parallel lines', 'Skew lines']",Parallel (geometry)
+409,410,parent function,689,1,"['Parent function', 'B-heap', 'Parenting', 'Function (computer programming)', 'Parent process', 'Single parent', 'Parent–teacher association', 'Parenting styles', 'Disjoint-set data structure', 'Parent material']",Parent function
+410,411,partial fraction,860,1,"['Partial fraction decomposition', 'Laplace transform', 'Mole fraction', 'Fraction', 'Partial pressure', 'Algebraic fraction', 'Partial derivative', 'Continued fraction', 'Sine and cosine', 'Partial fractions in complex analysis']",Partial fraction decomposition
+411,412,partial fraction decomposition,"860, 861",1,"['Partial fraction decomposition', 'Binomial coefficient', 'Algebraic fraction', 'Integral of the secant function', 'Chinese remainder theorem', 'Fraction', 'Fibonacci number', 'Lowest common denominator', 'Rational function', 'PFD']",Partial fraction decomposition
+412,413,Pascal's Triangle,1126,1,"[""Pascal's triangle"", ""Pascal's Triangle Revisited"", 'Sierpiński triangle', ""Pascal's pyramid"", ""Pascal's rule"", 'Blaise Pascal', ""Singmaster's conjecture"", ""Bernoulli's triangle"", 'Binomial coefficient', 'Hockey-stick identity']",Pascal's triangle
+413,414,Pascal’s Triangle,1122,1,"[""Pascal's triangle"", 'Sierpiński triangle', ""Pascal's Triangle Revisited"", ""Pascal's rule"", ""Pascal's pyramid"", ""Singmaster's conjecture"", 'Blaise Pascal', ""Floyd's triangle"", ""Lozanić's triangle"", 'Multinomial distribution']",Pascal's triangle
+414,415,perfect square trinomial,64,1,"['Perfect square', 'Factorization', 'Completing the square', 'Mersenne prime', 'Mandelbulb', 'Finite field', 'Shiso', 'Omar Khayyam']",Perfect square
+415,416,periapsis,1028,1,"['Apsis', 'Argument of periapsis', 'Longitude of the periapsis', 'Oberth effect', 'Orbital elements', 'Hyperbolic trajectory', 'Orbit', 'Orbital speed', 'Lunar orbit', 'Orbital inclination change']",Apsis
+416,417,perimeter,142,1,"['Perimeter', 'Perimeter (disambiguation)', 'Wetted perimeter', 'Perimeter fence', 'Circumference', 'Chamber', 'Perimeter Church', 'Battle of Pusan Perimeter', 'Perimeter Aviation', 'All round defence']",Perimeter
+417,418,permutation,1113,1,"['Permutation', 'Permutation group', 'Permutation test', 'Cyclic permutation', 'Permutation matrix', 'Combinations and permutations', 'Parity of a permutation', 'Permutation (disambiguation)', 'Random permutation', 'Levi-Civita symbol']",Permutation
+418,419,perpendicular,130,1,"['Perpendicular', 'Perpendicular Gothic', 'Length between perpendiculars', 'Perpendicular recording', 'Perpendicular (disambiguation)', 'Perpendicular axis theorem', 'Perpendicular plate', 'Bisection', 'English Gothic architecture', 'Point Perpendicular']",Perpendicular
+419,420,perpendicular lines,"404, 405",1,"['Perpendicular', ""Langer's lines"", 'Right angle', 'Perpendicular distance', 'Perpendicular Gothic', 'Trilinear coordinates', 'Perpendicular (disambiguation)', 'Cartesian coordinate system', 'Hemocytometer', 'Tangential quadrilateral']",Perpendicular
+420,421,pH,710,1,"['PH', 'PH meter', 'Soil pH', 'PH indicator', 'Buffer solution', 'Aspirated consonant', 'Acid–base homeostasis', 'Intracellular pH', 'H. P. Lovecraft', 'Pourbaix diagram']",Pourbaix diagram
+421,422,piecewise function,252,1,"['Piecewise', 'Piecewise linear function', 'Step function', 'Heaviside step function', 'Sign function', 'Triangular function', 'Domain of a function', 'Ramp function', 'Kronecker delta', 'Window function']",Piecewise
+422,423,piecewise functions,1054,1,"['Piecewise', 'Piecewise linear function', 'Step function', 'Triangular function', 'Sign function', 'Domain of a function', 'Waveshaper', 'Heaviside step function', 'PDIFF', 'Linear function']",Piecewise
+423,424,plane,821,1,"['Plane', 'De plane! De plane!', 'E-plane and H-plane', 'Plane (geometry)', 'Sagittal plane', 'Plane (film)', 'Astral plane', 'Median plane', 'Plane joint', 'Planer']",Plane (geometry)
+424,425,point-slope form,386,1,"['Linear equation', 'Slope', 'Tangent', 'Linear function (calculus)', 'Linearization', 'Plane (geometry)', 'Dip slope', 'Slope field', 'Slippery slope', 'Analytic geometry']",Linear equation
+425,426,point-slope formula,"131, 978",1,"['Linear equation', 'Slope', 'Tangent', 'Distance from a point to a line', 'Sloped armour', 'Numerical differentiation', 'Differential calculus', 'Derivative', 'Izbash formula', 'Log–log plot']",Linear equation
+426,427,turning point,"499, 520",1,"['Turning Point USA', 'Turning Point', 'Charlie Kirk (activist)', 'Turning Point UK', 'Turning Point Action', 'Climax (narrative)', 'Lewis turning point', 'The Turning Point (1977 film)', 'Turning Point (Mario album)', 'David Jeremiah']",
+427,428,volume of a sphere,489,1,"['Sphere', 'N-sphere', 'Sphere packing', 'On the Sphere and Cylinder', 'The Method of Mechanical Theorems', 'Cylinder', 'Napkin ring problem', 'Archimedes', ""Cavalieri's principle"", 'Volume of an n-ball']",Sphere
+428,429,whole numbers,"11, 14",1,"['Whole number', 'Integer', 'List of types of numbers', 'Multiplication', 'Natural number', 'Addition', 'Chinese numerals', 'Negative number', 'Number', 'Whole Numbers Play the Basics']",Whole number
+429,430,union of two events,1135,1,"['Acts of Union 1707', 'List of UFC events', 'Soviet Union', 'List of WWE pay-per-view and WWE Network events', 'Dissolution of the Soviet Union', 'European Union', 'Union Jack', 'Two by Twos', 'Rugby union', 'List of Olympic medalists in figure skating']",
+430,431,upper limit of summation,1095,1,"['Cesàro summation', 'Summation', 'Central limit theorem', 'Poisson summation formula', 'Series (mathematics)', 'Riemann sum', 'List of real analysis topics', 'Winkler index', 'Internet checksum', 'Indefinite sum']",Cesàro summation
+431,432,upper triangular form,826,1,"['Triangular matrix', 'QR decomposition', 'Schur decomposition', 'LU decomposition', ""Engel's theorem"", 'Determinant', 'Hessenberg matrix', 'Triangular distribution', 'Ulna', 'Perron–Frobenius theorem']",Triangular matrix
+432,433,x-axis,102,1,"['Cartesian coordinate system', 'Parallel axis theorem', 'Rotation matrix', 'Second moment of area', 'Moment of inertia', 'Exponential function', 'Puppet Master (film series)', 'Mass spectrum', 'List of second moments of area', 'Semi-log plot']",Cartesian coordinate system
+433,434,x-coordinate,102,1,"['Cartesian coordinate system', 'Coordinate system', 'Spherical coordinate system', 'Cylindrical coordinate system', 'Polar coordinate system', 'Astronomical coordinate systems', 'Analytic geometry', 'Abscissa and ordinate', 'Equatorial coordinate system', 'Coordinate descent']",Cartesian coordinate system
+434,435,x-intercept,"106, 399",1,"['Intercept', 'Y-intercept', 'Linear equation', 'Zero of a function', 'Inverse demand function', 'Lineweaver–Burk plot', 'Standard addition', 'Linear function (calculus)', 'Quadratic equation', 'Third-order intercept point']",Intercept
+435,436,xx-intercept,564,1,"['Super Bowl XX', 'Coefficient of multiple correlation', 'Simple linear regression', 'Residual sum of squares', 'List of HTTP status codes', 'Dave Duerson', 'Double-Cross System', 'XXX: Return of Xander Cage', 'Leslie Frazier', 'Super Bowl XXX']",Coefficient of multiple correlation
+436,437,summation notation,"1092, 1095",1,"['Summation notation', 'Einstein notation', 'Summation', 'Feynman slash notation', 'Mathematical notation', '1 − 2 + 3 − 4 + ⋯', '1/2 + 1/4 + 1/8 + 1/16 + ⋯', 'Polynomial', 'Ramanujan summation', 'Mathematics']",Summation notation
+437,438,surface area,595,1,"['Surface area', 'Surface-area-to-volume ratio', 'Body surface area', 'Total body surface area', 'Polar surface area', 'Specific surface area', 'Accessible surface area', 'List of countries and dependencies by area', 'Area', 'Surface tension']",Surface area
+438,439,symmetric,462,1,"['Symmetry', 'Symmetric matrix', 'Symmetric difference', 'Symmetric-key algorithm', 'Symmetric group', 'Skew-symmetric matrix', 'Symmetric equilibrium', 'Symmetric in Design', 'Symmetric relation', 'Symmetric space']",Symmetric matrix
+439,440,synthetic division,"540, 553",1,"['Synthetic division', 'Synthetic Division (album)', 'Polynomial long division', 'Division (mathematics)', 'Polynomial', 'Polynomial remainder theorem', 'Synthetic CDO', 'Remainder', ""Horner's method"", 'Long division']",Synthetic division
+440,441,system of equations,"889, 890, 893, 894, 913",1,"['System of equations', 'System of linear equations', 'Nonlinear system', 'System of differential equations', 'System of polynomial equations', 'Diophantine equation', 'Ordinary differential equation', 'Consistent and inconsistent equations', 'Equation', 'System of bilinear equations']",System of equations
+441,442,system of linear equations,"426, 803, 805, 806",1,"['System of linear equations', 'System of equations', 'Nonlinear system', 'Linear equation', 'Linear differential equation', 'Diophantine equation', 'Overdetermined system', 'Equation', 'Elementary algebra', 'Kernel (linear algebra)']",System of linear equations
+442,443,system of nonlinear equations,843,1,"['Nonlinear system', 'System of equations', 'Nonlinear Schrödinger equation', ""Broyden's method"", 'Nonlinear partial differential equation', 'Consistent and inconsistent equations', 'List of nonlinear partial differential equations', 'System of polynomial equations', 'Hyperbolic partial differential equation', 'Lorenz system']",Nonlinear system
+443,444,system of nonlinear inequalities,850,1,"['Nonlinear programming', 'Karush–Kuhn–Tucker conditions', ""Farkas' lemma"", ""Grönwall's inequality"", 'Observability', 'List of optimization software', 'Chaos theory', 'Input-to-state stability', 'Linear programming', 'Relaxation (iterative method)']",Nonlinear programming
+444,445,system of three equations in three variables,927,1,"['System of linear equations', ""Green's function for the three-variable Laplace equation"", 'Equations of motion', 'Overdetermined system', 'Equation', 'Simultaneous equations model', 'Differential-algebraic system of equations', 'Euler equations (fluid dynamics)', 'System of polynomial equations', 'Partial differential equation']",System of linear equations
+445,446,y-axis,102,1,"['Cartesian coordinate system', 'Y-intercept', 'Moment of inertia', 'Rotation matrix', 'Parabola', 'Perpendicular axis theorem', 'List of second moments of area', 'Scale cube', 'Solid of revolution', 'Mass spectrum']",Cartesian coordinate system
+446,447,y-coordinate,102,1,"['Cartesian coordinate system', 'Spherical coordinate system', 'Coordinate system', 'Y-intercept', 'Cylindrical coordinate system', 'Equatorial coordinate system', 'Polar coordinate system', 'Analytic geometry', 'Singularity (mathematics)', 'Universal Transverse Mercator coordinate system']",Cartesian coordinate system
+447,448,y-intercept,"106, 382",1,"['Y-intercept', 'Linear equation', 'Intercept', 'Lineweaver–Burk plot', 'Secondary plot (kinetics)', 'Linear function (calculus)', 'Simple linear regression', 'Y-factor', 'Inverse demand function', 'Arrhenius plot']",Y-intercept
+448,449,yy-intercept,564,1,"['Residual sum of squares', 'Simple linear regression', 'Partial correlation', 'Meanings of minor planet names: 7001–8000', 'HTTP cookie', 'Legendre transformation', 'North Korea', 'List of mathematical uses of Latin letters', 'Republic of China Air Force', 'Finite difference']",Residual sum of squares
+449,450,Zero Product Property,509,1,"['Zero-product property', 'Domain (ring theory)', 'Zero divisor', 'Dot product', 'Integral domain', 'Ordinal arithmetic', 'Cross product', 'Tensor product', 'Product measure', 'Zero Deposit']",Zero-product property
+450,451,zero-product property,164,1,"['Zero-product property', 'Domain (ring theory)', 'Zero divisor', 'Dot product', 'Integral domain', 'Ordinal arithmetic', 'Cross product', 'Tensor product', 'Zero Deposit', 'Product measure']",Zero-product property
+451,452,zeros,"466, 512, 517, 553",1,"['0', 'ZeroZeroZero', 'Riemann hypothesis', 'Edward Sharpe and the Magnetic Zeros', 'The Zeros', 'Riemann zeta function', 'Zeros and poles', 'Trailing zero', 'Leading zero', 'ZeroZeroZero (album)']",Riemann zeta function
+452,453,Zeros of the Function,548,1,"['Zero of a function', 'Riemann zeta function', 'Riemann hypothesis', 'Zeros and poles', 'Loss function', 'Quadratic function', '0', 'Hardy–Littlewood zeta-function conjectures', 'Function (mathematics)', 'Airy function']",Zero of a function
+453,454,term,"486, 1048, 1050, 1069",1,"['Term', 'Term paper', 'Term limit', 'Cracker (term)', '86 (term)', 'Academic term', 'Lolita (term)', 'Michaelmas term', 'Term of endearment', 'Term of office']",
+454,455,term of a polynomial,"60, 60",1,"['Polynomial', 'Degree of a polynomial', 'Constant term', 'Polynomial long division', 'Characteristic polynomial', 'Elementary symmetric polynomial', 'Coefficient', 'Order of a polynomial', 'Homogeneous polynomial', 'Polynomial interpolation']",Polynomial
+455,456,term of a polynomial function,494,1,"['Polynomial', 'Linear function', 'Homogeneous polynomial', 'Zero of a function', 'Degree of a polynomial', 'Quadratic function', 'Algebraic function', 'Quartic function', 'Legendre polynomials', 'Polynomial long division']",Polynomial
+456,457,test questions,69,1,"['Test of English as a Foreign Language', 'Exam', 'Multiple choice', 'Cognitive reflection test', 'Skill testing question', 'SAT', 'ACT (test)', 'Criterion-referenced test', 'Turing test', 'Standardized test']",
+457,458,The loudness level D,741,1,"['Loudness', 'Loudness war', 'Equal-loudness contour', 'Phon', 'EBU R 128', 'Audio normalization', 'A-weighting', 'LKFS', 'Sone', 'Hyperacusis']",Phon
+458,459,transformation,"303, 395",1,"['Transformation', 'Transformation matrix', 'Affine transformation', 'Lorentz transformation', 'Transformation (function)', 'Unitary transformation', 'Energy transformation', 'Transformation (genetics)', 'Digital transformation', 'Möbius transformation']",Transformation
+459,460,transformations,300,1,"['Transformation', 'Transformation matrix', 'Möbius transformation', 'Transformation (function)', 'Diffusionless transformation', 'Affine transformation', 'Lorentz transformation', 'Transformation semigroup', 'Galilean transformation', 'Unitary transformation']",Transformation
+460,461,translation,956,1,"['Translation', 'Google Translate', 'Literal translation', 'Network address translation', 'Machine translation', 'Translation (geometry)', 'In Translation', 'Translation studies', '...In Translation', 'Lost in Translation']",Translation (geometry)
+461,462,transverse axis,"969, 973",1,"['Transverse axis', 'Semi-major and semi-minor axes', 'Flight control surfaces', 'Aircraft principal axes', 'Transverse engine', 'Six degrees of freedom', 'Pitch angle', 'Vertical-axis wind turbine', 'Pitch', 'Axis (anatomy)']",Semi-major and semi-minor axes
+462,463,trinomial,"60, 486",1,"['Trinomial', 'Trinomial coefficient', ""Pascal's pyramid"", 'Trinomial expansion', 'Trinomial nomenclature', 'Multinomial theorem', 'Smithsonian trinomial', 'Trinomial tree', 'Trinomial triangle', 'Elkies trinomial curves']",Trinomial
+463,464,variable,20,1,"['Variable', 'Dependent and independent variables', 'Random variable', 'Categorical variable', 'Environment variable', 'Free variables and bound variables', 'PATH (variable)', 'Variable star', 'Variable yield', 'Control variable']",Variable
+464,465,varies directly,"609, 610",1,"['Atmospheric pressure', 'Vibrato', 'Cold inflation pressure', 'Freundlich equation', 'Affinity laws', 'Easterlin paradox', 'Alternator', 'Karlovy Vary', 'Governor (device)', 'Shunt generator']",
+465,466,varies inversely,612,1,"['Inverse-square law', 'Proportionality (mathematics)', 'Vulval vestibule', 'Law of demand', 'Numerical aperture', 'Gravity of Earth', 'Inverse care law', 'Dollar cost averaging', 'Nabarro–Herring creep', 'Shunt generator']",Inverse-square law
+466,467,vertex,"462, 466, 953, 953, 969, 996, 1003",1,"['Vertex', 'Vertex cover', 'Vertex (geometry)', 'Vertex (graph theory)', 'Graph coloring', 'Degree (graph theory)', 'Shader', 'Vertex (company)', 'Wavefront .obj file', 'Vertex Pharmaceuticals']",Vertex
+467,468,vertex form of a quadratic function,468,1,"['Quadratic function', 'Quadratic equation', 'Quadratic formula', 'Completing the square', 'Feynman diagram', 'Parabola', 'Conic section', 'Dirichlet form', 'Cubic', 'E8 lattice']",Quadratic function
+468,469,vertical asymptote,"568, 571, 577",1,"['Asymptote', 'Vertical tangent', 'Improper integral', 'Singularity (mathematics)', 'Truncus (mathematics)', 'Direct comparison test', 'VA', 'Analytic geometry', 'Learning curve', 'Trigonometric functions']",Asymptote
+469,470,vertical compression,319,1,"['Compression molding', 'Compression garment', 'Vertebral compression fracture', 'ANIM', 'SAP HANA', 'Howe truss', 'Vertical volute spring suspension', 'Blocking (construction)', 'Compression (geology)', 'Group 4 compression']",
+470,471,vertical line,"128, 401, 402",1,"['Vertical bar', 'Vertical line test', 'Vertical and horizontal', 'List of anatomical lines', 'Distance from a point to a line', 'Linear equation', 'Parasternal line', 'Diacritic', 'True vertical depth', 'Vertical tangent']",Vertical line test
+471,472,vertical line test,"227, 348",1,"['Vertical line test', 'Horizontal line test', 'Vertical and horizontal', 'VTOL', 'Maddox rod', 'Future Vertical Lift', 'Vertical blanking interval', 'Subjective visual vertical', 'Analog television', 'United States Army Physical Fitness Test']",Vertical line test
+472,473,vertical reflection,312,1,"['Frieze group', 'Klein four-group', 'Tetromino', 'Reflection (mathematics)', 'Reflection seismology', 'Vertical and horizontal', 'Reflection (physics)', 'Light pillar', 'Orbifold notation', 'Wallpaper group']",Frieze group
+473,474,vertical shift,"303, 395, 651, 656, 691, 749",1,"['Translation (geometry)', 'Vertical bar', 'Ever Stays Red', 'Vertical displacement', 'Motions in the time-frequency distribution', 'Shift JIS', 'Shift key', 'Tilt–shift photography', 'Cinematography', 'Volvo 164']",Translation (geometry)
+474,475,vertical stretch,"319, 395, 693",1,"['Spaghettification', 'List of tallest mountains in the Solar System', 'Vertical jump', 'Webcam', 'Knitting', 'Knitted fabric', 'Grain (textile)', 'Stretch wrap', 'Extended Display Identification Data', 'Pente']",
+475,476,vertices,"953, 954",1,"['Vertex', 'Vertex (graph theory)', 'Graph (discrete mathematics)', 'Vertex (geometry)', 'Graph theory', 'Tree (graph theory)', 'Icosahedron', 'Tetrahedron', 'Complete graph', 'Eulerian path']",Vertex
+476,477,volume,142,1,"['Volume', 'The Volume', 'Volume One', 'Volume (finance)', 'Volume fraction', 'On-balance volume', 'Tidal volume', 'End-systolic volume', 'Volume (bibliography)', 'Molar volume']",Volume

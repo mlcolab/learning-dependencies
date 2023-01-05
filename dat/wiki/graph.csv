@@ -1,0 +1,108 @@
+,concept,deps
+0,Absolute value,"['Real number', 'Non-negative', 'Sign (mathematics)', 'Positive number', 'Negative number']"
+1,Adjugate matrix,"['Square matrix', 'Transpose', 'Cofactor matrix', 'Hermitian adjoint']"
+2,Affine transformation,"['Euclidean geometry', 'Geometric transformation', 'Line (geometry)', 'Parallelism (geometry)', 'Euclidean distance', 'Angle', 'Automorphism', 'Affine space']"
+3,Basis,[]
+4,Basis (linear algebra),"['Set (mathematics)', 'Vector space', 'Linear combination']"
+5,Cartesian coordinate system,"['Plane (geometry)', 'Coordinate system', 'Point (geometry)', 'Number', 'Positive and negative numbers', 'Perpendicular', 'Unit length']"
+6,Cauchy–Schwarz inequality,['Inequality (mathematics)']
+7,Change of basis,[]
+8,Coefficient,"['Summand', 'Polynomial', 'Series (mathematics)', 'Expression (mathematics)', 'Variable (mathematics)', 'Parameter']"
+9,Complex conjugate,"['Complex number', 'Real number', 'Imaginary number', 'Sign (mathematics)']"
+10,Complex number,"['Number system', 'Real number', 'Imaginary unit', 'Equation']"
+11,Consistent and inconsistent equations,"['Algebra', 'System of equations', 'Linear equation system', 'Nonlinear equation system', 'Substitution (algebra)']"
+12,Cramer's rule,"['System of linear equations', 'Determinant', 'Coefficient matrix', 'Matrix (mathematics)']"
+13,Cross product,"['Binary operation', 'Euclidean vector', 'Orientation (vector space)', 'Euclidean vector space']"
+14,Determinant,"['Scalar (mathematics)', 'Function (mathematics)', 'Square matrix', 'Linear map', 'Invertible matrix']"
+15,Diagonal matrix,"['Matrix (mathematics)', 'Main diagonal', 'Square matrices']"
+16,Diagonalizable matrix,"['Square matrix', 'Matrix similarity', 'Diagonal matrix', 'Invertible matrix', 'Matrix (mathematics)']"
+17,Dimension,[]
+18,Dimension (vector space),"['Vector space', 'Cardinality', 'Basis (linear algebra)', 'Field (mathematics)', 'Dimension']"
+19,Dot product,"['Algebraic operation', 'Coordinate vector', 'Euclidean geometry', 'Cartesian coordinates', 'Vector (mathematics and physics)']"
+20,Eigenvalues and eigenvectors,"['Linear map', 'Vector space', 'Scalar (mathematics)']"
+21,Elementary matrix,"['Matrix (mathematics)', 'Identity matrix', 'General linear group']"
+22,Equivalence relation,[]
+23,Euclidean distance,"['Euclidean space', 'Length', 'Line segment', 'Point (geometry)', 'Cartesian coordinate', 'Pythagorean theorem']"
+24,Euclidean vector,"['Magnitude (mathematics)', 'Euclidean norm', 'Direction (geometry)', 'Vector algebra']"
+25,Factorization of polynomials,"['Computer algebra', 'Polynomial', 'Field (mathematics)', 'Integers', 'Irreducible polynomial']"
+26,Fundamental theorem of algebra,"['Constant polynomial', 'Polynomial', 'Complex number', 'Coefficient', 'Root of a function']"
+27,Gaussian elimination,"['Algorithm', 'Systems of linear equations', 'Matrix (mathematics)', 'Rank (linear algebra)', 'Determinant']"
+28,General linear group,[]
+29,Identity function,"['Function (mathematics)', 'Argument of a function', 'Equality (mathematics)']"
+30,Identity matrix,"['Square matrix', 'One', 'Main diagonal', 'Zero']"
+31,Inner product space,"['Real vector space', 'Complex vector space', 'Operation (mathematics)', 'Scalar (mathematics)', 'Angle brackets']"
+32,Invertible matrix,"['Square matrix', 'Identity matrix']"
+33,Isomorphism,"['Map (mathematics)', 'Mathematical structure', 'Inverse function']"
+34,Kernel (linear algebra),"['Linear map', 'Linear subspace', 'Domain of a function', 'Vector space', 'Zero vector']"
+35,Laplace expansion,"['Determinant', 'Matrix (mathematics)', 'Minor (linear algebra)', 'Submatrices']"
+36,Linear combination,"['Expression (mathematics)', 'Set (mathematics)']"
+37,Linear independence,"['Vector space', 'Set (mathematics)', 'Vector (mathematics)', 'Linear combination']"
+38,Linear map,"['Map (mathematics)', 'Vector space', 'Vector addition']"
+39,Linear span,"['Set (mathematics)', 'Vector space', 'Vector space', 'Linear combinations', 'Intersection (set theory)', 'Linear subspace']"
+40,Linear subspace,[]
+41,Matrix (mathematics),"['Rectangle', 'Array variable', 'Number', 'Symbol (formal)', 'Expression (mathematics)']"
+42,Matrix addition,"['Matrix (mathematics)', 'Addition', 'Direct sum', 'Kronecker sum']"
+43,Matrix multiplication,"['Binary operation', 'Matrix (mathematics)']"
+44,Matrix similarity,"['Matrix (mathematics)', 'Invertible matrix', 'Linear map', 'Basis (linear algebra)', 'Change of basis']"
+45,Minor (linear algebra),"['Matrix (mathematics)', 'Determinant', 'Square matrix']"
+46,Multiplicity,[]
+47,Nullity,[]
+48,Ordinary differential equation,[]
+49,Orthogonal complement,"['Functional analysis', 'Linear subspace', 'Vector space', 'Bilinear form', 'Orthogonal']"
+50,Orthogonal matrix,"['Square matrix', 'Orthonormality', 'Vector (mathematics and physics)', 'Transpose']"
+51,Orthogonality,[]
+52,Orthonormal basis,"['Inner product space', 'Dimension (linear algebra)', 'Basis (linear algebra)', 'Orthonormal', 'Unit vector', 'Orthogonality', 'Standard basis']"
+53,Orthonormality,"['Vector space', 'Inner product space', 'Orthogonality', 'Unit vector', 'Basis (linear algebra)']"
+54,Plane (geometry),"['Euclidean space', 'Flatness (mathematics)', 'Dimension', 'Surface (mathematics)', 'Point (geometry)', 'Line (geometry)', 'Three-dimensional space', 'Euclidean subspace', 'Surface (mathematics)']"
+55,Polar coordinate system,"['Two-dimensional', 'Coordinate system', 'Point (mathematics)', 'Plane (mathematics)', 'Distance', 'Angle', 'Cartesian coordinate system']"
+56,Rank,['Ranking']
+57,Rank (linear algebra),"['Matrix (mathematics)', 'Dimension (vector space)', 'Vector space', 'Linear span', 'Linearly independent']"
+58,Rotation matrix,"['Transformation matrix', 'Rotation (mathematics)', 'Euclidean space']"
+59,Row and column spaces,"['Image (mathematics)', 'Matrix (mathematics)', 'Linear span', 'Linear combination', 'Column vector', 'Image (mathematics)', 'Range of a function', 'Matrix transformation']"
+60,Row and column vectors,['Matrix (mathematics)']
+61,Row echelon form,"['Matrix (mathematics)', 'Gaussian elimination']"
+62,Scalar,[]
+63,Scalar multiplication,"['Vector space', 'Module (mathematics)', 'Abstract algebra', 'Real number', 'Euclidean vector', 'Scalar (mathematics)']"
+64,Set-builder notation,"['Set theory', 'Logic', 'Computer science', 'Set (mathematics)']"
+65,Skew-symmetric matrix,"['Square matrix', 'Transpose']"
+66,Span,[]
+67,Symmetric matrix,"['Square matrix', 'Transpose']"
+68,System of linear equations,"['Linear equation', 'Variable (math)']"
+69,Trace (linear algebra),"['Square matrix', 'Main diagonal']"
+70,Transformation matrix,"['Linear transformation', 'Matrix (mathematics)', 'Column vector']"
+71,Transpose,['Matrix (mathematics)']
+72,Triangle inequality,"['Triangle', 'Degeneracy (mathematics)']"
+73,Triangular matrix,"['Square matrix', 'Main diagonal', 'Main diagonal']"
+74,Unit vector,"['Normed vector space', 'Vector (mathematics and physics)', 'Vector (geometry)', 'Norm (mathematics)', 'Circumflex']"
+75,Vector space,"['Set (mathematics)', 'Vector addition', 'Real number', 'Complex number', 'Field (mathematics)']"
+76,Zero matrix,"['Matrix (mathematics)', '0 (number)', 'Additive identity', 'Additive group']"
+77,Augmented matrix,"['Matrix (mathematics)', 'Elementary row operations']"
+78,Characteristic polynomial,"['Square matrix', 'Polynomial', 'Matrix similarity', 'Eigenvalues', 'Root of a polynomial', 'Determinant', 'Trace (linear algebra)', 'Endomorphism']"
+79,Conjugate transpose,"['Complex number', 'Matrix (mathematics)', 'Transpose']"
+80,Eigendecomposition of a matrix,"['Matrix factorization', 'Matrix (mathematics)', 'Canonical form', 'Eigenvalues and eigenvectors', 'Diagonalizable matrix', 'Normal matrix', 'Symmetric matrix']"
+81,Gram–Schmidt process,"['Numerical analysis', 'Orthonormal basis', 'Vector (geometry)', 'Inner product space', 'Euclidean space', 'Standard inner product', 'Finite set', 'Linearly independent']"
+82,Hermitian matrix,"['Complex number', 'Square matrix', 'Conjugate transpose', 'Complex conjugate']"
+83,Image (mathematics),[]
+84,Row equivalence,"['Matrix (mathematics)', 'Elementary row operations', 'Row space', 'Systems of linear equations']"
+85,Subspace,[]
+86,Cofactor,[]
+87,Coordinate system,"['Number', 'Position (geometry)', 'Point (geometry)', 'Manifold', 'Euclidean space']"
+88,Derivative,[]
+89,Direct sum,"['Operation (mathematics)', 'Mathematical structure', 'Abstract algebra', 'Abelian group']"
+90,Dual space,"['Vector space', 'Linear form', 'Pointwise']"
+91,Function (mathematics),[]
+92,Inverse function,[]
+93,Jordan normal form,"['Upper triangular matrix', 'Jordan matrix', 'Linear operator', 'Finite-dimensional', 'Vector space', 'Basis (linear algebra)']"
+94,Norm,[]
+95,Parallelogram law,['Parallelogram']
+96,Permutation,"['Set (mathematics)', 'Sequence', 'Linear order']"
+97,Polynomial,"['Expression (mathematics)', 'Indeterminate (variable)', 'Variable (mathematics)', 'Addition', 'Subtraction', 'Multiplication']"
+98,Projection (linear algebra),"['Functional analysis', 'Linear transformation', 'Vector space', 'Endomorphism']"
+99,Real number,"['Number', 'Measurement', 'Dimension', 'Quantity', 'Distance', 'Time', 'Temperature']"
+100,Singular value decomposition,"['Matrix decomposition', 'Real number', 'Complex number', 'Matrix (mathematics)', 'Eigendecomposition', 'Normal matrix', 'Polar decomposition']"
+101,Square root,"['Nonnegative', 'Real number']"
+102,Subset,"['Set (mathematics)', 'Element (mathematics)']"
+103,Transformation,[]
+104,Additive inverse,"['Number', 'Addition', '0 (number)', 'Real number', 'Sign (mathematics)', 'Positive number']"
+105,Block matrix,"['Matrix (mathematics)', 'Partition of a set']"
+106,Linear equation,"['Equation', 'Variable (mathematics)', 'Unknown (mathematics)']"

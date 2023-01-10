@@ -5,10 +5,10 @@ def generate_graph_data(nbook_thr,confidence_thr, filter_type = "DE1"):
     adj = np.load("data/adj.npy")
 
     if filter_type =="DE1":
-        filter = 1*(adj>=nbook_thr)
-        mask=((filter+filter.T)!=2)
-        adj_filtered = filter*mask
-        idx = np.where(adj_filtered==1)
+        filter1 = (adj>=nbook_thr)
+        filter2 = ((filter1+filter1.T)!=2)
+        idx = np.where(filter1 & filter2)
+
     elif filter_type=="DE1+DE3":
         pass
     elif filter_type=="DE1+DE4":

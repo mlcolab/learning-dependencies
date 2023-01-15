@@ -8,4 +8,7 @@ dependencies:
   - matplotlib
   - requests
   - python-dotenv
-prefix: /Users/dglandorf/opt/miniconda3/envs/LD-inference
+  - dash
+  - dash_bootstrap_components
+  - dash_cytoscape
+prefix: /Users/anast/anadonda3/envs/LD-inference

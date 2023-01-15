@@ -1,77 +1,87 @@
 wiki_concept,pages
-Absolute value,585
 Adjoint,170
-Affine transformation,441
-Augmented matrix,25
-Axis–angle representation,501
-Basis,303
-Cardinality of the continuum,589
+Affine transformation,"420, 438, 480"
+Basis (linear algebra),303
+Canonical form,28
+Cardinality,589
 Change of basis,543
 Characteristic polynomial,375
-Coefficient matrix,23
-Complement,590
-Complex conjugate,584
-Complex conjugate of a vector space,148
+Complement (set theory),590
+Complex conjugate of a vector space,"148, 168"
+Complex multiplication,582
 Complex number,582
-Conjugate transpose,168
-Consistent and inconsistent equations,45
-Dependence relation,288
-Determinant,346
+Conjugate element (field theory),584
+Consistency,45
+Dependent and independent variables,48
 Diagonal matrix,407
-Diagonalizable matrix,407
-Dimension (vector space),318
-Eigendecomposition of a matrix,"377, 379, 380"
+Differential-algebraic system of equations,59
+Dimension,318
+Dirichlet eigenvalue,380
+Distance matrix,25
+Eigendecomposition of a matrix,379
 Eigenvalues and eigenvectors,"367, 542"
-Elementary matrix,"26, 340"
-Endogeneity (econometrics),48
-Equation,12
-Examples of vector spaces,490
-General linear group,480
-Gram–Schmidt process,155
+Elementary matrix,"23, 340"
+Empty set,587
+Equality (mathematics),588
+Euclidean vector,23
+Function composition,441
+Gamma matrices,403
+General linear group,451
+Geometric transformation,468
 Hermite normal form,241
 Hermitian matrix,188
-Identity matrix,67
+Homogeneous space,58
+Identity matrix,"67, 325"
 Image (mathematics),436
-Index set,587
-Inner product space,"149, 154"
-Intersection,589
-Invertible matrix,"194, 66"
-Kernel (linear algebra),"236, 325, 451, 61"
+Incidence matrix,225
+Injective function,446
+Intersection (set theory),589
+Involutory matrix,66
 Linear combination,279
 Linear independence,"122, 288"
-Linear map,"420, 438, 446, 462, 468, 480"
-Linear span,"279, 294"
-Linear subspace,277
-Matrix (mathematics),"22, 346"
+Linear subspace,"75, 277"
+List of named matrices,162
+Lorentz transformation,462
+Mathematics,11
+Matrix (mathematics),"22, 194, 346"
 Matrix addition,163
-Matrix multiplication,"175, 179"
+Matrix multiplication,"77, 163, 179, 439"
 Matrix norm,162
 Matrix representation,"24, 514"
-Matrix similarity,403
-Norm (mathematics),152
 Normal matrix,575
-Orthonormality,159
-Pauli matrices,162
-Rank (linear algebra),"23, 325, 492, 75, 83"
-Rank–nullity theorem,492
-Row and column spaces,"107, 217, 225"
-Row and column vectors,"23, 74"
-Row echelon form,28
+Normed vector space,490
+Null vector,24
+Nullity theorem,325
+Orthogonal coordinates,155
+Orthogonal matrix,154
+Orthonormal basis,159
+Outer product,"149, 175"
+Outline of linear algebra,492
+Quadratic equation,12
+Representation (mathematics),501
+Rigid transformation,480
+Rotation matrix,61
+Row and column spaces,"83, 107"
+Row and column vectors,74
 Row equivalence,26
-Scalar (mathematics),439
-Scalar multiplication,163
+Sequence space,236
+Set (mathematics),587
+Space (mathematics),272
+Spanning tree,279
+Spectrum of a matrix,"217, 346, 377"
+Split-complex number,585
 Square matrix,66
+Square root of a matrix,166
 Structure constants,24
-Subspace,272
-Successive over-relaxation,24
-Symmetric difference,589
+Subset,587
 Symmetric matrix,166
-System of linear equations,"58, 59, 9"
-Total subset,587
-Transpose,166
+System of linear equations,9
+Topological vector space,294
 Triangular matrix,568
-Unit vector,155
+Union (set theory),589
+Unit vector,"152, 155"
 Unitary matrix,211
-Vector (mathematics and physics),"76, 77"
+Vector (mathematics and physics),23
+Vector notation,76
 Vector space,257
 Zero matrix,165

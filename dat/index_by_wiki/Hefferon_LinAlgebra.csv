@@ -1,331 +1,392 @@
 wiki_concept,pages
-2D computer graphics,"392,393,394,395,396"
-3D projection,447
-Absorbing Markov chain,"313,314,315,316,317,318"
+ALGOL 58,"471, 471"
+Abstraction (mathematics),"376, 377, 378, 379"
+AdS/CFT correspondence,175
+Addition,5
 Additive inverse,84
 Adjacency matrix,252
-Adjugate matrix,366
-Affine hull,105
-Affine space,96
-Affine transformation,396
+Adjoint,366
+Adjugate matrix,"366, 366"
+Affine transformation,"195, 303, 396, 424"
+Alex Sink,"471, 471"
+Algebra,
+Algebraic number field,401
+Alternating multilinear map,338
+Andrey Markov,253
 Angle,46
 Antimagic square,308
-Antipodal point,"323,384"
-Arf invariant,227
-Arrow paradox (disambiguation),"159,160,161,162,163,164"
-Associated Legendre polynomials,478
-Augmented matrix,16
-Automorphism,"177,178"
-Axis–angle representation,"124,46"
-Backup rotation scheme,478
-Basis,"121,122,123,124,125,126,127,128,129,130,131,132,133,134,135"
-Basis (linear algebra),121
-Block matrix,"271,345"
-Buckingham π theorem,5
-Cache placement policies,23
-Canonical coordinates,37
-Canonical form,"271,454,61"
+Antipodal point,384
+Automorphism,"177, 178"
+Baden Powell (mathematician),482
+Basis (linear algebra),"000, 121, 122, 123, 124, 125"
+Basis function,"122, 281, 283, 401"
+Block matrix,"15, 345"
+Block-stacking problem,"1, 5"
+Box plot,355
+Bridge (disambiguation),"78, 80"
+Canonical form,"000, 51, 440, 441, 442, 443, 444, 454"
+Canonical normal form,61
+Cartan matrix,452
+Cauchy matrix,336
 Cauchy–Schwarz inequality,45
 Cayley–Hamilton theorem,443
-Change of basis,"262,263,264,265,266,267,268,269,270,271,272,273,274"
+Change of basis,"000, 262, 263, 264, 265, 266"
 Characteristic,
-Characteristic equation,416
-Characteristic polynomial,416
-Charge density,40
-Chebyshev polynomials,463
-Chios sheep,"376,377,378,379"
-Circuit,"77,78"
-Class representative,
-Closure (mathematics),100
-Coefficient,"15,368"
-Cofactor,364
-Comparative statics,"1,5"
-Complemented subspace,148
+Characteristic equation (calculus),"416, 423"
+Characteristic function,412
+Characteristic polynomial,"416, 416"
+Characterization (mathematics),272
+Chemistry,"1, 11, 25"
+Circuit (computer science),
+Closure (mathematics),"27, 100"
+Coefficient,15
+Complement,148
+Complemented subspace,"148, 288"
 Complex number,400
-Computer algebra system,"65,66"
-Computer-generated,27
-Condition number,75
-Configuration space (physics),427
-Conformal map,323
-Congruence (geometry),319
-Conjugacy class,"270,272,456,61"
-Conjugate transpose,366
+Computational complexity of mathematical operations,250
+Computer algebra system,"65, 66"
+Computer graphics (computer science),"392, 393, 394, 395, 396"
+Concatenation,"146, 146"
+Condition number,"75, 75"
+Congruence (geometry),"319, 319"
+Conjugacy class,456
+Consistent and inconsistent equations,295
+Constant function,398
 Convex set,198
-Coordinate system,
-Correspondence,175
+Coordinate system,"383, 392"
+Coordinate vector,124
 Coset,210
-Cramer's rule,"369,370,371"
-Cross product,"330,46"
-Cuboid,355
-Curvilinear coordinates,124
-Dangle,471
+Cramer's rule,"369, 370, 371"
+Crank–Nicolson method,4
+Cross product,"330, 330, 379"
+Crystal (mathematics),"155, 156, 157, 158"
+Crystal oscillator,"482, 483, 484, 485, 486"
+Crystal structure,156
+Cubic equation,165
+Curve,"227, 256"
+Cyclic permutation,"248, 341"
+DFT matrix,364
+Data analysis,"67, 68, 69, 70, 71"
+Definable,"185, 186"
+Definite matrix,151
 Degree of a polynomial,398
-Dense set,427
-Dependent and independent variables,109
-Derivative,5
 Desargues's theorem,387
-Determinant,"326,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,352,354"
-Diagonal matrix,"230,248,233,247,270"
-Diagonalizable matrix,"408,409,410,411,412"
-Dihedral group,178
-Dilation,"177,303"
-Dimension,131
-Dimension (vector space),"129,131"
-Dimensional analysis,165
-Direct sum,"144,145,146,147,148,149,150,151,152,153"
-Direct sum of modules,"148,288"
-Disjoint sets,
-Division by zero,261
-Dot product,"401,43"
-Double-precision floating-point format,74
-Dual space,210
-Duality (projective geometry),386
-Eigenvalues and eigenvectors,"358,412,413,417,418,419"
-Electric potential,76
-Electrical resistance and conductance,76
-Element (mathematics),349
-Elementary matrix,"250,5"
-Empty set,112
+Determinant,"000, 326, 331, 332, 333, 334, 343, 352, 364"
+Diagonal,247
+Diagonal matrix,"230, 248, 408"
+Diagonalizable group,"408, 409, 410, 411, 412"
+Diamond,157
+Dilation (morphology),"177, 221, 303"
+Dilution (equation),155
+Dimension,"131, 165"
+Dimension (vector space),165
+Direct sum,"000, 144, 145, 146, 147, 148, 148, 183, 183, 323"
+Direct sum of groups,"183, 183"
+Direct sum of modules,148
+Distance matrix,16
+Division (mathematics),"5, 261"
+Dot product,"43, 43"
+Dual space,"136, 200, 210"
+Echelon formation,"6, 15"
+Eigendecomposition of a matrix,413
+Eigenvalues and eigenvectors,"412, 412"
+Elementary mathematics,5
+Elementary matrix,"250, 250"
 Equivalence relation,53
 Erlangen program,320
-Euclidean division,398
-Euclidean plane isometry,178
-Euclidean vector,"16,17,37,38,84,36,39,42"
-Even and odd functions,"105,150"
-Exponentiation by squaring,"464,465,467"
+Euclidean distance,319
+Euclidean vector,"16, 17, 38, 39, 43, 84, 283"
+Examples of vector spaces,"95, 398"
 Factor,399
-Factorization of polynomials,399
-Farkas' lemma,57
-Flag (linear algebra),97
-Flat module,40
-Fock state,452
-Formula,165
-Four-vector,37
-Fourier transform,429
-Free body diagram,"238,256,262,267,402"
-Free variables and bound variables,13
-Function (mathematics),
+Field (mathematics),"153, 154"
+Field trace,462
+Five-dimensional space,427
+Flat Earth,40
+Flow diagram,"238, 256, 262, 267, 402"
+Flow network,"76, 77, 78, 79, 80, 81"
+Formal language,72
+Function (mathematics),"105, 150, 192, 194, 313, 424"
+Function composition,"175, 179, 238"
 Fundamental theorem of algebra,400
 Fundamental theorem of linear algebra,294
-Gauss's method,"3,72,73,74,75"
-Gaussian elimination,"250,302,3,5"
-General linear group,177
-Generalized eigenvector,452
-Generalized linear model,194
-Generating function,27
-Geometric transformation,424
+Gamma matrices,404
+Gauss's method,"3, 72, 72, 73, 74, 75"
+Gaussian elimination,"3, 5, 16, 51, 250, 250, 302"
+Gauss–Bonnet theorem,51
+General linear group,5
+Generalized eigenvector,417
+Generalized inverse,"000, 254, 255, 256, 257, 258"
+Generator (mathematics),"27, 27"
+Geometric transformation,396
 Glide reflection,323
+Google,472
 Google matrix,472
-Gram–Schmidt process,"280,281,282,283,284,285"
-Graph isomorphism,184
-Graphite (disambiguation),156
-Group representation,"124,262"
-Hexagonal crystal family,156
-Hilbert space,"429,431"
-Homogeneous coordinates,"324,383,392"
-Homogeneous differential equation,24
-Homography,396
-Homomorphism,"191,204,238"
+Gram–Schmidt process,"000, 280, 281, 282, 283, 284"
+Graph isomorphism problem,184
+Graphene,156
+Group representation,"124, 262"
+Guitar tunings,452
+Hadamard matrix,"000, 212, 213, 214, 215, 216"
+Hadamard product (matrices),215
+Heat equation,"24, 24"
+Helmert transformation,423
+History of mathematical notation,342
+Homogeneous coordinates,"324, 383, 383, 392"
+Homogeneous polynomial,89
+Homology (mathematics),227
+Homomorphism,"191, 191, 192, 204"
+Horner's method,"464, 465, 467"
 Hyperplane,40
-Ideal point,386
-Identity element,
-Identity matrix,"244,247,245"
-Image (mathematics),201
-Injective function,191
-Inner product space,43
-Invariant subspace,"439,456,97"
-Invariant subspace problem,97
-Inverse,255
-Inverse function,"201,255"
-Inverse trigonometric functions,255
-Inversion,347
-Invertible matrix,"227,256,254,255,257,258,259,260,261,262,30,366"
+Hölder's inequality,45
+Ideal (ring theory),386
+Ideal gas,386
+Identity (mathematics),
+Identity matrix,247
+Indexed family,113
+Indian mathematics,191
+Induced homomorphism,227
+Insulin resistance,76
+Integration by substitution,5
+Invariant (mathematics),"431, 456"
+Invariant subspace,"439, 456"
+Inverse element,84
+Inverse function,"255, 255"
+Inverse function rule,255
+Inverse problem,"201, 201"
+Inversion (discrete mathematics),347
+Invertible matrix,366
+Involution (mathematics),5
+Involutory matrix,30
 Irreducible polynomial,399
 Isometry,319
-Isomorphism,"173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188"
-Jacobian matrix and determinant,"326,332"
-Jordan matrix,"452,454"
-Jordan normal form,"435,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463"
-Kernel (algebra),"192,200,205,204,225"
-Kernel (linear algebra),204
-Kirchhoff's circuit laws,77
-LINPACK benchmarks,65
-Laplace expansion,"342,363,364,365,366,367,368"
-Laplacian vector field,17
-Least squares,"295,296,297,298,299,300"
-Line at infinity,386
+Isomorphism,"000, 173, 174, 175, 176, 177, 184"
+Isomorphism theorems,204
+John von Neumann,105
+Jordan matrix,"452, 454"
+Jordan normal form,"454, 454"
+Krylov subspace,144
+LC circuit,77
+LINPACK,65
+Laplace expansion,"000, 342, 346, 363, 364, 365, 366, 367, 372"
+Last Supper,380
+Least squares,"000, 295, 296, 297, 298, 299"
+Legendre polynomials,463
+Line (geometry),38
+Line chart,"000, 295, 296, 297, 298, 299"
 Linear combination,2
-Linear differential equation,2
-Linear equation,2
-Linear independence,109
-Linear least squares,"295,296,297,298,299,300"
-Linear map,"191,194,195,301,302,303,304,305,306,307,308"
-Linear recurrence with constant coefficients,476
-Linear regression,"110,296"
+Linear differential equation,17
+Linear equation,"2, 2"
+Linear group,40
+Linear independence,"109, 109"
+Linear interpolation,194
+Linear map,"000, 191, 204, 301, 302, 302, 303, 303, 304, 304, 305, 322"
+Linear regression,"110, 110"
 Linear span,100
-Linear subspace,"13,144,97"
+Linear subspace,"13, 96, 97, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 288"
 Linearity,194
-Line–line intersection,38
-List of things named after Carl Friedrich Gauss,51
-Lists of unsolved problems,"1,11,25"
-Locality-sensitive hashing,319
+List of named matrices,"6, 435"
+List of paradoxes,160
+List of theorems,398
 MATLAB,65
-Magnetic field,"153,154"
-Map (mathematics),424
-Map projection,"276,319,381"
+Magic square,"308, 309, 310, 311, 312"
+Map (mathematics),
+Map projection,"319, 381"
 Maple (software),65
-Mathematica (disambiguation),65
+Markov chain,"000, 313, 314, 314, 315, 316, 317, 452, 452"
 Mathematical induction,26
-Mathematical structure,191
-Matrix (mathematics),"15,336"
-Matrix addition,"17,233"
-Matrix equivalence,"267,268,269,270,271,272,273,274,404,53"
-Matrix multiplication,"15,17,215,235,237"
+Mathematics,"65, 85, 464, 465, 467"
+Matrix (mathematics),"15, 17, 136, 184, 204, 222, 234, 250, 252, 253, 271, 336, 345, 364, 366, 368"
+Matrix calculus,233
+Matrix decomposition,"15, 30, 227"
+Matrix determinant lemma,"326, 332"
+Matrix equivalence,"000, 53, 267, 268, 269, 270, 270, 271"
+Matrix exponential,"250, 302, 345"
+Matrix multiplication,"17, 235, 237"
+Matrix norm,"17, 30, 136, 225, 233, 235, 253, 309, 462, 464"
 Matrix representation,214
-Matrix similarity,"361,404"
+Matrix similarity,"361, 404, 404"
+Matrix splitting,466
 Matrix unit,245
-Matroid,113
-Minimal polynomial,"244,441"
-Minimal polynomial (field theory),441
-Minimal polynomial (linear algebra),"244,441"
+Method of complements,15
+Minimal polynomial (field theory),"244, 441"
+Minimal polynomial (linear algebra),"244, 441"
 Minor (linear algebra),364
-Molar volume,357
-Monoid,85
-Morphism,"175,179"
-Multilinear,338
+Module homomorphism,"200, 205, 225"
+Moment (mathematics),51
+Morphism,175
 Multilinear map,338
 Multiplication,
-Multiplicity,
-Multiplicity (mathematics),"399,418"
-Multiset,113
-Nilpotent,"428,429,430,431,432,433,434,435,436,437,438,439"
-Nilpotent matrix,"430,435"
-Norm (mathematics),16
-Normal,309
-Nullity,204
-Object composition,424
-On-Line Encyclopedia of Integer Sequences,146
-Order of accuracy,
-Orientation,"357,361"
+Multiplication sign,215
+Multiplicative inverse,"255, 255"
+Multiplicity (mathematics),"399, 418, 418"
+Multiset,"113, 418, 418"
+Musical isomorphism,175
+Nakayama's lemma,57
+Nilpotent,"000, 428, 429, 430, 430, 431, 432"
+Nilpotent matrix,"430, 430"
+Non-negative matrix factorization,271
+Nonlinear system,476
+Normal distribution,3
+Normal matrix,408
+Normal mode,309
+Normed vector space,"129, 195"
+Null set,204
+Ohm's law,77
+Opposite category,323
+Orientation (geometry),"357, 357, 361"
+Orientation character,"323, 323"
 Orthogonal basis,281
-Orthogonal complement,"288,427"
-Orthogonal group,15
-Orthogonal matrix,"270,319,320,321,322,323,324"
-Orthogonality,46
-Orthogonalization,282
-Orthonormal basis,283
-Oscillation,"482,483,484,485,486"
-Pandiagonal magic square,"308,309,310,311,312"
+Orthogonal complement,288
+Orthogonal group,227
+Orthogonal matrix,"000, 319, 320, 321, 322, 323"
+Orthogonality (mathematics),"46, 282, 282, 321"
+Orthographic projection,288
+Orthonormal basis,"000, 283, 319, 320, 321, 322, 323"
+Outer product,43
+Overfitting,296
+PageRank,"470, 471, 472, 473"
+Paradox,"000, 159, 160, 161, 162, 163"
+Parallel (operator),77
+Parallelepiped,355
 Parallelogram law,38
 Parameter,14
-Parametrization,14
-Parity of a permutation,347
-Partition,
+Parametrization (geometry),14
+Partial correlation,74
+Participation criterion,159
+Partition (number theory),
+Partition function (mathematics),"270, 272"
 Partition of a set,53
-Pauli matrices,89
-Permutation,"341,342,346,372"
-Permutation matrix,"248,341"
-Perpendicular,46
-Perspective (geometry),387
-Pivot,51
-Pivot element,"74,75"
-Point at infinity,386
-Point-to-point,
-Polynomial,398
+Pauli matrices,233
+Pendulum,74
+Penrose triangle,387
+Permutation,341
+Permutation City,"342, 346, 372"
+Permutation matrix,"248, 341"
+Permutation test,347
+Perpendicular,"46, 46"
+Phase (waves),429
+Pivot element,75
+Plane stress,319
+Point (geometry),
+Point reflection,178
+Polynomial,"398, 398, 399"
+Polynomial interpolation,440
 Polynomial remainder theorem,398
-Polynomial transformation,441
+Polynomial ring,"398, 399, 441, 463, 478"
+Population dynamics,"468, 469"
+Potential energy,76
+Precision (computer science),"72, 74"
 Probability vector,314
-Projection,"191,201,275,294,447"
-Projection (linear algebra),"276,288,286"
-Projection (mathematics),381
-Projective geometry,"380,381,382,383,384,385,386,387,388,389,390,391"
-Projective plane,"383,392,385"
-Quadratic equation,165
-RC circuit,77
+Projection (linear algebra),"276, 286, 288"
+Projection (mathematics),"191, 201, 275, 276, 294, 381, 447"
+Projective geometry,"000, 380, 381, 382, 383, 384, 386, 386"
+Projective plane,"383, 385, 392"
+Projective space,286
+Proper map,97
+Quantum dynamics,177
 Random variable,6
 Range space,200
-Rank,"140,225"
-Rank (linear algebra),"136,137,143,15,225"
-Real projective plane,386
-Recurrence,"364,474,476"
-Recurrence relation,"474,475,476,477,478,479,480,481"
-Representation,
-Rigid body,319
-Rijndael S-box,"67,68,69,70,71"
-Root-finding algorithms,399
-Rooting,399
-Rotation,"217,302,322,393"
+Rank (linear algebra),"15, 136, 137, 137, 140, 143, 225"
+Real projective line,61
+Real projective plane,385
+Reciprocal polynomial,441
+Recurrence plot,"364, 474, 476"
+Recurrence relation,"000, 468, 469, 474, 475, 476, 477, 478"
+Reflection (mathematics),"303, 322"
+Representation (mathematics),
+Representation theory,"124, 214"
+Resistance distance,80
+Resistor,77
+Right triangle,323
+Rigid rotor,319
+Ring homomorphism,"191, 192"
+Roger Penrose,162
+Root (disambiguation),399
+Rotation (mathematics),"217, 302, 322, 393"
+Rotation matrix,237
 Round-off error,74
-Row and column spaces,"136,137,427,5"
-Row and column vectors,16
-Row echelon form,"15,5,51,6"
-Row equivalence,53
-Rule of Sarrus,379
-Scalar,84
-Scalar (mathematics),"17,37,84"
-Scalar multiplication,17
-Scaling (geometry),221
-Sensing,357
+Row and column spaces,"137, 427"
+Row equivalence,"51, 53, 270"
+Sage (philosophy),65
+Scalar (mathematics),84
+Scalar multiplication,"17, 233"
+Scale parameter,75
+Schrödinger equation,17
+Self-organizing map,319
+Self-similarity,424
+Sense,"357, 357"
 Sensitivity analysis,258
+Separable space,427
 Sequence,
-Series and parallel circuits,"77,78"
-Shape,319
-Shear,"304,395"
-Shift,429
-Signum,349
-Similarity,"331,361,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,423,424"
-Similarity (geometry),323
-Similarity transformation,423
-Single-precision floating-point format,72
-Singular (software),
-Singular homology,227
-Singular value decomposition,30
-Skew-symmetric matrix,"151,345"
-Span,"27,100"
-Sparse matrix,"464,5"
-Specular reflection,"303,322"
-Spinor,162
+Series (mathematics),
+Series–parallel graph,78
+Set (mathematics),
+Set theory,112
+Sign (mathematics),"349, 349"
+Sign function,"105, 105, 150"
+Similarity (geometry),"000, 331, 361, 402, 403, 404, 405, 406"
+Singular submodule,227
+Singular value,30
+Singularity (mathematics),
+Size,"356, 358"
+Skew-symmetric graph,345
+Skew-symmetric matrix,345
+Slope,"304, 395"
+Space (mathematics),"97, 97"
+Spanning tree,27
+Sparse matrix,464
+Spin (physics),162
+Square matrix,379
 Square root,463
-Standard basis,"122,401"
-Stinespring dilation theorem,303
-Stochastic matrix,"253,314,473"
-String,431
-Subspace,"96,97,98,99,100,101,102,103,104,105,106,107"
+Standard basis,"122, 401"
+State-transition matrix,314
+Stochastic,"314, 473"
+Stochastic matrix,"314, 473"
+String (computer science),431
+String theory,429
+Structure (mathematical logic),191
 Subspace topology,98
-Sum,
-Symmetric matrix,"128,151,235,243,252,253"
-System of linear equations,"17,2,295,3,4,51"
-The C++ Programming Language,72
-The Last Supper (disambiguation),380
-Thue–Morse sequence,146
-Thévenin's theorem,80
-Topological homomorphism,200
-Topological vector space,"175,84"
-Torque,178
-Trace,"235,253,309,462"
-Trace (linear algebra),"235,253,309,462"
-Transformation,
-Transition matrix,314
-Translation (geometry),"320,394"
-Transpose,"143,212,213,214,215,216,217,218,219,220,221,222,223,22,138,235,343,352"
+Substitution (logic),5
+Support vector machine,43
+Symmetric matrix,"000, 128, 151, 235, 243, 252"
+System of linear equations,"2, 3, 5"
+Tensor,5
+Tower of Hanoi,478
+Trace (linear algebra),"235, 253, 309, 462"
+Transformation (function),
+Transformation geometry,178
+Transformation matrix,447
+Transformation semigroup,424
+Transformational grammar,429
+Transformational theory,358
+Translation (geometry),"320, 394"
+Transpose,"22, 22, 138, 235"
+Transpose of a linear map,143
+Triangle,323
 Triangle inequality,44
-Triangular matrix,"222,253,368,5"
-Tridiagonal matrix,466
-Trivial topology,"88,122"
-Unit vector,"39,43,283,48"
-Univariate,272
-Vandermonde matrix,"345,440"
-Vanishing point,380
-Vector,"16,36,17,37,84"
-Vector bundle,"88,122"
-Vector projection,46
-Vector space,"17,37,84,191,397,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,398"
-Voltage drop,77
-Well-defined expression,"185,186"
+Triangular matrix,"222, 253"
+Tridiagonal matrix,"230, 248, 270, 466"
+Triviality (mathematics),88122
+Turning,178
+Uniform space,427
+Unit vector,"16, 42, 84"
+Unitary matrix,245
+Vandermonde matrix,345
+Vanish at infinity,"386, 386"
+Vanishing point,"380, 380"
+Variable (mathematics),13
+Variation of parameters,370
+Vector (mathematics and physics),"16, 17, 36, 37, 38, 84"
+Vector calculus,"17, 37, 84"
+Vector notation,"16, 39"
+Vector space,"16, 36, 37, 42, 46, 48, 84, 85, 86, 87, 88, 88, 89, 89, 90, 91, 92, 93, 94, 95, 95, 96, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 121, 122, 129, 131, 137, 191, 210, 314, 397"
+Vectorization (mathematics),"16, 37"
+Voltage,77
+Volume,"357, 357"
+Weight (representation theory),417
 Well-posed problem,73
-Wheatstone bridge,"78,80"
-Wilberforce pendulum,482
+Weyr canonical form,435
+Winding number,178
+Woodbury matrix identity,"244, 247"
 Zero divisor,243
-Zero element,"16,84"
 Zero matrix,234
-Zero of a function,192

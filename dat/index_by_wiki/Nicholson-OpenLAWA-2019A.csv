@@ -1,691 +1,742 @@
 wiki_concept,pages
+1,10
 2D computer graphics,258
-3D rotation group,519
-Abraham de Moivre,604
-Absolute value,"403, 598, 599, 601"
+Absolute value,"403, 598, 599"
+Absorption law,"38, 71"
 Abstract algebra,475
-Adder–subtractor,38
-Addition,104
-Additive inverse,598
+Acceleration,140
+Active and passive transformation,504
+Addition,"47, 104, 263, 330"
 Adjacency matrix,75
-Adjugate matrix,"160, 161, 162, 81"
+Adjoint,"81, 160"
+Adjugate matrix,"160, 162"
+Adult development,171
 Aerodynamics,499
-Affine transformation,"104, 108, 251, 255, 258, 375, 379, 381, 382, 384, 396, 503, 507, 59, 65"
-Aircraft principal axes,"426, 489"
-Algebra of random variables,502
-Algebraic integer,"473, 611"
+Affine geometry,"233, 329"
+Affine transformation,"59, 60, 65, 90, 104, 108, 111, 117, 255, 375, 376, 378, 379, 381, 382, 383, 384, 396, 397, 398, 503, 508, 668"
+Algebra over a field,"47, 263, 330"
+Algebraic equation,"4, 9"
+Algebraic number,30
+Allan variance,"323, 502"
 Altitude (triangle),262
-Analytic geometry,"209, 47"
+Analysis of variance,322
+Analytic geometry,47
 Andrey Markov,134
-Anti-diagonal matrix,97
-Application,"158, 83"
-Applied mathematics,1
-Archimedes' principle,11
+Antiparallelogram,255
+Anxiety,417
+Applied mathematics,"83, 158"
+Approximation theory,311
+Arc length,75
+Archimedes,11
 Area,255
+Area of a circle,246
 Argument,601
-Asmara,24
-Associative property,"38, 71"
-Asymptotic expansion,61
+Arrow's impossibility theorem,287
+Arrows (Unicode block),209
+Associated Legendre polynomials,408
 Attractor,187
-Augmented matrix,"14, 3, 4"
-Augustin-Louis Cauchy,"158, 307"
+Autonomous system (mathematics),"1, 14"
+Auxiliary function,96
 Axiom,611
 Axiomatic system,615
-Axis,"209, 572"
-Base ten block,"73, 74"
-Bases,276
-Basic feasible solution,"24, 454"
-Basis,276
-Basis (linear algebra),"250, 271, 287, 288, 349, 415, 503, 505, 518, 548"
+Axis,"209, 572, 575"
+Axis–angle representation,"228, 546"
+BCH code,483
+Ball (mathematics),478
+Band matrix,4
+Barrier function,"497, 499"
+Basic reproduction number,171
+Basic solution (linear programming),"24, 454"
+Basis (linear algebra),276
+Basis of a matroid,415
 Bessel's inequality,556
-Bijection,384
-Bilinear form,"225, 497"
-Binary code,"472, 477"
-Binary operation,68
-Binomial coefficient,367
+Bilinear form,497
+Binary code,477
+Binary relation,"329, 406"
+Binomial coefficient,"166, 332, 367, 623"
 Binomial theorem,"287, 367, 548, 558"
-Block matrix,"154, 73"
-Boole's expansion theorem,"148, 204"
-Boolean algebras canonically defined,104
-Borsuk–Ulam theorem,87
-Boundary value problem,"199, 369"
-Camille Jordan,594
-Cancel,"333, 334"
-Cancellation property,85
-Canonical form,591
-Cantor's diagonal argument,489
+Block matrix,"73, 154"
+Bogoliubov transformation,"59, 104, 250"
+Born rule,"265, 303, 526, 584"
+Bounded inverse theorem,87
+Bounded operator,"251, 254, 564"
+Cam,"474, 614"
+Cancellation property,"85, 333, 334"
+Canonical basis,583
+Canonical form,"10, 11, 100, 591, 623"
 Carl Friedrich Gauss,"11, 177"
-Cartesian coordinate system,"209, 247"
-Cartesian product,"276, 290, 47"
-Category of small categories,397
-Cauchy–Schwarz inequality,"243, 284, 325"
-Cayley graph,"145, 35"
-Cayley–Hamilton theorem,"469, 588"
-Centroid,225
-Ceva's theorem,246
-Change of basis,505
-Characteristic polynomial,465
-Charles Hermite,464
-Chebyshev polynomials,354
+Cartan–Dieudonné theorem,160
+Cartesian coordinate system,"209, 247, 264"
+Cartesian product,209
+Category (mathematics),"39, 59, 85, 397"
+Cauchy theorem,"158, 307"
+Cauchy–Binet formula,196
+Cauchy–Schwarz inequality,"243, 599"
+Cayley graph,"35, 145"
+Cayley–Hamilton theorem,"148, 204, 469, 588"
+Cell migration,184
+Centroid,"212, 225"
+Change of basis,"503, 505, 508, 518"
+Characteristic polynomial,"173, 465, 469"
 Chemical equation,32
-Chemical thermodynamics,32
 Chinese remainder theorem,"363, 624"
 Cholesky decomposition,435
+Chromatic polynomial,166
 Circumscribed circle,205
-Closed-household economy,130
-Closure (mathematics),"263, 330, 47"
-Code,483
-Coding theory,477
-Coefficient,"14, 166, 332, 623"
-Coefficient matrix,"163, 166, 4"
-Coefficient of determination,623
-Cofactor,146
-Commutative property,"38, 87"
-Commute,"69, 72"
-Companion matrix,157
-Competitive equilibrium,130
-Complement,528
-Complex analysis,"284, 461"
+Closed set,330
+Closure (mathematics),"266, 271, 341"
+Code,"472, 477, 478, 481, 485"
+Coding theory,"477, 479, 484"
+Coefficient,"4, 163, 166"
+Coefficient of variation,623
+Collatz conjecture,187
+Commutative property,38
+Compact operator on Hilbert space,557
+Comparative advantage,465
+Complement (set theory),528
+Completeness of the real numbers,47
+Complex analysis,"461, 597"
 Complex conjugate,"307, 597, 599"
-Complex number,"403, 522, 597, 600, 601"
-Complex plane,600
-Composite,"108, 396, 65"
-Composition,"396, 507, 65"
-Compound interest,184
-Compression (physics),61
-Conclusion,611
-Congruence,493
+Complex conjugate root theorem,609
+Complex multiplication,597
+Complex number,"177, 284, 306, 444, 470, 597, 600, 601, 604"
+Complex plane,"599, 600"
+Composite field (mathematics),"65, 108, 396"
+Composition (combinatorics),"65, 396, 507"
+Computational science,441
+Computer graphics (computer science),258
+Congruence (geometry),493
+Congruent transformation,493
 Conic section,"21, 491"
-Conjugate transpose,"307, 463"
-Conjugation,"461, 599"
-Consistent and inconsistent equations,"1, 16, 17"
-Constant,"353, 623"
+Conjecture,611
+Conjugate prior,"307, 461, 599"
+Conjugate transpose,"42, 463"
+Conservation law,"110, 215, 217"
+Consistency,"1, 16, 17"
+Constant (mathematics),"353, 371, 623"
 Constant term,1
-Constant-recursive sequence,"193, 406"
+Constant-recursive sequence,"193, 405, 406"
 Constrained optimization,497
 Continued fraction,175
 Continuous function,538
-Contraction,63
+Continuum hypothesis,618
 Contradiction,613
-Convergence,"139, 443"
+Convergence of random variables,502
+Convergent series,443
 Converse (logic),614
-Convex cone,"263, 330, 47"
-Coordinate system,"209, 503, 504"
-Coordinate vector,"215, 236, 256, 268, 504"
-Correlation,"322, 323, 324"
+Convex function,579
+Coordinate system,"209, 503"
+Coordinate vector,"215, 236, 256, 268, 333, 395, 504"
+Correlation,"322, 324, 326"
 Coset,483
-Counterexample,"614, 9"
+Counterexample,"9, 614"
 Covariance,501
+Covariance and contravariance of vectors,228
 Covariance matrix,501
+Covariant derivative,211
 Cramer's rule,"158, 163, 164"
-Cross product,"236, 244, 245, 247"
-David Hilbert,417
-De Bruijn graph,187
+Critical exponent,602
+Cross product,"49, 236, 244, 245"
+Cross-correlation,323
+Cryptography,472
+Cubic equation,21
+Data compression,61
+Data economy,131
 De Moivre's formula,604
-Decoder,483
-Decoding methods,"478, 483"
-Defective matrix,494
-Definite matrix,"38, 433, 455, 501, 539"
-Definition,"198, 263, 3, 332, 338, 35, 461, 537, 59, 611, 66, 68, 80"
+De Moivre's theorem,604
+Decoded (novel),483
+Decoding methods,483
+Definite matrix,"434, 455"
+Definition,66
 Degree of a polynomial,"332, 623"
-Delaunay triangulation,"430, 586"
+Delay differential equation,"198, 199, 368, 402"
 Dependent type,"273, 345, 358"
 Derivative,403
-Descartes' theorem,209
-Determinant,"145, 146, 147, 152, 154, 158, 159, 160, 166, 167, 204, 236, 244, 3, 35, 39, 518, 81"
-Deviation,322
-Diagonal matrix,"104, 110, 143, 172, 178, 21, 250, 300, 35, 376, 38, 39, 43, 45, 516, 59, 79, 81"
-Diagonalizable matrix,"145, 173, 178, 179, 300, 425, 465, 516, 557"
-Dicyclic group,475
+Determinant,"3, 35, 47, 81, 145, 146, 147, 152, 158, 159, 160, 204, 302, 518"
+Deviation (statistics),322
+Diagonal,"43, 118, 178, 300"
+Diagonal matrix,"45, 79, 143, 172, 178, 300, 513, 516"
+Diagonally dominant matrix,"185, 441"
+Difference of two squares,334
 Differentiable function,"198, 340, 368, 402, 403"
-Differential equation,"198, 368, 402"
-Differential operator,"250, 375, 512"
+Differential equation,"198, 199, 368, 402, 403"
+Differential operator,"250, 526"
 Differential-algebraic system of equations,20
-Differentiation,377
-Digit,477
-Dihedral angle,"228, 546"
-Dijkstra's algorithm,76
-Dilation,63
-Dimension,"276, 349, 35, 403"
-Dimension (vector space),"349, 354, 355"
-Dimension theorem for vector spaces,"375, 386, 395"
-Diophantine approximation,310
-Diophantine equation,311
+Differentiation rules,377
+Digit sum,477
+Dilation (morphology),63
+Dimension,"276, 349, 403"
+Dimension (vector space),355
 Direct proof,611
-Direct sum,"330, 360, 528, 536"
-Direct-quadrature-zero transformation,"117, 376, 60"
+Direct sum,"360, 528, 536"
 Directed graph,75
-Direction,211
 Direction cosine,"243, 556"
-Discriminant,"174, 368, 369, 491, 606"
-Disjoint sets,263
+Dirichlet eigenvalue,307
+Discrete-time Markov chain,134
+Discriminant,"491, 606"
 Disquisitiones Arithmeticae,11
 Distance,"285, 541"
-Distance from a point to a line,218
-Distributive property,"41, 71"
-Division (mathematics),85
+Distance matrix,"3, 4, 14"
+Distribution (mathematics),500
+Distributive lattice,"41, 71"
+Division (mathematics),59
 Division algorithm,"473, 625"
-Dot product,"209, 215, 226, 231, 236, 245, 282, 326, 462, 463, 537, 541, 55, 67"
+Dot product,"66, 226, 326, 541"
 Doubly stochastic matrix,142
-Dual basis,512
-Dual space,512
-Dynamical systems theory,187
-Dynamics (mechanics),469
-Eigendecomposition of a matrix,"441, 465, 85"
-Eigenvalue algorithm,307
-Eigenvalues and eigenvectors,"145, 173, 175, 177, 180, 217, 265, 284, 300, 302, 303, 304, 306, 429, 442, 444, 465, 47, 526, 561, 584"
-Eigenvector centrality,"173, 300, 441"
-Electric potential,"110, 215, 217"
+Dual (category theory),512
+Dual space,"290, 512"
+Dynamical system,187
+Echelon formation,"10, 11"
+Economic model,128
+Economic system,128
+Edge (geometry),75
+Edge contraction,63
+Edo period,371
+Eigendecomposition of a matrix,"42, 49, 85, 175, 441, 442, 465, 561"
+Eigenface,"175, 465"
+Eigenvalue algorithm,"173, 180, 288, 300, 304, 417, 426, 428, 438, 441, 465, 520, 549"
+Eigenvalues and eigenvectors,"95, 97, 145, 173, 179, 189, 265, 300, 303, 441, 444, 526"
+Eigenvector centrality,"173, 300"
+Einstein notation,"36, 205"
+Electric generator,482
 Electrical network,29
-Electrical resistance and conductance,264
-Elementary matrix,"149, 21, 5, 7, 95, 96"
-Elementary operations,5
+Element (mathematics),7
+Elementary arithmetic,"7, 21"
+Elementary mathematics,"5, 7, 95, 96, 149"
+Elementary matrix,"10, 11, 21, 95, 96, 100, 290"
 Ellipse,491
-Equal,"21, 332, 333, 59, 623"
-Equilibrium point,130
+Empty set,263
+Endemic (epidemiology),140
+Equality (mathematics),"21, 59, 332, 333, 623"
+Equals sign,246
 Equivalence relation,298
+Error,"314, 483"
 Error correction code,"472, 477"
-Error detection and correction,484
-Euclid (disambiguation),"612, 615"
-Euclid's Elements,612
-Euclidean algorithm,475
-Euclidean distance,600
+Euclid,"612, 615"
+Euclidean algorithm,"11, 303, 474, 475"
 Euclidean geometry,282
 Euclidean space,537
-Euclidean vector,"210, 211, 212, 213, 214, 215, 217, 218, 282, 330, 334, 461, 463, 47, 541, 58, 601"
-Euler angles,211
+Euclidean vector,"211, 212, 215, 218, 250, 330"
+Eugene Seneta,130
+Euler angles,"60, 110, 111, 601"
+Euler method,"441, 442"
 Euler's formula,602
-Even,354
-Even and odd functions,579
-Exact diagonalization,"178, 300"
-Example,"14, 171"
-Examples of Markov chains,140
-Examples of vector spaces,"329, 331, 363"
-Expectation,500
+Euler's identity,602
+Evaluation,"182, 309, 340, 376, 381, 410"
+Expectation value (quantum mechanics),500
 Exponential function,"198, 404"
-Exponentiation,602
 Factor,"304, 625"
-Factor analysis,71
+Factor analysis,429
 Factor theorem,"363, 625"
-Factorization,119
+Factorization,"118, 119, 120, 125"
+Fast Fourier transform,288
 Feasible region,497
-Feature scaling,326
 Fibonacci,195
-Fibonacci number,"195, 196"
-Finite field,"474, 476, 482"
+Fibonacci cube,195
+Field (mathematics),"330, 474"
+Finite field,"474, 482"
 Finite set,474
-Flag (linear algebra),"263, 279"
-Flavour (particle physics),499
+Fisher transformation,384
+Fisher's exact test,272
+Five-dimensional space,35
+Fixed point (mathematics),569
+Flow (mathematics),"59, 503"
 Flow network,27
-Form,623
+Formal calculation,500
 Formal proof,612
 Four color theorem,584
 Fourier series,"288, 548, 578, 579, 580"
-Fraction,212
-Free variables and bound variables,14
-Function (mathematics),278
-Function space,538
-Functional analysis,255
-Fundamental,452
-Fundamental theorem of algebra,"177, 306, 597"
-Fundamental theorem of calculus,"276, 348"
-Gabriel Cramer,164
-Galerkin method,310
-Galton board,324
-Gamma matrices,482
-Gaussian algorithm,"11, 303, 474"
-Gaussian elimination,"10, 100, 21, 7"
-General linear group,386
-General relativity,329
-Generalized eigenvector,584
-Generalized inverse,"312, 322, 85"
-Generator,482
-Generator matrix,481
-Geometric Description Language,"110, 3"
-Geometric algebra,"212, 213"
-Geometric calculus,"212, 214"
-Geometric hashing,"516, 517, 583"
-Geometric series,110
-Geometrical properties of polynomial roots,"177, 465, 626"
+Fractal,187
+Fraction,"85, 212"
+Frobenius inner product,537
+Function (mathematics),"14, 110, 171, 172, 209, 333, 505, 601, 611"
+Function of several complex variables,306
+Fundamental theorem of algebra,"177, 276, 306, 348, 597"
+Galois theory,476
+Galton Laboratory,324
+Gamma matrices,"298, 482"
+Gaussian elimination,"21, 96"
+Gaussian integer,475
+General algebraic modeling system,"1, 16"
+Generalized eigenvector,"175, 584"
+Generalized inverse,"312, 322, 457"
+Generator (mathematics),482
+Geometric algebra,"212, 213, 215, 217"
+Geometric calculus,212
+Geometric progression,"3, 110"
+Geometric series,"212, 213, 214, 215"
 Geometry,35
+George Dantzig,128
 Giuseppe Peano,329
-Graded vector space,333
-Gram (disambiguation),446
+Glossary of computer graphics,258
+Glossary of mathematical symbols,"21, 54"
+Google matrix,189
 Gram matrix,446
-Gram–Schmidt process,"288, 417, 426, 428, 438, 520, 549"
-Group,566
+Graph (discrete mathematics),212
+Graph database,187
+Grassmann number,329
+Gray code,"477, 479"
+Green's identities,"90, 398"
+Group (mathematics),566
+Group action,"59, 333, 378"
 Group theory,35
-Hadamard product (matrices),"158, 168, 38"
+Grover's algorithm,83
+Gröbner basis,"503, 505"
+Gödel's incompleteness theorems,494
+H-index,494
+Halting problem,1
 Hamming bound,479
-Hamming code,"477, 479, 482"
+Hamming code,485
 Hamming distance,"477, 478"
 Hamming weight,477
-"Hamming(7,4)",485
-Heat equation,"173, 20, 21"
-Hermann Grassmann,329
-Hermann Weyl,329
-Hermitian matrix,"461, 464, 465, 467"
+Hat operator,516
+Heat equation,311
+Herbert Wilf,189
+Hermite normal form,"10, 11"
+Hermite transform,464
+Hermitian matrix,"464, 471"
 Hessenberg matrix,444
-Hilbert space,"417, 577"
-Hoeffding's independence test,272
-Homogeneous coordinates,"20, 22, 260, 53"
-Homogeneous system,"24, 53"
-Homography,398
+Hilbert projection theorem,311
+Hilbert space,417
+History of mathematical notation,444
+History of mathematics,611
+Hofstadter sequence,192
+Homogeneous coordinates,"20, 53, 260"
+Homogeneous polynomial,"331, 363"
+Homogeneous space,"24, 53"
 Hooke's law,371
-Householder transformation,444
+Householder transformation,113
 Hyperbola,491
-Hyperbolic functions,333
 Hyperplane,"3, 575"
 Hypotenuse,612
-Idempotence,79
-Idempotent (ring theory),"534, 79"
-Identity function,"116, 376, 60"
-Identity matrix,"123, 52, 56"
+Hypothesis,611
+Idempotence,534
+Idempotent (ring theory),"79, 534"
+Identity matrix,"35, 52, 56, 97, 123, 291"
 If and only if,36
-Image (mathematics),381
-Image segmentation,"381, 382, 445"
-Image space,"264, 445"
-Imaginary number,"597, 600"
-Imaginary unit,597
-Implication,"611, 87"
-Indeterminate,"332, 623"
-Index,494
-Indian independence,"271, 345"
-Inductive reasoning,146
-Inequality,"244, 284, 599"
-Inequality (mathematics),599
+Image (mathematics),"264, 381, 382, 445"
+Imaginary unit,"403, 597, 600"
+Incomplete LU factorization,121
+Indefinite inner product space,540
+Independence (mathematical logic),"271, 345, 354"
+Indeterminate (variable),"332, 623"
+Index (economics),494
+Indigenous education,146
+Inductive reasoning,76
+Inequality (mathematics),"21, 87, 244, 284, 325, 599"
 Initial condition,199
-Inner product space,"226, 229, 285, 466, 537, 540, 541, 547, 557, 560, 564"
-Integration,377
-Interquartile range,382
+Inner product space,"215, 226, 463, 537, 540, 541, 547, 557, 560, 564"
+Input–output model,"128, 130"
+Integer,"473, 611"
+Integral,377
 Intersection,"270, 329, 360"
-Interval,332
+Interval (mathematics),332
 Interval arithmetic,330
-Intrinsics,211
-Invariance of domain,"176, 276"
-Invariant subspace,"470, 522, 523"
-Inverse element,80
-Inverse function,97
-Inverse function theorem,87
-Invertible matrix,"265, 35, 38, 448, 80, 81, 83, 95, 96, 98"
-Involution,531
+Intrinsic dimension,211
+Introduction to the Theory of Error-Correcting Codes,484
+Invariance of domain,276
+Invariant (mathematics),"176, 523"
+Invariant subspace,"522, 523, 528"
+Inverse element,"80, 145, 158"
+Inverse problem,"82, 83"
+Invertible knot,158
+Invertible matrix,"80, 81, 160"
 Involution (mathematics),531
-Irreducible polynomial,306
-Irreducible representation,606
+Irreducibility (mathematics),"531, 606"
+Isaac Newton,11
 Isometry,"251, 564, 565, 568"
-Isomorphism,"392, 393, 395, 508, 566"
-Issai Schur,467
-Itoh–Tsujii inversion algorithm,83
-Itô's lemma,358
+Isomorphism,"392, 508, 566"
+Isotropic quadratic form,"429, 487"
 Jacobi identity,249
-Jacobi operator,"410, 559"
-Johnson–Lindenstrauss lemma,"415, 549"
-Jordan normal form,"583, 591, 592, 593"
-Joseph Fourier,548
-Joseph-Louis Lagrange,245
-Kernel,382
-Kernel (linear algebra),"264, 382, 452, 531"
-Kernel (statistics),551
-Kirchhoff's circuit laws,"27, 30"
-Kosambi–Karhunen–Loève theorem,548
-Krylov subspace,339
-LU decomposition,"118, 120, 121, 124, 125"
-Lagrange polynomial,"365, 548"
-Lagrange's formula,"366, 549"
+Jacobi operator,559
+Jacobian matrix and determinant,152
+Jordan matrix,592
+Jordan measure,594
+Jordan normal form,"583, 591, 593"
+Junction Grammar,"27, 30"
+Kernel (linear algebra),382
+Knowledge economy,130
+Krylov subspace,276
+L-semi-inner product,462
+LU decomposition,124
+Lagrange polynomial,"165, 365, 548"
 Lagrange's identity,245
-Laplace expansion,"147, 204"
-Lattice (group),255
-Law of cosines,"227, 546"
+Lagrange's theorem (group theory),245
+Lancaster University,130
+Laplace distribution,148
+Laplace expansion,"146, 147, 204"
+Laplace operator,"376, 531"
+Laplacian matrix,139
+Law of cosines,"111, 227, 546, 556, 601"
 Law of sines,250
-Law of total probability,500
-Law of total variance,"326, 502"
-Leading zero,10
-Least squares,"313, 314, 317, 319"
-Legendre polynomials,"331, 347, 408, 550, 623"
-Leibnitz (disambiguation),145
-Lemma,96
-Lemma (mathematics),"354, 96"
-Leonhard Euler,602
-Leontief production function,128
-Line (geometry),"226, 491"
+Least squares,314
+Least-squares function approximation,"313, 319, 577"
+Least-squares spectral analysis,317
+Legendre function,550
+Legendre polynomials,"354, 550"
+Lemma (mathematics),"67, 96"
+Leonard W. Hein,475
+Leslie matrix,184
 Line segment,216
+Linear algebra,"251, 287, 382, 526, 548"
 Linear code,479
-Linear combination,"104, 21, 266, 271, 341, 345"
-Linear congruential generator,"193, 405, 406"
-Linear differential equation,"1, 14, 199, 2, 200, 24, 53"
-Linear discriminant analysis,17
+Linear combination,"21, 104, 266, 271, 341, 345"
+Linear congruential generator,"193, 405, 408, 481"
+Linear differential equation,"1, 53, 405, 410"
+Linear discriminant analysis,"17, 442"
 Linear dynamical system,"172, 182"
-Linear equation,"1, 221"
-Linear fractional transformation,"158, 255"
+Linear equation,"1, 221, 264"
+Linear fractional transformation,503
 Linear independence,"271, 273, 274, 345, 354, 358"
 Linear inequality,17
-Linear map,"104, 111, 250, 251, 254, 35, 375, 376, 377, 378, 383, 392, 397, 398, 508, 564, 59, 668, 90"
 Linear programming,500
-Linear recurrence with constant coefficients,192
-Linear regression,"347, 384"
-Linear span,"266, 341"
-Linear subspace,"263, 270, 331, 338, 339, 360, 528"
-List of statistics articles,146
-Logarithm,465
+Linear regression,"251, 347"
+Linear subspace,"263, 265, 270, 331, 338, 339, 360, 452"
+List of important publications in mathematics,27
+List of named matrices,"5, 158, 330, 444, 461"
+List of numerical analysis topics,100
+List of theorems,570
 Logical equivalence,615
-Loop invariant,176
-Loss function,"497, 499"
-Low-density parity-check code,479
-Magnetic field,"330, 474"
-Magnitude,211
-Main diagonal,"118, 43"
-Map projection,421
-Marginal product,128
-Markov chain,"130, 134, 136"
-Mathematical economics,611
+Long tail,213
+Longship,417
+Look-and-say sequence,406
+Lorentz transformation,"58, 60, 116, 255, 376, 377, 384, 398, 410, 504"
+Magnitude (mathematics),211
+Magnus expansion,61
+Market structure,130
+Markov chain,134
+Mathematical and theoretical biology,"29, 32"
+Mathematical constant,623
 Mathematical induction,"105, 618"
-Mathematical proof,611
+Mathematical proof,"516, 517, 583, 611"
 Mathematical statistics,322
-Matrix (mathematics),"149, 16, 173, 264, 291, 298, 330, 35, 36, 38, 383, 503, 80"
-Matrix addition,37
-Matrix calculus,"398, 90"
-Matrix congruence,493
-Matrix equivalence,103
-Matrix multiplication,"128, 152, 37, 39, 48, 49, 513, 54, 64, 65, 66, 67, 70, 73"
-Matrix multiplication algorithm,"73, 74"
-Matrix polynomial,"173, 469"
-Matrix similarity,"298, 513"
+Mathematics,"21, 80, 184, 322, 326, 397, 452, 491, 494, 503, 553"
+Matrix (mathematics),"10, 16, 35, 36, 50, 61, 68, 173, 264, 291, 298, 383, 513"
+Matrix addition,"37, 38"
+Matrix calculus,39
+Matrix coefficient,172
+Matrix decomposition,"10, 11, 100, 437"
+Matrix exponential,481
+Matrix multiplication,"39, 43, 48, 49, 64, 65, 67, 70, 73, 74, 128, 503"
+Matrix norm,35
+Matrix theory (physics),35
 Mean,322
+Mean squared error,322
 Median,225
-Median (geometry),225
-Metric,397
+Message passing,481
+Metric space,397
 Midpoint,216
-Migration,184
-Minimal polynomial (linear algebra),174
-Minimum distance,478
-Minor (linear algebra),"145, 146, 147, 160, 204, 81"
-Modified discrete cosine transform,85
-Modular arithmetic,"473, 475"
+Minimal polynomial (linear algebra),"174, 368, 369"
+Minor (linear algebra),"120, 146"
+Modular arithmetic,473
+Module (mathematics),"69, 72"
+Modulo (mathematics),"473, 474"
 Modulus,"473, 599"
-Moore–Penrose inverse,"322, 457, 80, 81, 82"
+Molecular dynamics,469
+Monte Carlo method,85
+Moore–Penrose inverse,"80, 81, 85, 322, 457"
 Morphism,397
-Multigrid method,"4, 9"
-Multiple edges,75
-Multiplication,"603, 68, 74, 87"
-Multiplication algorithm,597
-Multiplicity,"180, 304, 410, 625"
+Multiplication,"68, 71, 74, 87, 104, 146, 330"
+Multiplication algorithm,181
+Multiplication sign,"49, 603"
+Multiplicative inverse,598
+Multiplicity (mathematics),"180, 304, 410, 625"
 Multivariate statistics,501
-Möbius transformation,"376, 410"
-N-gram,477
-N-vector,47
-NaN,"193, 209, 3, 307, 406, 477, 58, 666, 670, 674"
-Negative binomial distribution,47
-Net reproduction rate,171
+Musical isomorphism,393
+Mutually orthogonal Latin squares,424
+Mécanique analytique,245
+N-gram,"446, 477"
+NaN,"3, 58, 193, 209, 307, 406, 477, 666, 670, 674"
+Nash equilibrium,130
+Natural transformation,392
+Nearest neighbor search,478
+Negative number,47
+Neural decoding,483
 Nilpotent,"190, 592"
 Nilpotent matrix,190
-Nonlinear system,"196, 199, 27, 29, 405, 408"
-Norm,"463, 541"
-Norm (mathematics),47
-Normal,"233, 469"
-Normal distribution,"14, 500"
-Normed vector space,330
-Notation,110
-Nuclear operators between Banach spaces,329
-Null hypothesis,611
-Nullity,383
-Number line,"218, 600"
-Object,397
+Noise (signal processing),472
+Noncommutative ring,87
+Nonlinear system,196
+Nonnegative matrix,38
+Norm (mathematics),"463, 541"
+Normal distribution,14
+Normal fan,"233, 469"
+Normal operator,557
+Normalizing constant,"286, 547"
+Normed vector space,"329, 333, 360"
+Nth root,"625, 626"
+Null set,264
+Null vector,"217, 284"
+Nullity (graph theory),383
+Numbers (season 5),271
+Numerical integration,"377, 553"
+Numerical methods for ordinary differential equations,"20, 21, 22, 24"
+Odd,354
 Ohm's law,30
-One-hot,477
-Optical path length,75
+Operator norm,"250, 375, 512, 513, 516"
+Operator theory,"251, 565"
 Orbital state vectors,"135, 137"
-Ordinary differential equation,"368, 403"
-Ordinary least squares,311
-Origin (mathematics),209
+Order of operations,71
+Ordered pair,"47, 275"
+Ordinary differential equation,"368, 402"
+Origin (mathematics),"209, 455, 477"
+Orthogonal array,484
 Orthogonal basis,"287, 416, 549"
 Orthogonal complement,"418, 484, 551"
-Orthogonal coordinates,"286, 547"
-Orthogonal diagonalization,"181, 424, 425, 427, 465, 557"
-Orthogonal functions,424
-Orthogonal group,"418, 431, 484"
-Orthogonal matrix,"160, 420, 424, 439, 461"
-Orthogonal polynomials,"286, 474"
-Orthogonality,"285, 415, 424, 484"
-Orthonormal basis,"285, 415, 503, 508, 518, 550, 559"
-Orthonormality,"285, 466, 547"
+Orthogonal coordinates,"424, 557"
+Orthogonal functions,"229, 285, 425, 427, 465, 466, 547"
+Orthogonal group,"425, 431"
+Orthogonal instruction set,"285, 415, 431, 484"
+Orthogonal matrix,"160, 417, 424, 426, 428, 438, 439, 443, 461, 465, 520, 549"
+Orthogonal polynomials,"286, 340, 441, 474, 597"
+Orthogonality (mathematics),"282, 285, 415"
+Orthographic projection,"420, 552"
+Orthonormal basis,"285, 288, 415, 466, 547, 549, 550, 559"
+Outer product,54
 PageRank,189
 Parabola,491
 Parallel (geometry),238
-Parallel processing,217
+Parallel (operator),217
 Parallelepiped,"247, 255"
+Parallelogram,230
 Parallelogram law,"110, 212, 601"
-Parameter,"14, 2"
-Parametric equation,"2, 219"
-Parity (mathematics),"354, 482"
-Parity bit,479
+Parameter,"2, 14"
+Parametric design,2
+Parametric equation,219
+Parity (mathematics),"354, 479"
+Parity bit,482
+Parity-check matrix,479
 Parseval's identity,556
+Partial differential equation,311
+Particle physics,499
 Particle swarm optimization,497
-Partition (number theory),189
-Pearson correlation coefficient,"324, 326"
+Partition of a set,73
+Pascal's triangle,35
+Pattern Blocks,"73, 74"
+Pauli matrices,"36, 38, 103"
+Pearson correlation coefficient,324
+Perfect number,479
 Permutation matrix,"123, 432, 521"
 Perpendicular,226
-Perron–Frobenius theorem,"185, 441"
-Phasor,140
-Philip Davis,553
-Philosophiæ Naturalis Principia Mathematica,11
-Physical property,539
-Pierre-Simon Laplace,148
+Perspective (geometry),104
 Pigeonhole principle,614
-Plane,"233, 264, 572"
-Plane (geometry),"233, 234"
-Pless conference,484
-Poincaré recurrence theorem,406
-Point reflection,160
-Pointwise,"332, 333"
-Polar coordinate system,601
+Pisano period,195
+Pivot element,10
+Plane (geometry),"233, 264, 572, 575"
+Plane of rotation,111
+Poietic Generator,482
+Point-biserial correlation coefficient,324
+Pointwise product,"332, 333"
+Poisson kernel,551
+Poisson sampling,324
 Polar decomposition,455
+Polar space,601
 Polygon triangulation,430
-Polynomial,"319, 332, 623"
-Polynomial expansion,61
-Polynomial interpolation,"165, 166"
-Polynomial-time reduction,613
-Position (geometry),213
-Position (team sports),"110, 601"
-Position angle,"110, 601"
-Positive Thinking,455
-Positive definiteness,"433, 497"
-Power iteration,"185, 441, 442"
-Poynting vector,48
-Prefix code,"477, 478, 481, 485"
-Prime number,"474, 614"
-Primitive root modulo n,474
-Principal axis theorem,"425, 465, 468, 498, 561"
-Principal component analysis,"442, 500, 501"
-Probability,134
+Polynomial,"157, 177, 319, 332, 354, 465, 623, 626"
+Polynomial interpolation,"165, 347"
+Polynomial ring,"331, 623"
+Positive definiteness,"433, 497, 539"
+Positive operator (Hilbert space),501
+Positive-definite function,539
+Positive-definite kernel,455
+Power iteration,"185, 441"
+Poynting vector,213
+Precalculus,145
+Principal axis theorem,"425, 426, 465, 468, 489, 498, 561"
+Principal component analysis,"500, 501"
+Principal value,601
+Probability,"134, 500"
 Probability theory,501
-Product rule,404
-Projection,"114, 230, 251, 418, 420"
-Projection (linear algebra),"251, 311, 420, 421, 534, 552, 564"
-Projection matrix,"423, 432, 63"
+Product rule,"55, 67, 404"
+Projection (linear algebra),"63, 251, 421, 423, 432, 564"
+Projection (mathematics),"114, 230, 231, 251, 418, 420, 421"
 Projection-slice theorem,"311, 420, 552"
-Projective plane,264
-Projective space,218
-Proof by contradiction,613
-Property (disambiguation),377
-Pseudorandom number generator,482
-Pythagorean theorem,"221, 228, 286, 547, 612"
-QR algorithm,443
-QR decomposition,"437, 438"
-Quadratic equation,"497, 606"
+Proper map,"263, 279"
+Property (mathematics),"377, 539"
+Pseudovector,"137, 576"
+Pythagoras,"221, 612"
+Pythagorean theorem,"221, 228, 286, 386, 489, 547, 548, 612"
+QR algorithm,"121, 125, 443"
+Quadratic,606
+Quadratic equation,497
 Quadratic form,"429, 487, 494, 541, 606"
-Quadratic formula,606
-Quadratic irrational number,609
-Quadrilateral,246
-Quantum group,35
+Quadratic formula,"600, 606"
 Quotient,473
-ROOT,"174, 441, 597"
-Radian,"111, 60, 601"
+RRQR factorization,438
+Radian,"111, 601"
+Random matrix,513
 Random number generation,482
-Random variable,500
-Rank,"16, 291, 383"
-Rank (linear algebra),"21, 291, 49, 494"
+Random variable,"14, 500"
+Randomized algorithm,586
+Rank (linear algebra),"16, 291, 383"
 Rational number,330
 Rayleigh quotient,442
-Reaction rate,32
-Real coordinate space,"282, 287, 462, 537"
-Real number,"1, 210, 330, 332, 461, 465, 47, 474"
-Real-valued function,332
-Recurrence,193
-Recurrence relation,"172, 406"
-Recursion (computer science),11
+Reaction (physics),32
+Real analysis,"403, 597"
+Real coordinate space,"47, 247, 276, 282, 290, 462"
+Real number,"1, 47, 210, 330, 332, 461, 465, 474, 600"
+Reciprocal length,"212, 282, 463, 541"
+Recurrence plot,"193, 194, 406"
+Recursive language,193
 Reduced cost,119
-Reduction,531
-Reflection,"113, 251"
-Reflection (mathematics),"569, 572, 575"
-Regular matrix,139
+Reductionism,613
+Reflection (mathematics),"113, 251, 568, 569, 572"
+Reflection group,575
 Regular representation,"522, 600"
 Remainder,473
-Repeller,187
-Restriction,524
-Result,67
+René Descartes,209
+Representation theory,58
+Restriction (mathematics),524
+Reverse Polish notation,145
+Reverse mathematics,87
 Rhombus,230
-Right-hand rule,248
-Root mean square,500
-Root of unity,"604, 605"
-Root-finding algorithms,"340, 441, 597"
-Rotation,"111, 254, 575"
-Rotation (mathematics),254
-Rotation around a fixed axis,575
-Rotation matrix,"111, 131, 513"
+Riemann–Roch theorem,"375, 386, 395"
+Right Sector,131
+Right ascension,85
+Right triangle,225
+Right-hand rule,"30, 248"
+Rigid transformation,104
+Robin boundary condition,"199, 369"
+Root (disambiguation),"174, 441, 597"
+Root of unity,"174, 604, 605"
+Rotation (mathematics),"111, 254, 575"
+Rotation formalisms in three dimensions,519
+Rotation matrix,"35, 38, 81, 131, 149, 152, 166, 433, 503"
 Round-off error,175
-Routh–Hurwitz stability criterion,434
-Row and column spaces,"290, 445"
-Row and column vectors,"172, 35, 47, 96"
-Row echelon form,"10, 100, 11, 120, 290, 35"
+Row and column vectors,172
 Row equivalence,103
-Row- and column-major order,"172, 36"
+SAT,302
 Saddle point,188
-Salt (cryptography),472
-Sample mean and covariance,322
+Sample space,322
 Sampling (statistics),322
-Scalar,"330, 39, 474"
-Scalar (mathematics),"330, 47"
-Scalar (physics),"104, 474"
-Scalar multiplication,"215, 330, 332, 333, 334, 39, 40"
-Scatter plot,323
-Scene graph,491
+Scalar (mathematics),"39, 47, 330, 474"
+Scalar curvature,"21, 24, 39, 278"
+Scalar multiplication,"21, 39, 40, 110, 215, 330, 332, 333, 334"
+Scalar projection,226
+Scattering,323
 Schur's theorem,"467, 468"
-Self-adjoint operator,559
-Self-similarity,518
-Sensitivity analysis,128
-Sequence,"406, 47"
+Self-adjoint operator,"251, 559"
+Semidirect product,"158, 168"
+Sequence,406
+Series (mathematics),139
+Series expansion,"61, 288"
 Set (mathematics),263
-Set-builder notation,264
-Shannon coding,477
+Seven-dimensional cross product,"236, 244, 245"
+Shannon number,477
 Shape,35
-Shear and moment diagram,61
-Shear mapping,575
-Shear modulus,61
+Shear matrix,61
 Shift operator,410
-Sign (disambiguation),146
+Shift space,444
+Sign (mathematics),"36, 146"
+Sign function,579
 Signed distance function,397
-Similarity (geometry),431
+Similarity invariance,518
 Simple harmonic motion,371
-Simplex,285
 Simplex algorithm,"17, 500"
-Sine and cosine,"111, 227, 556, 601"
-Singular value,"447, 467"
-Singular value decomposition,"38, 445, 451, 494"
-Skew-Hermitian matrix,471
-Skew-symmetric matrix,"35, 46, 528, 563"
+Singular value,"447, 448"
+Singular value decomposition,"445, 451, 505"
+Skew-symmetric graph,"46, 528, 563"
+Slope,"61, 221"
 Smith normal form,99
 Snake lemma,404
-Software-defined,43
-Solve,174
-Span,"266, 341"
-Sparse matrix,38
-Spearman's rank correlation coefficient,324
-Spectral theorem,"426, 468"
-Spectrum,426
+Solver,174
+Spanning tree,"266, 341"
+Spark (mathematics),382
+Spectral theorem,"161, 426, 468"
+Spectrum (disambiguation),426
 Spectrum of a matrix,426
 Sphere,499
-Spline (mathematics),553
+Spline (mathematics),384
+Split-complex number,"598, 600"
 Square,79
-Square root,"625, 626"
+Square matrix,"35, 47, 145, 159"
+Square root of a matrix,42
 Staircase paradox,10
 Standard basis,"106, 268, 272, 277, 278, 349, 461"
 Standard deviation,"323, 501"
-Standard error,"314, 483"
-State vector,137
-Steady state,130
-Stochastic matrix,"130, 134, 136"
-Structure theorem,570
-Student's t-test,"323, 324"
+State-transition matrix,"135, 136"
+Stochastic differential equation,"20, 173, 368"
+Stochastic matrix,"130, 136"
+Straight-line grammar,491
+Strassen algorithm,"83, 98"
 Subset,263
-Subspace,276
-Subtraction,38
+Substitution (logic),"14, 118"
+Subtraction,"38, 214"
 Sum,"270, 360"
-Summation,30
-Summation notation,205
-Survival analysis,171
+Summation,110
+Super-recursive algorithm,11
+Support (mathematics),339
+Support vector machine,214
+Sustainable Development Goal 4,256
 Sylvester's law of inertia,494
 Symmetric bilinear form,497
-Symmetric form,"225, 487"
+Symmetric group,"225, 487"
 Symmetric matrix,"307, 494"
+Symmetric tensor,225
+Symmetry in mathematics,564
 System of differential equations,199
-System of linear equations,"1, 14, 16, 2, 20, 21, 3, 32, 4, 48, 49, 5, 63, 82, 9"
-Taylor's theorem,"311, 364, 515"
+System of linear equations,"1, 2, 3, 4, 5, 9, 14, 16, 20, 21, 32, 49, 63, 82"
+Taxicab geometry,209
+Taylor's theorem,"364, 515"
+Tensor operator,518
 Tetrahedron,225
 Theorem,"158, 168, 291, 615"
+Theory of relativity,329
 Thermal conduction,577
-Time-utility function,172
-Toeplitz matrix,"4, 444"
-Topological vector space,"329, 334, 392"
-Trace,"299, 376, 518, 79"
-Trace (linear algebra),"513, 516"
+Thompson sampling,323
+Three-dimensional space,"271, 285, 354, 537"
+Topological vector space,334
+Trace (linear algebra),"79, 299, 376, 518"
 Trajectory,187
-Trajectory inference,187
-Transfer function matrix,130
-Transformation,"378, 503, 505, 59"
-Transformation matrix,"113, 376, 503, 504, 58, 59, 90"
-Transition matrix,"135, 136"
+Transformation (function),"59, 378, 503, 505"
+Transformation matrix,"35, 104, 251, 376, 396, 503, 507"
+Transition kernel,"134, 136"
 Transitive relation,406
-Translation (geometry),"380, 564, 61"
-Transpose,"376, 42, 50"
+Translation (geometry),"61, 380, 564"
+Transpose,"42, 376"
 Triangle inequality,"244, 543, 599"
-Triangular matrix,"118, 119, 128, 14, 154, 173, 174, 368, 369, 465, 467, 469, 518, 519, 524, 525, 583"
-Tridiagonal matrix,194
+Triangular matrix,"35, 36, 118, 119, 128, 154, 173, 174, 368, 369, 465, 467, 469, 518, 519, 524, 525, 583"
+Triangulation,430
 Trigonometric functions,111
-Trivial group,"271, 345"
-Triviality (mathematics),"173, 20"
-Tuple,"263, 275, 290, 330, 47, 54"
-Turtle graphics,258
-Unbounded operator,524
+Trigonometric interpolation,"366, 549"
+Triviality (mathematics),"20, 173, 271, 345"
+Tuple,"263, 275, 290, 330"
+Turner syndrome,483
 Uncorrelatedness (probability theory),501
 Unit circle,"110, 542, 601"
-Unit cube,256
-Unit sphere,"499, 541"
+Unit cube,"256, 499, 541"
+Unit fraction,212
 Unit square,256
-Unit vector,"215, 218, 282, 463, 541"
-Unitary matrix,466
+Unit vector,"47, 210, 213, 215, 263, 282, 330, 463, 541"
+Unitary matrix,"466, 467"
+Unitary operator,"254, 376"
 Universal approximation theorem,"552, 578"
-Vandermonde matrix,"153, 167, 505"
-Variance,"322, 323, 501"
-Vector,"330, 341, 47"
-Vector (mathematics and physics),212
-Vector calculus,"218, 228, 368, 47"
-Vector field,"263, 330"
+Vacuum solution (general relativity),"2, 14, 200"
+Vandermonde matrix,"153, 157, 167"
+Variable (mathematics),"14, 382"
+Variance,"322, 501"
+Variance swap,326
+Vector (mathematics and physics),"3, 35, 43, 47, 68, 80, 172, 198, 211, 213, 263, 330, 332, 334, 338, 341, 461, 537, 611"
+Vector calculus,218
 Vector graphics,322
-Vector multiplication,48
-Vector space,"209, 21, 24, 3, 306, 329, 330, 331, 333, 335, 338, 349, 363, 397, 47, 576"
-Vectorization,341
+Vector notation,"47, 48, 211, 218, 263, 264, 330, 334, 406, 601"
+Vector space,"3, 47, 209, 217, 218, 234, 290, 306, 329, 330, 331, 333, 335, 336, 338, 341, 349, 355, 363, 392, 397, 445, 461, 528, 538"
+Vectorization (mathematics),330
 Velocity,211
+Versine,"111, 601"
 Vertex (graph theory),75
 Vibration,499
-Viscosity,61
+Victorian era,171
 Volume,255
-Volume of an n-ball,478
-Web server directory index,494
-White noise,472
+WKB approximation,310
+Wave equation,233
+Weighing matrix,35
+Weyl tensor,329
 Whole number,611
-"Words, Words, Words (disambiguation)",477
 Wronskian,373
-Zero divisor,85
-Zero element,"263, 330"
+Y-intercept,209
+Z-matrix (mathematics),35
 Zero matrix,38
-Zero object (algebra),336
+Zero-dimensional space,355
+Zorn's lemma,"354, 358"
+Ω-consistent theory,1

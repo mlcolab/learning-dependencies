@@ -1,118 +1,134 @@
 wiki_concept,pages
-Basis,"117,118,213,195,209"
-Birkhoff–Kellogg invariant-direction theorem,229
+Affine transformation,"23, 111, 218"
+Basis (linear algebra),"117, 118, 195, 209, 213"
 Block matrix,142
+Bounded operator,111
+CP violation,247
 Canonical basis,408
+Canonical form,43
 Cauchy–Schwarz inequality,92
 Change of basis,"242, 243"
-Characteristic polynomial,"185,232,234"
-Closure (mathematics),"101, 102, 197"
-Cofactor,190
-Conjugation,247
-Cosine similarity,90
+Characteristic polynomial,"185, 232, 234"
+Closure (mathematics),"101, 197"
+Codomain,"34, 289"
+Composition operator,26
+Conic section,347
 Cramer's rule,192
 Cross product,31
+Curve,150
 Determinant,172
 Diagonal matrix,138
-Diagonalizable matrix,242
-Diagonalization,"230,241"
-Dimension,"213,117,195"
-Dimension (vector space),"213, 295"
+Diagonalizable group,242
+Diagonalization,"230, 241"
+Dimension,"117, 195, 213"
+Dimension (vector space),295
+Diophantine equation,25
 Direct sum,268
-Direct sum of modules,267
+Domain (mathematical analysis),"34, 289"
 Dot product,89
-Dual space,359
-Dyad,255
-Eigenvalues and eigenvectors,"230,233, 234, 237"
+Dual space,138
+Dyad (sociology),255
+Echelon formation,50
+Eigenface,"230, 233"
+Eigenvalue algorithm,234
 Elementary matrix,"174, 175"
-Equation solving,67
-Eros (disambiguation),42
-Euclidean space,88
-Euclidean vector,"127, 84, 90"
-Finite field,108
-Finite field arithmetic,155
-Function (mathematics),"34,289"
-Function composition,26
-Fundamental theorem of linear algebra,"234, 299"
+Equivalence relation,250
+Eros (concept),42
+Euclidean vector,"88, 90, 127, 134"
+Fermat's principle,346
+Fibonacci number,364
+Field (mathematics),"107, 108, 317"
+Flow (mathematics),389
+Forcing (mathematics),270
+Fundamental theorem of algebra,234
+Fundamental theorem of linear algebra,299
+Gamma matrices,"154, 247"
 Gaussian elimination,39
-Generalizations of Fibonacci numbers,364
-Golden-section search,349
+Golden ratio,349
 Gram–Schmidt process,264
-Graph (discrete mathematics),135
-Helmholtz equation,226
+Graph theory,135
+Haredi Judaism,348
+Heat equation,67
 Homomorphism,111
-Hyperplane,"65,86"
+Hyperplane,"65, 86"
 Identity matrix,139
 Image (mathematics),288
-Inner product space,"91,254"
-Integer programming,71
-Inverse element,150
-Invertible matrix,"150, 55"
-Involution,"134,272"
-Kernel,292
-Kindergarten (disambiguation),90
-Kirchhoff's laws,342
+Invariant (mathematics),229
+Invertible knot,"150, 150"
+Invertible matrix,55
+Involution (mathematics),"134, 272"
+Jordan measure,"250, 411"
+Kernel (image processing),292
+Kindergarten,90
 Kronecker delta,254
 LU decomposition,159
-Laplace expansion,186
 Law of cosines,88
+Least squares,303
 Least-squares adjustment,304
-Linear combination,"20,205,237"
+Linear algebra,"230, 233"
+Linear combination,"20, 205, 237"
 Linear independence,"195, 204, 205"
-Linear map,"111, 111,23"
-Linear span,"198, 209"
+Linear map,111
+Linear programming,71
+Linear subspace,195
 Linear system,21
-Matrix (mathematics),"133, 25"
+Logical matrix,155
+Map (mathematics),"34, 289"
+Matrix (mathematics),"133, 295"
+Matrix decomposition,138
 Matrix exponential,144
-Matrix multiplication,"134, 25,33"
-Matrix representation of conic sections,347
-Matrix similarity,247
+Matrix multiplication,"25, 33, 134"
+Minimum spanning tree,209
+Minor (linear algebra),"186, 190"
+Multiplication,102
 Multiplicative function,186
-Norm,90
-Nullity,295
-Ordinary least squares,303
+Norm (mathematics),90
+Normed vector space,267
+Operator (mathematics),237
 Orthogonal basis,255
-Orthogonal complement,"269, 270"
+Orthogonal complement,269
 Orthogonal matrix,260
-Orthogonality,"90,254"
+Orthogonality (mathematics),"90, 254"
 Orthonormal basis,255
-Outer product,254
-Parity of a permutation,171
-Partial equivalence relation,250
+Outer product,"91, 254, 254"
+Parallelepiped,192
 Pauli matrices,126
-Permutation,170
+Permutation,"170, 171, 171"
 Permutation matrix,249
-Perron–Frobenius theorem,"250,411"
-Projection,239
-QR decomposition,"262, 265"
-Rank,295
-Rank (linear algebra),297
+Projection (mathematics),239
+Proper orthogonal decomposition,262
+QR decomposition,265
+Quadratic equation,67
+Radius (disambiguation),305
+Random variable,"46, 46"
+Random walk,301
+Rank (linear algebra),"295, 297"
 Recurrence relation,349
-Rotation matrix,154
-Row and column spaces,"138, 23,138, 23,138,295"
-Row and column vectors,"126,134, 134"
-Row echelon form,"43, 50"
-Scalar (mathematics),107
 Scalar multiplication,84
 Sign function,171
-Simplex algorithm,46
-Singular value,284
-Singular value decomposition,"150, 310, 311"
-Skew-symmetric matrix,149
-Solution set,"65,66"
+Singular value,"284, 310, 311"
+Singularity (mathematics),150
+Skew-symmetric matrix,"149, 149"
+Solution set,"65, 66"
+Space (mathematics),"195, 198"
 Square matrix,"138, 143"
-Standard basis,"122, 217,220, 408"
-Subspace,195
+Standard basis,"122, 217, 220, 408"
+Stress (mechanics),342
 Subspace theorem,196
-Symmetric matrix,"139,277"
-System of linear equations,67
+Substitution (logic),160
+Symmetric matrix,"139, 277"
+The Doctor (Doctor Who),"97, 305"
+Titanic (1997 film),153
 Trace (linear algebra),145
-Transformation matrix,218
 Transpose,139
+Transpose of a linear map,134
 Triangle inequality,93
-Triangular matrix,"159, 160, 162, 58, 58,159"
-Triple product,192
+Triangular matrix,"58, 159, 159, 160, 162"
+Triangular prism,58
+Unit vector,"14, 90"
 Vandermonde matrix,344
-Variable,46
-Vector space,101
-Zero element,14
+Variable (mathematics),46
+Vector (mathematics and physics),"126, 134"
+Vector notation,84
+Vector space,"23, 23, 101, 138, 213, 295, 359"
+Wave equation,226

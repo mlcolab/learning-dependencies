@@ -1,241 +1,270 @@
 wiki_concept,pages
-Abelian group,83
+0,129
+Adjacency matrix,98
 Adjugate matrix,"148, 159"
+Affine transformation,"87, 88"
 Algebra,117
-Algebraic integer,2
 Algebraically closed field,138
-Alternating,169
-Annihilator,101
+Alternating permutation,"144, 169"
+Analytic function,30
 Annihilator (ring theory),"101, 201, 202, 228"
+Antiunitary operator,214
 Approximation,283
-Associative property,1
-Augmented matrix,14
-Automorphic form,"2, 261"
+Associative property,28
+Automatic differentiation,67
 Axiom of countable choice,400
-Basis,41
-Basis (linear algebra),"164, 41, 50"
+Basia,"99, 165"
+Basis (linear algebra),41
+Bernstein polynomial,"129, 266"
 Bessel's inequality,287
-Bilinear form,"166, 320, 359, 362, 365, 370, 375, 865"
-Borel functional calculus,"337, 344"
+Bilinear form,"166, 320, 323, 359, 365, 865"
+Bilinear map,"166, 320, 359"
+Bra–ket notation,314
+CP violation,276
+Canonical form,"325, 328"
 Cauchy–Schwarz inequality,278
 Cayley transform,309
 Cayley–Hamilton theorem,"194, 237"
 Change of basis,92
-Characteristic (algebra),3
-Characteristic polynomial,"182, 183"
-Characteristic vector,182
-Cofactor,158
+Characteristic (algebra),"182, 183"
+Characteristic class,182
+Characteristic polynomial,"3, 120, 183"
 Commutative algebra,117
-Commutative ring,140
-Companion matrix,230
-Complex number,2
-Composition,390
-Conductor,"201, 202, 232"
-Congruence,"139, 393, 396"
-Conjugate transpose,272
-Conjugation,"271, 276"
-Conjunctive normal form,"257, 261"
-Coordinate system,"50, 51"
-Coprime integers,133
+Commutative ring,"83, 140"
+Complemented subspace,231
+Complex conjugate,272
+Composition (combinatorics),390
+Composition operator,"67, 76, 112, 295"
+Conductor (class field theory),"201, 202, 232"
+Configuration space (mathematics),232
+Congruence (geometry),"139, 393, 396"
+Conjugate prior,271
+Coordinate system,50
+Coprime integers,2
 Coset,"177, 396"
 Cramer's rule,161
-Cyclic and separating vector,243
+Creation and annihilation operators,"185, 298, 314"
 Cyclic subspace,227
 Definite matrix,329
-Definite quadratic form,"32, 325, 328, 368"
-Degenerate bilinear form,"273, 277, 324, 365"
-Degree of a polynomial,119
-Dehn invariant,214
-Derivative,67
-Determinant,"147, 152, 172"
-Diagonalizable matrix,"185, 207, 222, 317"
+Degeneracy (mathematics),324
+Degenerate bilinear form,365
+Degenerate conic,324
+Degree of a polynomial,"119, 129"
+Determinant,"144, 163"
+Diagonal matrix,317
 Diagonalization,"204, 207, 216"
 Differential equation,223
 Dimension,44
-Dimension (vector space),"41, 44"
+Dimension (vector space),"41, 46"
+Diophantine equation,4
 Direct sum,210
-Direct sum of modules,231
-Direct-quadrature-zero transformation,67
 Distance,289
-Dual basis,"165, 99"
+Distance matrix,"14, 94"
+Division algorithm,128
+Drinfeld module,165
 Dual module,165
-Dual space,98
-Eigenvalues and eigenvectors,"182, 183, 323"
+Dual space,"39, 98, 99, 101, 165"
+Dyadic rational,"3, 238"
+Eigenvalues and eigenvectors,222
+Electromagnetic tensor,168
 Element (mathematics),388
-Elementary matrix,"20, 245, 252, 253, 256, 26, 6"
+Elementary mathematics,"6, 26, 252, 256"
+Elementary matrix,"11, 20, 56, 245, 253"
 Empty set,388
-Equivalence,256
+Equivalence class,256
 Equivalence relation,393
-Euclidean division,128
-Exterior algebra,"153, 168, 175, 177, 76"
-Factorization,136
+Euclidean vector,243
+Euler's formula,"129, 266"
+Exterior algebra,"175, 177"
+Exterior derivative,76
 Factorization of polynomials,136
-Feasible region,36
-Field extension,2
-Fingerprint,"239, 261"
+Field (mathematics),2
 Finitely generated module,165
-Fisher–Yates shuffle,171
 Force,79
+Form factor (electronics),169
 Formal power series,119
 Free module,"164, 165"
-Frobenius normal form,238
+Frobenius inner product,274
 Function (mathematics),389
+Functional (mathematics),97
 Fundamental theorem of algebra,138
-General linear group,"263, 307, 329, 341"
-Geometric algebra,90
-Glossary of string theory,"20, 253, 6"
-Gram matrix,274
+Fusion power,168
+General linear group,"307, 379"
+Generalized inverse,22
+Geometric transformation,"79, 112"
+Glossary of string theory,"6, 20, 51, 253, 322"
 Gram–Schmidt process,"280, 287"
 Grassmannian,180
 Greatest common divisor,13
-Group,82
-Group action,392
-Hermitian adjoint,295
-Hermitian matrix,"314, 323, 35"
-Hilbert space,214
-Homogeneous polynomial,120
-Householder transformation,312
-Hyperspace (disambiguation),"101, 109"
-Ideal,131
-Ideal (ring theory),"106, 131"
+Group (mathematics),82
+Gröbner basis,50
+Hermitian matrix,323
+History of mathematics,"36, 147"
+Homological algebra,"336, 344"
+Householder transformation,"76, 106, 172, 303, 304, 312"
+Hyperspace,"101, 109"
+Ideal (ring theory),131
 Identity element,"117, 140"
 Identity function,390
-Identity matrix,9
-Indefinite orthogonal group,381
-Inner product space,"271, 272, 278, 299, 368"
+Identity matrix,"9, 114"
+Independence (mathematical logic),"8, 209"
+Inner product space,"271, 272, 299"
+Integer,2
+Integer factorization,136
+Interior product,"175, 177"
 Interpolation,"124, 388"
-Invariant subspace,"199, 206, 314"
-Inverse function,"22, 3, 390, 391"
-Invertible matrix,"160, 22"
+Invariant subspace,"199, 206, 214, 314"
+Invariant theory,392
+Inverse element,22
+Inverse function,"3, 22, 390, 391"
+Inverse limit,22
+Invertible matrix,"22, 56, 72, 114, 160, 238"
+Irreducibility (mathematics),135
 Irreducible polynomial,135
-Isomorphism,84
-Jacobian matrix and determinant,144
-Jordan normal form,247
-Kernel (linear algebra),71
+John von Neumann,55
+Jordan matrix,247
 Kronecker delta,9
 Lagrange polynomial,124
 Laplace expansion,179
-Laplace operator,302
-Lefschetz fixed-point theorem,202
-Linear algebra,"117, 29"
-Linear combination,"31, 4"
-Linear differential equation,36
-Linear form,"166, 97"
-Linear function,"142, 291, 67, 97"
+Linear algebra,117
+Linear combination,"4, 31"
+Linear equation,142
+Linear fractional transformation,172
+Linear function (calculus),"67, 97, 291"
 Linear independence,"40, 47"
-Linear map,"329, 397, 67, 71, 76, 79"
-Linear span,36
-Linear subspace,35
-List of administrative divisions of the Tibet Autonomous Region,180
+Linear map,71
+Linear subspace,"35, 36"
+Linearity,"40, 47"
+Locally nilpotent derivation,202
 Lorentz group,382
-Lorentz transformation,382
-Mathematics of Sudoku,55
-Matrix (mathematics),"16, 163, 3"
-Matrix addition,214
-Matrix multiplication,"17, 19, 90"
-Matrix similarity,"185, 191, 94"
-Mellin inversion theorem,22
-Minimal polynomial,191
+Lorentz transformation,"233, 382"
+Map (mathematics),389
+Matrix (mathematics),"3, 9, 12, 16, 29, 155, 163, 322, 323"
+Matrix decomposition,"11, 27, 56, 329"
+Matrix exponential,125
+Matrix multiplication,"19, 90"
+Minimal polynomial (field theory),"120, 191"
 Minimal polynomial (linear algebra),191
-Minor (linear algebra),326
+Minkowski addition,106
+Minor (linear algebra),158
 Module (mathematics),164
-Monic polynomial,120
+Multilinear algebra,166
 Multilinear form,166
-Multilinear map,"144, 166, 169"
-Multiplicity,130
-Multiplicity (mathematics),129
-Natural number,2
-Natural transformation,397
+Multiplicity (mathematics),130
+Natural transformation,"295, 397"
 Nilpotent matrix,"222, 244"
-Nilpotent operator,222
-Norm,273
-Normal form,"257, 261"
+Noether's theorem,"2, 261"
+Nonnegative matrix,"32, 325, 329, 341"
+Norm (mathematics),273
+Normal basis,164
+Normal form (dynamical systems),"257, 261"
 Normal matrix,315
-Normal operator,312
-Operation,"256, 26"
-Operator theory,"329, 341"
+Normal operator,"185, 312"
+Normed vector space,41
+Null set,71
+Number,2
+Operation (mathematics),"26, 256"
+Operator (mathematics),"166, 302"
+Operator norm,76
+Ordered field,2
+Orthogonal basis,"278, 368"
 Orthogonal complement,285
-Orthogonal group,"379, 380"
+Orthogonal coordinates,51
+Orthogonal group,380
 Orthogonal matrix,"162, 380"
-Orthogonal transformation,304
-Orthogonalization,280
-Orthonormal basis,"278, 281, 41"
-Orthonormality,278
+Orthogonality (mathematics),"162, 278, 280, 380"
+Orthographic projection,285
+Orthonormal basis,"278, 281"
+Outer product,"17, 90, 271"
+Outline of linear algebra,71
 Parallelogram law,276
-Parity of a permutation,152
-Permutation,"15, 151"
+Parity of a permutation,"15, 152"
+Partition function (mathematics),152
+Pauli matrices,214
+Permutation,151
 Polar decomposition,34
 Polarization identity,"274, 368"
-Polynomial,"119, 120, 129, 30"
+Polynomial,"30, 119, 129"
+Polynomial ring,"120, 191"
 Positive definiteness,368
 Positive operator (Hilbert space),329
+Power associativity,1
 Power series,119
-Primary decomposition,"137, 220, 351"
+Primary color,351
+Primary decomposition,"137, 220"
+Prime number,135
+Primitive polynomial (field theory),135
+Principal axis theorem,326
 Principal ideal,131
-Projection,211
-Projection (linear algebra),"285, 303"
+Principal ideal domain,131
+Projection (mathematics),211
+Proper map,388
+Pseudo-reductive group,381
+Quadratic,"273, 368"
 Quadratic form,"273, 368"
+Quantum information,37
 Quotient space (linear algebra),397
-Quotient space (topology),397
-Range of a function,389
-Rank,"114, 72"
-Rank (linear algebra),"114, 163, 56, 71, 72"
-Rational number,"238, 3"
-Real number,2
-Reduced form,135
-Relation,393
+Random matrix,"163, 303"
+Rank (linear algebra),"56, 72, 114"
+Rational number,238
+Relation (mathematics),393
+Relativistic quantum mechanics,90
 Relaxation (iterative method),166
-Restriction (mathematics),"199, 391"
-Right inverse,22
+Resolution (logic),"337, 344"
+Riffle shuffle permutation,153
+Rigid analytic space,232
 Rigid body,310
 Ring (mathematics),140
-Rooting,129
-Rotation matrix,"309, 54"
-Row and column spaces,39
-Row and column vectors,38
-Row echelon form,"11, 56, 9"
-Row equivalence,"253, 308, 58, 7"
-Scalar,"120, 2"
-Schauder basis,41
-Schur decomposition,207
-Self-adjoint,345
-Self-adjoint operator,"298, 314"
+Root (disambiguation),129
+Rotation (mathematics),"54, 309"
+Row equivalence,"7, 58, 253, 308"
+Scalar (mathematics),"2, 120"
+Self-adjoint operator,"35, 293, 298, 314, 345"
+Semiprime,133
+Semisimple Lie algebra,263
 Semisimple operator,263
-Sesquilinear form,"320, 323"
+Sequence,47
+Sesquilinear form,320
 Set (mathematics),388
-Singular value decomposition,"314, 79"
-Skew-symmetric matrix,"162, 210"
-Smartphone,14
-Spectral imaging,"336, 344"
-Spectral theorem,3
-Spectral theory,"336, 344"
+Shuffling,171
+Signature (logic),372
+Simultaneous equations model,207
+Skew-symmetric matrix,"162, 210, 375"
+Space (mathematics),"34, 277"
+Sparse matrix,9
+Spectral density,"336, 344"
+Spectral theorem,"3, 148, 159"
+Spectral theory,"337, 344"
+Spectrum (disambiguation),336
 Square root,341
-Square root of a matrix,343
-Subfield,2
+Standard deviation,41
 Subset,"381, 388"
-Subspace,34
-Surjective function,389
-Symmetric bilinear form,"367, 370, 872"
+Surjective function,391
+Symmetric bilinear form,"362, 367, 370, 872"
 Symmetric group,"15, 153"
-Symmetric matrix,"210, 3, 35"
-System of linear equations,"3, 4"
-T'au Empire,"160, 22"
-Taylor series,"129, 266"
-Taylor's theorem,"129, 266"
-Tegra,274
-Trace (linear algebra),"106, 233, 293, 98"
-Transformation,3
-Transformation matrix,"87, 88"
-Transpose,"112, 114, 322"
-Triangular matrix,"155, 27"
-Triangulation (disambiguation),"203, 207, 334"
+Symmetric matrix,"3, 35, 210"
+System of linear equations,"3, 4, 36"
+Tensor product,"273, 277"
+The Zero Theorem,323
+Timeline of manifolds,202
+Topological vector space,84
+Toral subalgebra,207
+Trace operator,"199, 397"
+Transformation (function),3
+Transformation matrix,"67, 76, 79, 87, 88, 329, 341"
+Transpose,114
+Triangular matrix,"27, 155, 326"
+Triangulation (surveying),207
+Triangulation (topology),"203, 207, 334"
 Tuple,29
-Unitary matrix,"163, 303"
-Unitary operator,302
-Unitary representation,232
-Vandermonde matrix,125
-Vector (mathematics and physics),"28, 29"
-Vector space,28
-Weyl character formula,46
+Unary operation,343
+Union (set theory),388
+Unitary matrix,317
+Unitary operator,71
+Unitary transformation,302
+Vandermonde matrix,"125, 230"
+Variable (mathematics),71
+Vector space,"28, 29, 36, 38, 41, 44"
+Volterra operator,222
+Wronskian,"40, 47"
 Zero matrix,12
-Zero to the power of zero,129

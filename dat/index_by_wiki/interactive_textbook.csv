@@ -1,171 +1,226 @@
 wiki_concept,pages
-3D rotation group,"162, 375"
+2012 in science,138
 Absolute value,410
+Additional Mathematics,134
 Affine symmetric group,105
-Affine transformation,"124, 154, 165"
-Augmented matrix,13
-Autonomous system (mathematics),251
-Basis,93
-Basis (linear algebra),"102, 376, 97"
-Bijection,"139, 179, 251"
+Affine transformation,"120, 123, 124, 126, 142, 165, 176, 179, 180"
+Alternating multilinear map,203
+Anti-diagonal matrix,192
+Atmospheric lidar,385
+Basis (linear algebra),"93, 94, 95"
 Block matrix,320
-Born–Oppenheimer approximation,62
-Cartesian coordinate system,"103, 126"
-Change of basis,"100, 264"
+Canonical form,16
+Cartesian coordinate system,"148, 148"
+Change of basis,264
 Characteristic polynomial,"252, 253, 274"
-CheiRank,"332, 333"
-Clockwise,126
-Codomain,"120, 124, 138"
-Commutative property,156
+Closure (mathematics),40
+Codomain,120
+Color space,"4, 4"
+Commuting matrices,319
 Complex conjugate,410
-Complex number,"409, 410"
-Consistent and inconsistent equations,2
+Complex conjugate root theorem,"304, 411"
+Complex number,"309, 316, 318, 319, 409, 410"
+Composition of relations,161
+Computational complexity of matrix multiplication,158
+Computing the permanent,190
+Conjugate transpose,200
+Coordinate system,103
 Coordinate vector,"147, 148"
-Cosine similarity,"343, 347"
+Cosine similarity,262
 Cramer's rule,"218, 219"
-Cross product,47
-Cubic equation,411
 Curve fitting,393
-Definite matrix,299
-Derivative,121
-Determinant,"131, 136, 159, 170, 188, 193, 194, 195,251, 196, 202, 203, 205, 206, 207, 217, 224, 235, 274"
-Diagonal matrix,"192, 44"
-Diagonalizable matrix,"275, 278, 279, 280, 281, 286, 287, 289, 371"
-Dilation,126
+Curvilinear coordinates,380
+Data transformation (statistics),232
+Definite matrix,280
+Dependent and independent variables,251
+Determinant,"170, 188, 190, 195, 202, 205, 206, 217, 224, 235, 251"
+Determinantal point process,194
+Diagonal matrix,"192, 278"
+Diagonalizable group,278
+Differential equation,323
+Dilation (morphology),126
 Dimension,93
-Direct-quadrature-zero transformation,120
-Discrete-time Markov chain,327
-Discriminant,411
-Dot product,"188, 341, 342, 343, 347"
-Eigendecomposition of a matrix,"251, 274, 280, 285"
-Eigenvalue algorithm,"251, 257, 274"
-Eigenvalues and eigenvectors,"238, 240, 246, 247, 248, 251, 275, 280, 285, 293, 294, 297, 301, 316,318,319, nan"
-Eigenvector centrality,336
-Elementary matrix,13
-Empty set,27
+Dimensional analysis,"48, 58, 64, 110"
+Diophantine equation,54
+Diophantine geometry,264
+Dirac equation,51
+Distance from a point to a line,"361, 377"
+Distance matrix,343
+Dot product,"188, 341, 342, 347"
+Double negative,130
+Dual space,354
+Echelon formation,16
+Eigendecomposition of a matrix,"275, 275, 294, 297"
+Eigenface,238
+Eigenvalue algorithm,"247, 251, 257, 371"
+Eigenvalues and eigenvectors,"238, 240, 246, 251, 265, 274, 275, 280, 281, 285, 294, 301, 310, 316, 333, 336"
+Eigenvector centrality,238
+Einstein field equations,38
+Elimination theory,12
+Enigma machine,120
+Equals sign,230
 Equation solving,40
-Euclidean space,3
-Euclidean vector,"32, 33, 342"
-Factorization of polynomials,258
-Free variables and bound variables,25
-Function composition,161
+Euclidean space,82
+Factorial experiment,381
+Fixed point (mathematics),3
+Four-dimensional space,387
+Function composition,"136, 156, 162"
 Function of several complex variables,122
 Fundamental theorem of algebra,411
-Gaussian elimination,"12, 13, 19, 190, 251"
-Geometrical properties of polynomial roots,411
+Gamma matrices,"141, 297"
+Gaussian elimination,"13, 388, 389"
+Geometric median,"6, 7"
+Geometric transformation,"124, 124"
+Geometry processing,136
+Glossary of mathematical symbols,391
 Google matrix,335
 Gram–Schmidt process,382
-Great-circle distance,343
-Hausdorff dimension,"58,64"
-Hermitian matrix,304
-Hilbert space,368
-Homogeneous coordinates,103
-Identity function,"122, 156"
-Identity matrix,"148, nan"
-Implicit function,"10,26"
-Injective function,130
-Invertible matrix,"169, 174, 180, 180,251, 182,251, 195,251, 218, 251, 391"
-Jacobian matrix and determinant,224
-Jordan–Chevalley decomposition,280
-Kernel (linear algebra),"110, 251, 351, 88, 90, 99"
-Linear algebra,"251, 309"
+Gröbner basis,102
+Hermite normal form,251
+Hilbert projection theorem,377
+Hilbert space,"84, 248"
+History of mathematical notation,138
+Identity matrix,"126, 148, 188"
+Implicit function,"10, 26"
+Infinity,251
+Injective function,"130, 139"
+Inner product space,343
+Invertible matrix,"169, 169, 174, 182, 195, 251"
+Jacobian matrix and determinant,"188, 207, 251"
+Knapsack problem,393
+Laplace expansion,207
+Least squares,"387, 391"
+Least-squares spectral analysis,393
+Leibniz formula for determinants,188
+Line (geometry),
+Linear algebra,"238, 251, 289, 376"
 Linear combination,35
-Linear equation,2
-Linear independence,"195, 66"
-Linear least squares,"388,389, 391, 393"
-Linear map,142
+Linear discriminant analysis,"71, 299"
+Linear equation,"2, 58, 64"
+Linear independence,"66, 66, 195"
 Linear regression,69
-Linear span,87
-Linear subspace,"54, 82"
-Line–line intersection,nan
-Lorentz transformation,"120, 232"
-Matrix (mathematics),"13, 141, 198, 51"
+Linear span,"87, 97"
+Linear subspace,"82, 87, 88, 88, 376"
+List of named matrices,"141, 198, 274, 299, 300"
+List of unsolved problems in mathematics,"251, 251"
+Logarithm of a matrix,287
+Lorentz transformation,122
+Low basis theorem,100
+Mathematics,"134, 263"
+Matrix (mathematics),"13, 44, 110, 207, 207"
 Matrix addition,166
+Matrix calculus,"47, 207"
+Matrix decomposition,"192, 192, 193"
+Matrix determinant lemma,193
 Matrix equivalence,262
-Matrix multiplication,"148, 158, 160, 161, 167, 169, 196, 263, 44, 45"
-Matrix multiplication algorithm,158
-Matrix sign function,207
-Matrix similarity,"274, 275, 297, 299, 300, 319"
-MeCard (QR code),5
-Metric signature,294
-Minor (linear algebra),207
-Negation introduction,130
-Nonlinear dimensionality reduction,108
-Normal matrix,371
-Nullity,110
+Matrix exponential,279
+Matrix multiplication,"114, 158, 160, 161, 165, 166, 167, 169, 196, 196, 263, 297"
+Matrix multiplication algorithm,"158, 167"
+Matrix norm,256
+Matrix similarity,274
+Maxwell's equations,53
+Minimal polynomial (linear algebra),279
+Minkowski space,99
+Moment (mathematics),16
+Monotonic function,120
+Moore–Penrose inverse,136
+Multiplication algorithm,19
+Multiplicative inverse,218
+Multiplicity (mathematics),293
+Multiset,293
+Multiview orthographic projection,"361, 377"
+Non-linear least squares,393
+Noncommutative ring,156
+Nonlinear control,"41, 48"
+Nonlinear dimensionality reduction,"108, 360, 363"
+Null hypothesis,90
+Null set,88
 Number line,3
-One-to-one,129
-Ordinary differential equation,53
-Ordinary least squares,"387, 393"
-Orthogonal complement,"348, 350, 350,355, 353, 355"
-Orthogonal coordinates,380
-Orthogonal diagonalization,"94,95"
+One Thousand and One Nights,251
+One-to-one (data model),129
+Operator (mathematics),248
+Orthogonal complement,"348, 350, 350, 353, 355, 355, 368, 371"
+Orthogonal coordinates,"374, 380"
 Orthogonal group,380
-Orthogonality,"345, 382"
-Orthogonality (mathematics),345
-Orthonormal basis,"374, 376"
-Orthonormality,374
-PageRank algorithm in biochemistry,nan
-Parallelepiped,"223, 224, 227"
-Parametric equation,"10, 10,25, 11, 26, 62"
-Perron–Frobenius theorem,"246, 327, 371"
-Pivot,16
+Orthogonal instruction set,382
+Orthogonal matrix,"148, 358, 367, 369, 371, 376"
+Orthogonal polynomials,374
+Orthogonality (mathematics),"345, 374"
+Orthographic projection,"358, 359, 368"
+Oscillator representation,294
+Outer product,"44, 45"
+Outline of linear algebra,"251, 351"
+Parallel projection,371
+Parallelepiped,"223, 223, 224, 227"
+Parallelogram,224
+Parametric design,"10, 25"
+Parametric equation,"26, 62"
+Parametric surface,"10, 11"
+Partial differential equation,46
+Permutation matrix,159
+Perron–Frobenius theorem,327
+Petrov classification,293
 Pivot element,21
-Plane (geometry),"3, 58,64"
-Point-to-point,30
-Polynomial long division,258
-Principal component analysis,385
-Projection (linear algebra),"148, 357, 358, 359, 361,377, 367, 368, 369, 371, 377"
-Projection matrix,"358, 387"
-Pythagorean theorem,345
+Point (geometry),"30, 30"
+Polynomial,"411, 411"
+Polynomial ring,"258, 258"
+Projection (linear algebra),"286, 286, 357, 368"
+Projection formula,377
+Projective plane,"3, 58, 64"
+Pythagorean theorem,"345, 368"
+QR code,5
 Quadratic formula,411
-Quadratic function,411
-Radon transform,377
-Random projection,"360,363"
-Rank,110
-Rank (linear algebra),"356, 41,48"
+Quasi-arithmetic mean,294
+Random variable,121
+Rank (linear algebra),110
 Rank–nullity theorem,110
-Rational root theorem,258
+Rational root theorem,"258, 258"
+Real coordinate space,"344, 344"
 Real number,3
-Recurrence relation,323
-Red box,"323,326,330"
-Rotation matrix,"148, 306, 310, 316"
-Row and column spaces,"110, 124, 13, 251, 354, 355, 88, 96"
-Row and column vectors,47
-Row echelon form,16
-Row equivalence,15
-Scalar (physics),165
-Scalar multiplication,"166, 32"
-Scalar projection,380
-Self-similarity matrix,265
-Sensitivity analysis,71
+Reflection (mathematics),"135, 373"
+Rigid transformation,145
+Rotation formalisms in three dimensions,310
+Rotation matrix,"126, 241, 262, 306, 310"
+Row and column spaces,"13, 96, 110, 354, 355, 356"
+Row and column vectors,"47, 148"
+Row equivalence,"13, 15"
+S-box,"323, 326, 330"
+Scalar multiplication,32
+Schur decomposition,251
+Search engine optimization,332
 Separable space,84
-Set-builder notation,41
-Shape,7
-Shear mapping,126
-Signed distance function,230
-Similarity,261
-Similarity (geometry),264
-Similarity measure,262
-Singular value decomposition,"134, 64"
+Serre's multiplicity conjectures,294
+Set (mathematics),135
+Set theory,27
+Set-builder notation,"41, 41"
+Shear matrix,126
+Similarity (geometry),261
+Similarity invariance,"274, 274"
+Singular value decomposition,64
 Solution set,2
-Span,40
-Specular reflection,373
-Stochastic matrix,"134, 325, 326, 327"
+Space (mathematics),"4, 82"
+Spacetime triangle diagram technique,62
+Square root of a matrix,"371, 371"
+Stationary point,103
+Stochastic matrix,"325, 326, 326, 327"
+Stochastic process,327
 Subset,81
-Subspace,82
 Superposition principle,143
-Surjective function,"135, 136, 251"
-Symmetry (geometry),138
-System of linear equations,"174, 2, 27, 38, 46, 48, 53, 55, 57, 58,64, 62, 66"
-Three-dimensional space,4
-Trace (linear algebra),"145, 256"
-Transformation,120
-Transformation matrix,"114, 123, 126, 142, 148, 149, 161, 176, 241"
-Transpose,"199, 200, 381"
-Triangular matrix,"192, 193, 257"
-Trigonometric functions,6
+System of linear equations,"2, 27, 53, 55, 57, 90, 174"
+Theorem,110
+Transformation (function),120
+Transformation geometry,"131, 131"
+Transformation matrix,"142, 148, 149, 161, 180, 251, 369, 371"
+Transformation semigroup,154
+Translation,62
+Transpose,199
+Triangular matrix,257
 Triple product,224
 Unit cube,223
 Unit vector,"344, 374"
-Volume,"227, 232, nan"
+Variable (mathematics),25
+Vector notation,"32, 38, 342, 343, 344, 344, 347"
+Vector space,"3, 33, 47, 88, 251"
+Volume,227
+Volume of an n-ball,232
+Wavelet transform,375

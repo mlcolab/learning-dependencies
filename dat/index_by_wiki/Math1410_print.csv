@@ -1,156 +1,169 @@
 wiki_concept,pages
-Abscissa and ordinate,12
-Absolute value,"14, 19, 35, 37"
-Additive inverse,220
+Absolute Infinite,147
+Absolute value,14
+Adjoint,337
 Adjugate matrix,337
-Antisymmetric relation,305
-Argument (complex analysis),"35, 38"
-Augmented matrix,129
-Basic feasible solution,"150, 177"
-Basis,282
-Blank (solution),147
-Cartesian coordinate system,"12, 29"
+Affine transformation,"245, 263, 268, 272"
+Algebraic structure,60
+Antiparallel (mathematics),91
+Antisymmetric tensor,305
+Atlas (topology),12
+Axis,12
+Basic solution (linear programming),177
+Basis (linear algebra),282
+Bijection,"136, 150, 151"
+Canonical form,"136, 136"
+Cartesian coordinate system,"12, 12, 52"
 Characteristic polynomial,"346, 369"
-Coefficient,148
-Coefficient matrix,129
-Cofactor,314
-Complex conjugate,22
-Complex number,"19, 20, 35"
+Cis (mathematics),39
+Closure (mathematics),115
+Complex conjugate representation,21
+Complex conjugate root theorem,22
+Complex number,"19, 20, 21, 35, 37, 38, 39, 40, 44, 44, 45, 49"
 Complex plane,35
-Computational complexity of matrix multiplication,196
-Conjugate transpose,21
-Consistency,"147, 180, 181"
-Consistent and inconsistent equations,"147, 150, 180, 181"
-Coprime integers,7
+Conjugate transpose,22
+Consistency,"147, 147, 180, 181"
+Coordinate system,"12, 12, 29"
 Cramer's rule,334
+Crank–Nicolson method,139
 Cross product,"77, 80, 81, 82, 83, 84, 85"
-Cylindrical coordinate system,29
-De Moivre's formula,40
-Dependent and independent variables,150
-Determinant,"313, 317, 325, 331"
+Curvilinear coordinates,"29, 51"
+De Moivre's theorem,40
+Definition,"1, 2"
+Determinant,"317, 331"
 Diagonal,235
-Diagonal matrix,300
-Diagonalizable matrix,374
+Diagonal matrix,"374, 374"
 Diagonalization,372
 Diagonally dominant matrix,300
+Dieudonné determinant,326
 Dimension,282
-Dot product,"40, 55, 67, 68"
-Eigendecomposition of a matrix,369
-Eigenvalue algorithm,346
-Eigenvalues and eigenvectors,"342, 364, 371, 377, 59, 61"
-Element (mathematics),2
-Elementary matrix,"130, 135, 238, 326"
-Elementary operations,130
+Disjoint sets,2
+Distance,14
+Distance matrix,"52, 129"
+Distributive property,368
+Dot product,"67, 67, 68"
+Echelon formation,136
+Eigenvalue algorithm,"346, 364"
+Eigenvalues and eigenvectors,"342, 369, 377"
+Elementary mathematics,"130, 130, 135"
+Elementary matrix,"238, 326"
 Empty set,3
+Equation,"90, 102, 125, 147, 149, 152, 177, 181, 226"
 Equivalence relation,368
-Euclidean distance,14
-Euclidean plane isometry,58
-Euclidean vector,"55, 56, 58"
-Euler's formula,37
-Exterior algebra,57
-Factorization,26
-Fundamental theorem of algebra,26
-Gaussian elimination,"137, 139, 140"
-Great-circle distance,52
-Homogeneous coordinates,"176, 180, 181"
-Identity matrix,207
+Euclidean vector,"55, 58, 101, 191"
+Exponential function,"35, 35"
+Factorization of polynomials,26
+Foundations of mathematics,182
+Fundamental theorem of algebra,"26, 26"
+Gamma matrices,367
+Gaussian elimination,"129, 137, 139, 140"
+Generalized inverse,"220, 224, 306"
+Generation of primes,7
+Geometric transformation,286
+Head/tail breaks,58
+Homogeneity (disambiguation),"176, 180, 181"
+Identity matrix,"207, 207"
 Imaginary number,35
-Imaginary unit,19
-Inclusion–exclusion principle,2
+Imaginary unit,"19, 19, 35"
+Inclusion map,2
+Infinity,"150, 181"
+Initial condition,55
+Intersection,91
 Intersection (set theory),2
-Invariant subspace problem,281
-Inverse function,222
-Invertible matrix,"220, 224, 230, 331, 365"
-Jacobian matrix and determinant,"313, 317"
+Intersection graph,2
+Invariant (mathematics),148
+Inverse function,"220, 222, 224, 230, 235"
+Inverse function theorem,230
+Invertible matrix,"230, 331, 365"
 Jordan normal form,377
-Kernel (linear algebra),"290, 291"
-LU decomposition,139
 Laplace expansion,"316, 322"
+Line (geometry),"89, 91"
+Linear algebra,117
 Linear combination,"113, 194"
-Linear equation,125
-Linear independence,117
-Linear map,"263, 268, 272, 286"
-Linear span,280
-Linear system,125
-Line–line intersection,91
-List of trigonometric identities,39
-Mahalanobis distance,14
-Matrix (mathematics),300
+Linear equation,"125, 125"
+Linear independence,"117, 117"
+Linear span,"117, 280"
+Linear subspace,275
+List of named matrices,313
+Magnitude (mathematics),55
+Mathematics,"149, 152"
+Matrix (mathematics),"2, 238, 300, 314, 337"
 Matrix addition,192
-Matrix multiplication,"201, 208"
-Matrix norm,191
-Matrix similarity,"367, 368"
-Midpoint,"15, 16"
-Minor (linear algebra),"314, 337"
-Moore–Penrose inverse,306
-Multiplicative inverse,224
+Matrix calculus,"314, 337"
+Matrix coefficient,129
+Matrix decomposition,300
+Matrix determinant lemma,"313, 317"
+Matrix multiplication,"190, 193, 201, 208"
+Matrix norm,"55, 191"
+Matrix similarity,367
+Measure (mathematics),55
+Midpoint,15
+Midpoint method,16
+Minkowski space,291
+Minor (linear algebra),"314, 314"
+Multiplication,20
 Multiplicity (mathematics),369
-Norm,55
-Normal (geometry),101
-Normed vector space,55
-Nth root,"44, 45"
-Number line,35
-Orbital plane,52
+Multiset,371
+Norm (mathematics),55
+Null set,290
+Number,19
 Ordered pair,12
-Ordinary differential equation,"149, 152"
 Origin (mathematics),12
-Orthogonal diagonalization,377
-Orthogonal matrix,70
-Orthogonality,70
-Parallel (geometry),91
+Orthogonality,377
+Orthogonality (mathematics),"70, 70"
+Orthographic projection,"72, 72"
 Parallel transport,"59, 61"
-Parallelogram law,58
+Parallelogram law,"58, 58"
 Parameter,148
-Pivot element,288
-Plane (geometry),102
-Polar coordinate system,"29, 32, 39"
-Power rule,40
-Power series solution of differential equations,149
-Projection (linear algebra),72
-Projective plane,52
-Proof by infinite descent,147
-QR decomposition,73
-Quadrant,14
-Quasigroup,"230, 235"
-Quotient ring,40
-Rank (linear algebra),293
-Real number,55
-Resultant force,58
-Right-hand rule,51
-Root of unity,"44, 45, 49"
-Rotation matrix,196
-Row and column spaces,287
-Row and column vectors,"111, 112, 191"
-Row echelon form,136
-Scalar,193
-Scalar multiplication,193
-Set (mathematics),1
-Set-builder notation,1
-Singular solution,"147, 181, 226"
-Singular value decomposition,73
-Skew lines,91
+Pivot element,"288, 288"
+Polar coordinate system,"29, 32, 32"
+Principal value,35
+Problem solving,159
+Projection (mathematics),52
+Proper orthogonal decomposition,"73, 73"
+Quadrant (plane geometry),14
+Real number,35
+Resultant,58
+Ring (mathematics),2
+Root of unity,"49, 49"
+Row and column spaces,293
+Row and column vectors,"63, 112"
+Scalar (mathematics),193
+Scheme of work,75
+Series (mathematics),12
+Set theory,3
+Set-builder notation,"1, 1"
+Signed distance function,14
+Skew-symmetric graph,305
 Skew-symmetric matrix,"305, 306"
-Solution,125
-Span,115
-Subset,2
-Subspace,275
-Symmetric matrix,"305, 306"
-Symmetric relation,305
-System of linear equations,"125, 147, 151, 176, 90"
-Tensor rank decomposition,182
-Trace (linear algebra),"309, 311"
+Space (mathematics),281
+Split-complex number,"35, 35, 37, 39"
+Substitution (logic),138
+Symmetric function,305
+Symmetric matrix,306
+Symmetry,305
+System of linear equations,"125, 147, 147, 150, 151, 176, 180, 181"
+Terminal velocity,55
+Tower of Hanoi,147
+Trace theory,309
 Transformation matrix,"245, 267, 269"
-Transpose,"190, 299, 304, 305"
-Triangular matrix,"138, 300"
-Triviality (mathematics),147
-Underdetermined system,"150, 181"
-Union (set theory),2
-Unit vector,"268, 60, 62, 63"
-Variable,"148, 150"
-Vector (mathematics and physics),60
-Vector field,58
-Vector projection,"62, 72"
-Vector space,111
-Venn diagram,3
-Verbal arithmetic,1
-Zero matrix,196
+Transpose,"299, 299, 304, 305"
+Triangular matrix,"325, 325"
+Tridiagonal matrix,300
+Union (set theory),"2, 2"
+Unit vector,"60, 62, 63, 101, 268"
+Universal property,"62, 311"
+Variable (mathematics),"148, 150, 150"
+Vector (mathematics and physics),"55, 191"
+Vector algebra,57
+Vector calculus identities,58
+Vector notation,56
+Vector space,"55, 59, 61, 111, 191, 287"
+Vectorization (mathematics),"111, 191"
+Venn diagram,"3, 3"
+Verbal Behavior,1
+Weierstrass factorization theorem,26
+Weight (representation theory),371
+Weighted arithmetic mean,196
+Y-intercept,12
+Zero matrix,"196, 196"

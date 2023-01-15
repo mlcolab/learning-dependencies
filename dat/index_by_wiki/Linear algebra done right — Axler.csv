@@ -1,152 +1,178 @@
 wiki_concept,pages
 Absolute value,118
-Addition,"14, 20, nan"
-Additive,52
-Additive inverse,"12,15"
-Affine transformation,94
-Associative property,"3,12,56"
-Banach space,82
-Basis,39
-"Bijection, injection and surjection",62
-Block matrix,255
-Cauchy–Schwarz inequality,"171,317, 172"
-Cayley table,262
+Addition,18
+Additive identity,"3, 4"
+Additive inverse,"12, 15"
+Affine space,"20, 94"
+Affine transformation,52
+Algebra over a field,17
+Apollonius of Perga,179
+Backslash,"53, 59, 81, 86, 140"
+Ball (mathematics),323
+Basis (linear algebra),39
+Bijection,"60, 62"
+Bilinear map,"55, 70"
+C mathematical functions,14
+Canonical basis,273
+Cauchy theorem,"171, 317"
+Cauchy–Schwarz inequality,172
+Cayley graph,262
 Cayley–Hamilton theorem,"261, 284"
 Change of basis,298
 Change of variables,328
-Characteristic polynomial,"261, nan"
-Closure (mathematics),18
-Commutative property,"3,7,12,25,56,75,79,144,212"
+Characteristic (algebra),"134, 283"
+Characteristic polynomial,261
+Closure (mathematics),29
+Commutative ring,"3, 7, 12, 25, 56, 75, 79, 144, 212"
 Complex conjugate,118
-Complex number,"118, 2, 4"
-Complexification,"276, 277, nan"
+Complex number,"2, 4"
+Complexification,277
 Conjugate transpose,207
-Convex cone,17
 Coordinate system,6
-Cubic equation,124
-Decomposition of spectrum (functional analysis),107
-Degree of a polynomial,"144, 31"
+Degree of a polynomial,"31, 122"
 Derivative,327
 Descartes' theorem,1
-Determinant,"307, 314, nan"
-Diagonal matrix,"147, 155"
-Diagonalizable matrix,156
-Differentiable manifold,327
+Determinant,
+Diagonal matrix,"155, 255"
+Diagonalizable group,156
+Diagonally dominant matrix,147
+Differentiable function,"53, 56, 59, 61, 62, 69, 72, 78, 144, 190, 248, 294, 327"
 Dimension,44
-Dimension (vector space),"30, 31"
-Direct sum,"21,42,93"
-Distributive property,"3,12,16,56,79"
-Dot product,"12, 164, 166"
-Dual basis,102
-Dual space,"101, 104, 116, nan"
-Eigendecomposition of a matrix,254
-Eigenvalues and eigenvectors,"134, 155, 157,218,221,224,268, 255"
+Direct sum,"21, 42, 93"
+Direct sum of modules,47
+Distributive property,"3, 12, 16, 56, 79"
+Dot product,164
+Dual (category theory),
+Dual space,"102, 116"
+Eigenface,134
+Eigenvalue algorithm,134
+Eigenvalues and eigenvectors,254
 Euclidean distance,198
-Euclidean vector,12
-Factorization of polynomials,122
-Fibonacci polynomials,131
-Field (mathematics),"10, 9"
-Flatland (disambiguation),6
+Euclidean vector,"12, 12, 28"
+Examples of vector spaces,"7, 10"
+Factorization of polynomials,121
+Fibonacci,131
+Fibonacci cube,161
+Field (mathematics),10
+Flatland,6
 Fredholm operator,251
-Frigyes Riesz,187
+Frobenius inner product,166
+Functional (mathematics),"101, 187"
 Fundamental theorem of algebra,124
 Fundamental theorem of linear algebra,63
 GJMS operator,242
 General linear group,80
-Generalized eigenvector,"245, 253"
+Generalized eigenvector,"157, 218, 221, 224, 245, 253, 268"
+Gram matrix,182
 Gram–Schmidt process,182
-Hadamard product (matrices),75
 Harmonic function,179
-Hermitian matrix,209
-Homogeneous function,52
-Hypatia (disambiguation),241
-Identity function,"52,56"
-Identity matrix,296
-Image (mathematics),62
-Injective module,60
-Inner product space,"166, 167, 169, 55"
+Hat operator,146
+Homogeneity (disambiguation),52
+Homogeneous differential equation,"66, 89"
+Hypatia,241
+Icosahedral symmetry,166
+Identity matrix,"111, 112, 296"
+Image (mathematics),"61, 62"
+Imaginary unit,118
+Infinite-dimensional vector function,31
+Inner product space,167
 Integral,327
 Invariant subspace,132
-Inverse,nan
-Invertible matrix,296
-Isometry,"228,292,321"
+Inverse function,
+Inverse problem,80
+Invertible matrix,"111, 296, 296"
+Involutory matrix,296
+Isometry,"228, 292, 321"
 Isomorphism,82
-Jordan normal form,273
-Kernel,59
-Kernel (linear algebra),"106, 59"
-Laplace operator,"179, 323, 86"
+Jordan algebra,273
+Kernel (image processing),59
+Laplace operator,224
 Linear combination,28
-Linear form,"101,187"
 Linear independence,"32, 33"
-Linear map,"52, 53,56,59,61,62,69,72,78,144,190,248,294, 55, 80, 98"
-Linear span,29
-Linear subspace,"18, 47"
-Matrix (mathematics),70
-Matrix addition,72
-Matrix multiplication,"55, 75, 84"
-Minimal polynomial,"263,279"
-Monic polynomial,262
-Multiplicative inverse,"3,4"
-Nilpotent matrix,249
-Nilpotent operator,"248,271"
-Norm,"164,168"
-Normal operator,"212,287"
-Ordinary differential equation,"66,89"
+Linear map,"52, 55, 56, 98"
+Linear span,"29, 30"
+Linear subspace,"18, 18"
+Log-polar coordinates,329
+Mathematics,"5, 5, 107"
+Matrix (mathematics),"70, 209"
+Matrix exponential,249
+Matrix multiplication,"55, 75, 75"
+Matrix norm,"84, 110"
+Minimal polynomial (field theory),"262, 263, 279"
+Multiplicity (mathematics),255
+Multiset,255
+Nilpotent matrix,"248, 271"
+Norm (mathematics),"164, 168"
+Normal operator,"212, 229, 287"
+Normed vector space,"13, 30, 82, 91, 101"
+Null set,59
+Null vector,106
+Number,118
+One-to-one (data model),60
+Operator (mathematics),86
+Order of a polynomial,122
+Order of operations,9
 Orthogonal complement,"193, 194"
-Orthogonality,nan
+Orthogonal functions,169
+Orthogonal matrix,180
+Orthogonal polynomials,144
+Orthogonality (mathematics),
+Orthographic projection,195
 Orthonormal basis,181
-Orthonormality,"180, 28, nan"
+Outer product,166
+P-Laplacian,179
 Parallelogram law,174
 Parity of a permutation,312
+Paul Erdős,333
+Pauli matrices,75
 Permutation,311
-Perspective-n-Point,243
-Point-to-point,13
-Polar coordinate system,329
+Point (geometry),13
 Polar decomposition,233
-Polynomial,"122, 30"
-Polynomial long division,121
+Polynomial,30
 Positive operator (Hilbert space),"225, 227"
-Product,nan
-Product (mathematics),2
-Projection (linear algebra),"195, 229"
-Projections onto convex sets,62
-Pythagorean theorem,"170, 179"
-Quotient,nan
-Quotient ring,97
-Quotient space,95
-Quotient space (linear algebra),"137, 96"
-Random Fibonacci sequence,161
-Rank (linear algebra),"111, 112"
-Restriction (mathematics),137
+Power associativity,"3, 12, 56"
+Product (mathematics),
+Pythagorean theorem,170
+Quadratic formula,124
+Quantity,52
+Quotient,
+Quotient graph,97
+Quotient space (linear algebra),"96, 137"
+Quotient space (topology),"95, 96"
 Riesz representation theorem,187
-Scalar,4
-Scalar multiplication,"10,12, 73"
+Riesz space,187
+Rotation matrix,72
+Scalar (mathematics),4
+Scalar multiplication,"10, 12, 73"
 Schur's theorem,186
 Self-adjoint operator,209
-Signum,313
-Singular value,236
+Set (mathematics),62
+Sign (mathematics),313
+Singular value,"236, 296"
 Singular value decomposition,237
-Span,"29, 30"
-Spectral theorem,"218, 218,221, 221"
-Spectrum (functional analysis),134
+Spectral theorem,"218, 218, 221, 221"
+Spectrum of a matrix,"300, 314"
 Spherical coordinate system,330
-Square root,"223,225,233,259, 224"
+Split-complex number,"2, 2, 4"
+Square root of a matrix,"109, 207, 223, 225, 233, 259"
 Standard basis,39
 Steinitz exchange lemma,34
-Subspace,18
-System of linear equations,"65,90"
-T'aqañawi,207
-Tensor product,91
-Time-scale calculus,"53,59,81,86,140"
-Trace,nan
-Trace (linear algebra),"146, 300, 70"
-Trace class,299
-Transformation matrix,110
-Transpose,"109,207"
-Transpose of a linear map,"103, 204"
+Student's t-distribution,243
+Support of a module,104
+Symplectic vector space,276
+System of linear equations,"65, 90"
+Tablet (pharmacy),207
+Tagged union,207
+Trace (linear algebra),
+Trace operator,"137, 299"
+Transfer operator,307
+Transpose of a linear map,"55, 103, 204"
 Triangle inequality,173
-Triangular matrix,"147,256"
-Tuple-versioning,5
+Triangular matrix,"147, 256"
+Truth table,208
+Tuple,5
 Unitary operator,188
-Vector,"8,13"
-Vector space,"10, 12, 13, 283, 7, 96"
+Vector (mathematics and physics),"8, 13"
+Vector space,"12, 13"
+Volume,324
+Weight (representation theory),155

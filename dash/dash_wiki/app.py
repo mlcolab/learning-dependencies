@@ -11,9 +11,7 @@ import graph_api
 #app = Dash(__name__)
 
 df_concepts = pd.read_json('dat/wiki/graph.json')   
-
-with open('dat/wiki/internal_concepts.txt',encoding="utf-16") as f:
-    internal_concepts = f.read().splitlines() 
+internal_concepts = df_concepts.concept.to_list()
 
 value = "Eigenvalues and eigenvectors"
 deps = df_concepts.loc[df_concepts.concept==value,"deps"].to_list()[0]

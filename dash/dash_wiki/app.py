@@ -2,14 +2,17 @@ from dash import Dash, dcc, html, Input, Output
 import dash
 import dash_bootstrap_components as dbc
 import dash_cytoscape as cyto
-import json
-import graph_api
 import pandas as pd
+import sys
+import os
+sys.path.append(os.path.join(sys.path[0],'..', '..','src'))
+import graph_api 
 
 #app = Dash(__name__)
-df_concepts = pd.read_json('data/graph.json')   
 
-with open('data/internal_concepts.txt',encoding="utf-16") as f:
+df_concepts = pd.read_json('dat/wiki/graph.json')   
+
+with open('dat/wiki/internal_concepts.txt',encoding="utf-16") as f:
     internal_concepts = f.read().splitlines() 
 
 value = "Eigenvalues and eigenvectors"
@@ -100,4 +103,4 @@ def update_elements(n_clicks,value):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)

@@ -10,7 +10,7 @@ import graph_api
 
 #app = Dash(__name__)
 
-df_concepts = pd.read_json('dat/wiki/graph.json')   
+df_concepts = pd.read_json('dat/llm/t0pp_output.json')   
 
 with open('dat/wiki/internal_concepts.txt',encoding="utf-16") as f:
     internal_concepts = f.read().splitlines() 
@@ -46,7 +46,7 @@ controls = dbc.Card(
 
 app.layout = dbc.Container(
     [
-        html.H1("Wikipedia graph"),
+        html.H1("Large Language Model Graph"),
         html.Hr(),
         dbc.Row(
             [

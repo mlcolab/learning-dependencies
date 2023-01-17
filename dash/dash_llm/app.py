@@ -1,4 +1,4 @@
-from dash import Dash, dcc, html, Input, Output
+from dash import Dash, dcc, html, Input, Output, State
 import dash
 import dash_bootstrap_components as dbc
 import dash_cytoscape as cyto
@@ -10,15 +10,14 @@ import graph_api
 
 #app = Dash(__name__)
 
-df_concepts = pd.read_json('dat/llm/t0pp_output.json')   
+df_concepts = pd.read_json('dat/llm/t0pp_graph.json')   
 
-with open('dat/wiki/internal_concepts.txt',encoding="utf-16") as f:
-    internal_concepts = f.read().splitlines() 
+internal_concepts = df_concepts.concept.to_list()
 
 value = "Eigenvalues and eigenvectors"
-deps = df_concepts.loc[df_concepts.concept==value,"deps"].to_list()[0]
+deps = df_concepts.loc[df_concepts.concept==value,"dep_articles"].to_list()[0]
 df = df_concepts.loc[df_concepts.concept.isin([value]+deps)]
-elements=graph_api.build_graph(df.concept, df.deps, internal_concepts)
+elements=graph_api.build_graph(df.concept, df.dep_articles, internal_concepts)
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 
@@ -90,13 +89,13 @@ app.layout = dbc.Container(
 
 @app.callback(Output('graph', 'elements'),
               Input('button','n_clicks'),
-              Input('input_concept','value'))
+              State('input_concept','value'))
 
 def update_elements(n_clicks,value):
 
-    deps = df_concepts.loc[df_concepts.concept==value,"deps"].to_list()[0]
+    deps = df_concepts.loc[df_concepts.concept==value,"dep_articles"].to_list()[0]
     df = df_concepts.loc[df_concepts.concept.isin([value]+deps)]
-    elements=graph_api.build_graph(df.concept, df.deps, internal_concepts)
+    elements=graph_api.build_graph(df.concept, df.dep_articles, internal_concepts)
 
     return elements
 

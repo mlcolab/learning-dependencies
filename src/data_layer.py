@@ -54,3 +54,7 @@ page_correction = {
 def get_page_offsets():
     full_text = pd.read_json("../dat/parsed_books/parsed_books.json")
     return full_text.pages.apply(lambda pages: np.cumsum(list(map(len, pages))))
+
+def get_first_page_for_concept(index, concept):
+    vals = index.first_page.iloc[index.wiki_concept.values==concept].values
+    return vals[0] if len(vals) else None

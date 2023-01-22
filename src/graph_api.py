@@ -23,6 +23,7 @@ def save_graph(to, concepts, dependencies):
     with open(to, 'w') as f:
         json.dump(elements_all, f, default=np_encoder)
 
+# HIGHLIGHTS EXTERNAL CONCEPTS
 
 #def build_graph(concepts, dependencies, internal_concepts):
 #    elements =[]
@@ -40,17 +41,31 @@ def save_graph(to, concepts, dependencies):
 #                    elements.append({"data":{"id":source,"label":source}})
 #    return elements
 
-def build_graph(concepts, dependencies):
-    elements =[]
-    unique_nodes = set()
-    unique_nodes.update(concepts)
-    for target,sources in zip(concepts,dependencies):
-        elements.append({"data":{"id":target,"label":target}})
-        for source in sources:
-            elements.append({"data":{"source":source,"target":target}})
-            if source not in unique_nodes:
-                unique_nodes.add(source)
-                elements.append({"data":{"id":source,"label":source}})
+def build_graph(df,dep_column,concept, depth=2):
+    for i in range(depth):
+        if i == 0: 
+            elements = [{"data":{"id":concept,"label":concept}}]
+            unique_nodes = set()
+            unique_nodes.add(concept)
+            deps_last = df.loc[df.concept==concept,dep_column].to_list()[0]
+            unique_nodes.update(deps_last)
+            elements.extend([{"data":{"id":node,"label":node}} for node in deps_last])
+            elements.extend([{"data":{"source":dep,"target":concept}} for dep in deps_last ])
+        else:
+            df_deps = df.loc[df.concept.isin(deps_last)]
+            deps_current = df_deps[dep_column].to_list()
+            deps_last = df_deps["concept"].to_list()
+            elements.extend([{"data":{"source":dep,"target":deps_last[k]}} for k,dep_list in enumerate(deps_current) for dep in dep_list])
+            deps_last = [dep for dep_list in deps_current for dep in dep_list]
+            elements.extend([{"data":{"id":node,"label":node}} for node in deps_last if  node not in unique_nodes])
+            unique_nodes.update(deps_last)
+    
+    df_deps = df.loc[df.concept.isin(deps_last)]
+    deps_current = df_deps[dep_column].to_list()
+    deps_last = df_deps["concept"].to_list()
+    deps_current = df.loc[df.concept.isin(deps_last),dep_column].to_list()
+    elements.extend([{"data":{"source":dep,"target":deps_last[k]}} for k,dep_list in enumerate(deps_current) for dep in dep_list  if dep in unique_nodes])
+    deps_last = [dep for dep_list in deps_current for dep in dep_list  if dep in unique_nodes]
     return elements
 
 

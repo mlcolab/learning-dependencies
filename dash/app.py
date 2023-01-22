@@ -17,9 +17,7 @@ df_llm = pd.read_json('../dat/llm/graph.json')
 #internal_concepts = df_concepts.concept.to_list()
 
 concept = "Eigenvalues and eigenvectors"
-deps = df_llm.loc[df_llm.concept==concept,"dep_articles"].to_list()[0]
-df_tograph = df_llm.loc[df_llm.concept.isin([concept]+deps)]
-elements=build_graph(df_tograph.concept, df_tograph.dep_articles)
+elements=build_graph(df_llm,dep_column = "dep_articles",concept=concept,depth=2)
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 
@@ -32,17 +30,25 @@ controls = dbc.Card(
                     id='list-suggested-inputs', 
                     children=[html.Option(value=word) for word in df_wiki.concept]
                     ),
+                html.H6("Choose a source of data"),
                 dcc.RadioItems(['Textbooks','Wikipedia','Large Language Model'],
                     value = 'Large Language Model',
                     id='radioitems'
                 ),
-                html.H5("Type a concept"),
+                html.H6(""),
+                html.H6("Type a concept"),
                 dcc.Input(id="input_concept",
                     placeholder='Enter a concept...',
                     type='text',
                     value=concept,
                     list='list-suggested-inputs'
                 ),
+                 html.H6(""),
+                html.H6("Choose the depth of dependencies"),
+                dcc.Dropdown([1,2,3,4,5,6,7,8,9,10],
+                            value = 2,
+                            id ='input_depth'
+                             ),
                 html.Button('Submit', id='button')
             ]
         )   
@@ -57,12 +63,12 @@ app.layout = dbc.Container(
         html.Hr(),
         dbc.Row(
             [
-                dbc.Col(controls, md=2),
+                dbc.Col(controls, md=3),
                 dbc.Col(   cyto.Cytoscape(
                             id='graph',
                             elements=elements,
                             layout={'name': 'breadthfirst','roots': '[id = "Eigenvalues and eigenvectors"]'},
-                            style={'width': '1100px', 'height': '800px'},
+                            style={'width': '1000px', 'height': '800px'},
                             stylesheet=[
                             {
                                 'selector': 'node',
@@ -100,24 +106,19 @@ app.layout = dbc.Container(
     Output('graph', 'elements'),
     Input('button','n_clicks'),
     State('radioitems','value'),
-    State('input_concept','value')
+    State('input_concept','value'),
+    State('input_depth','value')
 )
 
-def update_elements(n_clicks,source,concept):
+def update_elements(n_clicks,source,concept,depth):
     if source == "Textbooks":
-        deps = df_txb.loc[df_txb.concept==concept,"dep_articles"].to_list()[0]
-        df_tograph = df_txb.loc[df_txb.concept.isin([concept]+deps)]
-        elements=build_graph(df_tograph.concept, df_tograph.dep_articles)
+        elements=build_graph(df_txb,dep_column = "dep_articles",concept=concept,depth=depth)
 
     if source == "Large Language Model":
-        deps = df_llm.loc[df_llm.concept==concept,"dep_articles"].to_list()[0]
-        df_tograph = df_llm.loc[df_llm.concept.isin([concept]+deps)]
-        elements=build_graph(df_tograph.concept, df_tograph.dep_articles)
+        elements=build_graph(df_llm,dep_column = "dep_articles",concept=concept,depth=depth)
 
     if source == "Wikipedia":
-        deps = df_wiki.loc[df_wiki.concept==concept,"deps"].to_list()[0]
-        df_tograph = df_wiki.loc[df_wiki.concept.isin([concept]+deps)]
-        elements=build_graph(df_tograph.concept, df_tograph.deps)
+        elements=build_graph(df_wiki,dep_column = "deps",concept=concept,depth=depth)
 
     layout = {'name': 'breadthfirst','roots': f'[id = "{concept}"]'}
     return layout, elements

@@ -24,20 +24,33 @@ def save_graph(to, concepts, dependencies):
         json.dump(elements_all, f, default=np_encoder)
 
 
-def build_graph(concepts, dependencies, internal_concepts):
+#def build_graph(concepts, dependencies, internal_concepts):
+#    elements =[]
+#    unique_nodes = set()
+#    unique_nodes.update(concepts)
+#    for target,sources in zip(concepts, dependencies):
+#        elements.append({"data":{"id":target,"label":target},"classes": "blue"})
+#        for source in sources:
+#            elements.append({"data":{"source":source,"target":target}})
+#            if source not in unique_nodes:
+#                unique_nodes.add(source)
+#                if source in internal_concepts:
+#                    elements.append({"data":{"id":source,"label":source},"classes": "blue"})
+#                else:
+#                    elements.append({"data":{"id":source,"label":source}})
+#    return elements
+
+def build_graph(concepts, dependencies):
     elements =[]
     unique_nodes = set()
     unique_nodes.update(concepts)
-    for target,sources in zip(concepts, dependencies):
-        elements.append({"data":{"id":target,"label":target},"classes": "blue"})
+    for target,sources in zip(concepts,dependencies):
+        elements.append({"data":{"id":target,"label":target}})
         for source in sources:
             elements.append({"data":{"source":source,"target":target}})
             if source not in unique_nodes:
                 unique_nodes.add(source)
-                if source in internal_concepts:
-                    elements.append({"data":{"id":source,"label":source},"classes": "blue"})
-                else:
-                    elements.append({"data":{"id":source,"label":source}})
+                elements.append({"data":{"id":source,"label":source}})
     return elements
 
 

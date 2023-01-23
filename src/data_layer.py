@@ -43,7 +43,7 @@ page_correction = {
     'Beezer_First_Course.csv': 14,
     'textbook_Hoffman_Kunze.csv': 9,
     'Nicholson-OpenLAWA-2019A.csv': 22,
-    'Linear algebra done right — Axler.csv': 17,
+    'Linear algebra done right — Axler.csv': 16,
     'Math1410_print.csv': 8,
     'Hefferon_LinAlgebra.csv': 10,
     'linear-Cherey, Denton.csv': 0,

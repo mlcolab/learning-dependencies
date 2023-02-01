@@ -74,7 +74,9 @@ app.layout = dbc.Container(
                                 'selector': 'node',
                                 'style': {'content': 'data(label)',
                                         'text-halign':'center',
-                                        'text-valign':'center'}
+                                        'text-valign':'center',
+                                        'text-margin-y' : '-20px'}
+                                
                             },
                             {
                                 'selector': 'edge',

@@ -42,7 +42,7 @@
 \bibliographystyle{unsrtnat}
 
 
-\title{Can language models be used to predict educational concept dependencies?}
+\title{Extracting and evaluating educational concept dependencies implicit in Large Language Models}
 
 % The \author macro works with any number of authors. There are two commands
 % used to separate the names and addresses of multiple authors: \And and \AND.
@@ -61,7 +61,7 @@
   Matrikelnummer 5994775\\
   \texttt{anastasiia.alekseeva@student.uni-tuebingen.de} \\
   \\
-  GitHub repository: \url{https://github.com/dominikglandorf/learning-dependencies}
+  GitHub repository: \url{https://github.com/mlcolab/learning-dependencies}
 }
 
 \begin{document}
@@ -83,25 +83,29 @@
 \end{abstract}
 
 \section{Introduction}
-%% Why are we interested in learning dependencies?
-% Problem of sequencing in Instructional Design:
-Effective and efficient instruction does not only incorporate \textit{what} to teach but also \textit{how} to teach. Models of instructional design especially emphasize the importance of order of instruction. More precisely, prerequisites of educational content should be taught first \citep{morrison2019designing}.
-% Definition KCs
-As potential contents, Merill (1983) differentiated learning objectives such as facts, concepts, principles, rules, procedures, interpersonal skills and attitudes as well as their sole recall from their application. In this work we will focus on concepts and their relations. 
-% Learning dependency
+% What is the field where we contributed
+Large Language Models are trained on immense corpora of text and have proven to capture included factual information by building on it when performing well in downstream tasks such as question answering. This observation led to the research line of Knowledge Extraction from LLMs (Cohen, 2023). In this work, we focus on the extraction of educational knowledge that is implicitly captured in LLMs and poses a subfield that has rather stagnated in the previous years.
+
+% Why are we interested in concept dependencies?
+%% Problem of sequencing in Instructional Design:
+Effective and efficient instruction does not only incorporate what to teach but also how to teach. Guidelines for \textit{instructional sequencing} emphasize the order of instruction. More precisely, prerequisites of educational content should be either known to the student or taught first \citep{morrison2019designing}.
+% Definition concepts
+Within educational content, Merill (1983) differentiated facts, concepts, principles, rules, procedures, interpersonal skills, attitudes, and their sole recall from their application. To simplify, we will focus on concepts and their relations. 
+% Concept dependency
 % Assumption: information about dependencies between concepts makes instructional sequencing more effective in terms of learning
-If one concept is a prerequisite of another, we call this relation a learning dependency. For example, to understand the concept of a derivative knowledge about the concept of a function before will facilitate or even enable learning. When the dependencies are thought of as directed edges between nodes that represent concepts, a learning dependency graph emerges which is a special type of a knowledge graph \citep{wang2016using}. This graph is also called \textit{concept map} in the field of Learning Sciences.
-% Mining of learning dependencies
-Prerequisites can be inferred from learner behavior by testing their performance after being presented different instructional sequences (Pavlik et al., 2008, Vuong et al., 2011). However, this has the disadvantage of disengaging users with too difficult concepts before teaching easier or necessary ones. Experts usually dispose of the required knowledge about concepts to create concept maps. The high cost of expert knowledge motivates the automatic mining of learning dependencies from appropriate sources which is the core problem of this work.
+If one concept is a prerequisite of another, we call this relation a concept dependency. For example, to understand the concept of a derivative, having knowledge about the concept of a function will facilitate or even enable learning. When the dependencies are thought of as directed edges between nodes that represent concepts, a concept dependency graph emerges which is a special type of a knowledge graph \citep{wang2016using}. This graph is also called \textit{concept map} in the field of Learning Sciences.
 
-% Advantage: Curriculum planning (Yang, 2015) especially for new topics, Automated Assessment (Wang 2015)
-
-% What can we contribute?
-% 1. Extract KC dependencies from textbooks
-% 2. Bypass textbook mining by querying a pre-trained language model to disclose relationships between concepts
+% Approaches: Automatic extraction of concept dependencies
+Prerequisites can be inferred from learner behavior by testing their performance after being presented different instructional sequences (Pavlik et al., 2008, Vuong et al., 2011). However, this has the disadvantage of disengaging users with too difficult concepts before teaching easier or necessary ones. Experts usually dispose of the required knowledge about concepts to create concept maps. The high cost of expert knowledge motivates the automated extraction of concept dependencies from appropriate sources.
 
 % What is our research question?
-% How well can langauge models predict dependencies between key concepts compared to expert knowledge in textbooks?
+% How to extract educational concept dependencies that are implicit and evaluate them using existing knowledge media?
+
+% What can we contribute?
+% 1. No benchmark available -> we set up an evaluation framework based on textbooks and Wikipedia
+% 2. Emerging field of prompt engineering -> we engineered a simple but effective prompt process to query a LLM
+
+
 
 
 \subsection{Related work}

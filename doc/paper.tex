@@ -87,7 +87,7 @@
 % Field of contribution
 Large Language Models (LLMs) are trained on immense corpora of text and have proven to build on embedded factual information when performing well in downstream tasks such as question answering. Accessing this knowledge, which is represented by billions of parameters and the network's architecture, has given rise to the research field of Knowledge Extraction from LLMs (\cite{cohen2023crawling}), which rests on the assumption that the language models can help retrieve information on the relation between entities. 
 
-This work tries to contribute to the research field and to answer the question of whether general LLMs are able to provide a valid dependency structure of educational concepts. To find the answer to the research question, we are going to solve two main subtasks: 1) extraction of implicit educational concept dependencies, and 2) evaluation of the retrieved dependencies or the resulting graphs by existing knowledge media.
+This work contributes to this field and aims to answer the question of whether LLMs generally are able to provide a valid dependency structure of educational concepts. To find the answer to the research question, we are going to solve two main subtasks: 1) extraction of implicit educational concept dependencies, and 2) evaluation of the retrieved dependencies or the resulting graphs by existing knowledge media.
 
 Apart from the field of knowledge extraction from LLMs, which is a subfield of computational linguistics, our work may contribute to applied education sciences by improving computer-assisted education and creating new perspectives for a subfield of knowledge engineering that has rather stagnated in the previous years.
 
@@ -95,7 +95,10 @@ Apart from the field of knowledge extraction from LLMs, which is a subfield of c
 %% Problem of sequencing in Instructional Design:
 In particular, effective and efficient instruction does not only incorporate what to teach but also how to teach, especially the order of instruction.  It is proven that \textit{instructional sequencing} enhances the process of learning when prerequisites of educational content are known to the student or taught first \citep{morrison2019designing}.
 % Definition concepts
-Within educational content, Merill (1983) differentiated facts, concepts, principles, rules, procedures, interpersonal skills, attitudes, and their sole recall from their application. We will focus on concepts and their relations defined understanding. 
+Within educational content, Merill (1983) differentiated facts, concepts, principles, rules, procedures, interpersonal skills, attitudes, and their sole recall from their application.
+% TODO: explain this more:
+We will focus on concepts and their relations defined understanding. 
+
 % Concept dependency
 % Assumption: information about dependencies between concepts makes instructional sequencing more effective in terms of learning
 
@@ -123,7 +126,7 @@ Second, the emerging field of prompt engineering provides a constellation of com
 \cite{talukdar2012crowdsourced} defined the prerequisite relation in terms of the consumption of information about concepts. Vuong (2011) if a better graduation rate given prerequisite knowledge is fulfilled. Concepts are often equated with Wikipedia articles (Talukdar and Cohen, 2012; Wang, 2015).
 
 % Other approaches: Learning Path Analysis and Expert Knowledge
-Prerequisites can be inferred from learner behavior by testing their performance after being presented different instructional sequences (Pavlik et al., 2008, Vuong et al., 2011). However, this has the disadvantage of disengaging users with too difficult concepts before teaching easier or necessary ones. Experts usually dispose of the required knowledge about concepts to create concept maps. The high cost of expert knowledge motivates the automated extraction of concept dependencies from appropriate sources.
+Prerequisites can be inferred from learner behavior by testing their performance after being presented with different instructional sequences (Pavlik et al., 2008, Vuong et al., 2011). However, this has the disadvantage of disengaging users with too difficult concepts before teaching easier or necessary ones. Experts usually dispose of the required knowledge about concepts to create concept maps. The high cost of expert knowledge motivates the automated extraction of concept dependencies from appropriate sources.
 
 % Field: Textbook Knowledge Extraction
 % of interest: How are relationships betweens concepts extracted?
@@ -141,54 +144,58 @@ Multiple approaches of prompt engineering for graph creation have been recently 
 In this section, we will first detail our research design and then the characteristics of our information sources as well as the methods that we used to produce the knowledge graph. 
 
 \subsection{Research design} 
-
-Our research lies at the intersection of education sciences and computational linguistics that define the choice of methodology. On the one hand, we prompt a state-of-the-art large language model to build entity dependency graphs and evaluate its performance on the concept relations retrieved from Wikipedia and textbooks. On the other hand, we should ensure that the output is sound in terms of educational value, which requires additional qualitative assessment.
-
-Since no ground-truth knowledge graph exists and cannot be achieved in the field of education, we choose textbooks and Wikipedia as the baseline to be able to estimate the precision of the dependencies mined from the LLM. Each information extraction method is not fully independent of the other, in particular, entity recognition and concept disambiguation steps in the procedure for LLM and textbooks depend on Wikipedia. The evaluation was performed via 1) inspecting the output in the interactive dashboard, 2) manual labeling, and 3) convergence between the LLM and two baselines metric.
-
 % two baseline methods: textbooks and Wikipedia
 % information extraction: one LLM method
 % evaluation
 % 1. manual inspection via DashBoard
 % 2. manual labeling
 % 3. convergence between LLM and baselines
+The choice of methodology reflects the fact that our research is located at the intersection of educational sciences and computational linguistics. On the one hand, we want to achieve a high performance of a state-of-the-art LLM in the downstream task of knowledge graph extraction. On the other hand, we consider a complex educational problem that cannot be purely simplified to classical machine learning metrics but requires additional qualitative assessment to ensure that our results can be educationally sound.
+
+First of all, we restricted the concepts, of which dependencies we assessed, to the domain of linear algebra. This design choice was caused by the assumptions that the highly structured domain of mathematics provides enough relations to capture on the one hand and that linear algebra is a rather matured branch of mathematics were enough data exists for our baselines to be created as well as the LLM to have learned about from its own training data. Due to the use of linear algebra in different disciplines the potential value of results is also increased.
+
+To be able to measure the LLM's performance, we had to come up with a target dataset. This dataset needs to describe a graph, containing the concepts as vertices and their dependencies as directed edges. Since no ground-truth, large-scale knowledge graph of concept dependencies was available to us and might even be impossible to achieve for our educational problem, we chose two sources of educational knowledge to serve as our knowledge base, namely textbooks, and Wikipedia. Due to their end-user-facing format, further processing of the input data (PDFs and webpages) was required to create the above-defined data structure. To make the graphs comparable with each other, the set of concepts was restricted to the union of all concepts indicated in all textbooks' indices. The LLM was prompted and the responses were also further processed to create the knowledge graph.
+
+After creating the baseline datasets and the output to evaluate, we started qualitative evaluation using an interactive dashboard, that visualized the dependency structure. This step was done to get an impression of the general suitability of all three pipelines and identify potential reasons for performance losses. Then a subset of all three datasets was manually rated by multiple raters to not only infer their overall quality but also assess the human performance on the problem. We finally checked for outputs for convergence to give suggestions for a scalable, low-cost evaluation system of future (versions of) LLMs. The former evaluations are rather typical in educational research whereas the latter enables the creation of large-scale datasets, potentially suitable to train and fine-tune machine learning models.
 
 \subsection{Baseline extraction}
+This section details how we used Wikipedia and textbooks to set up the evaluation baselines for the LLM.
+
 \subsubsection{Wikipedia}
-% Why Wikipedia? % I asked ChatGPT :)
+% Why Wikipedia? 
+The choice of the online encyclopedia Wikipedia as an educational information source is a result of its inherent graph structure induced by hyperlinks between articles and empirical evidence of its suitability for this purpose. %TODO: Add knowledge extraction literature from 2015/16
+Especially, the platform is claimed to cover concepts up to the complexity of undergraduate curricula to a high extent, which aligns well with our chosen domain of linear algebra, which is usually taught to undergraduate students. The focus on dependencies required for understanding a concept makes an encyclopedia an ideal source because its articles are usually written to enable a fast understanding of the article's topic. In an online encyclopedia, hyperlinks provide additional information. In Wikipedia, each content article begins with a short summary, often serving as a definition and embedding the topic into its context, before in-depth information follows. In this summary text, we assume an implicit order from most important to least important concepts that are used to explain the topic without digressing to other concepts or unimportant information. The involved concepts are inferred to be a dependency. To prevent direct cycles by two concepts involving each other in their explanation, the one that refers earlier to the other is considered to be dependent on the latter. Situations, where the introduction of concept A states that concept B is dependent on it might be resolved like this.
 
-Wikipedia is a valuable resource that has a good structure of concepts. One of the key factors that contribute to it is the use of a hierarchical structure. Articles are categorized into broader topics, and those topics are further divided into subtopics. This structure helps readers to navigate through the information in a logical and organized manner, allowing them to quickly find the information they need. Another factor is the use of hyperlinks to connect related articles. This allows readers to move seamlessly between articles and explore related concepts without having to leave the site or perform additional searches. Wikipedia also has a strong editorial process that ensures that articles are well-researched, well-written, and up-to-date. This process helps to maintain the quality and accuracy of the information presented on the site, which in turn helps to reinforce the logical structure of the concepts presented.
+Our assumptions about the Wikipedia structure were operationalized in the following way to compute the dependencies for a given concept. Every link in the first content paragraph containing a link is considered a candidate dependency. Therefore, any non-content paragraph such as advice regarding irrelevance or missing sources has to be removed beforehand. First, links to categories or fields such as "Mathematics" or "Linear Algebra" are removed based on a manually composed blacklist (a more sophisticated, automatic pruning could make use of Wikipedia's category pages). Then links to articles about persons are filtered out since these do not represent educational concepts. The same applies to links to pages that contain unexpected content such as disambiguation pages. Subsequently, cyclic dependencies are resolved as described above using both character positions of the symmetric links in the text. If more candidates remain than the threshold of 5, only the first 5 were kept, using the assumption of decreasing importance from the beginning on and the constraint of some sparsity of the resulting graph. This set of concepts is then taken as the concept's dependencies. 
+%TODO: add amount of data
 
-% good coverage according to one of our papers
-% 1462 unique articles for book index entries, these were covered in the textbooks (we had to select a subset of concepts to reduce computational effort)
-% How did we get the information?
-% describe Algorithm to extract dependencies:
-%• Assumption: understanding the concept’s definition in Wikipedia requires understanding the concepts in it
-%• Operationalization: links to other articles in the first sentence of article
-%• Filtered out links to fields (“Mathematics”), persons (“Gabriel Cramer), and concepts that linked even earlier to the concept of interest
+The described procedure was executed for every concept in the set resulting from the textbook baseline. Although Wikipedia theoretically offers a larger number of articles about the topic, we decided to stick with the limited set to maintain comparability. However, we decided against restricting the dependencies to other concepts in the set to also be able to evaluate the recall of the methods. The computational complexity of the procedure is relatively low and most time is spent on requesting Wikipedia web pages for the concepts and the links. The overall time was hence reduced by caching the responses to these requests. The technical implementation in Python required engineering our own Wikipedia API using the Python libraries requests and BeautifulSoap. The tools are used to download the page content and conveniently access elements such as links or special HTML tags indicating that an article is about a person.
 
 \subsubsection{Textbooks}
-% Types of textbooks (why linear algebra?) % I asked ChatGPT :)
+% Why textbooks?
+We chose student textbooks as the complementary information source besides the general purpose knowledge base Wikipedia because they are written by experts specifically for the purpose of educational knowledge transfer to learners. This not only leads to comprehensive coverage of carefully selected concepts that are considered relevant by the authors but also to a specific structure that we planned to exploit with our baseline extraction method, namely a pedagogic linearization of topics. More precisely, the authors are expected to first introduce concepts that more complex concepts build upon. Another useful structure in textbooks is the index, which provides a comprehensive list of concepts covered in the book and defined as its own entities.
 
-We chose textbooks on linear algebra as they tend to have a good structure and order compared to other textbooks because linear algebra is a well-established and mature field of mathematics with a clear and logical progression of concepts. Moreover, linear algebra is used extensively in other fields, such as engineering, physics, and computer science. Therefore, many textbooks on linear algebra are written with the needs of these fields in mind, which helps to structure the content of the textbook in a clear and practical manner. Finally, the concepts in linear algebra are interrelated, and a strong understanding of earlier topics is often necessary to understand later topics. 
-
-We used 10 books that are free and available online. 
 % Amount of data
-% 10 books on Linear Algebra
-% 584 pages on average (652,297 characters)
-% 382 number of index entries (median)
+Due to the popularity of the topic of Linear Algebra, we could easily identify ten free textbooks on the topic and obtain their PDF representations (either directly typeset in this format or scanned and processed with OCR). The books comprised 584 pages on average (652,297 characters) and had a median of 382 index entries.
 
 % Steps of processing
 % preprocessing
-% entity recognition and disambigation
-% Wikifier: identify entity mentions using link targets and PageRank
-First, the textbooks were converted from pdf format to raw texts and went through basic preprocessing. Then, Wikifier \citep{brank2017annotating} was exploited for entity recognition and disambiguation.
 
 % Wikisearch: query Wikipedia search engine for keyword (and field) and rank results based on Levenshtein distance
+First, the textbooks were converted from PDF format to unformatted text. To identify all concepts of interest covered in a book, the pages containing the index were identified and each index entry with its corresponding pages was extracted in a semi-manual fashion. This required setting parameters such as the title, position of the columns and the type of nesting. To enable comparing the knowledge graph across the baselines, we decided to use the set of Wikipedia articles as the set of concepts, meaning that only a Wikipedia article title can serve as a vertex. This required mapping from each index entry to the closest Wikipedia article. For this disambiguation, the term was introduced into the Wikipedia search engine suffixed with the field term "(Mathematics)" to hint to the general area. Due to the high diversity of the resulting 10 articles, their names were string-matched with the search term (without the suffix) using the Levenshtein distance (provided by a Python library). The article title with the lowest distance that did not refer to an disambiguation page was the result of this so-called \textit{Wikisearch disambiguation}.
+
+For the depdency extraction we came up with three distinct strategies. The first is solely based on indices whereas the latter also uses the full text. The first strategy is called order pruning and is interested in unlikely dependencies on the graph. It checks whether two concepts are introduced at least twice in a specific order and rules out the dependency that is not suggested by this order. For example if concept A is introduced twice before concept B, it is unlikely to depend on a concept introduced later by two independent authors. This strategy might work for a massive amount of books which was not available to us, but Wikifier \citep{brank2017annotating} was exploited for entity recognition and disambiguation.
+
+
 
 % relation extraction
+
+% entity recognition and disambigation
+% Wikifier: identify entity mentions using link targets and PageRank
 % common introductory usage: identify other concepts that are most often mentioned on the first page given in the index across all books
 % order pruning:  identify unlikely dependencies based on a certain number of books that introduce concepts in a particular order
+
+We used 10 books that are free and available online. 
 
 \subsection{LLM extraction}
 % description of T0PP and our infrastructure
@@ -266,8 +273,11 @@ We developed a Dashboard via graphing library for Python Plotly\footnote{https:/
 % error propagation
 
 % we only evaluated up to two levels of the graph, not the graph as a whole. different level of abstractions in extracted dependencies
+% (in)direct cycles
 % is there even something like a gold standard? some educational reflection about different didactic approaches and more depth than just understanding the definition of a topic
 % Cohen et al (2023) think that there is no gold standard, ground truth.
+
+Each information extraction method is not fully independent of the other, in particular, entity recognition and concept disambiguation steps in the procedure for LLM and textbooks depend on Wikipedia.
 
 % we are still using the language generator, so it is just another downstream task, maybe it is more of a philosophical question what is implicit/explicit knowledge
 
@@ -280,6 +290,7 @@ We developed a Dashboard via graphing library for Python Plotly\footnote{https:/
 As shown, current LLMs are not sufficiently precise in creating concept maps, which confirms previous research \cite{hwang2021comet}. This could be improved by training the pre-trained models on the knowledge graph data mined from Wikipedia or any other reliable sources of concept dependencies in a specific subject of instruction \cite{west2022symbolic}.
 % advancements in LLMs that are interesting for us
 % use cases in education
+
 
 
 \bibliography{references.bib}

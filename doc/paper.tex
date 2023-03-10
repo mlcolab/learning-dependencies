@@ -173,59 +173,63 @@ The described procedure was executed for every concept in the set resulting from
 
 \subsubsection{Textbooks}
 % Why textbooks?
-We chose student textbooks as the complementary information source besides the general purpose knowledge base Wikipedia because they are written by experts specifically for the purpose of educational knowledge transfer to learners. This not only leads to comprehensive coverage of carefully selected concepts that are considered relevant by the authors but also to a specific structure that we planned to exploit with our baseline extraction method, namely a pedagogic linearization of topics. More precisely, the authors are expected to first introduce concepts that more complex concepts build upon. Another useful structure in textbooks is the index, which provides a comprehensive list of concepts covered in the book and defined as its own entities.
+We chose student textbooks as the complementary information source besides the general purpose knowledge base Wikipedia because they are written by experts specifically for the purpose of educational knowledge transfer to learners. This does not only lead to comprehensive coverage of carefully selected concepts that are considered relevant by the authors but also to a specific structure that we planned to exploit with our baseline extraction method, namely a pedagogic linearization of topics. More precisely, the authors are expected to first introduce concepts that other more complex concepts build upon. Another useful structure in textbooks is the index, which provides a comprehensive list of concepts defined as its own entities and covered in the book, and indicates the area of introduction.
 
 % Amount of data
-Due to the popularity of the topic of Linear Algebra, we could easily identify ten free textbooks on the topic and obtain their PDF representations (either directly typeset in this format or scanned and processed with OCR). The books comprised 584 pages on average (652,297 characters) and had a median of 382 index entries.
+Due to the popularity of the topic of Linear Algebra, we could easily identify ten free textbooks on the topic and obtain their PDF representations (either directly typeset in this format or scanned and processed with optical character recognition). The books comprised 584 pages on average (652,297 characters) and disposed of a median of 382 index entries.
 
 % Steps of processing
 % preprocessing
 
 % Wikisearch: query Wikipedia search engine for keyword (and field) and rank results based on Levenshtein distance
-First, the textbooks were converted from PDF format to unformatted text. To identify all concepts of interest covered in a book, the pages containing the index were identified and each index entry with its corresponding pages was extracted in a semi-manual fashion. This required setting parameters such as the title, position of the columns and the type of nesting. To enable comparing the knowledge graph across the baselines, we decided to use the set of Wikipedia articles as the set of concepts, meaning that only a Wikipedia article title can serve as a vertex. This required mapping from each index entry to the closest Wikipedia article. For this disambiguation, the term was introduced into the Wikipedia search engine suffixed with the field term "(Mathematics)" to hint to the general area. Due to the high diversity of the resulting 10 articles, their names were string-matched with the search term (without the suffix) using the Levenshtein distance (provided by a Python library). The article title with the lowest distance that did not refer to an disambiguation page was the result of this so-called \textit{Wikisearch disambiguation}.
-
-For the depdency extraction we came up with three distinct strategies. The first is solely based on indices whereas the latter also uses the full text. The first strategy is called order pruning and is interested in unlikely dependencies on the graph. It checks whether two concepts are introduced at least twice in a specific order and rules out the dependency that is not suggested by this order. For example if concept A is introduced twice before concept B, it is unlikely to depend on a concept introduced later by two independent authors. This strategy might work for a massive amount of books which was not available to us, but Wikifier \citep{brank2017annotating} was exploited for entity recognition and disambiguation.
-
-
+First, the textbooks were converted from PDF format to unformatted text. To identify all concepts of interest covered in a book, the pages containing the index were identified and each index entry with its corresponding pages was extracted in a semi-manual fashion. This required setting parameters such as the title, position of the text columns, and the types of nesting and delimiters. To enable comparing the knowledge graph across the baselines, we decided to use the set of Wikipedia articles as the set of possible concepts, meaning that only a Wikipedia article title can serve as a vertex in the knowledge graph. This required to map from each index entry to the closest Wikipedia article. For this disambiguation, the index entry was introduced into the Wikipedia search engine suffixed with the field term "(Mathematics)" to hint at the general area. Due to the high diversity of the resulting ten articles, their titles were string-matched with the search term (excluding the suffix) using the Levenshtein distance (provided by a Python library). The article title with the lowest Levenshtein distance that did not refer to a disambiguation page was the result of this so-called \textit{Wikisearch disambiguation}.
 
 % relation extraction
 
 % entity recognition and disambigation
-% Wikifier: identify entity mentions using link targets and PageRank
-% common introductory usage: identify other concepts that are most often mentioned on the first page given in the index across all books
+For dependency extraction, we came up with two distinct strategies.
 % order pruning:  identify unlikely dependencies based on a certain number of books that introduce concepts in a particular order
+The first is solely based on indices whereas the latter also uses the full text. The first strategy is called \textit{order pruning} and is focused on unlikely dependencies on the graph. It checks whether two concepts are introduced at least twice in a specific order and rules out the dependency that is not suggested by this order. For example, if concept A is introduced twice before concept B, it is unlikely to depend on a concept introduced later by two independent authors. To create a sparse graph, this strategy requires a massive amount of books, which was not available to us, but it can help to prune dependencies and refine a candidate graph.
 
-We used 10 books that are free and available online. 
+% common introductory usage: identify other concepts that are most often mentioned on the first page given in the index across all books
+This candidate graph is the output of the second heuristic called \textit{common introductory usage}. This is based on a similar rationale as the Wikipedia heuristic because it figures out which other concepts are used to introduce a new concept. The first and rather structured source of information is the index, again. Some books list multiple pages for index entries, indicating that the concept occurs again at a later point in a significant way. If concept A appears for the second time on the first page for concept B, A is likely to be a dependency of B. However, the structured source of index entries has a low amount of data, which led to the involvement of the full text. Here, entity recognition plays a crucial role because not every word is a concept of interest and not every concept occurs with its canonical title in natural text.
+
+% Wikifier: identify entity mentions using link targets and PageRank
+One convenient method is provided by the Wikifier \citep{brank2017annotating}. The underlying algorithm looks for links in the entire Wikipedia with the link text matching a word in the input. Naturally, the same text can link to distinct articles, which requires disambiguation based on the context. Wikifier solves this by creating a graph based on all potential links and uses a PageRank algorithm to calculate the score for each potential link target. We restricted links to correspond to a link text of at least 3 characters to get rid of abbreviations that were contained in formulas randomly. We used a minimum PageRank of 0.00005 as a threshold after manual inspection aimed at a good recall of links but also good precision. The Wikifier was called via its online API. All detected link targets on the first page of an index entry serve as candidate dependencies which are then ranked by the following three criteria: First, the number of books in which it occurs in the area of introduction. Second, the average number of occurrences in these books. Third, the PageRank of the link. As with the Wikipedia dependencies, only the 5 highest-ranking candidates are saved as dependencies in the knowledge graph. This procedure was carried out for all index entries across all books.
+
+The final resulting graph is the union of dependencies identified by the two common introductory usage sources (indices and full text), pruned by the unlikely dependencies from order pruning.
 
 \subsection{LLM extraction}
 % description of T0PP and our infrastructure
 % • Fine-tuned BLOOM on several question-answering datasets
-% • 11 billion parameters (44GB RAM) • ~3-10 seconds per request on our infrastructure
+% • 11 billion parameters () • ~3-10 seconds per request on our infrastructure
+Due to the closed-source character of the very powerful and successful language model GPT3 by openai and the unavailability of an API for its most recent application ChatGPT, we decided to use the open-source model BLOOM by bigscience, which is a joint effort by hundreds of researchers around the world and is based on the same transformers architecture as GPT3 and has a comparable amount of parameters. Because of resource limitations and our specific use case, we used a derived model called \textit{T0pp} (https://huggingface.co/bigscience/T0pp), which only has 11 billion parameters and is fine-tuned for zero-shot task generalization, especially question-answering. The dataset used for training T0pp is also available under the name P3 (Public Pool of Prompts) (https://huggingface.co/datasets/bigscience/P3). We set up the language model on the cloud infrastructure of the university's excellence cluster and ran it in generation mode (no training) with a maximum response length of 50 tokens on a node with eight cores of the type Nvidia GeForce RTX 2080 Ti. This model consumed approximately 44GB of RAM and a typical request took three to ten seconds to be answered completely. To save time loading the model into the memory, we set up an HTTP server to conveniently query the model via GET requests from our local machines.
 
-% description of extraction procedure
+% description of the extraction procedure
 % 1. output refeeding
 % first prompt: {definition} := What is the mathematical definition of {concept}?
 % second prompt:  {list of dependencies} := What mathematics concepts are mentioned here: {definition}
 % 2. response parsing to Wikipedia article
 % {canonical list of dependencies} :=Wikisearch disambiguation on {list of dependencies}
+Manual trial and error testing of our chosen and other LLMs (such as meta's Galactica) has led to the following procedure to extract dependencies from the knowledge base of T0pp, which we call \textit{output refeeding}. It is based on the previously explained assumption that understanding a concept requires understanding other concepts involved in its definition. Given a concept of interest, we therefore first prompt the model for a definition of the concept: "What is the mathematical definition of {concept}?" The response is defined as {definition} and involved in the second prompt: "What mathematical concepts are mentioned here: {definition}". The model usually responds with a comma-separated list that is split by commas and then disambiguated in the same way as the index entries in the textbook baseline by our Wikisearch disambiguation. Finally, self-dependencies, that might occur during this procedure, are deleted from the set of dependencies. This procedure is run for the same set of concepts as the Wikipedia baseline.
 
 \begin{figure}
     \centering
     \includegraphics[width=.95\textwidth]{img/dash_example.png}
-    \caption{A screenshot of the intercative application.}
+    \caption{A screenshot of the interactive application.}
     \label{fig:dash_example}
 \end{figure}
 
 \subsection{Manual inspection via Dashboard}
-We developed a Dashboard via graphing library for Python Plotly\footnote{https://plotly.com/python/} (Fig.\ref{fig:dash_example}). The application is devised so that one could examine the resulting graph itself in a convenient environment. It allows plotting the concept dependencies graphs for three knowledge sources or types of dependency mining methods (LLM, Wikipedia, and textbooks) for different levels of dependencies.   
-
-
+As indicated in our design, this educational problem requires also a qualitative evaluation. We hence developed a Dashboard via graphing library for Python Plotly\footnote{https://plotly.com/python/} (Fig.\ref{fig:dash_example}). The application is devised so that one could examine the resulting graph itself in a convenient environment. It allows plotting the concept dependencies graphs for three knowledge sources and types of dependency mining methods (LLM, Wikipedia, and textbooks) for different depths of dependencies, meaning that dependencies of dependencies are shown. The dashboard also has potential use for educators that are interested in concept dependencies.
 
 \subsection{Manual baseline}
 % procedure to assess the accuracy of output
+The novel character of our baselines and the resulting uncertainty about their appropriateness to evaluate the LLM's performance motivated us to evaluate all three knowledge graphs independently before checking their convergence. Therefore, 4 raters were presented with 100 dependencies from each graph and had to rate them in a binary fashion (correct vs incorrect). We only evaluated the quality of dependencies for concepts that occurred at least in 50\% of the textbooks to ensure that there is enough data for the textbook baseline and that we assess the data for important concepts only. For the ratings, we calculated Cohen's Kappa as a measure of interrater reliability. This should not only guarantee the confidence of the performance evaluation but also assess the difficulty of the problems for human raters.
 
-\subsection{Convergence statistics}
+\subsection{Baseline consistency}
 % for which concepts did we compare what to see what
+Consistency of the LLM with the baselines is the most scalable measure because the baselines can be mostly created automatically and hence be used to evaluate large numbers of LLM outputs or even fine-tune the model for this specific downstream task. First-order consistency is fulfilled for a concept dependency extracted from the LLM if it is a direct dependency for this concept also in the baseline. Second-order consistency is fulfilled 
 
 \section{Results}
 % Case Study using Dashboard
@@ -291,7 +295,8 @@ As shown, current LLMs are not sufficiently precise in creating concept maps, wh
 % advancements in LLMs that are interesting for us
 % use cases in education
 
-
+\section{Acknowledgements}
+We sincerely thank our project supervisors, Álvaro Tejero-Cantero and Hanqi Zhou.
 
 \bibliography{references.bib}
 

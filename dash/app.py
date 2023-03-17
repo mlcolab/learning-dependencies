@@ -120,7 +120,7 @@ def update_elements(n_clicks,source,concept,depth):
         elements=build_graph(df_llm,dep_column = "dep_articles",concept=concept,depth=depth)
 
     if source == "Wikipedia":
-        elements=build_graph(df_wiki,dep_column = "deps",concept=concept,depth=depth)
+        elements=build_graph(df_wiki,dep_column = "dep_articles",concept=concept,depth=depth)
 
     layout = {'name': 'breadthfirst','roots': f'[id = "{concept}"]'}
     return layout, elements

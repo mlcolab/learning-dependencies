@@ -21,52 +21,54 @@ def finalize_link_info(offset, link, paragraph):
     parent_text = link.parent.get_text()
     link_text = link.get_text()
     link_pos = offset+parent_text.find(link_text)
-    full_stops = np.array([m.start() for m in re.finditer('\. ', parent_text)])
+    full_stops = np.array([m.start() for m in re.finditer('\.', parent_text)])
     return (link_pos, get_linked_article(link), paragraph, get_sentence_num(link_pos, full_stops))
 
-def get_summary_links(title):
-    url = "https://en.wikipedia.org/wiki/" + str(title).replace(" ", "_")
-    soup = BeautifulSoup(requests.get(url).text, 'html.parser')
-    for elem in soup.find_all(class_='mw-indicators'): # for good articles
-        elem.decompose()
-
-    summ = soup.find(class_='mw-parser-output') # Find the element or elements that contain the summary
-
-    # cleaning of thumbnails, shortdescriptions, hatnotes and style tags
-    to_clean_divs = summ.find_all('div', class_='thumb tright') + summ.find_all('div', class_='shortdescription') + summ.find_all('div', class_='hatnote') + summ.find_all('style') + summ.find_all('link') + summ.find_all('table', class_='metadata')
-    for div in to_clean_divs:
-        div.decompose()
-
-    if soup.find('table', class_=re.compile(r'infobox.*biography')):
-        print("person detected on " + url)
-        return None
-
-    cutoff_div = summ.find(id='toc') # Find the div element with the id "toc"
-    
-    if cutoff_div is None:
-        cutoff_div = summ.find('h2')
-        if cutoff_div is None:
-            print(" unexpected page content on "+ url)
-            return None
-
-    if 'toc' in cutoff_div.parent.get('class')[0]: cutoff_div = cutoff_div.parent
-    preceding_elements = cutoff_div.find_previous_siblings()
-
-    links = []
-    offset = 0
-
-    for paragraph, element in enumerate(reversed(preceding_elements)):
-        text = element.get_text()
-        element_links = element.find_all('a', recursive=False)
-        links.extend([(offset, link, paragraph) for link in element_links])
-        offset += len(text)
-
-    return [finalize_link_info(offset, link, paragraph)  for (offset, link, paragraph) in links]
-
 cached_links = {}
-def get_cached_links(title):
-    if title not in cached_links: cached_links[title] = get_summary_links(title)
-    return cached_links[title]
+async def get_summary_links(session, title):
+    if title in cached_links: return title, cached_links[title]
+
+    url = "https://en.wikipedia.org/wiki/" + str(title).replace(" ", "_")
+    async with session.get(url) as response:
+        soup = BeautifulSoup(await response.text(), 'html.parser')
+        
+        for elem in soup.find_all(class_='mw-indicators'): # for good articles
+            elem.decompose()
+
+        summ = soup.find(class_='mw-parser-output') # Find the element or elements that contain the summary
+
+        # cleaning of thumbnails, shortdescriptions, hatnotes and style tags
+        to_clean_divs = summ.find_all('div', class_='thumb tright') + summ.find_all('div', class_='shortdescription') + summ.find_all('div', class_='hatnote') + summ.find_all('style') + summ.find_all('link') + summ.find_all('table', class_='metadata') + summ.find_all('a', class_='selflink')
+        for div in to_clean_divs:
+            div.decompose()
+
+        if soup.find('table', class_=re.compile(r'infobox.*biography')):
+            #print("person detected on " + url)
+            return title, None
+
+        cutoff_div = summ.find(id='toc') # Find the div element with the id "toc"
+        
+        if cutoff_div is None:
+            cutoff_div = summ.find('h2')
+            if cutoff_div is None:
+                #print(" unexpected page content on "+ url)
+                return title, None
+
+        if 'toc' in cutoff_div.parent.get('class')[0]: cutoff_div = cutoff_div.parent
+        preceding_elements = cutoff_div.find_previous_siblings()
+
+        links = []
+        offset = 0
+
+        for paragraph, element in enumerate(reversed(preceding_elements)):
+            text = element.get_text()
+            element_links = element.find_all('a', recursive=False)
+            links.extend([(offset, link, paragraph) for link in element_links])
+            offset += len(text)
+
+        result = [finalize_link_info(offset, link, paragraph)  for (offset, link, paragraph) in links]
+        cached_links[title] = result
+        return title, result
 
 def get_first_paragraph(title):
     url = "https://en.wikipedia.org/wiki/" + str(title).replace(" ", "_")

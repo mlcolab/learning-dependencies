@@ -123,11 +123,14 @@ def accept_search_result(search_result, link_set):
 def strip_parenthesis(title):
     return re.sub(r'\([^)]*\)', '', title).strip()
 
-def disambiguate(term, link_set, field=None):
+def disambiguate(term, link_set, field=None, verbose=False):
     field_suffix = "" if field is None else f" ({field})"
+    if verbose: print(f"Search for {term}{field_suffix}")
     search_results = wikipedia.search(f"{term}{field_suffix}")
     search_results_wo_suffix = list(map(strip_parenthesis, search_results))
+    if verbose: print(f"Response: {search_results_wo_suffix}")
     dists = list(map(lambda x: Levenshtein.distance(term, x.lower()), search_results_wo_suffix))
+    if verbose: print(f"Distances: {list(zip(search_results_wo_suffix, dists))}")
     unsorted_search_results = search_results.copy()
     def get_dist(result): return dists[unsorted_search_results.index(result)]
     search_results.sort(key=get_dist) # sort by Levenshtein distances

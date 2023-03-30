@@ -1,3 +1,5 @@
+# This script provides a function to query the Wikifier for Wikipedia article annotations
+
 import requests
 from dotenv import dotenv_values
 config = dotenv_values("../.env")

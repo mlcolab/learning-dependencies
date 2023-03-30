@@ -1,3 +1,5 @@
+# This script sends a test prompt to the Galactica LLM.
+
 import torch
 print(torch.cuda.is_available())
 

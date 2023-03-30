@@ -1,3 +1,5 @@
+## This file uses asyncio to quickly annotate textbook contents with Wikipedia articles.
+
 import aiohttp
 import asyncio
 import time

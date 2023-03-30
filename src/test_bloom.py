@@ -1,3 +1,5 @@
+# This scripts sends a test request to the Bloom language model
+
 from transformers import AutoTokenizer,AutoModelForCausalLM
 
 model = AutoModelForCausalLM.from_pretrained("bigscience/bloom-1b7")

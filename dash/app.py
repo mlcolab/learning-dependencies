@@ -8,13 +8,9 @@ import os
 sys.path.append(os.path.join(sys.path[0], '..','src'))
 from graph_api import build_graph
 
-#app = Dash(__name__)
-
 df_txb = pd.read_json('../dat/textbooks/graph.json')
 df_wiki = pd.read_json('../dat/wiki/graph.json')
 df_llm = pd.read_json('../dat/llm/graph.json')
-
-#internal_concepts = df_concepts.concept.to_list()
 
 concept = "Eigenvalues and eigenvectors"
 elements=build_graph(df_llm,dep_column = "dep_articles",concept=concept,depth=2)

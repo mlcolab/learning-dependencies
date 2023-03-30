@@ -1,4 +1,5 @@
-# Python 3 server example
+# This script sets up a webserver to handle requests to not load a LLM into memory for every single request.
+
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from urllib.parse import parse_qs
 import time

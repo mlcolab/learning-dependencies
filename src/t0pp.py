@@ -1,3 +1,5 @@
+# This script sets up a HTTP server that can handle prompts to T0pp
+
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from urllib.parse import parse_qs
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM

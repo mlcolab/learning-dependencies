@@ -1,3 +1,5 @@
+# This file provides convenience functions to access data
+
 import os
 import pandas as pd
 import numpy as np

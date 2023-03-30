@@ -2,7 +2,7 @@
 import json
 import numpy as np
 
-def np_encoder(object): # WHAT IS HAPPENING HERE?
+def np_encoder(object):
     if isinstance(object, np.generic):
         return object.item()
 

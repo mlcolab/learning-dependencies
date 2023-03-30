@@ -1,3 +1,5 @@
+# This file contains a collection of commands to conveniently access Wikipedia.
+
 import requests
 from bs4 import BeautifulSoup
 import Levenshtein
